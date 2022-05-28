@@ -1,0 +1,3 @@
+{{ if eq "el" .language.Lang }}
+    {{ .date.Day }}. {{ index .mines (printf "%d" .date.Month) }} {{ .date.Year }}
+{{ end }}

@@ -1,0 +1,11 @@
+---
+title: "Drolio Φόρμες για κέικ D3"
+categories: ["Drolio"]
+tags: ["Σκεύη αλουμινίου"]
+---
+{{< rawhtml >}}
+
+<div class="sload138"><div class="product"><div id="sistatika">Γενικές οδηγίες για τα σκεύη αλουμινίου</div><div class="alltext">Προϊόν μίας χρήσης.&nbsp;Φροντίζουμε να μην έρχονται σε επαφή με αλμυρά και όξινα τρόφιμα γιατί πιθανόν να καταστούν ακατάλληλα για χρήση. Δεν πρέπει να έρχονται σε επαφή με ηλεκτρικό ρεύμα. Να φυλάσσονται σε περιβάλλον χωρίς υγρασία.&nbsp;Δεν είναι κατάλληλα για φούρνο μικροκυμάτων. Οδηγίες για το ψήσιμο Αλείφουμε ελαφρά με λάδι την εσωτερική επιφάνεια του σκεύους, για να μην κολλήσει το τρόφιμο. Κατά τη διάρκεια του ψησίματος και αμέσως μετά, χρησιμοποιούμε θερμομονωτικό γάντι για να πιάσουμε το σκεύος.</div><div id="barcode"><div id="barimage1"></div><span id="bartext">5202576132528</span></div><div id="varos"><div id="varosimage1"></div><span id="varostext">6 τεμάχια</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><div id="drtable"><div id="drtable1"><h4>Κατάλληλες για</h4><div>Ψήσιμο στο φούρνο</div><div>Φύλαξη στην κατάψυξη</div><div>Μεταφορά τροφίμων</div></div><div id="drtable2"><h4>Διαστάσεις</h4><div><strong>Βάση:</strong> 20,4 x 7,5 cm</div><div><strong>Χείλος:</strong> 23,5 x 10,4 cm</div><div><strong>Ύψος:</strong> 6,1 cm</div><div><strong>Όγκος:</strong> 1.063 ml</div></div></div><style>#drtable{display:table;width:100%;background:#eee}#drtable1{display:table-cell;width:50%;border-right:1px solid #fff}#drtable2{display:table-cell;width:50%}#drtable1 h4{padding:10px 10px;background:#4a83fb;margin:0;color:#fff}#drtable2 h4{padding:10px 10px;background:#f95b5b;margin:0;color:#fff}#drtable1 div{padding:10px 10px;background:#e8edf7;border-bottom:1px solid #fff}#drtable2 div{padding:10px 10px;background:#f7ecec;border-bottom:1px solid #fff}#drodig h4{padding:10px 10px;background:#f2f2f2;color:#555;margin:0}#drodig div{padding:0 10px;border-bottom:0 solid #fff}@media only screen and (max-width:440px){#drtable1{display:block;width:100%;border-right:0 solid #fff}#drtable2{display:block;width:100%}}</style><br><div class="pimg"><img alt="Drolio Φόρμες για κέικ D3" title="Drolio Φόρμες για κέικ D3" src="/media/images/drolio-formes-gia-keik-d3.jpg"></div></div></div>
+{{< /rawhtml >}}
+
+

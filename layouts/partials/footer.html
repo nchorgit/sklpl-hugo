@@ -1,0 +1,37 @@
+
+<footer>
+     <div class="ftimgout"><img class="ftimg" src="/media/images/fshopbi.png" alt=""></div>
+     
+     <div class="fandress"><br><span style="font-family: Arial, Helvetica, sans-serif;">©</span> 2021 ΕΛΛΗΝΙΚΕΣ ΥΠΕΡΑΓΟΡΕΣ ΣΚΛΑΒΕΝΙΤΗΣ Α.Ε.Ε.<br>
+     Διεύθυνση Marketing<br><br></div>
+     
+     </footer>
+     <button onclick="topFunction()" id="totop" title="Go to top">
+          <img src="https://raw.githubusercontent.com/nchorgit/ergfiles/main/TOTOP.svg" style="width:36px; height:36px; transition: all .3s;">
+      </button>
+      
+      
+      
+      <script>
+      //Get the button
+      var mybutton = document.getElementById("totop");
+      
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function() {scrollFunction()};
+      
+      function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          mybutton.style.cssText = "display: block; animation: fadein .8s;";
+        } else {
+          mybutton.style.cssText = "animation: fadeout .8s; display: none;";
+        }
+      }
+      
+      // When the user clicks on the button, scroll to the top of the document
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+      
+      
+      </script>

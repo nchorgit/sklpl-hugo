@@ -1,0 +1,486 @@
+<html>
+<head>
+{{ partial "head" . }}
+</head>
+<body>
+{{ partial "header" . }}
+
+<div class="main">
+
+<div class="product">
+
+<!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
+<div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
+<div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
+<div class="post">
+    <div class="pyah"><a href="/" class="home"><i class="fas fa-home"></i></a>{{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="cat"><i class="fas fa-tags" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
+        <div class="ptitle">{{.Title}}</div>
+    </div>
+    <h1>{{.Title}}</h1>
+
+    {{.Content}}
+    
+    <div class="plabels">
+        {{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tags" aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+        {{ if .Params.tags }}<strong></strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone" aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
+       
+</div>
+<!--<a href="#" class="product-image">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}-->
+
+</div>
+<div class="pimg2bg"> <p class="imgcaption">{{.Title}}</p></div>
+
+<div class="sidebar">{{ partial "sidebar" . }}</div>
+</div>
+
+{{ partial "footer" . }}
+</body>
+<style>
+
+.pyah {
+    display: flex;
+    margin: -15px;
+    padding: 15px;
+    border-bottom: 2px solid #eee;
+    font-size: 16.5px;
+}
+.pyah i {
+    font-size: 14px;
+}
+a.home {
+    text-decoration: none;
+    margin-right: 5px;
+    padding: 7px 10px;
+    background: #555;
+    color: #eee;
+    font-weight: bold;
+    border-radius: 3px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+a.cat {
+    text-decoration: none;
+    color: white;
+    padding: 7px 15px;
+    background: #ff5500;
+    font-weight: normal;
+    border-radius: 3px;
+}
+a:hover.home,
+a:hover.cat {
+    background: #333;
+}
+.ptitle {
+    padding: 7px 15px;
+}
+ .main {
+    display: grid;
+    width: auto;
+    gap:2%;
+    grid-template-columns: 68% 30%;
+}
+    .post {
+    border: 2px solid #eee;
+    padding: 15px;
+    border-radius: 6px;
+}
+
+.pimg img {
+    width: 50%;
+    height: auto;
+}
+
+#sistatika, #loipa {
+    background: #eee;
+    border-bottom: solid 0px #ccc;
+    color: #555555;
+    padding: 10px 15px;
+    font-weight: bold;
+    font-size: 17.5px;
+    margin: 0 -15px;
+}
+
+.alltext {
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+    padding-right: 0px;
+    line-height: 24px;
+    color: #444;
+    font-size: 17.5px;
+}
+h1 {
+    font-size: 28px;
+    margin: 40px 0 30px 0;
+    color: #444;
+}
+#flag {
+    display: flex;
+    margin: -15px 0 15px 0;
+}
+
+#barcode {
+    background: #ddd;
+    display: table;
+    float: left;
+    height: 40px;
+    padding: 0px;
+    width: 50%;
+    border-radius: 4px 0 0 0;
+}
+
+#barimage {
+    background: #eee;
+    border-radius: 0%;
+    float: left;
+    height: 40px;
+    width: 40px;
+}
+
+#barimage img {
+    display: block;
+    height: 22px;
+    margin: 0px auto;
+    padding-top: 9px;
+    text-align: center;
+    vertical-align: middle;
+    width: 19px;
+    border-style: none !important;
+}
+
+#bartext {
+    color: #444;
+    float: left;
+    font-size: 20px;
+    line-height: 40px;
+    margin-left: 10px;
+    font-weight: 700;
+}
+
+#varos {
+    background: #bbb;
+    display: table;
+    float: left;
+    height: 40px;
+    padding: 0px;
+    width: 50%;
+}
+
+#varosimage {
+    background: #eee;
+    border-radius: 0%;
+    float: left;
+    height: 40px;
+    width: 40px;
+}
+
+#barimage1 {
+    background: #eee;
+    border-radius: 0%;
+    float: left;
+    height: 40px;
+    width: 40px;
+    background-image: url(/media/icons/barcode.png);
+    background-size: 19px 22px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#varosimage1 {
+    background: #eee;
+    border-radius: 0%;
+    float: left;
+    height: 40px;
+    width: 40px;
+    background-image: url(/media/icons/varos.png);
+    background-size: 17px 23px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#powerimage {
+    background: #eee;
+    border-radius: 0%;
+    float: left;
+    height: 40px;
+    width: 40px;
+    background-image: url(/media/icons/power.svg);
+    background-size: 17px 23px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#dimimg {
+    background: #eee;
+    border-radius: 0%;
+    float: left;
+    height: 40px;
+    width: 40px;
+    background-image: url(/media/icons/dim.png);
+    background-size: 17px 23px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#temimg {
+    background: #eee;
+    border-radius: 0%;
+    float: left;
+    height: 40px;
+    width: 40px;
+    background-image: url(https://sites.google.com/site/sklplfiles/files/tem.png);
+    background-size: 17px 23px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#varosimage img {
+    display: block;
+    height: 23px;
+    margin: 0px auto;
+    padding-top: 9px;
+    text-align: center;
+    vertical-align: middle;
+    width: 17px;
+    border-style: none !important;
+}
+
+#varostext {
+    color: #444;
+    float: left;
+    font-size: 20px;
+    line-height: 40px;
+    margin-left: 10px;
+    font-weight: 700;
+}
+
+
+#kivotio {
+    background: #555;
+    padding: 15px;
+    color: white;
+    clear: both;
+    font-weight: bold;
+    margin-top: 2px;
+}
+
+.keno {
+    width: auto;
+    height: 18px;
+}
+
+.tabout {
+    overflow-x: auto;
+    margin: 0 -2px;
+}
+
+#diatable {
+    width: 100%;
+    border: 0px solid black;
+    border-collapse: separate;
+    border-spacing: 2px;
+    font-size: 17.5px;
+    min-width: 700px;
+}
+
+#diatable p {
+    margin: 0;
+}
+
+#diatable th {
+    background: darkorange;
+    padding: 15px 15px;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+    text-shadow: 0px 0px 0px black;
+   
+}
+
+#diatable td {
+    background: #eee;
+    padding: 10px 15px;
+    border: 1px solid white;
+
+}
+
+#diatable tr:last-child td {
+    border-bottom: 0; border-right: 0;
+}
+
+#diatable tr th {
+    border-right: 0;
+    border-top: 0;
+  
+}
+
+#diatable tr td:first-child,
+#diatable tr th:first-child {
+    border-left: 0;
+}
+
+#diatable tr td {
+    border-right: 0;
+     
+}
+
+#diatable tr td {
+    border-top: 0;
+}
+
+.texr {
+    text-align: right;
+}
+
+.gray {
+    background: #666 !important;
+    color: #eee;
+    font-weight: bold;
+}
+
+.gray2 {
+    background: #666 !important;
+    color: #eee;
+    text-align: right;
+}
+
+.texr2 {
+    font-weight: bold;
+}
+
+.plabels {
+    padding: 25px 15px;
+    background: #eee;
+    margin: 40px -16px -16px -16px;
+    font-size: 17.5px;
+    border-radius: 0 0 6px 6px;
+}
+
+.plabels i {
+    margin-right: 5px;
+}
+
+.plabels a {
+    padding: 10px 15px;
+    background: #ff5500;
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    align-items: center;
+}
+
+.plabels a:hover {
+    background: #444;
+}
+.product .product {
+    padding: 0;
+    border: 0;
+}
+
+.pimg {
+    cursor: pointer !important;
+}
+
+
+
+@keyframes example {
+    from {
+        top: -100%;
+    }
+
+    to {
+        top: 0px;
+    }
+}
+
+@keyframes example2 {
+    0% {
+        opacity: 0;
+    }
+
+    55% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.pimg2 {
+    position: fixed;
+    top: 50px;
+    right: 15px;
+    bottom: 0;
+    left: 15px;
+    width: auto;
+    height: 100%;
+    display: none;
+    margin: 0 auto;
+    z-index: 3;
+}
+
+.pimg2bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    background: rgb(0 0 0 / 94%);
+    display: none;
+    z-index: 2;
+}
+
+.pimg img {
+    width: 100%;
+    border: 0;
+    outline: 0;
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+    cursor: pointer;
+    padding: 0 !important;
+}
+.pimg2 img {
+    width: auto;
+    margin: 50px auto;
+    display: flex;
+    animation-name: example;
+    animation-duration: 1s;
+    position: relative;
+    top: 0px;
+    height: calc(40vw - 10px);
+    border-radius: 6px;
+}
+.imgcaption {
+    display: none;
+    position: absolute;
+    bottom: 30px;
+    left: 0;
+    text-align: center;
+    animation-name: example2;
+    animation-duration: 2s;
+    color: #eee;
+    right: 0;
+}
+@media only screen and (max-width: 770px) {
+.ptitle {
+    display: none;
+}
+}
+</style>
+<script>
+$(".pimg").click(function () {
+$(this).toggleClass("pimg2")
+ $(".pimg2bg").fadeToggle();
+ $(".pimg2").show();
+ $(".imgcaption").show();
+});
+
+</script>
+</html>

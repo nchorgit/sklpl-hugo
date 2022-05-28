@@ -1,0 +1,18 @@
+baseURL =""
+languageCode = "el"
+title = "Τα Προϊόντα Ιδιωτικής Ετικέτας"
+paginate = "12"
+paginatePath = ""
+removePathAccents = false
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
+  author = "authors"
+  layout = ""
+
+[outputs]
+  home = ["HTML"]
+
+

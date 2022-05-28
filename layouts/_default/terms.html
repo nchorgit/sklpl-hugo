@@ -1,0 +1,7 @@
+<ul>
+    {{ $data := .Data }}
+    {{ range $key, $value := .Data.Taxonomy.ByWeight }}
+    <li><a href="{{ .Site.LanguagePrefix }}/{{ $data.Plural }}/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> {{ $value.Count }} </li>
+    {{ end }}
+    </ul>
+  

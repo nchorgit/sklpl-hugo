@@ -1,0 +1,11 @@
+---
+title: "Drolio Σακούλες Απορριμάτων με κορδόνι Γίγας 10 τεμ"
+categories: ["Drolio"]
+tags: ["Σακούλες Απορριμάτων"]
+---
+{{< rawhtml >}}
+
+<div class="sload151"><div class="product"><div id="sistatika">Περιγραφή:</div><div class="alltext">10 Σακούλες Απορριμάτων με κορδόνι Γίγας.<br><strong>Μεγάλης αντοχής</strong></div><div id="barcode"><div id="barimage1"></div><span id="bartext">5202576789500</span></div><div id="varos"><div id="dimimg"></div><span id="varostext">70 X 95 cm</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br><div class="pimg"><img alt="Drolio Σακούλες Απορριμάτων με κορδόνι Γίγας 10 τεμ" title="Drolio Σακούλες Απορριμάτων με κορδόνι Γίγας 10 τεμ" src="/media/images/drolio-sakoules-aporrimatwn-me-kordoni-gigas-10-tem.jpg"></div></div></div>
+{{< /rawhtml >}}
+
+

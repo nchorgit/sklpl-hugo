@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="el">
+
+<head>
+    {{ partial "head" . }}
+</head>
+
+<body>
+    {{ partial "header" . }}
+
+    <div class="cattitle"><b>{{ len (where .Pages "Section" "!=" "") }}</b> Προϊόντα στην ετικέτα: <strong><i
+                class="fas fa-tags" aria-hidden="true"></i> {{ .Title }}</strong></div>
+
+    {{.Content}}
+    {{ partial "pagination2" . }}
+    <div class="product-list">
+        {{ range .Paginator.Pages.ByWeight }}
+
+
+        <div class="main">
+
+
+            <!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
+<div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
+<div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
+            <div class="post"><a href="{{.Permalink}}">
+                    <h1 class="ltitle">{{.Title}}</h1>
+                    {{.Content}}
+                </a></div>
+            <!--<a href="#" class="product-image">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}-->
+            <div class="plabels">
+                {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
+                    href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tags"
+                        aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+                {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
+                    href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
+                        aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
+        </div>
+
+
+        {{ end }}
+
+    </div>
+    {{ partial "pagination" . }}
+    {{ partial "footer" . }}
+</body>
+<script>
+    $(".alltext").remove();
+    /*   $( document ).ready(function() {
+        $(".alltext").remove();
+});*/
+</script>
+<style>
+    p.pnum {
+        height: 44px;
+        padding: 0 18px;
+        margin: 0;
+        text-align: center;
+        line-height: 44px;
+        background: #eee;
+        border-radius: 4px;
+        font-size: 15px;
+    }
+
+    .product-list {
+        display: grid;
+        width: auto;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        grid-gap: 24px 18px;
+        margin: -85px auto -25px auto;
+        max-width: 1300px;
+        padding: 15px;
+    }
+
+    .product p {
+        display: none;
+    }
+
+    .post {
+        border: 2px solid #eee;
+        border-radius: 6px;
+    }
+
+    .post a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .product {
+        border: 0;
+        padding: 15px;
+    }
+
+    h1.ltitle {
+        margin: 0;
+    }
+
+    h1.ltitle {
+        display: flex;
+        padding: 20px;
+        text-decoration: none;
+        color: #444;
+        font-weight: bold;
+        font-size: 17.5px;
+        height: 50px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        letter-spacing: -.3px;
+        margin: -2px -2px 0 -2px;
+        background: #eee;
+        border-radius: 4px 4px 0 0;
+    }
+
+
+
+    .pimg img {
+        width: 100%;
+        border: 0;
+        outline: 0;
+        max-width: 500px;
+        margin: auto;
+        display: flex;
+        cursor: pointer;
+        padding: 0 !important;
+    }
+
+    .plabels {
+        background: #ff5500;
+        padding: 15px 0;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        border-radius: 0 0 4px 4px;
+        margin: -2px 0px -7px 0px;
+    }
+
+    .plabels a {
+        padding: 7px 8px;
+        background: #e64d00;
+        text-decoration: none;
+        color: #fff;
+        font-size: 14px;
+        font-weight: 500;
+        border-radius: 2px;
+        margin: 0px;
+    }
+
+    .plabels a:nth-child(1) {
+        margin-right: 5px;
+    }
+
+    .plabels i {
+        margin-right: 5px;
+    }
+    #powerimage {
+    background-image: url(/media/icons/power.svg);}
+    #barimage1,
+    #varosimage1,
+    #varosimage,
+    #dimimg,
+    #powerimage,
+    #temimg {
+        background: #fff;
+        display: block;
+    }
+
+    .product {
+        border: 0;
+        padding: 0;
+    }
+
+    .main {
+        margin: 0px auto;
+        max-width: 100%;
+        padding: 0;
+        display: inherit;
+    }
+
+    br {
+        display: none;
+    }
+
+    #barimage1 {
+        background: #fff;
+        border-radius: 0%;
+        float: left;
+        height: 40px;
+        width: 40px;
+        background-image: url(/media/icons/barcode.png);
+        background-size: 19px 22px;
+        background-repeat: no-repeat;
+        background-position: center;
+        display: block;
+    }
+
+    #varosimage1 {
+        background: #fff;
+        border-radius: 0%;
+        float: left;
+        height: 40px;
+        width: 40px;
+        background-image: url(/media/icons/varos.png);
+        background-size: 17px 23px;
+        background-repeat: no-repeat;
+        background-position: center;
+        display: inherit;
+    }
+
+    #barimage img {
+        display: block;
+        height: 22px;
+        margin: 0px auto;
+        padding-top: 9px;
+        text-align: center;
+        vertical-align: middle;
+        width: 19px;
+        border-style: none !important;
+    }
+
+    #varosimage img {
+        display: block;
+        height: 23px;
+        margin: 0px auto;
+        padding-top: 9px;
+        text-align: center;
+        vertical-align: middle;
+        width: 17px;
+        border-style: none !important;
+    }
+
+    #barcode,
+    #varos {
+        background: #fff;
+        border-bottom: 2px solid #eeee;
+        display: flex;
+        float: left;
+        height: 40px;
+        padding: 0px;
+        width: 100%;
+        align-items: center;
+    }
+
+    #bartext,
+    #varostext {
+        font-size: 17.5px;
+        margin-left: 0px;
+        font-weight: 300;
+    }
+
+    #varosimage,
+    #barimage {
+        background: #fff;
+        border-radius: 0%;
+        float: left;
+        height: 40px;
+        width: 40px;
+    }
+
+    .pimg,
+    #pics2 {
+        display: inherit !important;
+    }
+
+    a.scat {
+        margin-right: 5px;
+    }
+
+    .product div,
+    .product table {
+        display: none;
+    }
+
+    .main:hover {
+        opacity: .8;
+        transition: all .3s;
+    }
+
+    .main {
+
+        transition: all .3s;
+    }
+</style>
+<script>
+    /* $(".product div, .product table").remove()*/
+</script>
+
+</html>
