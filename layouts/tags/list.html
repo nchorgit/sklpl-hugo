@@ -8,8 +8,8 @@
 <body>
     {{ partial "header" . }}
 
-    <div class="cattitle"><b>{{ len (where .Pages "Section" "!=" "") }}</b> Προϊόντα στην ετικέτα: <strong><i
-                class="fas fa-tags" aria-hidden="true"></i> {{ .Title }}</strong></div>
+    <div class="cattitle"><b>{{ len (where .Pages "Section" "!=" "") }}</b> Προϊόντα στην κατηγορία: <strong><i
+                class="far fa-clone" aria-hidden="true"></i> {{ .Title }}</strong></div>
 
     {{.Content}}
     {{ partial "pagination2" . }}
@@ -155,6 +155,7 @@
     }
     #powerimage {
     background-image: url(/media/icons/power.svg);}
+    
     #barimage1,
     #varosimage1,
     #varosimage,
@@ -193,7 +194,18 @@
         background-position: center;
         display: block;
     }
-
+    #dimimg {
+        background: #fff;
+        border-radius: 0%;
+        float: left;
+        height: 40px;
+        width: 40px;
+        background-image: url(/media/icons/dim.png);
+        background-size: 19px 22px;
+        background-repeat: no-repeat;
+        background-position: center;
+        display: block;
+    }
     #varosimage1 {
         background: #fff;
         border-radius: 0%;
@@ -201,6 +213,18 @@
         height: 40px;
         width: 40px;
         background-image: url(/media/icons/varos.png);
+        background-size: 17px 23px;
+        background-repeat: no-repeat;
+        background-position: center;
+        display: inherit;
+    }
+    #powerimage {
+        background: #fff;
+        border-radius: 0%;
+        float: left;
+        height: 40px;
+        width: 40px;
+        background-image: url(/media/icons/power.svg);
         background-size: 17px 23px;
         background-repeat: no-repeat;
         background-position: center;
