@@ -1,0 +1,13 @@
+<svg id="square" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #555;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="11" height="11" rx="2" ry="2"/>
+  <rect id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-1" y="13" width="11" height="11" rx="2" ry="2"/>
+  <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-1" x="13" width="11" height="11" rx="2" ry="2"/>
+  <rect id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-1" x="13" y="13" width="11" height="11" rx="2" ry="2"/>
+</svg>
