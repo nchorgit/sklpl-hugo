@@ -1,0 +1,72 @@
+.wlist .plabels {
+    padding: 15px 5px;
+    margin: 0;
+    font-size: 13px;
+    margin-bottom: 25px;
+    background: transparent;
+    border: 2px solid #eee;
+    border-radius: 0;
+    display: flex;
+    gap: 5px;
+    border-top: 0;
+}
+
+.wlist .plabels a {
+    padding: 0;
+    background: #ffffff;
+    text-decoration: none;
+    color: #7b7575;
+    align-items: flex-start;
+}
+
+.wlist .post {
+    border: 2px solid #eee;
+    padding: 0;
+    border-radius: 0px;
+    position: relative;
+    height: 90px;
+}
+
+.wlist .product div {
+    display: none;
+}
+
+.wlist .product span {
+    display: none;
+}
+.wlist .pimg {
+    display: block !important;
+    width: 50px;
+    margin: 0;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    border: 2px solid #eee;
+}
+
+
+.wlist .main {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.wlist h1 {
+    font-size: 17px;
+   margin: 0;
+    color: #444;
+    padding: 10px 10px 10px 70px;
+}
+
+.wlist {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.wlist .product {
+    display: flex;
+}
+.wmain {
+    margin-bottom: -27px;
+}
