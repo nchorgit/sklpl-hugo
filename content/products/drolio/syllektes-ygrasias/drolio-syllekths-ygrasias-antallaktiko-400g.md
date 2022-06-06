@@ -2,6 +2,7 @@
 title: "Drolio Συλλέκτης υγρασίας Ανταλλακτικό 400g"
 categories: ["Drolio"]
 tags: ["Συλλέκτες υγρασίας"]
+weight: 6
 ---
 {{< rawhtml >}}
 

@@ -2,6 +2,7 @@
 title: "Drolio Υγρό για τα πιάτα με άρωμα Λεμόνι 750ml"
 categories: ["Drolio"]
 tags: ["Υγρά Πιάτων"]
+weight: 7
 ---
 {{< rawhtml >}}
 

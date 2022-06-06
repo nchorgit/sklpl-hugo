@@ -2,6 +2,7 @@
 title: "Drolio Καθαριστικό με άρωμα Λεμόνι 1L"
 categories: ["Drolio"]
 tags: ["Καθαριστικά"]
+weight: 2
 ---
 {{< rawhtml >}}
 

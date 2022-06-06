@@ -2,6 +2,7 @@
 title: "Drolio Σακούλες Απορριμάτων με κορδόνι Γίγας 10 τεμ"
 categories: ["Drolio"]
 tags: ["Σακούλες Απορριμάτων"]
+weight: 4
 ---
 {{< rawhtml >}}
 

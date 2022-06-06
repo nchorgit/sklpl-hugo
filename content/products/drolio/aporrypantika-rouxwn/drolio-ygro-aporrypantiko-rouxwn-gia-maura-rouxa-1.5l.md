@@ -2,6 +2,8 @@
 title: "Drolio Υγρό απορρυπαντικό ρούχων για μαύρα ρούχα 1,5L"
 categories: ["Drolio"]
 tags: ["Απορρυπαντικά Ρούχων"]
+weight: 1
+
 ---
 {{< rawhtml >}}
 

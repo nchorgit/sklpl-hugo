@@ -2,6 +2,7 @@
 title: "Drolio Χλωροκαθαριστικό με άρωμα λεμόνι 1250ml"
 categories: ["Drolio"]
 tags: ["Καθαριστικά"]
+weight: 2
 ---
 {{< rawhtml >}}
 

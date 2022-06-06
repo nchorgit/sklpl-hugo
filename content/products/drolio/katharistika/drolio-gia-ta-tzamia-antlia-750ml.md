@@ -2,6 +2,7 @@
 title: "Drolio Για τα τζάμια Αντλία 750ml"
 categories: ["Drolio"]
 tags: ["Καθαριστικά"]
+weight: 2
 ---
 {{< rawhtml >}}
 

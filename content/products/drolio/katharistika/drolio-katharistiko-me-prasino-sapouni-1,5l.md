@@ -2,6 +2,7 @@
 title: "Drolio Καθαριστικό με πράσινο Σαπούνι 1,5L"
 categories: ["Drolio"]
 tags: ["Καθαριστικά"]
+weight: 2
 ---
 {{< rawhtml >}}
 

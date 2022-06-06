@@ -2,6 +2,7 @@
 title: "Drolio Ταψιά μεγάλα βαθιά D20"
 categories: ["Drolio"]
 tags: ["Σκεύη αλουμινίου"]
+weight: 5
 ---
 {{< rawhtml >}}
 

@@ -2,6 +2,8 @@
 title: "Drolio απορρυπαντικό ρούχων σε σκόνη 770g"
 categories: ["Drolio"]
 tags: ["Απορρυπαντικά Ρούχων"]
+weight: 1
+
 ---
 {{< rawhtml >}}
 

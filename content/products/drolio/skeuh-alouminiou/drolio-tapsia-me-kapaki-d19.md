@@ -2,6 +2,7 @@
 title: "Drolio Ταψιά με καπάκι D19"
 categories: ["Drolio"]
 tags: ["Σκεύη αλουμινίου"]
+weight: 5
 ---
 {{< rawhtml >}}
 

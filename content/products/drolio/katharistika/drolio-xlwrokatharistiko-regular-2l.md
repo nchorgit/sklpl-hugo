@@ -2,6 +2,7 @@
 title: "Drolio Χλωροκαθαριστικό Regular 2L"
 categories: ["Drolio"]
 tags: ["Καθαριστικά"]
+weight: 2
 ---
 {{< rawhtml >}}
 

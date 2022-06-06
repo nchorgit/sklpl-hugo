@@ -2,6 +2,7 @@
 title: "Drolio Για τα τζάμια Ανταλλακτικό 750ml"
 categories: ["Drolio"]
 tags: ["Καθαριστικά"]
+weight: 2
 ---
 {{< rawhtml >}}
 

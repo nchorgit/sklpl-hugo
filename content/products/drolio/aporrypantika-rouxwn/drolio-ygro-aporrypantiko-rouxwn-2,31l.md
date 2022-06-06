@@ -2,6 +2,8 @@
 title: "Drolio Υγρό απορρυπαντικό ρούχων 2,31L"
 categories: ["Drolio"]
 tags: ["Απορρυπαντικά Ρούχων"]
+weight: 1
+
 ---
 {{< rawhtml >}}
 

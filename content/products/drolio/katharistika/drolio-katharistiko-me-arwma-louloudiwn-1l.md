@@ -2,6 +2,7 @@
 title: "Drolio Καθαριστικό με άρωμα Λουλουδιών 1L"
 categories: ["Drolio"]
 tags: ["Καθαριστικά"]
+weight: 2
 ---
 {{< rawhtml >}}
 

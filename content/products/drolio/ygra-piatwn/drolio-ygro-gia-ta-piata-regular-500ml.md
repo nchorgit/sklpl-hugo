@@ -2,6 +2,7 @@
 title: "Drolio Υγρό για τα πιάτα Regular 500ml"
 categories: ["Drolio"]
 tags: ["Υγρά Πιάτων"]
+weight: 7
 ---
 {{< rawhtml >}}
 

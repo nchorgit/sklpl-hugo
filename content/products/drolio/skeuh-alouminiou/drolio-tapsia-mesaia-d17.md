@@ -2,6 +2,7 @@
 title: "Drolio Ταψιά μεσαία D17"
 categories: ["Drolio"]
 tags: ["Σκεύη αλουμινίου"]
+weight: 5
 ---
 {{< rawhtml >}}
 
