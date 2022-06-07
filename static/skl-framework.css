@@ -1,3 +1,19 @@
+ .spr {
+     position: relative;
+ }
+ .spa {
+     position: absolute;
+ }
+ .spac {
+    left: 0;
+    right: 0;
+    top: 0;
+    display: block;
+    bottom: 0;
+    height: 50;
+    margin: auto;
+    position: absolute;
+ }
  .pblue {
      padding: 15px;
      color: white;
@@ -97,6 +113,10 @@
  .sfs170 {
      font-size: 170%
  }
+
+ .sfss {
+    font-size: small
+}
 
  .sfs130 {
      font-size: 130%
@@ -209,7 +229,7 @@
  .sdf {
      display: flex;
      align-items: center;
-     gap: 18px;
+     gap: 20px;
  }
 
  .sdfcenter {
@@ -653,6 +673,12 @@
  .sdred {
      background-color: darkred
  }
+ .scyan {
+    background-color: cyan
+}
+.sdcyan {
+    background-color: rgb(2, 191, 191)
+}
 
  .s333 {
      background-color: #333
@@ -713,6 +739,9 @@
  .sbcbrown {
      border-color: brown
  }
+ .sbccyan {
+    border-color: cyan
+}
 
  .sbcgreen {
      border-color: green
@@ -745,7 +774,9 @@
  .sbcorangered {
      border-color: orangered
  }
-
+ .sbc000 {
+    border-color: #000
+}
  .sbc444 {
      border-color: #444
  }

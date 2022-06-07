@@ -1,19 +1,17 @@
-{{ $related := .Site.RegularPages.Related . | first 5 }}
+{{ $related := .Site.Pages.Related . | first 5 }}
 {{ with $related }}
-<p class="sm0 sbrd6-0 sp15 sred">See Also</p>
+<p class="sm0 sbrd6-0 sp20 sred sfwb" style="height: 28px; line-height:28px;">
+	<i class="far fa-clone" aria-hidden="true" style="margin-right: 10px;"></i>
+	Δείτε επίσης</p>
 <ul class="wlist">
 	{{ range . }}
+	
 	<li class="wmain">
-
-
-		<!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
-<div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
-<div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
-		<div class="post"><a href="{{.Permalink}}">
+		
+		<div class="post">
+			<a href="{{.Permalink}}">
 				<h1 class="ltitle">{{.Title}}</h1>
-				{{.Content}}
-			</a></div>
-		<!--<a href="#" class="product-image">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}-->
+				{{.Content}}</a> 
 		<div class="plabels">
 			{{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
 				href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tags"
@@ -21,11 +19,11 @@
 			{{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
 				href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
 					aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
-		</li>
+				
+				</div></li>
 	{{ end }}
 </ul>
 {{ end }}
 <link rel="stylesheet" href="/wlist.css">
 <style>
-
 </style>
