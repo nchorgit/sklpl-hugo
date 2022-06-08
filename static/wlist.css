@@ -2,7 +2,6 @@
     padding: 8px 5px;
     margin: 0;
     font-size: 11px;
-   
     background: transparent;
     border: 0px solid #eee;
     border-radius: 0;
@@ -11,8 +10,7 @@
     border-top: 0;
     margin-left: 68px;
     position: relative;
-    bottom: 8px;
-    
+    bottom: -5px;
 }
 
 .wlist .plabels a {
@@ -28,7 +26,7 @@
 
 .wlist .post {
     border: 2px solid #eee;
-    padding: 10px;
+    padding: 15px;
     border-radius: 0px;
     position: relative;
     border-top: 0;
@@ -39,20 +37,14 @@
     display: none;
 }
 
+.wlist .product {
+    display: flex;
+    height: 0;
+}
 .wlist .product span {
     display: none;
 }
-.wlist .pimg {
-    display: block !important;
-    width: 60px;
-    height: 60px;
-    margin: auto;
-    position: absolute;
-    top:0;
-    bottom: 0;
-    left: 10px;
-    border-right: 2px solid #eee;
-}
+
 
 
 .wlist .main {
@@ -69,7 +61,7 @@
     line-height: 16px;
     letter-spacing: -.3px;
     position: relative;
-    bottom: -10px;
+    bottom: -2px;
 }
 
 .wlist {
@@ -78,9 +70,7 @@
     list-style-type: none;
 }
 
-.wlist .product {
-    display: flex;
-}
+
 .wmain {
     margin: 0;
     
@@ -90,4 +80,16 @@
 }
 .wlist table {
     display: none;
+}
+
+.wlist .pimg {
+    display: block !important;
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 10px;
+    border-right: 2px solid #eee;
 }

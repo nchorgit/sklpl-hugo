@@ -8,6 +8,7 @@ removePathAccents = false
 [taxonomies]
   tag = "tags"
   category = "categories"
+  smeta= "smeta"
   publication_type = "publication_types"
   author = "authors"
   layout = ""
