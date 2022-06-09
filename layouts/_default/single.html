@@ -6,7 +6,7 @@
 {{ partial "header" . }}
 
 <div class="main">
-
+    <div class="sidebar">{{ partial "sidebar" . }}</div>
 <div class="product">
 
 <!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
@@ -28,9 +28,9 @@
 <!--<a href="#" class="product-image">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}-->
 
 </div>
-<div class="pimg2bg"> <p class="imgcaption">{{.Title}}</p></div>
+<div class="pimg2bg"><div class="pimg2"><p class="imgcaption">{{.Title}}</p></div> </div>
 
-<div class="sidebar">{{ partial "sidebar" . }}</div>
+
 </div>
 
 {{ partial "footer" . }}
@@ -78,7 +78,7 @@ a:hover.cat {
     display: grid;
     width: auto;
     gap:2%;
-    grid-template-columns: 68% 30%;
+    grid-template-columns: 30% 68%;
 }
     .post {
     border: 2px solid #eee;
@@ -258,12 +258,13 @@ h1 {
 
 #kivotio {
     background: #555;
-    padding: 15px;
+    padding: 0px;
     color: white;
     clear: both;
     font-weight: bold;
     margin-top: 2px;
-    display: none;
+    visibility: hidden;
+    height: 0;
 }
 
 .keno {
@@ -411,7 +412,10 @@ h1 {
 
 .pimg {
     cursor: pointer !important;
-    margin-top: 100px;
+    padding: 15px;
+    border: 2px solid #eee;
+    border-radius: 6px;
+    margin-bottom: 26px;
 }
 
 
@@ -442,17 +446,30 @@ h1 {
 
 .pimg2 {
     position: fixed;
-    top: 50px;
+    top: -100%;
     right: 15px;
     bottom: 0;
     left: 15px;
     width: auto;
     height: 100%;
-    display: none;
+    
     margin: 0 auto;
     z-index: 3;
+    border: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column-reverse;
 }
 
+
+
+.pimg2 .pimg {
+    cursor: pointer !important;
+    padding: 0px;
+    border: 0px solid #eee;
+    border-radius: 6px;
+    margin-bottom: 0px;
+}
 .pimg2bg {
     position: fixed;
     top: 0;
@@ -478,7 +495,7 @@ h1 {
     cursor: pointer;
     padding: 0 !important;
 }
-.pimg2 img {
+.pimg2 .pimg img {
     width: auto;
     margin: 50px auto;
     display: flex;
@@ -486,12 +503,13 @@ h1 {
     animation-duration: 1s;
     position: relative;
     top: 0px;
-    height: calc(40vw - 10px);
+    height: auto;
     border-radius: 6px;
+    
 }
 .imgcaption {
     display: none;
-    position: absolute;
+    
     bottom: 30px;
     left: 0;
     text-align: center;
@@ -515,14 +533,37 @@ h1 {
     display: none;
 }
 }
+
+
+
 </style>
 <script>
-$(".pimg").click(function () {
-$(this).toggleClass("pimg2")
- $(".pimg2bg").fadeToggle();
- $(".pimg2").show();
- $(".imgcaption").show();
+
+
+$(".pimg2").click(function () {
+  $(".pimg2bg").fadeOut();
+  $('.pimg2').animate({top: '-100%'},'5000',function(){
+
+
 });
+ 
+ $(".imgcaption").fadeOut();
+ 
+});
+$(".main .pimg").prependTo(".sidebar")
+
+
+$(".pimg").click(function () {
+  $(".pimg2bg").fadeIn();
+
+ $(".pimg2").animate({top: '50px'},'5000',function(){
+
+
+});
+ $(".imgcaption").show();
+ 
+});
+$(".pimg").clone().appendTo(".pimg2");
 
 </script>
 </html>
