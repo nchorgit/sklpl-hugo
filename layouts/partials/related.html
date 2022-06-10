@@ -1,6 +1,6 @@
 {{ $related := .Site.Pages.Related . | first 5 }}
 {{ with $related }}
-<p class="sm0 sbrd6-0 sp20 sred sfwb" style="height: 28px; line-height:28px;">
+<p class="relhead">
 	<i class="far fa-clone" aria-hidden="true" style="margin-right: 10px;"></i>
 	Δείτε επίσης</p>
 <ul class="wlist">
@@ -53,4 +53,12 @@ border-right: 2px solid #eee;
     padding: 0 !important;
 }
 
+.relhead {
+	border-radius: 6px 6px 0 0;
+	font-weight: bold;
+	padding: 20px;
+	background: #eee;
+	color: #444;
+	margin: 0;
+}
 </style>

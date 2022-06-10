@@ -1,7 +1,7 @@
 .wlist .plabels {
     padding: 8px 5px;
     margin: 0;
-    font-size: 11px;
+    font-size: 13px;
     background: transparent;
     border: 0px solid #eee;
     border-radius: 0;
@@ -54,11 +54,11 @@
 }
 
 .wlist h1 {
-    font-size: 15px;
+    font-size: 17px;
     margin: 0;
     color: #444;
     padding: 0 10px 0 75px;
-    line-height: 16px;
+    line-height: 19px;
     letter-spacing: -.3px;
     position: relative;
     bottom: -2px;
@@ -92,4 +92,11 @@
     bottom: 0;
     left: 10px;
     border-right: 2px solid #eee;
+}
+
+.wlist #barcode, .wlist #varos {
+    display: none !important;
+}
+.wlist .post:last-child {
+    border-radius: 0 0 6px 6px;
 }
