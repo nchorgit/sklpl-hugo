@@ -83,6 +83,10 @@ a:hover {
     height: 65px;
 }
 
+.spages2 {
+    margin: 10px auto;
+}
+
 .pagination {
     display: flex;
     list-style: none;
@@ -109,6 +113,7 @@ a:hover {
     margin-right: 5px;
     border: 2px solid #eee;
     border-radius: 4px;
+    font-weight: normal;
 }
 
 .homepage .page-link,

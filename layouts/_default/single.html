@@ -13,14 +13,16 @@
 <div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
 <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
 <div class="post">
-    <div class="pyah"><p class="yah"><span style="
-        margin-right: 5px;
-    ">Βρίσκεστε εδώ</span><span style="
-        font-size: 33px;
-        position: absolute;
-        top: -5px;
-    ">›</span> </p><a href="/" class="home"><i class="fas fa-home"></i></a>{{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="cat"><i class="fas fa-tags" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
-        <div class="ptitle">{{.Title}}</div>
+    <div>
+        <div class="pyah"><p class="yah"><span style="
+            margin-right: 5px;
+        ">Βρίσκεστε εδώ</span><span style="
+            font-size: 33px;
+            position: absolute;
+            top: -5px;
+        ">›</span> </p><a href="/" class="home"><i class="fas fa-home"></i></a>{{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="cat"><i class="fas fa-tags" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
+            <div class="ptitle">{{.Title}}</div>
+        </div>
     </div>
     <h1>{{.Title}}</h1>
 
@@ -43,7 +45,7 @@
 </body>
 <style>
 p.yah {
-    padding: 7px 20px 7px 12px;
+    padding: 7px 20px 7px 0px;
     margin: 0;
     background: #fff;
     font-weight: bold;
@@ -54,12 +56,13 @@ p.yah {
 }
 .pyah {
     display: flex;
-    margin: 70px auto 0;
-    padding: 30px 15px;
-    border-bottom: 2px solid #eee;
+    margin: 80px auto 0;
+    padding: 15px 0;
+    border-bottom:2px solid #eee;
     font-size: 17.5px;
-    justify-content: center;
-    background: #eee;
+    
+    max-width: 1300px;
+    border-radius: 0px;
 }
 .pyah i {
     font-size: 17px;
@@ -68,8 +71,8 @@ a.home {
     text-decoration: none;
     margin-right: 5px;
     padding: 7px 10px;
-    background: #d91a32;
-    color: #eee;
+    background: #666;
+    color: #fff;
     font-weight: bold;
     border-radius: 3px;
     text-align: center;
@@ -97,7 +100,7 @@ a:hover.cat {
     gap: 18px;
     grid-template-columns: 1fr 2fr;
     justify-content: space-evenly;
-    margin-top: 4px;
+    margin-top: 0px;
 }
     .post {
     border: 0px solid #eee;

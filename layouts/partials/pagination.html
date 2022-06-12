@@ -4,7 +4,7 @@
 {{ $pag := $.Paginator }}
 {{ if gt $pag.TotalPages 0 }}
 {{ $.Scratch.Set "dot_rendered" false }}
-<nav class="spages" aria-label="page navigation">
+<nav class="spages spages2" aria-label="page navigation">
     <ul class="pagination">
         <!-- Don't show on 1st and 2nd page -->
         {{ if and (ne $pag.PageNumber 1) (ne $pag.PageNumber 2) }}
