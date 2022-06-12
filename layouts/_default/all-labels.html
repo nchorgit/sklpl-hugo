@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="el">
+
+<head>
+    {{ partial "head" . }}
+</head>
+
+<body>
+    {{ partial "header" . }}
+    <div class="cattitle">
+        <div class="stitle">
+            <i class="fas fa-tags" aria-hidden="true"></i>Ετικέτες
+        </div>
+    </div>
+    <div class="wrapper">
+        <div class="tags">
+            {{range $name, $taxonomy := .Site.Taxonomies.categories}} {{ $cnt := .Count }}
+            {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
+            <div class="tagbutton">
+                <a href={{ .RelPermalink }} title="Όλα τα Προϊόντα στην Ετικέτα <i>{{$name}}</i>">{{$name}}</a>
+                <sup>{{$cnt}}</sup>
+            </div>
+            {{end}}
+            {{end}}
+        </div>
+    </div>
+    <style>
+        body {
+            background: #555;
+        }
+
+        .wrapper {
+            max-width: 1300px;
+            padding: 15px;
+            margin: 70px auto;
+            overflow: unset;
+        }
+
+        .stitle {
+
+            display: inline-block;
+            padding: 0;
+            font-size: 30px;
+            font-weight: bold;
+            border-radius: 6px;
+            color:#eee;
+        }
+
+        .cattitle {
+            background: #4a4949;
+        }
+
+        .cattitle i {
+            opacity: 1;
+            margin-right: 15px;
+            color: orange;
+        }
+
+        .tags {
+
+            padding: 0px;
+            display: grid;
+            grid-template-columns: auto auto auto auto;
+            gap: 10px;
+        }
+
+        .tagbutton {
+            display: flex;
+            position: relative;
+            align-items: center;
+        }
+
+        .tagbutton a {
+    padding: 10px;
+    background: #4a4949;
+    width: -webkit-fill-available;
+    display: flex;
+    align-items: center;
+    position: relative;
+    color: #eee;
+    text-transform: capitalize;
+    border-radius: 4px;
+}
+
+        .tagbutton a:hover {
+            background: #333;
+            color: #eee;
+        }
+
+        sup {
+            color: #fff;
+            /* padding: 5px; */
+            background: #555;
+            border-radius: 50%;
+            width: 24px;
+            display: inline-block;
+            height: 24px;
+            text-align: center;
+            line-height: 24px;
+            position: absolute;
+            right: 15px;
+        }
+    </style>
+    {{ partial "footer" . }}
+</body>
+
+</html>

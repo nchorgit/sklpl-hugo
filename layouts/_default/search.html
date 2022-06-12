@@ -10,12 +10,9 @@
     <div class="cattitle">
         <div class="stitle">
             <form name="searchBox" onsubmit="return false">
-                <img src="/media/svg/fakos.svg" style="
-        width: 25px;
-        margin-right: 15px;
-    ">
+               
                 <input autocomplete="off" class="stext" type="text" name="keyword" onfocus="this.value=''" value="Αναζήτηση" />
-                <input id="sbutton" type="button" value="Αναζήτηση" onClick="searchFunction()" />
+                <button id="sbutton"  type="button"onClick="searchFunction()"><i class="fas fa-search"></i> Αναζήτηση</button>
             </form>
         </div>
 
@@ -109,7 +106,7 @@
         .cattitle {
     padding: 25px 15px;
     text-align: center;
-    background: #444444;
+    background: #333;
     margin-top: 70px;
     font-size: 18px;
     color: #6f6056;
@@ -147,7 +144,7 @@ input.stext {
     border: 0px solid #eee;
     -webkit-highlight: none;
     outline: none;
-    padding: 10px 15px;
+    padding: 0;
     font-size: 18px;
     font-family: inherit;
     border-radius: 6px;
@@ -156,7 +153,7 @@ input.stext {
     color: #fff;
 }
 
-input#sbutton {
+#sbutton {
     background: #8bc34a;
     border: 0;
     padding: 10px 15px;
@@ -165,6 +162,15 @@ input#sbutton {
     font-weight: bold;
     border-radius: 4px;
     font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+
+#sbutton i {
+    margin-right: 10px;
+    color: #fff;
+    font-size: 16px;
+    opacity: 1;
 }
 
         form {
@@ -412,6 +418,13 @@ input#sbutton {
         .smeta {
             display: none;
         }
+
+        a.search {
+    
+    opacity: .3;
+    filter: grayscale(1);
+    pointer-events: none;
+}
     </style>
 
 

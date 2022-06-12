@@ -42,8 +42,8 @@
 
     </div>
     {{ partial "pagination" . }}
-    {{ partial "footer" . }}
-</body>
+   
+
 <script>
     $(".alltext").remove();
     /*   $( document ).ready(function() {
@@ -304,9 +304,13 @@
 
         transition: all .3s;
     }
+    footer br {
+        display: block;
+    }
 </style>
 <script>
     /* $(".product div, .product table").remove()*/
 </script>
-
+{{ partial "footer" . }}
+</body>
 </html>

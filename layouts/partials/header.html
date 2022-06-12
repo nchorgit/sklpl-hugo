@@ -1,42 +1,113 @@
-
 <div class="header">
-<div class="topnav">
-<div id="mlines" style="display: none;"><a href="#">
-<div style="width: 20px; height: 2px; background-color: white; position:absolute; left:0px; right:0px; top: 13px;margin:auto;"></div>
-<div style="width: 20px; height: 2px; background-color: white; position:absolute; left:0px; right:0px; top: 0px; bottom: 0px; margin:auto;"></div>
-<div style="width: 20px; height: 2px; background-color: white; position:absolute; left:0px; right:0px; bottom:13px; margin:auto;"></div>
-</a></div>
-<div class="logopl">
-<a href="/"></a>
-</div>
-<!--
-<div class="labels"><a href="/pages/labels/marata/marata.html"><i class="fas fa-tags" aria-hidden="true"></i><b>Ετικέτες</b></a></div>
-<div class="cats"><a href="/pages/labels/sklavenitis/sklavenitis.html"><i class="far fa-clone" aria-hidden="true"></i><b>Κατηγορίες</b></a></div>
--->
-<a class="search-b sbrd4" href="/search/">Αναζήτηση
-<img src="/media/svg/fakos.svg"></a>
-<!--<a class="fakos2" href="/search/"><img src="/media/svg/fakos.svg"></a>-->
+    <div class="topnav">
+      <div class="logopl">
+        <a href="/"
+          ><img src="/media/icons/logo.svg" alt="" />
+          <p class="logotext">
+            <span style="color: orange;">Private</span>
+            <span style="color: orangered;">Label</span>
+          </p>
+        </a>
+      </div>
 
-</div>
+      <div class="line"></div>
+      <nav>
+        <a href="/all-categories"><i class="fas fa-tags" aria-hidden="true"></i> Ετικέτες</a>
+        <a href="/all-labels"><i class="far fa-clone" aria-hidden="true"></i> Κατηγορίες</a>
+        <a href=""><i class="fas fa-list-alt"></i> Λίστες</a>
+        <a class="search" href="/search"><i class="fas fa-search"></i> Αναζήτηση</a>
+      </nav>
+    </div>
 
+  </div>
+  <style>
+ 
+       .header {
+        width: 100%;
+        height: 40px;
+        background: #444;
+        margin: 0 auto;
+        padding: 15px 0;
+        position: fixed;
+        top: 0;
+        z-index: 39;
+      }
 
-<style>
-a.search-b {
-    position: absolute;
-    right: 15px;
-    background: #fff;
+      .topnav {
+        max-width: 1300px;
+        height: 40px;
+        margin: 0 auto;
+        position: relative;
+        top: 0;
+        bottom: 0;
+        display: flex;
+        gap: 20px;
+        align-items: center;
+        padding: 0 15px;
+      }
+     
+      .logopl a {
+        width: 500px;
+        height: auto;
+        top: 0;
+        bottom: 0;
+        margin: 0 auto;
+        padding-right: 0px;
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        gap: 5px;
+      }
+      .logopl a img {
+        width: 260px;
+      }
+
+      p.logotext {
+        padding: 2px 12px;
+        border-radius: 4px;
+        border: 2px solid #555555;
+        margin-left: 8px;
+        font-family: csans;
+        font-size: 27px;
+        color: #999;
+        text-decoration: none;
+        font-weight: bold;
+        letter-spacing: -1px;
+      }
+      .line {
+    width: 1px;
+    background: #888;
+    height: 40px;
+    margin-left: -45px;
+}
+
+      nav {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        margin-left: 0px;
+      }
+      nav a {
+        background: #555;
+        color: #fff;
+        padding: 9px 15px;
+        border-radius: 4px;
+        font-weight: bold;
+        text-decoration: none;
+      }
+
+      a.search {
     display: flex;
     align-items: center;
-    justify-content: center;
-    padding: 15px;
-    margin: auto;
-    top: 0;
-    bottom: 0;
+    padding: 9px 50px;
+    background: #f47920;
+    position: absolute;
+    right: 15px;
+    border-radius: 4px
+px
+;
 }
-
-.search-b img {
-    width: 24px;
-    margin-left: 10px;
-}
-</style>
-</div>
+      a.search img {
+        width: 20px;
+      }
+    </style>

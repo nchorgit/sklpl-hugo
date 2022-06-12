@@ -163,7 +163,7 @@ a:hover {
     bottom: 0;
 }
 
-.logopl a {
+/*.logopl a {
     background-image: url(media/svg/skllogo-white.svg);
     background-size: 100%;
     background-repeat: no-repeat;
@@ -284,7 +284,7 @@ a:hover {
     height: auto;
     margin-right: 10px
 }
-
+*/
 .main {
     margin: 90px auto;
     max-width: 1300px;
@@ -326,7 +326,7 @@ footer {
     text-align: center;
     color: #eee;
     background: #444;
-    padding: 15px;
+    padding: 30px;
 }
 
 @keyframes fadein {
