@@ -4,8 +4,20 @@
 </head>
 <body>
 {{ partial "header" . }}
-
+<div>
+    <div class="pyah"><p class="yah"><span style="
+        margin-right: 5px;
+    ">Βρίσκεστε εδώ</span><span style="
+        font-size: 33px;
+        position: absolute;
+        top: -5px;
+    ">›</span> </p><a href="/" class="home"><i class="fas fa-home"></i></a>{{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="cat"><i class="fas fa-tags" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
+        <div class="ptitle">{{.Title}}</div>
+    </div>
+</div>
+<div class="bline"></div>
 <div class="main">
+
     <div class="sidebar">{{ partial "sidebar" . }}</div>
 <div class="product">
 
@@ -13,17 +25,7 @@
 <div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
 <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
 <div class="post">
-    <div>
-        <div class="pyah"><p class="yah"><span style="
-            margin-right: 5px;
-        ">Βρίσκεστε εδώ</span><span style="
-            font-size: 33px;
-            position: absolute;
-            top: -5px;
-        ">›</span> </p><a href="/" class="home"><i class="fas fa-home"></i></a>{{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="cat"><i class="fas fa-tags" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
-            <div class="ptitle">{{.Title}}</div>
-        </div>
-    </div>
+
     <h1>{{.Title}}</h1>
 
     {{.Content}}
@@ -44,6 +46,11 @@
 {{ partial "footer" . }}
 </body>
 <style>
+    .bline {
+        border-bottom: 2px solid #eee;
+        margin: 0 auto;
+        max-width: 1300px;
+    }
 p.yah {
     padding: 7px 20px 7px 0px;
     margin: 0;
@@ -57,8 +64,8 @@ p.yah {
 .pyah {
     display: flex;
     margin: 80px auto 0;
-    padding: 15px 0;
-    border-bottom:2px solid #eee;
+    padding: 15px;
+    border-bottom:0px solid #eee;
     font-size: 17.5px;
     
     max-width: 1300px;
@@ -140,8 +147,18 @@ h1 {
 #flag {
     display: flex;
     margin: -15px 0 15px 0;
+    gap: 5px;
+}
+#flagimage img {
+    width: 32px;
+}
+#pics2 {
+    display: block;
 }
 
+#flagimage2 {
+    display: none;
+}
 #barcode {
     background: #ddd;
     display: table;
@@ -441,7 +458,9 @@ h1 {
     margin-bottom: 26px;
 }
 
-
+.post br:last-child {
+    display: none;
+}
 
 @keyframes example {
     from {
@@ -558,7 +577,17 @@ h1 {
 }
 
 
-
+.p-img {
+    display: block !important;
+    width: 60px;
+    height: 60px;
+    margin: auto;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 10px;
+    border-right: 2px solid #eee;
+}
 </style>
 <script>
 
@@ -587,7 +616,7 @@ $(".pimg").click(function () {
  
 });
 $(".pimg").clone().appendTo(".pimg2");
-$(".pyah").insertAfter(".header");
+/*$(".pyah").insertAfter(".header");*/
 
 </script>
 </html>
