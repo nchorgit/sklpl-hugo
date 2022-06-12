@@ -13,7 +13,13 @@
 <div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
 <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
 <div class="post">
-    <div class="pyah"><a href="/" class="home"><i class="fas fa-home"></i></a>{{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="cat"><i class="fas fa-tags" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
+    <div class="pyah"><p class="yah"><span style="
+        margin-right: 5px;
+    ">Βρίσκεστε εδώ</span><span style="
+        font-size: 33px;
+        position: absolute;
+        top: -5px;
+    ">›</span> </p><a href="/" class="home"><i class="fas fa-home"></i></a>{{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="cat"><i class="fas fa-tags" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
         <div class="ptitle">{{.Title}}</div>
     </div>
     <h1>{{.Title}}</h1>
@@ -36,23 +42,33 @@
 {{ partial "footer" . }}
 </body>
 <style>
-
+p.yah {
+    padding: 7px 20px 7px 12px;
+    margin: 0;
+    background: #fff;
+    font-weight: bold;
+    color: #666;
+    position: relative;
+    border-radius: 3px;
+    margin-right: 5px;
+}
 .pyah {
     display: flex;
     margin: 70px auto 0;
-    padding: 15px;
+    padding: 30px 15px;
     border-bottom: 2px solid #eee;
-    font-size: 16.5px;
+    font-size: 17.5px;
     justify-content: center;
+    background: #eee;
 }
 .pyah i {
-    font-size: 14px;
+    font-size: 17px;
 }
 a.home {
     text-decoration: none;
     margin-right: 5px;
     padding: 7px 10px;
-    background: #555;
+    background: #d91a32;
     color: #eee;
     font-weight: bold;
     border-radius: 3px;
@@ -70,10 +86,11 @@ a.cat {
 }
 a:hover.home,
 a:hover.cat {
-    background: #333;
+    background: #444;
 }
 .ptitle {
     padding: 7px 15px;
+    
 }
 .main {
     display: grid;
@@ -498,8 +515,7 @@ h1 {
     padding: 0 !important;
 }
 .pimg2 .pimg img {
-    width: auto;
-    margin: 50px auto;
+    width: 100%;
     display: flex;
     animation-name: example;
     animation-duration: 1s;
@@ -507,7 +523,8 @@ h1 {
     top: 0px;
     height: auto;
     border-radius: 6px;
-    
+    max-width: 700px;
+    height: auto;
 }
 .imgcaption {
     display: none;

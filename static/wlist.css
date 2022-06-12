@@ -25,7 +25,7 @@
 }
 
 .wlist .post {
-    border: 2px solid #eee;
+    border: 0px solid #eee;
     padding: 15px;
     border-radius: 0px;
     position: relative;
@@ -73,6 +73,8 @@
 
 .wmain {
     margin: 0;
+    border: 2px solid #eee;
+    border-top: 0;
     
 }
 .wmain p {
@@ -97,6 +99,6 @@
 .wlist #barcode, .wlist #varos {
     display: none !important;
 }
-.wlist .post:last-child {
+.wmain:last-child {
     border-radius: 0 0 6px 6px;
 }
