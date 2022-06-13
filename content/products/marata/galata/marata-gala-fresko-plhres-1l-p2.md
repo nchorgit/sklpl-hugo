@@ -1,7 +1,8 @@
 ---
 title: "Μαράτα Γάλα Φρέσκο πλήρες 1L - Π2"
 weight: 4
-categories: ["Μαράτα", "Τρόφιμα"]
+categories: ["Μαράτα"]
+gencat: ["Τρόφιμα"]
 tags: ["Γάλατα"]
 ---
 {{< rawhtml >}}

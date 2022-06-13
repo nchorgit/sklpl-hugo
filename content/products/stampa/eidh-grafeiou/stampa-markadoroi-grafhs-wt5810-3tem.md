@@ -1,6 +1,7 @@
 ---
 title: "Stampa Μαρκαδόροι γραφής WT5810 3τεμ"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

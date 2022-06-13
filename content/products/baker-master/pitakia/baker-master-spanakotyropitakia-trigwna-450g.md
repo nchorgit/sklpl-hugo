@@ -1,6 +1,7 @@
 ---
 title: "Baker Master Σπανακοτυροπιτάκια τρίγωνα 450g"
-categories: ["Baker Master", "Τρόφιμα"]
+categories: ["Baker Master"]
+gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Buenas Πάριζα μπαστούνι"
-categories: ["Buenas", "Τρόφιμα"]
+categories: ["Buenas"]
+gencat: ["Τρόφιμα"]
 tags: ["Αλλαντικά"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Tickit Τετράδιο ριγέ 50 φύλλων"
-categories: ["Tickit", "Όροφος"]
+categories: ["Tickit"]
+gencat: ["Όροφος"]
 tags: ["Τετράδια"]
 ---
 {{< rawhtml >}}

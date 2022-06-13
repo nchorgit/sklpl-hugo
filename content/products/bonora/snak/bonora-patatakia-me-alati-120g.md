@@ -1,6 +1,7 @@
 ---
 title: "Bonora Πατατάκια με αλάτι 120g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Σνακ"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Sette Κρεμοσάπουνο Milk & Honey Ανταλλακτικό 500ml"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Σαπούνια"]
 ---
 {{< rawhtml >}}

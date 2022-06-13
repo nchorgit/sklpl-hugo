@@ -1,6 +1,7 @@
 ---
 title: "Buenas Λουκάνικα τύπου Φραγκφούρτης"
-categories: ["Buenas", "Τρόφιμα"]
+categories: ["Buenas"]
+gencat: ["Τρόφιμα"]
 tags: ["Αλλαντικά"]
 ---
 {{< rawhtml >}}

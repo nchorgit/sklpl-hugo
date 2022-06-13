@@ -1,6 +1,7 @@
 ---
 title: "Stampa Αριθμομηχανή τσέπης 8 ψηφίων PC404"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Αριθμομηχανές"]
 ---
 {{< rawhtml >}}

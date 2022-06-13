@@ -1,7 +1,8 @@
 ---
 title: "Μαράτα Μπανάνα Chips ζαχαρωμένη 120g"
 weight: 2
-categories: ["Μαράτα", "Τρόφιμα"]
+categories: ["Μαράτα"]
+gencat: ["Τρόφιμα"]
 tags: ["Αποξηραμένα φρούτα"]
 ---
 {{< rawhtml >}}

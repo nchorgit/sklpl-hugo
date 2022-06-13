@@ -1,6 +1,7 @@
 ---
 title: "Bonora Σοκολάτα γάλακτος 100g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Σοκολάτες"]
 ---
 {{< rawhtml >}}

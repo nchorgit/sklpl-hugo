@@ -1,6 +1,7 @@
 ---
 title: "Kitten Μανταλάκια extra 4τεμ"
-categories: ["Kitten", "Μη Τρόφιμα"]
+categories: ["Kitten"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Μανταλάκια"]
 ---
 {{< rawhtml >}}

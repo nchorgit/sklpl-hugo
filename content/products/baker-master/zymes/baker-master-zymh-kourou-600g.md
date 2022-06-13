@@ -1,6 +1,7 @@
 ---
 title: "Baker Master Ζύμη κουρού 600g"
-categories: ["Baker Master", "Τρόφιμα"]
+categories: ["Baker Master"]
+gencat: ["Τρόφιμα"]
 tags: ["Ζύμες"]
 ---
 {{< rawhtml >}}

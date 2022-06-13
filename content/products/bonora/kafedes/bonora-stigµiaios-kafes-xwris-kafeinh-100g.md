@@ -1,6 +1,7 @@
 ---
 title: "Bonora Στιγµιαίος καφές χωρίς καφεΐνη 100g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 ---
 {{< rawhtml >}}

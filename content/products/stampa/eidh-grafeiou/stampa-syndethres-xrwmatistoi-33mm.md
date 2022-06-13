@@ -1,6 +1,7 @@
 ---
 title: "Stampa Συνδετήρες χρωματιστοί 33mm"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

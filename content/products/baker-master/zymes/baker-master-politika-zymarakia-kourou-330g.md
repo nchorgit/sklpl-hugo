@@ -1,6 +1,7 @@
 ---
 title: "Baker Master Πολίτικα ζυμαράκια κουρού 330g"
-categories: ["Baker Master", "Τρόφιμα"]
+categories: ["Baker Master"]
+gencat: ["Τρόφιμα"]
 tags: ["Ζύμες"]
 ---
 {{< rawhtml >}}

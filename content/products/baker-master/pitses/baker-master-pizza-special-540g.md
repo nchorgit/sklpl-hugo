@@ -1,6 +1,7 @@
 ---
 title: "Baker Master Pizza Special 540g"
-categories: ["Baker Master", "Τρόφιμα"]
+categories: ["Baker Master"]
+gencat: ["Τρόφιμα"]
 tags: ["Πίτσες"]
 ---
 {{< rawhtml >}}

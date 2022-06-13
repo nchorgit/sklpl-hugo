@@ -1,6 +1,7 @@
 ---
 title: "Drolio Φόρμες για κέικ D3"
-categories: ["Drolio", "Μη Τρόφιμα"]
+categories: ["Drolio"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Σκεύη αλουμινίου"]
 weight: 5
 ---

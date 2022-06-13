@@ -1,6 +1,7 @@
 ---
 title: "Master Light Λαμπτήρας Led Γλόμπος 7W E14"
-categories: ["Master Light", "Μη Τρόφιμα"]
+categories: ["Master Light"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Λαμπτήρες"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Kitten Ανταλλακτικά για ρολό καθαρισμού 2τεμ"
-categories: ["Kitten", "Μη Τρόφιμα"]
+categories: ["Kitten"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Ρολά καθαρισμού"]
 ---
 {{< rawhtml >}}

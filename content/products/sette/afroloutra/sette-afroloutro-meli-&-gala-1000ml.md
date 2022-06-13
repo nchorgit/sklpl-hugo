@@ -1,6 +1,7 @@
 ---
 title: "Sette Αφρόλουτρο Μέλι & Γάλα 1000ml"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Αφρόλουτρα"]
 ---
 {{< rawhtml >}}

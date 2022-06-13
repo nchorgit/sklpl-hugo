@@ -1,6 +1,7 @@
 ---
 title: "Bonora Μπαλίτσες καλαμποκιού με φιστίκι 90g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Σνακ"]
 ---
 {{< rawhtml >}}

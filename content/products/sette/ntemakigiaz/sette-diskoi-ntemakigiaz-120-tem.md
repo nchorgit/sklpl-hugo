@@ -1,6 +1,7 @@
 ---
 title: "Sette Δίσκοι Ντεμακιγιάζ 120 τεμ."
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Ντεμακιγιάζ"]
 ---
 {{< rawhtml >}}

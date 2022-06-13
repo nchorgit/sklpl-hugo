@@ -1,6 +1,7 @@
 ---
 title: "Stampa Συρραπτικό xειρός Nο 24/6 & 26/6"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

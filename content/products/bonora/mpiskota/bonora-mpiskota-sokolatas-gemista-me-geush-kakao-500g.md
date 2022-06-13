@@ -1,6 +1,7 @@
 ---
 title: "Bonora Μπισκότα σοκολάτας γεμιστά με γεύση κακάο 500g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Μπισκότα"]
 ---
 {{< rawhtml >}}

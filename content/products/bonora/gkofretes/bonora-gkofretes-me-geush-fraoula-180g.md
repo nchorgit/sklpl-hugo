@@ -1,6 +1,7 @@
 ---
 title: "Bonora Γκοφρέτες με γεύση φράουλα 180g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Γκοφρέτες"]
 ---
 {{< rawhtml >}}

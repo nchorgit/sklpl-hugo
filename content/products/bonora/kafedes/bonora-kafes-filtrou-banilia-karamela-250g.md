@@ -1,6 +1,7 @@
 ---
 title: "Bonora Καφές φίλτρου Βανίλια Καραμέλα 250g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Bonora Παγωτό Παρφέ Βανίλια - Σοκολάτα 1kg"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Παγωτά"]
 ---
 {{< rawhtml >}}

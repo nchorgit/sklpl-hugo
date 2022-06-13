@@ -1,6 +1,7 @@
 ---
 title: "Sette Σαμπουάν για παιδιά 500ml"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Σαμπουάν"]
 ---
 {{< rawhtml >}}

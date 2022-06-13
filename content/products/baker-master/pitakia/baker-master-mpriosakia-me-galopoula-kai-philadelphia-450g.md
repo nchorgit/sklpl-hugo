@@ -1,6 +1,7 @@
 ---
 title: "Baker Master Μπριοσάκια με γαλοπούλα και Philadelphia 450g"
-categories: ["Baker Master", "Τρόφιμα"]
+categories: ["Baker Master"]
+gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
 ---
 {{< rawhtml >}}

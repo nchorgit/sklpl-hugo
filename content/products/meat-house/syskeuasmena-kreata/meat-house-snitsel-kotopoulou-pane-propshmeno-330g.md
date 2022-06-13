@@ -1,6 +1,7 @@
 ---
 title: "Meat House Σνίτσελ κοτόπουλου πανέ προψημένο 330g"
-categories: ["Meat House", "Τρόφιμα"]
+categories: ["Meat House"]
+gencat: ["Τρόφιμα"]
 tags: ["Συσκευασμένα κρέατα"]
 ---
 {{< rawhtml >}}

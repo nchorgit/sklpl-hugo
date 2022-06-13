@@ -1,6 +1,7 @@
 ---
 title: "Stampa Σετ γεωμετρίας εύκαμπτο 3τεμ"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

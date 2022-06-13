@@ -1,6 +1,7 @@
 ---
 title: "Tickit Μαρκαδόροι ζωγραφικής χοντροί 36τεμ"
-categories: ["Tickit", "Όροφος"]
+categories: ["Tickit"]
+gencat: ["Όροφος"]
 tags: ["Σχολικά είδη"]
 ---
 {{< rawhtml >}}

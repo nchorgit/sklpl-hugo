@@ -1,6 +1,7 @@
 ---
 title: "Μαράτα Φαρίνα 500g"
-categories: ["Μαράτα", "Τρόφιμα"]
+categories: ["Μαράτα"]
+gencat: ["Τρόφιμα"]
 tags: ["Αλεύρι"]
 weight: 1
 ---

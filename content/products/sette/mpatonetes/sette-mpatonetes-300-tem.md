@@ -1,6 +1,7 @@
 ---
 title: "Sette Μπατονέτες 300 τεμ."
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Μπατονέτες"]
 ---
 {{< rawhtml >}}

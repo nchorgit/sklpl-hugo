@@ -1,6 +1,7 @@
 ---
 title: "Drolio Συλλέκτης υγρασίας Μιας χρήσης 230g"
-categories: ["Drolio", "Μη Τρόφιμα"]
+categories: ["Drolio"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Συλλέκτες υγρασίας"]
 weight: 6
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Stampa Αριθμομηχανή επιτραπέζια 8 ψηφίων KT-430AP"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Αριθμομηχανές"]
 ---
 {{< rawhtml >}}

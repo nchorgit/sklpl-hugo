@@ -1,6 +1,7 @@
 ---
 title: "Frogo Σακούλες τροφίµων μεσαίες"
-categories: ["Frogo", "Μη Τρόφιμα"]
+categories: ["Frogo"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Σακούλες τροφίμων"]
 ---
 {{< rawhtml >}}

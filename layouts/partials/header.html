@@ -14,11 +14,20 @@
       <nav>
         <a href="/all-labels"><i class="fas fa-tags" aria-hidden="true"></i> Ετικέτες</a>
         <a href="/all-categories"><i class="far fa-clone" aria-hidden="true"></i> Κατηγορίες</a>
-        <a href=""><i class="fas fa-list-alt"></i> Λίστες</a>
+        <a class="list" href="#"><i class="fas fa-list-alt"></i> Λίστες Προϊόντων<i class="fas fa-chevron-down" style="color: orange; margin-left:8px"></i></a>
         <a class="search" href="/search"><i class="fas fa-search"></i> Αναζήτηση</a>
       </nav>
     </div>
 
+  </div>
+  <div class="dlistout">
+    <div class="drop-list">
+      <nav>
+        <a href="/all-labels"><i class="fas fa-tags" aria-hidden="true"></i> Ετικέτες</a>
+            <a href="/all-categories"><i class="far fa-clone" aria-hidden="true"></i> Κατηγορίες</a>
+            <a class="teams" href="/all-categories"><i class="far fa-clone" aria-hidden="true"></i> Ομάδες: <span style="border: 0;">Τρόφιμα</span><span>Μη Τρόφιμα</span><span>Όροφος</span></a>
+      </nav>
+    </div>
   </div>
   <style>
  
@@ -75,8 +84,8 @@
         letter-spacing: -1px;
       }
       .line {
-    width: 1px;
-    background: #888;
+    width: 1.5px;
+    background: #666;
     height: 40px;
     margin-left: -45px;
 }
@@ -101,11 +110,11 @@ nav a:hover {
       a.search {
     display: flex;
     align-items: center;
-    padding: 9px 50px;
+    padding: 9px 30px;
     background: #f47920;
     position: absolute;
     right: 15px;
-    border-radius: 4px;
+    border-radius: 50px;
 }
 a.search:hover {
   background: #ce4227;
@@ -114,4 +123,68 @@ a.search:hover {
       a.search img {
         width: 20px;
       }
+a.list {
+  background: transparent;
+    border-left: 2px solid #666;
+    border-radius: 0;
+}
+
+a.list:hover {
+  
+    border-radius:0 4px 4px 0;
+   
+    text-decoration: dotted;
+}
+
+.drop-list {
+    
+    display: flex;
+    padding: 15px;
+    background: #666;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.drop-list nav {
+  gap: 10px;
+}
+
+a.teams {
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.teams span {
+    padding: 0px 10px;
+    font-weight: normal;
+    border-radius: 0px;
+    font-size: 16px;
+    border-left: 2px solid #666;
+}
+
+.drop-list i {
+    margin-right: 10px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.dlistout {
+  position: relative;
+  top: 70px;
+  display: none;
+}
     </style>
+
+  <script>
+
+    $("a.list").click(function () {
+        $(".dlistout").slideToggle ("slow");
+        
+    });
+
+</script>

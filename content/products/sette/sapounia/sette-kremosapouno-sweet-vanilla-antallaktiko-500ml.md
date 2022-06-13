@@ -1,6 +1,7 @@
 ---
 title: "Sette Κρεμοσάπουνο Sweet Vanilla Ανταλλακτικό 500ml"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Σαπούνια"]
 ---
 {{< rawhtml >}}

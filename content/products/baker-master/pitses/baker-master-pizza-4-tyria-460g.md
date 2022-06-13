@@ -1,6 +1,7 @@
 ---
 title: "Baker Master Pizza 4 τυριά 460g"
-categories: ["Baker Master", "Τρόφιμα"]
+categories: ["Baker Master"]
+gencat: ["Τρόφιμα"]
 tags: ["Πίτσες"]
 ---
 {{< rawhtml >}}

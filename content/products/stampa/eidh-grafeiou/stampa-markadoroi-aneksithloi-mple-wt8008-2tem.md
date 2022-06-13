@@ -1,6 +1,7 @@
 ---
 title: "Stampa Μαρκαδόροι ανεξίτηλοι μπλε WT8008 2τεμ"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

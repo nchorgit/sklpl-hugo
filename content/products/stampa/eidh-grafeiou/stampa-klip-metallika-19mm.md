@@ -1,6 +1,7 @@
 ---
 title: "Stampa Κλιπ μεταλλικά 19mm"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

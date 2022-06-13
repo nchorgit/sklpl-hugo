@@ -1,6 +1,7 @@
 ---
 title: "Drolio Υγρό για τα πιάτα Regular 750ml"
-categories: ["Drolio", "Μη Τρόφιμα"]
+categories: ["Drolio"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Υγρά Πιάτων"]
 weight: 7
 ---

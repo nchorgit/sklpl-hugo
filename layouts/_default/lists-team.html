@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="el">
+
+<head>
+    {{ partial "head" . }}
+</head>
+
+<body>
+    {{ partial "header" . }}
+    <div class="cattitle">
+        <div class="stitle">
+            <i class="fas fa-list-alt" aria-hidden="true"></i>Λίστες Προϊόντων
+        </div>
+    </div>
+    <div class="wrapper">
+        <div class="mtrof">
+    
+      
+            {{ range $key, $taxonomy := .Site.Taxonomies.gencat }}
+            <div class="gencat">
+            <div class="list-title">{{ $key }}</div>
+            <ul>
+                {{ range $taxonomy.Pages }}
+                <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
+                {{ end }}
+            </ul>
+        </div>
+            {{ end }}
+      
+   
+  </div>
+    </div>
+
+<!--
+  <div class="mtrof">
+    
+    <section>
+        <ul id="all-taxonomies">
+            {{ range $taxonomy_term, $taxonomy := .Site.Taxonomies }}
+                {{ with $.Site.GetPage (printf "/%s" $taxonomy_term) }}
+                    <li><a href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
+                        <ul>
+                            {{ range $key, $value := $taxonomy }}
+                                <li>{{ $key }}</li>
+                                <ul>
+                                    {{ range $value.Pages }}
+                                        <li hugo-nav="{{ .RelPermalink}}">
+                                            <a href="{{ .Permalink}}">{{ .LinkTitle }}</a>
+                                        </li>
+                                    {{ end }}
+                                </ul>
+                            {{ end }}
+                        </ul>
+                    </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </section>
+
+
+</div>-->
+  
+
+<script>
+    $('.list-title').each(function() {
+       var text = $(this).text();
+       $(this).text(text.replace('-', ' ')); 
+   });
+   </script>
+<link rel="stylesheet" href="/allcat.css">
+<style>
+  .list-title {
+    text-transform: capitalize;
+    background: red;
+    padding: 15px;
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 6px 6px 0 0;
+    font-size: 20px;
+    color: #fff;
+}
+
+.gencat:nth-child(2) .list-title {
+    background: #ff5722;
+}
+
+.gencat:nth-child(1) .list-title {
+    background: #22af10;
+}
+.gencat:nth-child(1) {
+    order: 2;
+}
+
+.gencat:nth-child(2) {
+    order: 1;
+}
+
+.gencat:nth-child(3) {
+    order: 5;
+}
+
+
+    .mtrof {
+    display: grid;
+    
+}
+
+.gencat ul {
+    list-style-type: none;
+    padding: 15px;
+    display: grid;
+    grid-gap: 6px;
+    grid-template-columns: repeat( auto-fit, minmax(413px, 1fr) );
+    margin-top: 0px;
+    border: 2px solid #eee;
+}
+
+.gencat li a {
+    display: flex;
+    height: 48px;
+    padding: 10px 55px;
+    align-items: center;
+    color: #444;
+    margin: 0;
+    background: #efe2de;
+    text-align: center;
+    justify-content: center;
+    border-radius: 4px;
+}
+
+</style>
+{{ partial "footer" . }}
+</body>
+</html>

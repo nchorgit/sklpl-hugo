@@ -1,6 +1,7 @@
 ---
 title: "Stampa Αριθμομηχανή επιτραπέζια 10 ψηφίων KT-120AQ"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Αριθμομηχανές"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Sette Κρεμοσάπουνο Sweet Vanilla Αντλία 300ml"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Σαπούνια"]
 ---
 {{< rawhtml >}}

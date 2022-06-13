@@ -1,6 +1,7 @@
 ---
 title: "Stampa Πινέζες χρωματιστές 100τεμ"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

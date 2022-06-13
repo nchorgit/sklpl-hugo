@@ -1,6 +1,7 @@
 ---
 title: "Master Light Λαμπτήρας Led 11W E27 A60"
-categories: ["Master Light", "Μη Τρόφιμα"]
+categories: ["Master Light"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Λαμπτήρες"]
 ---
 {{< rawhtml >}}

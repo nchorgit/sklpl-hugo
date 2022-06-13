@@ -1,6 +1,7 @@
 ---
 title: "Kitten Απλώστρα ρούχων με πτερύγια μωβ"
-categories: ["Kitten", "Μη Τρόφιμα"]
+categories: ["Kitten"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Απλώστρες"]
 ---
 {{< rawhtml >}}

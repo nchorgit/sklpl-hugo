@@ -1,6 +1,7 @@
 ---
 title: "Sette Pants Εσώρουχα μιας χρήσης No 2"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Πάνες"]
 ---
 {{< rawhtml >}}

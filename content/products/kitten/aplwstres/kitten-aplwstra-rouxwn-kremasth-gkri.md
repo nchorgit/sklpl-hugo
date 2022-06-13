@@ -1,6 +1,7 @@
 ---
 title: "Kitten Απλώστρα ρούχων κρεμαστή γκρί"
-categories: ["Kitten", "Μη Τρόφιμα"]
+categories: ["Kitten"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Απλώστρες"]
 ---
 {{< rawhtml >}}

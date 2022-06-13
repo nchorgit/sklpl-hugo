@@ -1,6 +1,7 @@
 ---
 title: "Buenas Λουκάνικα Πουλερικών"
-categories: ["Buenas", "Τρόφιμα"]
+categories: ["Buenas"]
+gencat: ["Τρόφιμα"]
 tags: ["Αλλαντικά"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Sette Υγρά μαντηλάκια ντεμακιγιάζ με Υαλουρανικό οξύ"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Ντεμακιγιάζ"]
 ---
 {{< rawhtml >}}

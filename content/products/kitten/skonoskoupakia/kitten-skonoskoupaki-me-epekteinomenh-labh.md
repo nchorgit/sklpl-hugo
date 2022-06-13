@@ -1,6 +1,7 @@
 ---
 title: "Kitten Σκονοσκουπάκι με επεκτεινόμενη λαβή"
-categories: ["Kitten", "Μη Τρόφιμα"]
+categories: ["Kitten"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Σκονοσκουπάκια"]
 ---
 {{< rawhtml >}}

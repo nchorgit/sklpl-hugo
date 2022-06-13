@@ -1,6 +1,7 @@
 ---
 title: "Stampa Ψαλίδι γραφείου 357B"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

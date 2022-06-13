@@ -1,6 +1,7 @@
 ---
 title: "Meat House Μπιφτέκια κοτόπουλου"
-categories: ["Meat House", "Τρόφιμα"]
+categories: ["Meat House"]
+gencat: ["Τρόφιμα"]
 tags: ["Συσκευασμένα κρέατα"]
 ---
 {{< rawhtml >}}

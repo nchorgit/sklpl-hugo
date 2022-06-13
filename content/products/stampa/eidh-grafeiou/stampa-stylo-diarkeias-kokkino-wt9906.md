@@ -1,6 +1,7 @@
 ---
 title: "Stampa Στυλό διαρκείας κόκκινο WT9906"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

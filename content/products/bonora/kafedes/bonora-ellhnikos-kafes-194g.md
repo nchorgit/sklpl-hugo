@@ -1,6 +1,7 @@
 ---
 title: "Bonora Ελληνικός καφές 194g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 ---
 {{< rawhtml >}}

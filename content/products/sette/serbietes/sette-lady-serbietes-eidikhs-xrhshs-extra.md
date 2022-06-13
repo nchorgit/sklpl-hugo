@@ -1,6 +1,7 @@
 ---
 title: "Sette Lady Σερβιέτες ειδικής χρήσης Extra"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Σερβιέτες"]
 ---
 {{< rawhtml >}}

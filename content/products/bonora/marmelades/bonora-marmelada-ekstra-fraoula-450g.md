@@ -1,6 +1,7 @@
 ---
 title: "Bonora Μαρμελάδα Έξτρα Φράουλα 450g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Μαρμελάδες"]
 ---
 {{< rawhtml >}}

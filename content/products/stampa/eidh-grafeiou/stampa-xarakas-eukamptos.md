@@ -1,6 +1,7 @@
 ---
 title: "Stampa Χάρακας εύκαμπτος"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

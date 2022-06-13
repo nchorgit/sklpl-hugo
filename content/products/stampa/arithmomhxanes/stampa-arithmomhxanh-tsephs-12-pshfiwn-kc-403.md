@@ -1,6 +1,7 @@
 ---
 title: "Stampa Αριθμομηχανή τσέπης 12 ψηφίων KC-403"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Αριθμομηχανές"]
 ---
 {{< rawhtml >}}

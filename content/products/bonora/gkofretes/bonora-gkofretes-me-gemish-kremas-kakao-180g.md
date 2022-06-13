@@ -1,6 +1,7 @@
 ---
 title: "Bonora Γκοφρέτες με γέμιση κρέμας κακάο 180g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Γκοφρέτες"]
 ---
 {{< rawhtml >}}

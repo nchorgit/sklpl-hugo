@@ -1,6 +1,7 @@
 ---
 title: "Stampa Ψαλίδι γραφείου 486A"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Toni Τόνος σε νερό τεμαχισμένος 95g"
-categories: ["Toni", "Τρόφιμα"]
+categories: ["Toni"]
+gencat: ["Τρόφιμα"]
 tags: ["Τόνοι"]
 ---
 {{< rawhtml >}}

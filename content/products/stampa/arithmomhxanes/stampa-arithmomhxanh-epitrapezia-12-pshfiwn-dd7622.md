@@ -1,6 +1,7 @@
 ---
 title: "Stampa Αριθμομηχανή επιτραπέζια 12 ψηφίων DD7622"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Αριθμομηχανές"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Sette Slip Πάνες ακράτειας μιας χρήσης No 3"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Πάνες"]
 ---
 {{< rawhtml >}}

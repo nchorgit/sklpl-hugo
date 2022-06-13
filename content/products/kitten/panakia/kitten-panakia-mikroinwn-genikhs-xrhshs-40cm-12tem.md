@@ -1,6 +1,7 @@
 ---
 title: "Kitten Πανάκια μικροϊνών γενικής χρήσης 40cm 12τεμ"
-categories: ["Kitten", "Μη Τρόφιμα"]
+categories: ["Kitten"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Πανάκια"]
 ---
 {{< rawhtml >}}

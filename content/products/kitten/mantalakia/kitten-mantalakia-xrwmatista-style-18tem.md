@@ -1,6 +1,7 @@
 ---
 title: "Kitten Μανταλάκια χρωματιστά style 18τεμ"
-categories: ["Kitten", "Μη Τρόφιμα"]
+categories: ["Kitten"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Μανταλάκια"]
 ---
 {{< rawhtml >}}

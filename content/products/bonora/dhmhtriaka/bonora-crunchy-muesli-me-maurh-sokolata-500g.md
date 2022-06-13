@@ -1,6 +1,7 @@
 ---
 title: "Bonora Crunchy Muesli με βρώμη και μαύρη σοκολάτα 500g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
 ---
 {{< rawhtml >}}

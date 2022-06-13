@@ -1,6 +1,7 @@
 ---
 title: "Stampa Αριθμομηχανή επιστημονική SC736"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Αριθμομηχανές"]
 ---
 {{< rawhtml >}}

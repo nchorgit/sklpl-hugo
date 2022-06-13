@@ -1,6 +1,7 @@
 ---
 title: "Sette Αφρόλουτρο & Σαμπουάν για μωρά 500ml"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Αφρόλουτρα"]
 ---
 {{< rawhtml >}}

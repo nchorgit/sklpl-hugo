@@ -1,6 +1,7 @@
 ---
 title: "Bonora Παγωτό με γεύση Σοκολάτα - κακάο 580g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Παγωτά"]
 ---
 {{< rawhtml >}}

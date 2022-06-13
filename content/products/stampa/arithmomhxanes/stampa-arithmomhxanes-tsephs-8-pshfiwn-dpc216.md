@@ -1,6 +1,7 @@
 ---
 title: "Stampa Αριθμομηχανές τσέπης 8 ψηφίων DPC216"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Αριθμομηχανές"]
 ---
 {{< rawhtml >}}

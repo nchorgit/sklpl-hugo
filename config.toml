@@ -9,6 +9,7 @@ removePathAccents = false
   tag = "tags"
   category = "categories"
   smeta= "smeta"
+  gencat= "gencat"
   publication_type = "publication_types"
   author = "authors"
   layout = ""

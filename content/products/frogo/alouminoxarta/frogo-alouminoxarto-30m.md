@@ -1,6 +1,7 @@
 ---
 title: "Frogo Αλουμινόχαρτο 30m"
-categories: ["Frogo", "Μη Τρόφιμα"]
+categories: ["Frogo"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Αλουμινόχαρτα"]
 ---
 {{< rawhtml >}}

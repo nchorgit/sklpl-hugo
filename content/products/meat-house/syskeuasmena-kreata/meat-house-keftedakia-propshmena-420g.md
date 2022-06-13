@@ -1,6 +1,7 @@
 ---
 title: "Meat House Κεφτεδάκια προψημένα 420g"
-categories: ["Meat House", "Τρόφιμα"]
+categories: ["Meat House"]
+gencat: ["Τρόφιμα"]
 tags: ["Συσκευασμένα κρέατα"]
 ---
 {{< rawhtml >}}

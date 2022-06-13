@@ -1,6 +1,7 @@
 ---
 title: "Bonora Action Bars με κόκκινα φρούτα και λευκή σοκολάτα"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Μπάρες δημητριακών"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Drolio Συλλέκτης υγρασίας Ανταλλακτικό 400g"
-categories: ["Drolio", "Μη Τρόφιμα"]
+categories: ["Drolio"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Συλλέκτες υγρασίας"]
 weight: 6
 ---

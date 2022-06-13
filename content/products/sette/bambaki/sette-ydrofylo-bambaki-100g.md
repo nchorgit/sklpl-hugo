@@ -1,6 +1,7 @@
 ---
 title: "Sette Υδρόφυλο βαμβάκι 100g"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Βαμβάκι"]
 ---
 {{< rawhtml >}}

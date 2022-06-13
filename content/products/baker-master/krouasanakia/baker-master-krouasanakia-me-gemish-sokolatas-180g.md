@@ -1,6 +1,7 @@
 ---
 title: "Baker Master Κρουασανάκια με γέμιση σοκολάτας 180g"
-categories: ["Baker Master", "Τρόφιμα"]
+categories: ["Baker Master"]
+gencat: ["Τρόφιμα"]
 tags: ["Κρουασανάκια"]
 ---
 {{< rawhtml >}}

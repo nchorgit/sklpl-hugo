@@ -1,6 +1,7 @@
 ---
 title: "Bonora Καφές φίλτρου Φουντούκι 250g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 ---
 {{< rawhtml >}}

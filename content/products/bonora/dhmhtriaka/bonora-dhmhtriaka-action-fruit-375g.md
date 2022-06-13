@@ -1,6 +1,7 @@
 ---
 title: "Bonora Δημητριακά Action Fruit 375g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
 ---
 {{< rawhtml >}}

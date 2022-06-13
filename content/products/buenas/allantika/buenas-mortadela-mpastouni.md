@@ -1,6 +1,7 @@
 ---
 title: "Buenas Μορταδέλα μπαστούνι"
-categories: ["Buenas", "Τρόφιμα"]
+categories: ["Buenas"]
+gencat: ["Τρόφιμα"]
 tags: ["Αλλαντικά"]
 ---
 {{< rawhtml >}}

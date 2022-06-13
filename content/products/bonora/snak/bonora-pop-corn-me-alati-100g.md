@@ -1,6 +1,7 @@
 ---
 title: "Bonora Ποπ κορν με αλάτι 100g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Σνακ"]
 ---
 {{< rawhtml >}}

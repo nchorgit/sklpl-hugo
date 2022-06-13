@@ -1,6 +1,7 @@
 ---
 title: "Bonora Γαριδάκια με γεύση τυρί 90g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Σνακ"]
 ---
 {{< rawhtml >}}

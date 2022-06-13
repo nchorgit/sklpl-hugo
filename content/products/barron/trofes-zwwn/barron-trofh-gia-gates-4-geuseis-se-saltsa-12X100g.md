@@ -1,6 +1,7 @@
 ---
 title: "Barron Τροφή για γάτες 4 γεύσεις σε σάλτσα 12 X 100g"
-categories: ["Barron", "Μη Τρόφιμα"]
+categories: ["Barron"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Barron Plus Ξηρά τροφή για στειρωμένες γάτες με Κοτόπουλο 1Kg"
-categories: ["Barron", "Μη Τρόφιμα"]
+categories: ["Barron"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 ---
 {{< rawhtml >}}

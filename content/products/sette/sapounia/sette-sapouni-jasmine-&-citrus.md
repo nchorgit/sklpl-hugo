@@ -1,6 +1,7 @@
 ---
 title: "Sette Σαπούνι Jasmine & Citrus"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Σαπούνια"]
 ---
 {{< rawhtml >}}

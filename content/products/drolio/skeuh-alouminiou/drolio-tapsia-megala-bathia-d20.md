@@ -1,6 +1,7 @@
 ---
 title: "Drolio Ταψιά μεγάλα βαθιά D20"
-categories: ["Drolio", "Μη Τρόφιμα"]
+categories: ["Drolio"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Σκεύη αλουμινίου"]
 weight: 5
 ---

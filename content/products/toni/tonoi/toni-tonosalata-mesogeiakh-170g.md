@@ -1,6 +1,7 @@
 ---
 title: "Toni Τονοσαλάτα µεσογειακή 170g"
-categories: ["Toni", "Τρόφιμα"]
+categories: ["Toni"]
+gencat: ["Τρόφιμα"]
 tags: ["Τόνοι"]
 ---
 {{< rawhtml >}}

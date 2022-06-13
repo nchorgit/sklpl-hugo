@@ -1,6 +1,7 @@
 ---
 title: "Stampa Περφορατέρ μεταλλικό 10mm"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Μαράτα Χυμός Action 9 φρούτα 250ml"
-categories: ["Μαράτα", "Τρόφιμα"]
+categories: ["Μαράτα"]
+gencat: ["Τρόφιμα"]
 tags: ["tag"]
 ---
 {{< rawhtml >}}

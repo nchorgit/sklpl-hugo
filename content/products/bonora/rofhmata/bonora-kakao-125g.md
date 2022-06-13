@@ -1,6 +1,7 @@
 ---
 title: "Bonora Κακάο 125g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Ροφήματα"]
 ---
 {{< rawhtml >}}

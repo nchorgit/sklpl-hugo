@@ -1,6 +1,7 @@
 ---
 title: "Barron Ξηρά τροφή για σκύλους με Μοσχάρι 10kg"
-categories: ["Barron", "Μη Τρόφιμα"]
+categories: ["Barron"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 ---
 {{< rawhtml >}}

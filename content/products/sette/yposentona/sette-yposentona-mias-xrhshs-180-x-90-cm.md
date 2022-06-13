@@ -1,6 +1,7 @@
 ---
 title: "Sette Υποσέντονα μιας χρήσης 180 Χ 90 cm"
-categories: ["Sette", "Μη Τρόφιμα"]
+categories: ["Sette"]
+gencat: ["Μη Τρόφιμα"]
 tags: ["Υποσέντονα"]
 ---
 {{< rawhtml >}}

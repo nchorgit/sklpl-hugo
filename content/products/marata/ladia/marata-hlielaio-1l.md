@@ -1,6 +1,7 @@
 ---
 title: "Μαράτα Ηλιέλαιο 1L"
-categories: ["Μαράτα", "Τρόφιμα"]
+categories: ["Μαράτα"]
+gencat: ["Τρόφιμα"]
 tags: ["Λάδια"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "Buenas Γαλοπούλα καπνιστή μπαστούνι"
-categories: ["Buenas", "Τρόφιμα"]
+categories: ["Buenas"]
+gencat: ["Τρόφιμα"]
 tags: ["Αλλαντικά"]
 ---
 {{< rawhtml >}}

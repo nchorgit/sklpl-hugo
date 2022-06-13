@@ -1,6 +1,7 @@
 ---
 title: "Stampa Μαρκαδόροι ανεξίτηλοι μαύροι WT8008 12τεμ"
-categories: ["Stampa", "Όροφος"]
+categories: ["Stampa"]
+gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

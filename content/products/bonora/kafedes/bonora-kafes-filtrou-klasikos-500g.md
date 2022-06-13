@@ -1,6 +1,7 @@
 ---
 title: "Bonora Καφές φίλτρου Κλασικός 500g"
-categories: ["Bonora", "Τρόφιμα"]
+categories: ["Bonora"]
+gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 ---
 {{< rawhtml >}}

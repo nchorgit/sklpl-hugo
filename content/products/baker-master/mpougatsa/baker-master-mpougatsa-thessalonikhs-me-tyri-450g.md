@@ -1,6 +1,7 @@
 ---
 title: "Baker Master Μπουγάτσα Θεσσαλονίκης με τυρί 450g"
-categories: ["Baker Master", "Τρόφιμα"]
+categories: ["Baker Master"]
+gencat: ["Τρόφιμα"]
 tags: ["Μπουγάτσα"]
 ---
 {{< rawhtml >}}
