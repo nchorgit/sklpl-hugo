@@ -1,6 +1,6 @@
 ---
 title: "Stampa Περφορατέρ μεταλλικό 30mm"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

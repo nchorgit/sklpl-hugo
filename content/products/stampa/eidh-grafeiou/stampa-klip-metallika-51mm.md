@@ -1,6 +1,6 @@
 ---
 title: "Stampa Κλιπ μεταλλικά 51mm"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

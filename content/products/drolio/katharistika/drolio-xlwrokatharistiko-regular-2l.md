@@ -1,6 +1,6 @@
 ---
 title: "Drolio Χλωροκαθαριστικό Regular 2L"
-categories: ["Drolio"]
+categories: ["Drolio", "Μη Τρόφιμα"]
 tags: ["Καθαριστικά"]
 weight: 2
 ---

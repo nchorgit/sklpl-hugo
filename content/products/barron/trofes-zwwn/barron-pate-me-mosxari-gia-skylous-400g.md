@@ -1,6 +1,6 @@
 ---
 title: "Barron Πατέ με Μοσχάρι για σκύλους 400g"
-categories: ["Barron"]
+categories: ["Barron", "Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 ---
 {{< rawhtml >}}

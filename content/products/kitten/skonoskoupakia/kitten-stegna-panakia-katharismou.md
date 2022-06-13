@@ -1,6 +1,6 @@
 ---
 title: "Kitten Στεγνά πανάκια καθαρισμού"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Σκονοσκουπάκια"]
 ---
 {{< rawhtml >}}

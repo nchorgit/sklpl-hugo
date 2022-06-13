@@ -1,6 +1,6 @@
 ---
 title: "Bonora Σοκολάτα γάλακτος με ολόκληρα φουντούκια 100g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Σοκολάτες"]
 ---
 {{< rawhtml >}}

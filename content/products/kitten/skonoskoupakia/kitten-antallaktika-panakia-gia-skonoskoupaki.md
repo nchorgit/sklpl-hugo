@@ -1,6 +1,6 @@
 ---
 title: "Kitten Ανταλλακτικά πανάκια για σκονοσκουπάκι"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Σκονοσκουπάκια"]
 ---
 {{< rawhtml >}}

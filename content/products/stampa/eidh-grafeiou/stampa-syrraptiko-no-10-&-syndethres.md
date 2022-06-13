@@ -1,6 +1,6 @@
 ---
 title: "Stampa Συρραπτικό Νο 10 & συνδετήρες"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

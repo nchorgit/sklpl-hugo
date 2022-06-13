@@ -1,6 +1,6 @@
 ---
 title: "Master Light Λαμπτήρας Led A-60 11W B22"
-categories: ["Master Light"]
+categories: ["Master Light", "Μη Τρόφιμα"]
 tags: ["Λαμπτήρες"]
 ---
 {{< rawhtml >}}

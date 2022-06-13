@@ -1,6 +1,6 @@
 ---
 title: "Master Light Λαμπτήρας Led A-60 11W E27 Ψυχρό"
-categories: ["Master Light"]
+categories: ["Master Light", "Μη Τρόφιμα"]
 tags: ["Λαμπτήρες"]
 ---
 {{< rawhtml >}}

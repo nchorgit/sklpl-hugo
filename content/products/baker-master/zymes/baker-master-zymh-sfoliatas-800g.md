@@ -1,6 +1,6 @@
 ---
 title: "Baker Master Ζύμη σφολιάτας 800g"
-categories: ["Baker Master"]
+categories: ["Baker Master", "Τρόφιμα"]
 tags: ["Ζύμες"]
 ---
 {{< rawhtml >}}

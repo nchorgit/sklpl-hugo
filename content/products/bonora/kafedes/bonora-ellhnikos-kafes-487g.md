@@ -1,6 +1,6 @@
 ---
 title: "Bonora Ελληνικός καφές 487g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Καφέδες"]
 ---
 {{< rawhtml >}}

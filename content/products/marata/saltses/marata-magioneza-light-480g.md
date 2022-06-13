@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Μαγιονέζα light 480g"
-categories: ["Μαράτα"]
+categories: ["Μαράτα", "Τρόφιμα"]
 tags: ["Σάλτσες"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Stampa Αριθμομηχανή τσέπης 8 ψηφίων KC-160AP"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Αριθμομηχανές"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Sette Υγρά μαντηλάκια ντεμακιγιάζ με νερό Micellaire"
-categories: ["Sette"]
+categories: ["Sette", "Μη Τρόφιμα"]
 tags: ["Ντεμακιγιάζ"]
 ---
 {{< rawhtml >}}

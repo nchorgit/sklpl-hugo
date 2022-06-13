@@ -1,6 +1,6 @@
 ---
 title: "Kitten Μανταλάκια ξύλινα 24τεμ"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Μανταλάκια"]
 ---
 {{< rawhtml >}}

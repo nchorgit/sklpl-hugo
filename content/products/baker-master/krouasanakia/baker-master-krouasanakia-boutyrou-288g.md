@@ -1,6 +1,6 @@
 ---
 title: "Baker Master Κρουασανάκια βουτύρου 288g"
-categories: ["Baker Master"]
+categories: ["Baker Master", "Τρόφιμα"]
 tags: ["Κρουασανάκια"]
 ---
 {{< rawhtml >}}

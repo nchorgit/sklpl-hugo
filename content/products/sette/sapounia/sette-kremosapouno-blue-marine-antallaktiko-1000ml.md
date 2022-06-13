@@ -1,6 +1,6 @@
 ---
 title: "Sette Κρεμοσάπουνο Blue Marine Ανταλλακτικό 1000ml"
-categories: ["Sette"]
+categories: ["Sette", "Μη Τρόφιμα"]
 tags: ["Σαπούνια"]
 ---
 {{< rawhtml >}}

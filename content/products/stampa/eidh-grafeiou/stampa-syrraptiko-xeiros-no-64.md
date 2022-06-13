@@ -1,6 +1,6 @@
 ---
 title: "Stampa Συρραπτικό xειρός Nο 64"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

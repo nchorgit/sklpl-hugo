@@ -1,6 +1,6 @@
 ---
 title: "Buenas Γαλοπούλα καπνιστή & Edam σε φέτες"
-categories: ["Buenas"]
+categories: ["Buenas", "Τρόφιμα"]
 tags: ["Αλλαντικά"]
 ---
 {{< rawhtml >}}

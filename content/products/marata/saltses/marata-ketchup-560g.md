@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Ketchup 560g"
-categories: ["Μαράτα"]
+categories: ["Μαράτα", "Τρόφιμα"]
 tags: ["Σάλτσες"]
 ---
 {{< rawhtml >}}

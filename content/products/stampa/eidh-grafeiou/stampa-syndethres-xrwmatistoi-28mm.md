@@ -1,6 +1,6 @@
 ---
 title: "Stampa Συνδετήρες χρωματιστοί 28mm"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

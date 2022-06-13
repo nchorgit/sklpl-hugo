@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Γάλα χωρίς λακτόζη 1L"
 weight: 4
-categories: ["Μαράτα"]
+categories: ["Μαράτα", "Τρόφιμα"]
 tags: ["Γάλατα"]
 ---
 {{< rawhtml >}}

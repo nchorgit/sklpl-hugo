@@ -1,6 +1,6 @@
 ---
 title: "Kitten Πανάκι μικροϊνών για τζάμια"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Πανάκια"]
 ---
 {{< rawhtml >}}

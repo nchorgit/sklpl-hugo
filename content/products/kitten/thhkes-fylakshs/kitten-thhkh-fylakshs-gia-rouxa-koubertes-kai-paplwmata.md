@@ -1,6 +1,6 @@
 ---
 title: "Kitten Θήκη φύλαξης για ρούχα, κουβέρτες και παπλώματα"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Θήκες φύλαξης"]
 ---
 {{< rawhtml >}}

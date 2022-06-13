@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Χυμός Iz Blue 250ml"
-categories: ["Μαράτα"]
+categories: ["Μαράτα", "Τρόφιμα"]
 tags: ["tag"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Stampa Συνδετήρες χρωματιστοί 50mm"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

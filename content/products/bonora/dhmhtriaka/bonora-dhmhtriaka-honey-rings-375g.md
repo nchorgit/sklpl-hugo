@@ -1,6 +1,6 @@
 ---
 title: "Bonora Δημητριακά Honey Rings 375g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Δημητριακά"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Bonora Κάψουλες Espresso Ristretto 53g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Καφέδες"]
 ---
 {{< rawhtml >}}

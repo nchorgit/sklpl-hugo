@@ -1,6 +1,6 @@
 ---
 title: "Stampa Αριθμομηχανή επιτραπέζια 10 ψηφίων DC350"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Αριθμομηχανές"]
 ---
 {{< rawhtml >}}

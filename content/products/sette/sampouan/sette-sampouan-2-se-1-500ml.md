@@ -1,6 +1,6 @@
 ---
 title: "Sette Σαμπουάν 2 σε 1 500ml"
-categories: ["Sette"]
+categories: ["Sette", "Μη Τρόφιμα"]
 tags: ["Σαμπουάν"]
 ---
 {{< rawhtml >}}

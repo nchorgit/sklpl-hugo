@@ -1,6 +1,6 @@
 ---
 title: "Bonora Action Bars με μαύρη σοκολάτα"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Μπάρες δημητριακών"]
 ---
 {{< rawhtml >}}

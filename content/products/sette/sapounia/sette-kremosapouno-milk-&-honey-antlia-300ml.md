@@ -1,6 +1,6 @@
 ---
 title: "Sette Κρεμοσάπουνο Milk & Honey Αντλία 300ml"
-categories: ["Sette"]
+categories: ["Sette", "Μη Τρόφιμα"]
 tags: ["Σαπούνια"]
 ---
 {{< rawhtml >}}

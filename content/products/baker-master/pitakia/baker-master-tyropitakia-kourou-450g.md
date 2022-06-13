@@ -1,6 +1,6 @@
 ---
 title: "Baker Master Τυροπιτάκια κουρού 450g"
-categories: ["Baker Master"]
+categories: ["Baker Master", "Τρόφιμα"]
 tags: ["Πιτάκια"]
 ---
 {{< rawhtml >}}

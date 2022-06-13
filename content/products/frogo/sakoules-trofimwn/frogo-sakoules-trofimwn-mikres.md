@@ -1,6 +1,6 @@
 ---
 title: "Frogo Σακούλες τροφίµων μικρές"
-categories: ["Frogo"]
+categories: ["Frogo", "Μη Τρόφιμα"]
 tags: ["Σακούλες τροφίμων"]
 ---
 {{< rawhtml >}}

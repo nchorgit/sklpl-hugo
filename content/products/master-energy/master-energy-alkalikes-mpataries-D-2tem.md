@@ -1,6 +1,6 @@
 ---
 title: "Master Energy Αλκαλικές Μπαταρίες D 2τεμ"
-categories: ["Master Energy"]
+categories: ["Master Energy", "Μη Τρόφιμα"]
 tags: ["Μπαταρίες"]
 ---
 {{< rawhtml >}}

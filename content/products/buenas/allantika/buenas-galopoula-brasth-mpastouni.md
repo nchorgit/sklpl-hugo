@@ -1,6 +1,6 @@
 ---
 title: "Buenas Γαλοπούλα βραστή μπαστούνι"
-categories: ["Buenas"]
+categories: ["Buenas", "Τρόφιμα"]
 tags: ["Αλλαντικά"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Kitten Πανάκι μικροϊνών μεγάλης αντοχής"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Πανάκια"]
 ---
 {{< rawhtml >}}

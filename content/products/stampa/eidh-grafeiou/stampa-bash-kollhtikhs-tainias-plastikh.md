@@ -1,6 +1,6 @@
 ---
 title: "Stampa Βάση κολλητικής ταινίας πλαστική"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

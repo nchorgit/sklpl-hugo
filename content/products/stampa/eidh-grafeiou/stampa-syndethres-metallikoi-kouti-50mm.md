@@ -1,6 +1,6 @@
 ---
 title: "Stampa Συνδετήρες μεταλλικοί κουτί 50mm"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

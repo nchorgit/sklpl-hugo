@@ -1,6 +1,6 @@
 ---
 title: "Buenas Πάριζα & Edam σε φέτες"
-categories: ["Buenas"]
+categories: ["Buenas", "Τρόφιμα"]
 tags: ["Αλλαντικά"]
 ---
 {{< rawhtml >}}

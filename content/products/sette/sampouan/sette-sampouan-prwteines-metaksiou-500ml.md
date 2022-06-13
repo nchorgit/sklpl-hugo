@@ -1,6 +1,6 @@
 ---
 title: "Sette Σαμπουάν Πρωτεΐνες Μεταξιού 500ml"
-categories: ["Sette"]
+categories: ["Sette", "Μη Τρόφιμα"]
 tags: ["Σαμπουάν"]
 ---
 {{< rawhtml >}}

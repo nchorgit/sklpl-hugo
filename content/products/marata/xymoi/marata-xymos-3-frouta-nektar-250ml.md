@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Χυμός 3 φρούτα νέκταρ 250ml"
-categories: ["Μαράτα"]
+categories: ["Μαράτα", "Τρόφιμα"]
 tags: ["tag"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Bonora Πατατάκια Κυματιστά με ρίγανη 120g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Σνακ"]
 ---
 {{< rawhtml >}}

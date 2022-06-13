@@ -1,6 +1,6 @@
 ---
 title: "Bonora Γκοφρέτες με γεύση λεμονιού και βανίλιας 180g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Γκοφρέτες"]
 ---
 {{< rawhtml >}}

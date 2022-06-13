@@ -1,6 +1,6 @@
 ---
 title: "Bonora Παγωτό Καϊμάκι 580g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Παγωτά"]
 ---
 {{< rawhtml >}}

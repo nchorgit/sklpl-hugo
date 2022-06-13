@@ -1,6 +1,6 @@
 ---
 title: "Bonora Δημητριακά Action Original 375g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Δημητριακά"]
 ---
 {{< rawhtml >}}

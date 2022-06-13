@@ -1,6 +1,6 @@
 ---
 title: "Kitten Πανάκια μικροϊνών γενικής χρήσης 3τεμ"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Πανάκια"]
 ---
 {{< rawhtml >}}

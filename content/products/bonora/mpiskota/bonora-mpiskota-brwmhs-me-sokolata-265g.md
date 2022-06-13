@@ -1,6 +1,6 @@
 ---
 title: "Bonora Μπισκότα βρώμης με σοκολάτα 265g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Μπισκότα"]
 ---
 {{< rawhtml >}}

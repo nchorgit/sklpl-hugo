@@ -1,6 +1,6 @@
 ---
 title: "Barron Πατέ με Kοτόπουλο για γάτες 100g"
-categories: ["Barron"]
+categories: ["Barron", "Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 ---
 {{< rawhtml >}}

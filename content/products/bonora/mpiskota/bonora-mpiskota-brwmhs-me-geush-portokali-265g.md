@@ -1,6 +1,6 @@
 ---
 title: "Bonora Μπισκότα βρώμης με γεύση πορτοκάλι 265g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Μπισκότα"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Bonora Κακάο 125g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Ροφήματα"]
 ---
 {{< rawhtml >}}

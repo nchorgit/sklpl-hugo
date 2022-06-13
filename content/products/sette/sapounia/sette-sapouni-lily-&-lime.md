@@ -1,6 +1,6 @@
 ---
 title: "Sette Σαπούνι Lily & Lime"
-categories: ["Sette"]
+categories: ["Sette", "Μη Τρόφιμα"]
 tags: ["Σαπούνια"]
 ---
 {{< rawhtml >}}

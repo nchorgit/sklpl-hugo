@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Regato σκληρό τυρί 270g"
-categories: ["Μαράτα"]
+categories: ["Μαράτα", "Τρόφιμα"]
 tags: ["Τυροκομικά"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Barron Ξηρά τροφή για γάτες με Μοσχάρι 2kg"
-categories: ["Barron"]
+categories: ["Barron", "Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 ---
 {{< rawhtml >}}

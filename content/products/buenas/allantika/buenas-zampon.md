@@ -1,6 +1,6 @@
 ---
 title: "Buenas Ζαμπόν"
-categories: ["Buenas"]
+categories: ["Buenas", "Τρόφιμα"]
 tags: ["Αλλαντικά"]
 ---
 {{< rawhtml >}}

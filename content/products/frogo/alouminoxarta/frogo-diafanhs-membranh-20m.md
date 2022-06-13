@@ -1,6 +1,6 @@
 ---
 title: "Frogo Διαφανής Μεμβράνη 20m"
-categories: ["Frogo"]
+categories: ["Frogo", "Μη Τρόφιμα"]
 tags: ["Αλουμινόχαρτα"]
 ---
 {{< rawhtml >}}

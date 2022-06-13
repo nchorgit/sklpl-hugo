@@ -1,6 +1,6 @@
 ---
 title: "Barron Μπουκίτσες με Κοτόπουλο για σκύλους 400g"
-categories: ["Barron"]
+categories: ["Barron", "Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 ---
 {{< rawhtml >}}

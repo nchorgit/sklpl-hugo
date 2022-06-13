@@ -1,6 +1,6 @@
 ---
 title: "Bonora Κάψουλες Espresso Lungo 53g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Καφέδες"]
 ---
 {{< rawhtml >}}

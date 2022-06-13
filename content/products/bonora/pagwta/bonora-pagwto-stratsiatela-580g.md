@@ -1,6 +1,6 @@
 ---
 title: "Bonora Παγωτό Στρατσιατέλα 580g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Παγωτά"]
 ---
 {{< rawhtml >}}

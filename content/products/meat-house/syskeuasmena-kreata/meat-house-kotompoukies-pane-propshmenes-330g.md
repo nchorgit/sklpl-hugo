@@ -1,6 +1,6 @@
 ---
 title: "Meat House Κοτομπουκιές πανέ προψημένες 330g"
-categories: ["Meat House"]
+categories: ["Meat House", "Τρόφιμα"]
 tags: ["Συσκευασμένα κρέατα"]
 ---
 {{< rawhtml >}}

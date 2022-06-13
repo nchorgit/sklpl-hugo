@@ -1,6 +1,6 @@
 ---
 title: "Kitten Απλώστρα ρούχων κρεμαστή πορτοκαλί"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Απλώστρες"]
 ---
 {{< rawhtml >}}

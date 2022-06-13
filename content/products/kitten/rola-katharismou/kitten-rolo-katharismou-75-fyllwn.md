@@ -1,6 +1,6 @@
 ---
 title: "Kitten Ρολό καθαρισμού 75 φύλλων"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Ρολά καθαρισμού"]
 ---
 {{< rawhtml >}}

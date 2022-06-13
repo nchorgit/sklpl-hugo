@@ -1,6 +1,6 @@
 ---
 title: "Bonora Μαρμελάδα Έξτρα Ροδάκινο 450g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Μαρμελάδες"]
 ---
 {{< rawhtml >}}

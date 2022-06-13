@@ -1,6 +1,6 @@
 ---
 title: "Bonora Πατατάκια Κυματιστά με γεύση μπάρμπεκιου 200g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Σνακ"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Kitten Σπογγοπετσέτες Νο 1"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Σπογγοπετσέτες"]
 ---
 {{< rawhtml >}}

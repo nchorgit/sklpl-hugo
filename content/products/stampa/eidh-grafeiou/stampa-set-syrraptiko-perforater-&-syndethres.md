@@ -1,6 +1,6 @@
 ---
 title: "Stampa Σετ συρραπτικό, περφορατέρ & συνδετήρες"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

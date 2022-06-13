@@ -1,6 +1,6 @@
 ---
 title: "Master Light Λαμπτήρας Led Κερί 7W E14"
-categories: ["Master Light"]
+categories: ["Master Light", "Μη Τρόφιμα"]
 tags: ["Λαμπτήρες"]
 ---
 {{< rawhtml >}}

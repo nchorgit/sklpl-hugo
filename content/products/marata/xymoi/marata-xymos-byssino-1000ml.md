@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Χυμός βύσσινο 1000ml"
-categories: ["Μαράτα"]
+categories: ["Μαράτα", "Τρόφιμα"]
 tags: ["tag"]
 ---
 {{< rawhtml >}}

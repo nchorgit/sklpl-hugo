@@ -1,6 +1,6 @@
 ---
 title: "Bonora Δημητριακά Bran Flakes 375g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Δημητριακά"]
 ---
 {{< rawhtml >}}

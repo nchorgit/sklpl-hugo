@@ -1,6 +1,6 @@
 ---
 title: "Bonora Μπισκότα Digestive 300g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Μπισκότα"]
 ---
 {{< rawhtml >}}

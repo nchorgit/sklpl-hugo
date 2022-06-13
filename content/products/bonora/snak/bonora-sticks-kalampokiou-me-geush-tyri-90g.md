@@ -1,6 +1,6 @@
 ---
 title: "Bonora Sticks καλαμποκιού με γεύση τυρί 90g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Σνακ"]
 ---
 {{< rawhtml >}}

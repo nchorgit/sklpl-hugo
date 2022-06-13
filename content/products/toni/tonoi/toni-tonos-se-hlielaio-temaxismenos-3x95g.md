@@ -1,6 +1,6 @@
 ---
 title: "Toni Τόνος σε ηλιέλαιο τεμαχισμένος 3X95g"
-categories: ["Toni"]
+categories: ["Toni", "Τρόφιμα"]
 tags: ["Τόνοι"]
 ---
 {{< rawhtml >}}

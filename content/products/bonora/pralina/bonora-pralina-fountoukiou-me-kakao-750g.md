@@ -1,6 +1,6 @@
 ---
 title: "Bonora Πραλίνα φουντουκιού με κακάο 750g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Πραλίνα"]
 ---
 {{< rawhtml >}}

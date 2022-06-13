@@ -1,6 +1,6 @@
 ---
 title: "Bonora Πατατάκια με ρίγανη 200g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Σνακ"]
 ---
 {{< rawhtml >}}

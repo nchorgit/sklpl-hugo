@@ -1,6 +1,6 @@
 ---
 title: "Bonora Ρόφημα καφέ Caramel Macchiato 250ml"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Ροφήματα"]
 ---
 {{< rawhtml >}}

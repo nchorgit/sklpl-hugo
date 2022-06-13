@@ -1,6 +1,6 @@
 ---
 title: "Fisherman's Boat Φιλέτο τόνου σε ηλιέλαιο 200g"
-categories: ["Fisherman's Boat"]
+categories: ["Fisherman's Boat", "Τρόφιμα"]
 tags: ["Τόνοι"]
 ---
 {{< rawhtml >}}

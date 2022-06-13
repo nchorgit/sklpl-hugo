@@ -1,6 +1,6 @@
 ---
 title: "Bonora Σοκολάτα γάλακτος αμυγδάλου 100g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Σοκολάτες"]
 ---
 {{< rawhtml >}}

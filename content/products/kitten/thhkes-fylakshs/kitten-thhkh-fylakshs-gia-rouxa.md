@@ -1,6 +1,6 @@
 ---
 title: "Kitten Θήκη φύλαξης για ρούχα"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Θήκες φύλαξης"]
 ---
 {{< rawhtml >}}

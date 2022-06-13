@@ -1,6 +1,6 @@
 ---
 title: "Barron Μους με Μοσχάρι για γάτες 85g"
-categories: ["Barron"]
+categories: ["Barron", "Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 ---
 {{< rawhtml >}}

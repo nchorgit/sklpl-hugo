@@ -1,6 +1,6 @@
 ---
 title: "Bonora Παγωτό με γεύση Βανίλια 580g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Παγωτά"]
 ---
 {{< rawhtml >}}

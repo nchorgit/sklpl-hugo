@@ -1,6 +1,6 @@
 ---
 title: "Stampa Αριθμομηχανή επιτραπέζια 12 ψηφίων DC352"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Αριθμομηχανές"]
 ---
 {{< rawhtml >}}

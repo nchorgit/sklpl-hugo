@@ -1,6 +1,6 @@
 ---
 title: "Barron Plus Ξηρά τροφή για γάτες με Μοσχάρι 1Kg"
-categories: ["Barron"]
+categories: ["Barron", "Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Sette Αφρόλουτρο Γιασεμί 500ml"
-categories: ["Sette"]
+categories: ["Sette", "Μη Τρόφιμα"]
 tags: ["Αφρόλουτρα"]
 ---
 {{< rawhtml >}}

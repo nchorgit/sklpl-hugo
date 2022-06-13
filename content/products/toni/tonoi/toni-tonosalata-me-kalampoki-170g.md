@@ -1,6 +1,6 @@
 ---
 title: "Toni Τονοσαλάτα με καλαμπόκι 170g"
-categories: ["Toni"]
+categories: ["Toni", "Τρόφιμα"]
 tags: ["Τόνοι"]
 ---
 {{< rawhtml >}}

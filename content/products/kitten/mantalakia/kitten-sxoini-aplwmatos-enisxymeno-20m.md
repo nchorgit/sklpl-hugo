@@ -1,6 +1,6 @@
 ---
 title: "Kitten Σχοινί απλώματος ενισχυμένο 20m"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Μανταλάκια"]
 ---
 {{< rawhtml >}}

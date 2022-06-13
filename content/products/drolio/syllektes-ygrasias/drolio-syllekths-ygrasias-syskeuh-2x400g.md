@@ -1,6 +1,6 @@
 ---
 title: "Drolio Συλλέκτης υγρασίας Συσκευή 2X400g"
-categories: ["Drolio"]
+categories: ["Drolio", "Μη Τρόφιμα"]
 tags: ["Συλλέκτες υγρασίας"]
 weight: 6
 ---

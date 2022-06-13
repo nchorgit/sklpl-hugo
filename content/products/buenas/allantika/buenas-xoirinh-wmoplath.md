@@ -1,6 +1,6 @@
 ---
 title: "Buenas Χοιρινή ωμοπλάτη"
-categories: ["Buenas"]
+categories: ["Buenas", "Τρόφιμα"]
 tags: ["Αλλαντικά"]
 ---
 {{< rawhtml >}}

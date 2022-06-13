@@ -1,6 +1,6 @@
 ---
 title: "Stampa Ψαλίδι γραφείου 339B"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Baker Master Pizza Μαργαρίτα 415g"
-categories: ["Baker Master"]
+categories: ["Baker Master", "Τρόφιμα"]
 tags: ["Πίτσες"]
 ---
 {{< rawhtml >}}

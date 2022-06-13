@@ -1,6 +1,6 @@
 ---
 title: "Bonora Ρόφημα καφέ Vanilla Macchiato 250ml"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Ροφήματα"]
 ---
 {{< rawhtml >}}

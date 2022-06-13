@@ -1,6 +1,6 @@
 ---
 title: "Stampa Μαρκαδόροι υπογράμμισης WT7001 4τεμ"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

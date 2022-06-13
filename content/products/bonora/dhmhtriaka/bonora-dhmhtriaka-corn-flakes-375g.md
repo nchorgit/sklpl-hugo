@@ -1,6 +1,6 @@
 ---
 title: "Bonora Δημητριακά Corn Flakes 375g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Δημητριακά"]
 ---
 {{< rawhtml >}}

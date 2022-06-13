@@ -1,6 +1,6 @@
 ---
 title: "Tickit Ψαλίδι σχολικό GR-SS-129P"
-categories: ["Tickit"]
+categories: ["Tickit", "Όροφος"]
 tags: ["Σχολικά είδη"]
 ---
 {{< rawhtml >}}

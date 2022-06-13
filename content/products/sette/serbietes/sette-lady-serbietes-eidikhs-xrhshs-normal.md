@@ -1,6 +1,6 @@
 ---
 title: "Sette Lady Σερβιέτες ειδικής χρήσης Normal"
-categories: ["Sette"]
+categories: ["Sette", "Μη Τρόφιμα"]
 tags: ["Σερβιέτες"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Stampa Συρραπτικό Nο 24/6 & 26/6 & συνδετήρες"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

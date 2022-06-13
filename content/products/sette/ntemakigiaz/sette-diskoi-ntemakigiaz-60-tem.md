@@ -1,6 +1,6 @@
 ---
 title: "Sette Δίσκοι Ντεμακιγιάζ 60 τεμ."
-categories: ["Sette"]
+categories: ["Sette", "Μη Τρόφιμα"]
 tags: ["Ντεμακιγιάζ"]
 ---
 {{< rawhtml >}}

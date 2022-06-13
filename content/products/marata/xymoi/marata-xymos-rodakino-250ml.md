@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Χυμός ροδάκινο 250ml"
-categories: ["Μαράτα"]
+categories: ["Μαράτα", "Τρόφιμα"]
 tags: ["tag"]
 ---
 {{< rawhtml >}}

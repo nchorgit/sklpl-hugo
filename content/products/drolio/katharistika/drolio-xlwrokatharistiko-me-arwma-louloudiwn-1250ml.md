@@ -1,6 +1,6 @@
 ---
 title: "Drolio Χλωροκαθαριστικό με άρωμα λουλουδιών 1250ml"
-categories: ["Drolio"]
+categories: ["Drolio", "Μη Τρόφιμα"]
 tags: ["Καθαριστικά"]
 weight: 2
 ---

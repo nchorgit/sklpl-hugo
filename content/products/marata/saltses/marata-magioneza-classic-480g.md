@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Μαγιονέζα classic 480g"
-categories: ["Μαράτα"]
+categories: ["Μαράτα", "Τρόφιμα"]
 tags: ["Σάλτσες"]
 ---
 {{< rawhtml >}}

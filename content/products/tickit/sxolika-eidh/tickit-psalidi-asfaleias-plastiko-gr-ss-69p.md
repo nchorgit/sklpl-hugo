@@ -1,6 +1,6 @@
 ---
 title: "Tickit Ψαλίδι ασφαλείας πλαστικό GR-SS-69P"
-categories: ["Tickit"]
+categories: ["Tickit", "Όροφος"]
 tags: ["Σχολικά είδη"]
 ---
 {{< rawhtml >}}

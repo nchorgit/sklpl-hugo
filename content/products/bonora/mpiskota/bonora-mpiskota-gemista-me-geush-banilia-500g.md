@@ -1,6 +1,6 @@
 ---
 title: "Bonora Μπισκότα γεμιστά με γεύση βανίλια 500g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Μπισκότα"]
 ---
 {{< rawhtml >}}

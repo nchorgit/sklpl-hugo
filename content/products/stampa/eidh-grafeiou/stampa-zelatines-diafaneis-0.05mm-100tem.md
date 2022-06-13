@@ -1,6 +1,6 @@
 ---
 title: "Stampa Ζελατίνες διαφανείς 0.05mm 100τεμ"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

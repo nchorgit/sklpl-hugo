@@ -1,6 +1,6 @@
 ---
 title: "Kitten Καλάθι για μανταλάκια"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Μανταλάκια"]
 ---
 {{< rawhtml >}}

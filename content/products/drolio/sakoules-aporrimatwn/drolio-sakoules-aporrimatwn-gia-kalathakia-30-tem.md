@@ -1,6 +1,6 @@
 ---
 title: "Drolio Σακούλες Απορριμάτων για καλαθάκια 30 τεμ."
-categories: ["Drolio"]
+categories: ["Drolio", "Μη Τρόφιμα"]
 tags: ["Σακούλες Απορριμάτων"]
 weight: 4
 ---

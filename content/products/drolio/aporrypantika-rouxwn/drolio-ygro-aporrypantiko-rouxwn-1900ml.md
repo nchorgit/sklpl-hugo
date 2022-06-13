@@ -1,6 +1,6 @@
 ---
 title: "Drolio Υγρό απορρυπαντικό ρούχων 1900ml"
-categories: ["Drolio"]
+categories: ["Drolio", "Μη Τρόφιμα"]
 tags: ["Απορρυπαντικά Ρούχων"]
 weight: 1
 

@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Χυμός λεμόνι 1000ml"
-categories: ["Μαράτα"]
+categories: ["Μαράτα", "Τρόφιμα"]
 tags: ["tag"]
 ---
 {{< rawhtml >}}

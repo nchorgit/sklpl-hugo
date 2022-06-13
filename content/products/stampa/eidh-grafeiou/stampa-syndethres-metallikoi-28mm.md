@@ -1,6 +1,6 @@
 ---
 title: "Stampa Συνδετήρες μεταλλικοί 28mm"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

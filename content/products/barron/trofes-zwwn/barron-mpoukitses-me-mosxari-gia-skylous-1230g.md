@@ -1,6 +1,6 @@
 ---
 title: "Barron Μπουκίτσες με Μοσχάρι για σκύλους 1230g"
-categories: ["Barron"]
+categories: ["Barron", "Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 ---
 {{< rawhtml >}}

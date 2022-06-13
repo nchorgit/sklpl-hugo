@@ -1,6 +1,6 @@
 ---
 title: "Baker Master Μπουγάτσα Θεσσαλονίκης με κρέμα 815g"
-categories: ["Baker Master"]
+categories: ["Baker Master", "Τρόφιμα"]
 tags: ["Μπουγάτσα"]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,6 @@
 ---
 title: "Barron Ξηρά τροφή για σκύλους με Κοτόπουλο 3kg"
-categories: ["Barron"]
+categories: ["Barron", "Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 ---
 {{< rawhtml >}}

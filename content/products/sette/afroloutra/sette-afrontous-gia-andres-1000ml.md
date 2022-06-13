@@ -1,6 +1,6 @@
 ---
 title: "Sette Αφρόντους για άνδρες 1000ml"
-categories: ["Sette"]
+categories: ["Sette", "Μη Τρόφιμα"]
 tags: ["Αφρόλουτρα"]
 ---
 {{< rawhtml >}}

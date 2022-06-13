@@ -1,6 +1,6 @@
 ---
 title: "Drolio Υγρό απορρυπαντικό ρούχων Μασσαλίας 1,5L"
-categories: ["Drolio"]
+categories: ["Drolio", "Μη Τρόφιμα"]
 tags: ["Απορρυπαντικά Ρούχων"]
 weight: 1
 

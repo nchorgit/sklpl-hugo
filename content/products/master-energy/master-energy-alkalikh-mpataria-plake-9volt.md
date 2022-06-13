@@ -1,6 +1,6 @@
 ---
 title: "Master Energy Αλκαλική μπαταρία πλακέ 9Volt"
-categories: ["Master Energy"]
+categories: ["Master Energy", "Μη Τρόφιμα"]
 tags: ["Μπαταρίες"]
 ---
 {{< rawhtml >}}

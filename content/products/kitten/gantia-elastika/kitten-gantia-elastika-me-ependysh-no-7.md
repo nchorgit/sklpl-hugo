@@ -1,6 +1,6 @@
 ---
 title: "Kitten Γάντια ελαστικά με επένδυση Νο 7"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Γάντια ελαστικά"]
 ---
 {{< rawhtml >}}

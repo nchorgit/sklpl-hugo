@@ -1,6 +1,6 @@
 ---
 title: "Bonora Action Bars με μπισκότο και λευκή σοκολάτα"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Μπάρες δημητριακών"]
 ---
 {{< rawhtml >}}

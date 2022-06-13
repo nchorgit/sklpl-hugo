@@ -1,6 +1,6 @@
 ---
 title: "Stampa Καρφάκια πίνακα χρωματιστά"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

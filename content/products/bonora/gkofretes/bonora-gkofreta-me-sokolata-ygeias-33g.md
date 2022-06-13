@@ -1,6 +1,6 @@
 ---
 title: "Bonora Γκοφρέτα με σοκολάτα υγείας 33g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Γκοφρέτες"]
 ---
 {{< rawhtml >}}

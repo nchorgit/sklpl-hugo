@@ -1,6 +1,6 @@
 ---
 title: "Frogo Αλουμινόχαρτο 10m"
-categories: ["Frogo"]
+categories: ["Frogo", "Μη Τρόφιμα"]
 tags: ["Αλουμινόχαρτα"]
 ---
 {{< rawhtml >}}

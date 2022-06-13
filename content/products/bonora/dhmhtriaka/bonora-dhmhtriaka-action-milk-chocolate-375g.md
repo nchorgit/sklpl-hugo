@@ -1,6 +1,6 @@
 ---
 title: "Bonora Δημητριακά Action Milk Chocolate 375g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Δημητριακά"]
 ---
 {{< rawhtml >}}

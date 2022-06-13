@@ -1,6 +1,6 @@
 ---
 title: "Kitten Σκονοσκουπάκι"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Σκονοσκουπάκια"]
 ---
 {{< rawhtml >}}

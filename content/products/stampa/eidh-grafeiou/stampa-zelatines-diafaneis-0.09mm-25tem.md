@@ -1,6 +1,6 @@
 ---
 title: "Stampa Ζελατίνες διαφανείς 0.09mm 25τεμ"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

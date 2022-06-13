@@ -1,6 +1,6 @@
 ---
 title: "Stampa Μαρκαδόροι γραφής μπλε WT5810 3τεμ"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}

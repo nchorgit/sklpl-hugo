@@ -1,6 +1,6 @@
 ---
 title: "Tickit Τετράδιο ριγέ 80 φύλλων"
-categories: ["Tickit"]
+categories: ["Tickit", "Όροφος"]
 tags: ["Τετράδια"]
 ---
 {{< rawhtml >}}

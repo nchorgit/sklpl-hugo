@@ -1,6 +1,6 @@
 ---
 title: "Bonora Στιγµιαίος καφές 200g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Καφέδες"]
 ---
 {{< rawhtml >}}

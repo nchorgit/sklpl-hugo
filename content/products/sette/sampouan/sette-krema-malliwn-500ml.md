@@ -1,6 +1,6 @@
 ---
 title: "Sette Κρέμα μαλλιών 500ml"
-categories: ["Sette"]
+categories: ["Sette", "Μη Τρόφιμα"]
 tags: ["Σαμπουάν"]
 ---
 {{< rawhtml >}}

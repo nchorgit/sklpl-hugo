@@ -1,6 +1,6 @@
 ---
 title: "Master Energy Αλκαλικές Μπαταρίες AA 4τεμ"
-categories: ["Master Energy"]
+categories: ["Master Energy", "Μη Τρόφιμα"]
 tags: ["Μπαταρίες"]
 ---
 {{< rawhtml >}}

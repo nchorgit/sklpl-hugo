@@ -1,6 +1,6 @@
 ---
 title: "Bonora Στιγµιαίος καφές 100g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Καφέδες"]
 ---
 {{< rawhtml >}}

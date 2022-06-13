@@ -1,6 +1,6 @@
 ---
 title: "Kitten Σφουγγάρι – γόμα καθαρισμού επιφανειών"
-categories: ["Kitten"]
+categories: ["Kitten", "Μη Τρόφιμα"]
 tags: ["Σφουγγάρια"]
 ---
 {{< rawhtml >}}

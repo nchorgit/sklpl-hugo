@@ -1,6 +1,6 @@
 ---
 title: "Bonora Πατατάκια Κυματιστά με αλάτι 120g"
-categories: ["Bonora"]
+categories: ["Bonora", "Τρόφιμα"]
 tags: ["Σνακ"]
 ---
 {{< rawhtml >}}

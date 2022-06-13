@@ -1,6 +1,6 @@
 ---
 title: "Stampa Στυλό διαρκείας μπλέ WT9906"
-categories: ["Stampa"]
+categories: ["Stampa", "Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
 {{< rawhtml >}}
