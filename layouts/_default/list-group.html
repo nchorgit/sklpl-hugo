@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="el">
+
+<head>
+    {{ partial "head" . }}
+</head>
+
+<body>
+    {{ partial "header" . }}
+    <div class="cattitle">
+        <div class="stitle">
+            <i class="fas fa-list-alt" aria-hidden="true"></i>Λίστες Προϊόντων
+        </div>
+    </div>
+    <div class="wrapper">
+        <input id="myInput" type="text" placeholder="Search..">
+        <div class="mtrof">
+
+
+            {{ range $key, $taxonomy := .Site.Taxonomies.gencat }} {{ $cnt := .Count }}
+            <div class="gencat">
+                <div class="list-title-out">
+                    <div class="list-title">
+                        <p>{{ $key }}</p>
+                    </div>
+                    <p>{{$cnt}}</p>
+                </div>
+                <div class="dgrid">
+                    <ul id="myList">
+                        {{ range $taxonomy.Pages }}
+                        <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+            {{ end }}
+
+
+        </div>
+    </div>
+
+    <!--
+  <div class="mtrof">
+    
+    <section>
+        <ul id="all-taxonomies">
+            {{ range $taxonomy_term, $taxonomy := .Site.Taxonomies }}
+                {{ with $.Site.GetPage (printf "/%s" $taxonomy_term) }}
+                    <li><a href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
+                        <ul>
+                            {{ range $key, $value := $taxonomy }}
+                                <li>{{ $key }}</li>
+                                <ul>
+                                    {{ range $value.Pages }}
+                                        <li hugo-nav="{{ .RelPermalink}}">
+                                            <a href="{{ .Permalink}}">{{ .LinkTitle }}</a>
+                                        </li>
+                                    {{ end }}
+                                </ul>
+                            {{ end }}
+                        </ul>
+                    </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </section>
+
+
+</div>-->
+
+
+    <script>
+        $('.list-title').each(function () {
+            var text = $(this).text();
+            $(this).text(text.replace('-', ' '));
+        });
+
+        
+
+        $(document).ready(function(){
+  $("#myInput").on("keyup", function() {
+    var value = $(this).val().toLowerCase();
+    $("ul *").filter(function() {
+      $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    });
+  });
+});
+    </script>
+    <link rel="stylesheet" href="/allcat.css">
+    <style>
+
+
+        .gencat:nth-child(1) {
+            order: 2;
+        }
+
+        .gencat:nth-child(2) {
+            order: 1;
+        }
+
+        .gencat:nth-child(3) {
+            order: 5;
+        }
+    </style>
+    {{ partial "footer" . }}
+</body>
+
+</html>

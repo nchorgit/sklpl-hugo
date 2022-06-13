@@ -71,3 +71,65 @@ sup {
     right: 15px;
     font-weight: bold;
 }
+
+.list-title-out {
+    text-transform: capitalize;
+    background: #eee;
+    padding: 0px;
+    margin: 0;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 6px 6px 0 0;
+    font-size: 20px;
+    color: #4a4949;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list-title {
+    margin-right: 15px;
+}
+.list-title-out p {
+    color: #fff;
+    background: #d91a32;
+    border-radius: 4px;
+    width: auto;
+    display: inline-block;
+    height: 26px;
+    text-align: center;
+    line-height: 26px;
+    padding: 0 10px;
+    font-weight: bold;
+} 
+
+
+
+
+    .mtrof {
+    display: grid;
+    
+}
+
+.gencat ul {
+    list-style-type: none;
+    padding: 15px;
+    display: grid;
+    grid-gap: 6px;
+    grid-template-columns: repeat( auto-fit, minmax(413px, 1fr) );
+    margin-top: 0px;
+    border: 2px solid #eee;
+}
+
+.gencat li a {
+    display: flex;
+    height: 48px;
+    padding: 10px 55px;
+    align-items: center;
+    color: #444;
+    margin: 0;
+    background: #efe2de;
+    text-align: center;
+    justify-content: center;
+    border-radius: 4px;
+}
+

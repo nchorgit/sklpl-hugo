@@ -9,16 +9,19 @@
     {{ partial "header" . }}
     <div class="cattitle">
         <div class="stitle">
-            <i class="fas fa-list-alt" aria-hidden="true"></i>Λίστες Προϊόντων
+            <i class="fas fa-list-alt" aria-hidden="true"></i>Λίστες Προϊόντων ανά Ετικέτα
         </div>
     </div>
     <div class="wrapper">
         <div class="mtrof">
     
       
-            {{ range $key, $taxonomy := .Site.Taxonomies.gencat }}
+            {{ range $key, $taxonomy := .Site.Taxonomies.categories }} {{ $cnt := .Count }}
             <div class="gencat">
-            <div class="list-title">{{ $key }}</div>
+                <div class="list-title-out">
+                    <div class="list-title"><p>{{ $key }}</p> </div>
+                    <p>{{$cnt}}</p>
+                </div>
             <ul>
                 {{ range $taxonomy.Pages }}
                 <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
@@ -68,68 +71,7 @@
    });
    </script>
 <link rel="stylesheet" href="/allcat.css">
-<style>
-  .list-title {
-    text-transform: capitalize;
-    background: red;
-    padding: 15px;
-    margin: 0;
-    text-align: center;
-    font-weight: bold;
-    border-radius: 6px 6px 0 0;
-    font-size: 20px;
-    color: #fff;
-}
 
-.gencat:nth-child(2) .list-title {
-    background: #ff5722;
-}
-
-.gencat:nth-child(1) .list-title {
-    background: #22af10;
-}
-.gencat:nth-child(1) {
-    order: 2;
-}
-
-.gencat:nth-child(2) {
-    order: 1;
-}
-
-.gencat:nth-child(3) {
-    order: 5;
-}
-
-
-    .mtrof {
-    display: grid;
-    
-}
-
-.gencat ul {
-    list-style-type: none;
-    padding: 15px;
-    display: grid;
-    grid-gap: 6px;
-    grid-template-columns: repeat( auto-fit, minmax(413px, 1fr) );
-    margin-top: 0px;
-    border: 2px solid #eee;
-}
-
-.gencat li a {
-    display: flex;
-    height: 48px;
-    padding: 10px 55px;
-    align-items: center;
-    color: #444;
-    margin: 0;
-    background: #efe2de;
-    text-align: center;
-    justify-content: center;
-    border-radius: 4px;
-}
-
-</style>
 {{ partial "footer" . }}
 </body>
 </html>

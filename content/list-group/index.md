@@ -1,4 +1,4 @@
 ---
-layout: lists-team
+layout: list-group
 title: Ομάδες Προϊόντων
 ---
