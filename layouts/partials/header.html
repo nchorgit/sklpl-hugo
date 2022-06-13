@@ -12,8 +12,8 @@
 
       <div class="line"></div>
       <nav>
-        <a href="/all-categories"><i class="fas fa-tags" aria-hidden="true"></i> Ετικέτες</a>
-        <a href="/all-labels"><i class="far fa-clone" aria-hidden="true"></i> Κατηγορίες</a>
+        <a href="/all-labels"><i class="fas fa-tags" aria-hidden="true"></i> Ετικέτες</a>
+        <a href="/all-categories"><i class="far fa-clone" aria-hidden="true"></i> Κατηγορίες</a>
         <a href=""><i class="fas fa-list-alt"></i> Λίστες</a>
         <a class="search" href="/search"><i class="fas fa-search"></i> Αναζήτηση</a>
       </nav>
@@ -95,7 +95,9 @@
         font-weight: bold;
         text-decoration: none;
       }
-
+nav a:hover {
+  background: #333;
+}
       a.search {
     display: flex;
     align-items: center;
@@ -103,10 +105,12 @@
     background: #f47920;
     position: absolute;
     right: 15px;
-    border-radius: 4px
-px
-;
+    border-radius: 4px;
 }
+a.search:hover {
+  background: #ce4227;
+}
+
       a.search img {
         width: 20px;
       }
