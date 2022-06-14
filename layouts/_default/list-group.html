@@ -7,13 +7,20 @@
 
 <body>
     {{ partial "header" . }}
-    <div class="cattitle">
-        <div class="stitle">
-            <i class="fas fa-list-alt" aria-hidden="true"></i>Λίστες Προϊόντων
+    <div class="ctout">
+        <div class="cattitle">
+            <div class="stitle">
+                <i class="fas fa-list-alt" aria-hidden="true"></i>Λίστες Προϊόντων
+            </div>
+            <div class="filter-search">
+                <div class="filter"><i class="fas fa-filter"></i> Φίλτρο</div>
+                <div class="fak"><i class="fas fa-search" aria-hidden="true"></i></div>
+                <input id="myInput" type="text" placeholder="Περιγραφή">
+            </div>
         </div>
     </div>
     <div class="wrapper">
-        <input id="myInput" type="text" placeholder="Search..">
+   
         <div class="mtrof">
 
 

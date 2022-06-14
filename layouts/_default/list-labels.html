@@ -7,11 +7,23 @@
 
 <body>
     {{ partial "header" . }}
-    <div class="cattitle">
-        <div class="stitle">
-            <i class="fas fa-list-alt" aria-hidden="true"></i>Λίστες Προϊόντων ανά Ετικέτα
+
+    <div class="ctout">
+        <div class="cattitle">
+            <div class="stitle">
+                <i class="fas fa-list-alt" aria-hidden="true"></i>Λίστες Προϊόντων ανά Ετικέτα
+            </div>
+            <div class="filter-search">
+                <div class="filter"><i class="fas fa-filter"></i> Φίλτρο</div>
+                <div class="fak"><i class="fas fa-search" aria-hidden="true"></i></div>
+                <input id="myInput" type="text" placeholder="Περιγραφή">
+            </div>
         </div>
     </div>
+
+
+
+
     <div class="wrapper">
         <div class="mtrof">
     
@@ -65,11 +77,22 @@
   
 
 <script>
-    $('.list-title').each(function() {
-       var text = $(this).text();
-       $(this).text(text.replace('-', ' ')); 
-   });
-   </script>
+    $('.list-title').each(function () {
+        var text = $(this).text();
+        $(this).text(text.replace('-', ' '));
+    });
+
+
+
+    $(document).ready(function () {
+        $("#myInput").on("keyup", function () {
+            var value = $(this).val().toLowerCase();
+            $("ul *").filter(function () {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+        });
+    });
+</script>
 <link rel="stylesheet" href="/allcat.css">
 
 {{ partial "footer" . }}

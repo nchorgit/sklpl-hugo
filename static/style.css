@@ -29,13 +29,25 @@ a:hover {
     transition: all .3s;
 }
 
-.cattitle {
+/*.cattitle {
     padding: 25px 15px;
     text-align: center;
     background: #efe2de;
     margin-top: 70px;
     font-size: 18px;
     color: #6f6056;
+    border-bottom: 0px solid #e5d3c2;
+    border-radius: 0;
+    margin-bottom: -65px;
+}*/
+
+.cattitle {
+    padding: 25px 15px;
+    text-align: center;
+    background: #3a3939;
+    margin-top: 70px;
+    font-size: 23px;
+    color: #e0dddb;
     border-bottom: 0px solid #e5d3c2;
     border-radius: 0;
     margin-bottom: -65px;
@@ -50,17 +62,23 @@ a:hover {
     padding: 5px 20px;
 }
 
-.cattitle strong {
+/*.cattitle strong {
     padding: 5px 10px;
     background: #ffffff;
     color: #948272;
     border-radius: 4px;
     margin-left: 5px;
-}
+}*/
 
+.cattitle strong {
+    padding: 10px 15px;
+    border-left: 2px solid #555;
+    margin-left: 15px;
+}
 .cattitle i {
-    opacity: .5;
+    opacity: 1;
     margin-right: 5px;
+    color:orange;
 }
 
 .spages1 {

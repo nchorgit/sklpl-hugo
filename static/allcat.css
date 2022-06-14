@@ -11,14 +11,22 @@
 
     display: inline-block;
     padding: 0;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
     border-radius: 6px;
     color:#eee;
 }
-
+.ctout {
+    background: #3a3939;
+}
 .cattitle {
-    background: #4a4949;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: space-between;
+    max-width: 1300px;
+    margin: 70px auto -65px auto;
 }
 
 .cattitle i {
@@ -43,7 +51,7 @@
 
 .tagbutton a {
     padding: 15px;
-    background: #efdcca;
+    background: #efe2de;
     width: -webkit-fill-available;
     display: flex;
     align-items: center;
@@ -53,7 +61,8 @@
     border-radius: 4px;
 }
 
-.tagbutton a:hover {
+.tagbutton a:hover,
+.gencat li a:hover {
     background: #333;
     color: #eee;
 }
@@ -118,7 +127,11 @@ sup {
     grid-template-columns: repeat( auto-fit, minmax(413px, 1fr) );
     margin-top: 0px;
     border: 2px solid #eee;
+    border-radius: 0 0 6px 6px;
 }
+
+
+
 
 .gencat li a {
     display: flex;
@@ -133,3 +146,55 @@ sup {
     border-radius: 4px;
 }
 
+input#myInput {
+    border: 2px solid #f47920;
+    padding: 0px 15px 0px 43px; 
+    border-radius: 0 4px 4px 0;
+    font-family: inherit;
+    height: 41px;
+    outline: none;
+    font-size: inherit;
+    width: 100%;
+}
+
+::placeholder {
+    font-family: inherit;
+    font-size: 18px;
+    color: #333;
+}
+
+.filter-search {
+    display: flex;
+    align-items: center;
+    align-content: center;
+   width: 60%;
+    
+    
+    border-radius: 6px;
+    position: relative;
+}
+
+.filter {
+    padding: 0px 15px;
+    background: #f47920;
+    color: #fff;
+    height: 45px;
+    line-height: 40px;
+    border-radius: 4px 0 0 4px;
+    display: flex;
+    align-items: center;
+}
+
+.fak {
+    position: absolute;
+    left: 126px;
+}
+
+.filter-search i {
+    color: #666;
+}
+
+.filter i {
+    color: #fff;
+    margin-right: 5px;
+}
