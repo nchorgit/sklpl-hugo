@@ -3,6 +3,12 @@ title: "Bonora Γκοφρέτες με γεύση λεμονιού και βαν
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Γκοφρέτες"]
+smeta: ["
+bonora Γκοφρετες με γευση λεμονιου και βανιλιας 180g
+bonora gkofretes me geush lemoniou kai banilias 180g
+βονορα gkofreta gkofretes gofreta gofretes vanilia vanilla
+5202576630475
+"]
 ---
 {{< rawhtml >}}
 

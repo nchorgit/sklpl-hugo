@@ -3,6 +3,7 @@ title: "Baker Master Σοκολατοπιτάκια κουρού 450g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
+smeta: ["baker master Σοκολατοπιτακια κουρου 450g βακερ μαστερ Σοκολατοπιτακια κουρου 450g 5213000480061 baker-master-sokolatopitakia-kourou-450g baker master sokolatopitakia kourou 450g μπεικερ μαστερ"]
 ---
 {{< rawhtml >}}
 

@@ -3,6 +3,7 @@ title: "Baker Master Τυροπιτάκια κουρού 450g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
+smeta: ["baker master Τυροπιτακια κουρου 450g βακερ μαστερ Τυροπιτακια κουρου 450g baker master tyropitakia kourou 450g 5213000480030 μπεικερ μαστερ"]
 ---
 {{< rawhtml >}}
 

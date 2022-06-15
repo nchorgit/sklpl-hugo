@@ -3,6 +3,7 @@ title: "Baker Master Μπουγάτσα Θεσσαλονίκης με τυρί 4
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Μπουγάτσα"]
+smeta: ["Baker Master Μπουγατσα Θεσσαλονικης με τυρι 450g βακερ μαστερ Μπουγατσα Θεσσαλονικης με τυρι 450g baker master mpougatsa thessalonikhs me tyri 450g μπεικερ μαστερ 5213000480634"]
 ---
 {{< rawhtml >}}
 

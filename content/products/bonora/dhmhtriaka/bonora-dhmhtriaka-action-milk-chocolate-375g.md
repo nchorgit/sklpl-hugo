@@ -3,6 +3,13 @@ title: "Bonora Δημητριακά Action Milk Chocolate 375g"
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
+smeta: ["
+bonora δημητριακα Action Milk Chocolate 375
+bonora dhmhtriaka Action Milk Chocolate 375
+βονορα δημητριακα αψτιον μιλκ ψηοψολατε σοκολάτα γάλακτος σοκολατα γαλακτος
+μπονορα mponora dhmhtriaka dimitriaka nifades νιφαδεs νιφάδες
+5202576283237
+"]
 ---
 {{< rawhtml >}}
 

@@ -3,6 +3,13 @@ title: "Barron Μπουκίτσες με Κοτόπουλο για γάτες 40
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron Μπουκιτσες με Κοτοπουλο για γατες 400
+βαρρον Μπουκιτσες με Κοτοπουλο για γατες 400
+barron mpoukitses me kotopoulo gia gates 400g
+μπαρον
+5202576282322
+"]
 ---
 {{< rawhtml >}}
 

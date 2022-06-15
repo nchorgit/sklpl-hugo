@@ -3,6 +3,13 @@ title: "Barron Μους με Κοτόπουλο για γάτες 85g"
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron Μους με Κοτοπουλο για γατες 85
+βαρρον Μους με Κοτοπουλο για γατες 85
+barron mous me kotopoulo gia gates 85g
+μπαρον trofes zvvn trofes zwwn
+5202576306189
+"]
 ---
 {{< rawhtml >}}
 

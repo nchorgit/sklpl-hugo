@@ -3,6 +3,14 @@ title: "Bonora Δημητριακά Action Dark Chocolate 375g"
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
+smeta: ["
+bonora Δημητριακα Action Dark Chocolate 375
+bonora dhmhtriaka action dark chocolate 375g
+βονορα Δημητριακα μαυρη σοκολατα μαύρη σοκολάτα
+μπονορα mponora dhmhtriaka dimitriaka αψτιον δαρκ ψηοψολατε
+nifades νιφαδεs νιφάδες
+5202576283237
+"]
 ---
 {{< rawhtml >}}
 

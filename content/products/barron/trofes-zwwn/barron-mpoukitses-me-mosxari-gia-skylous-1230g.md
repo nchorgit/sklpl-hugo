@@ -3,6 +3,13 @@ title: "Barron Μπουκίτσες με Μοσχάρι για σκύλους 12
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron μπουκιτσες με μοσχαρι για σκυλους 1230g
+βαρρον μπουκιτσες με μοσχαρι για σκυλους 1230g
+barron mpoukitses me mosxari gia skylous 1230g
+μπαρον trofes zvvn trofes zwwn skilous skiloys skyloys skulous moshari
+5202576282353
+"]
 ---
 {{< rawhtml >}}
 

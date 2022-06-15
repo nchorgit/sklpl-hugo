@@ -3,6 +3,13 @@ title: "Bonora Ελληνικός καφές 487g"
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
+smeta: ["
+bonora Ελληνικος καφες 487g
+bonora ellhnikos kafes 487g
+βονορα kafedes kafes καφές καφες coffees
+greek coffee ellinikos kafes cafes
+00000000
+"]
 ---
 {{< rawhtml >}}
 

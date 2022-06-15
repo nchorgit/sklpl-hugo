@@ -3,6 +3,13 @@ title: "Bonora Κάψουλες Espresso Classico 53g"
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
+smeta: ["
+Bonora Καψουλες Espresso Classico 53g
+Bonora kapsoules Espresso Classico 53g
+βονορα kafedes kafes καφές καφες coffees cafes
+kacoyles εσπρεσσο εσπρέσο εσπρεσο εσπρέσσο
+5208046012253
+"]
 ---
 {{< rawhtml >}}
 

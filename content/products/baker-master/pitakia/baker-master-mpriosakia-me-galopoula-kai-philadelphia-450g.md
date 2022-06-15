@@ -3,6 +3,7 @@ title: "Baker Master Μπριοσάκια με γαλοπούλα και Philade
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
+smeta: ["baker master μπριοσακια με γαλοπουλα και Philadelphia 450g βακερ μαστερ μπριοσακια με γαλοπουλα και Philadelphia 450g baker master mpriosakia me galopoula kai philadelphia 450g μπεικερ μαστερ 5213000480610 πηιλαδελπηια filadelfia φιλαδελφια φιλαδέλφια"]
 ---
 {{< rawhtml >}}
 

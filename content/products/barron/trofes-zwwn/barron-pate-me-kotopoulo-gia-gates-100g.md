@@ -3,6 +3,13 @@ title: "Barron Πατέ με Kοτόπουλο για γάτες 100g"
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron Πατε με Kοτοπουλο για γατες 100
+βαρρον Πατε με Kοτοπουλο για γατες 100
+barron pate me kotopoulo gia gates 100g
+μπαρον trofes zvvn trofes zwwn
+5208046011133
+"]
 ---
 {{< rawhtml >}}
 

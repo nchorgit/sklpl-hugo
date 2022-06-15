@@ -3,6 +3,15 @@ title: "Baker Master Pizza Μαργαρίτα 415g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Πίτσες"]
+smeta: ["
+baker master πίτσα μαργαρίτα 
+baker master πιτσα μαργαριτα 
+baker master pitsa margarita 
+baker master pizza margarita 
+βακερ μαστερ πιτσα μαργαριτα 
+μπεικερ μαστερ
+5213000480238
+"]
 ---
 {{< rawhtml >}}
 

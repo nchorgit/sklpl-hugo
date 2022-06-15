@@ -3,6 +3,13 @@ title: "Barron Πατέ με Μοσχάρι για σκύλους 1230g"
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron Πατε με Μοσχαρι για σκυλους 1230
+βαρρον Πατε με Μοσχαρι για σκυλους 1230
+barron pate me mosxari gia gates 1290g
+μπαρον trofes zvvn trofes zwwn skilous skiloys skyloys skulous moshari
+5202576306233
+"]
 ---
 {{< rawhtml >}}
 

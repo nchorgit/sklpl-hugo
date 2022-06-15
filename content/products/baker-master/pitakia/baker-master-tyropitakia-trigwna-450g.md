@@ -3,6 +3,7 @@ title: "Baker Master Τυροπιτάκια τρίγωνα 450g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
+smeta: ["baker master Τυροπιτακια τριγωνα 450g βακερ μαστερ Τυροπιτάκια τρίγωνα 450g μπεικερ μαστερ 5213000480160 baker master tyropitakia trigwna 450g"]
 ---
 {{< rawhtml >}}
 

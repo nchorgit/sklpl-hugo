@@ -3,6 +3,13 @@ title: "Barron Μπουκίτσες με Μοσχάρι για γάτες 400g"
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron Μπουκιτσες με Μοσχαρι για γατες 400g
+βαρρον Μπουκιτσες με Μοσχαρι για γατες 400
+barron mpoukitses me mosxari gia gates 400g
+μπαρον trofes zvvn trofes zwwn moshari
+5202576282346
+"]
 ---
 {{< rawhtml >}}
 

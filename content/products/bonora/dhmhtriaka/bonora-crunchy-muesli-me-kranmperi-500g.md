@@ -3,6 +3,13 @@ title: "Bonora Crunchy Muesli με βρώμη και κράνμπερι 500g"
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
+smeta: ["
+bonora Crunchy Muesli με βρωμη και κρανμπερι 500
+bonora Crunchy Muesli me vrwmi kai kranmperi 500
+βονορα ψρθνψηυ μθεσλι brvmh μπουκιες μπουκιές mpoukies
+μπονορα mponora dhmhtriaka dimitriaka
+5202576682658
+"]
 ---
 {{< rawhtml >}}
 

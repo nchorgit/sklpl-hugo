@@ -3,6 +3,7 @@ title: "Baker Master Μπουγατσάκια σφολιάτας 450g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
+smeta: ["baker master Μπουγατσακια σφολιατας 450g βακερ μαστερ Μπουγατσακια σφολιατας 450g baker master mpougatsakia sfoliatas 450g 5213000480153 μπεικερ μαστερ"]
 ---
 {{< rawhtml >}}
 

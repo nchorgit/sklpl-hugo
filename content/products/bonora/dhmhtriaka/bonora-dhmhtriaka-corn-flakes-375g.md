@@ -3,6 +3,13 @@ title: "Bonora Δημητριακά Corn Flakes 375g"
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
+smeta: ["
+bonora Δημητριακα Corn Flakes 375g
+bonora dhmhtriaka Corn Flakes 375g
+βονορα ψορν φλακεσ νιφάδες νιφαδες nifades
+μπονορα mponora dhmhtriaka dimitriaka
+00000000
+"]
 ---
 {{< rawhtml >}}
 

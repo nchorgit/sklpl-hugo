@@ -3,6 +3,13 @@ title: "Bonora Ελληνικός καφές 194g"
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
+smeta: ["
+bonora Ελληνικος καφες 194g
+bonora ellhnikos kafes 194g
+βονορα kafedes kafes καφές καφες coffees
+greek coffee ellinikos kafes cafes
+5202576707740
+"]
 ---
 {{< rawhtml >}}
 

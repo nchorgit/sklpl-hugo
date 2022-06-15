@@ -3,6 +3,13 @@ title: "Barron Πατέ με Κυνήγι για γάτες 100g"
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron Πατε με Κυνηγι για γατες 100
+βαρρον Πατε με Κυνηγι για γατες 100
+barron pate me kynhgi gia gates 100g
+μπαρον trofes zvvn trofes zwwn kinigi
+5208046011164
+"]
 ---
 {{< rawhtml >}}
 

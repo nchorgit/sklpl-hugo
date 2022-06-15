@@ -3,6 +3,13 @@ title: "Bonora Δημητριακά Action Fruit 375g"
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
+smeta: ["
+bonora Δημητριακα Action Fruit 375
+bonora dhmhtriaka Action Fruit 375
+βονορα Δημητριακα φρούτα φρουτα αψτιον φρθιτ 
+μπονορα mponora dhmhtriaka dimitriaka nifades νιφαδεs νιφάδες
+5202576283220
+"]
 ---
 {{< rawhtml >}}
 

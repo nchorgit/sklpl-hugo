@@ -3,6 +3,13 @@ title: "Bonora Δημητριακά Bran Flakes 375g"
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
+smeta: ["
+bonora Δημητριακα Bran Flakes 375
+bonora dhmhtriaka Bran Flakes 375
+βονορα βραν φλακεσ nifades νιφαδεs νιφάδες
+μπονορα mponora dhmhtriaka dimitriaka
+5202576309463
+"]
 ---
 {{< rawhtml >}}
 

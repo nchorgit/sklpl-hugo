@@ -3,6 +3,7 @@ title: "Baker Master Τυροπιτάκια σφολιάτας 450g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
+smeta: ["baker master Τυροπιτακια σφολιατας 450g βακερ μαστερ Τυροπιτακια σφολιατας 450g baker master tyropitakia sfoliatas 450g μπεικερ μαστερ 5213000480009 "]
 ---
 {{< rawhtml >}}
 

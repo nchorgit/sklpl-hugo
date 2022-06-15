@@ -3,6 +3,13 @@ title: "Bonora Κάψουλες Espresso χωρίς καφεΐνη 53g"
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
+smeta: ["
+Bonora Καψουλες χωρις καφεινη 53g
+Bonora kapsoules xwris kafeinh 53g
+βονορα kafedes kafes καφές καφες coffees cafes
+kacoyles εσπρεσσο εσπρέσο εσπρεσο εσπρέσσο decaf
+5208046012277
+"]
 ---
 {{< rawhtml >}}
 

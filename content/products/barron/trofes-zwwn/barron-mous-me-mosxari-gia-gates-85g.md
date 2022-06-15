@@ -3,6 +3,13 @@ title: "Barron Μους με Μοσχάρι για γάτες 85g"
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron Μους με Μοσχαρι για γατες 85
+βαρρον Μους με Μοσχαρι για γατες 85
+barron mous me mosxari gia gates 85g
+μπαρον trofes zvvn trofes zwwn
+5202576306172
+"]
 ---
 {{< rawhtml >}}
 

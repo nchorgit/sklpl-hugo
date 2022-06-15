@@ -3,6 +3,13 @@ title: "Baker Master Πολίτικα ζυμαράκια κουρού 330g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Ζύμες"]
+smeta: ["
+baker master Πολιτικα ζυμαρακια κουρου 330g
+baker master politika zymarakia kourou 330
+βακερ μαστερ Πολιτικα ζυμαρακια κουρου 330
+μπεικερ μαστερ zymh zymes zimes zimh zimi
+5213000480115
+"]
 ---
 {{< rawhtml >}}
 

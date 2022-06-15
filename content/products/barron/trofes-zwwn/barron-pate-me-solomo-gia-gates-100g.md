@@ -3,6 +3,13 @@ title: "Barron Πατέ με Σολομό για γάτες 100g"
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron Πατε με Σολομο για γατες 100
+βαρρον Πατε με Σολομο για γατες 100
+barron pate me solomo gia gates 100g
+μπαρον trofes zvvn trofes zwwn
+5208046011157
+"]
 ---
 {{< rawhtml >}}
 

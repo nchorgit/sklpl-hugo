@@ -3,6 +3,14 @@ title: "Bonora Crunchy Muesli με βρώμη και μαύρη σοκολάτα
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
+smeta: ["
+bonora Crunchy Muesli με βρωμη και μαυρη σοκολατα 500
+bonora ψρθνψηυ μθεσλι με βρωμη και μαυρη σοκολατα 500
+bonora crunchy muesli me maurh sokolata 500g
+βονορα ψρθνψηυ μθεσλι brvmh mavri sokolata μπουκιες μπουκιές mpoukies
+μπονορα mponora dhmhtriaka dimitriaka
+5202576682702
+"]
 ---
 {{< rawhtml >}}
 

@@ -3,6 +3,13 @@ title: "Baker Master Pizza Special 540g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Πίτσες"]
+smeta: ["
+baker master πιτσα σπεσιαλ 540
+baker master pitsa special 540
+βακερ μαστερ πιτσα σπεσιαλ 540
+μπεικερ μαστερ
+5213000480245
+"]
 ---
 {{< rawhtml >}}
 

@@ -3,6 +3,12 @@ title: "Bonora Καφές φίλτρου Κλασικός 250g"
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
+smeta: ["
+bonora
+bonora
+βονορα kafedes kafes καφές καφες coffees
+00000000
+"]
 ---
 {{< rawhtml >}}
 

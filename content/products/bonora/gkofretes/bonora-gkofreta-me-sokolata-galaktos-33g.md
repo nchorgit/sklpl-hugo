@@ -3,6 +3,13 @@ title: "Bonora Γκοφρέτα με σοκολάτα γάλακτος 33g"
 categories: ["Bonora"]
 gencat: ["Τρόφιμα"]
 tags: ["Γκοφρέτες"]
+smeta: ["
+bonora Γκοφρετα με σοκολατα γαλακτος 33g
+bonora gkofreta me sokolata galaktos 33g
+βονορα gkofreta gkofretes gofreta gofretes
+
+5202576630444
+"]
 ---
 {{< rawhtml >}}
 

@@ -3,6 +3,13 @@ title: "Barron Ξηρά τροφή για σκύλους με Μοσχάρι 3kg
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron Ξηρα τροφη για σκυλους με μοσχαρι 3kg
+βαρρον Ξηρα τροφη για σκυλους με μοσχαρι 3kg
+barron kshra trofh gia skylous me mosxari 3kg
+μπαρον jhra trofh trofes zvvn trofes zwwn skilous skiloys skyloys skulous moshari
+5202576306240
+"]
 ---
 {{< rawhtml >}}
 

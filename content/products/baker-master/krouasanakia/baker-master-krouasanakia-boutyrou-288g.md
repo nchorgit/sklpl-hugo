@@ -3,6 +3,7 @@ title: "Baker Master Κρουασανάκια βουτύρου 288g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Κρουασανάκια"]
+smeta : ["baker master krouasanakia boytyroy baker master κρουασανακια βουτυρου 288 γραμμαρια βακερ μαστερ κρουασανακια βουτυρου  μπεικερ μαστερ 5213000480320"]
 ---
 {{< rawhtml >}}
 

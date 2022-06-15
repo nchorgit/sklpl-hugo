@@ -3,6 +3,13 @@ title: "Barron Plus Ξηρά τροφή για γάτες με Μοσχάρι 1K
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron plus Ξηρα τροφη για γατες με Μοσχαρι 2kg
+βαρρον πλθσ Ξηρα τροφη για γατες με Μοσχαρι
+barron Plus kshra trofh gia gates me mosxari 2kg
+μπαρον jhra trofh trofes zvvn trofes zwwn moshari
+5202576872127
+"]
 ---
 {{< rawhtml >}}
 

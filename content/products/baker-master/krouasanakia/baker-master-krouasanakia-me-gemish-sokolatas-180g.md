@@ -3,6 +3,7 @@ title: "Baker Master Κρουασανάκια με γέμιση σοκολάτα
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Κρουασανάκια"]
+smeta : ["baker master krouasanakia me gemish sokolatas baker master κρουασανακια με γεμιση σοκολατας 180 γραμμαρια βακερ μαστερ κρουασανακια με γεμιση σοκολατας 5213000480320 μπεικερ μαστερ"]
 ---
 {{< rawhtml >}}
 

@@ -3,6 +3,13 @@ title: "Barron Πατέ με Μοσχάρι για γάτες 400g"
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron Πατε με Μοσχαρι για γατες 400
+βαρρον Πατε με Μοσχαρι για γατες 400
+barron pate me mosxari gia gates 400g
+μπαρον trofes zvvn trofes zwwn moshari
+5202576305809
+"]
 ---
 {{< rawhtml >}}
 

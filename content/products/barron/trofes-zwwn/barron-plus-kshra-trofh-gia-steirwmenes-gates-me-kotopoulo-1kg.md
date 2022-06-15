@@ -3,6 +3,13 @@ title: "Barron Plus Ξηρά τροφή για στειρωμένες γάτες
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron plus Ξηρα τροφη για στειρωμενες γατες με Κοτοπουλο 2kg
+βαρρον πλθσ Ξηρα τροφη για στειρωμενες γατες με Κοτοπουλο 2kg
+arron plus kshra trofh gia steirwmenes gates me kotopoulo 1kg
+μπαρον jhra trofh trofes zvvn trofes zwwn
+5202576872134
+"]
 ---
 {{< rawhtml >}}
 

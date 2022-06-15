@@ -3,6 +3,13 @@ title: "Barron Μπουκίτσες με Ψάρι για γάτες 400g"
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron Μπουκιτσες με Ψαρι για γατες 400
+βαρρον Μπουκιτσες με Ψαρι για γατες 400
+barron mpoukitses me psari gia gates 400g
+μπαρον  trofes zvvn trofes zwwn
+5202576282339
+"]
 ---
 {{< rawhtml >}}
 

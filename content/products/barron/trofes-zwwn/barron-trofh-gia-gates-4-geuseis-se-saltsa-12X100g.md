@@ -3,6 +3,13 @@ title: "Barron Τροφή για γάτες 4 γεύσεις σε σάλτσα 1
 categories: ["Barron"]
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
+smeta: ["
+barron Τροφη για γατες 4 γευσεις σε σαλτσα 12 X 100g
+βαρρον Τροφη για γατες 4 γευσεις σε σαλτσα 12 X 100g
+barron trofh gia gates 4 geuseis se saltsa 12X100g
+μπαρον trofes zvvn trofes zwwn
+5208046018385
+"]
 ---
 {{< rawhtml >}}
 

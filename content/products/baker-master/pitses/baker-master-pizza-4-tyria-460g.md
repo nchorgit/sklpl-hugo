@@ -3,6 +3,7 @@ title: "Baker Master Pizza 4 τυριά 460g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Πίτσες"]
+smeta: ["baker master πίτσα 4 τυριά 460g baker master πιτσα 4 τυρια baker master pizza 4 tyria 460g baker master pitsa 4 tyria 460g βακερ μαστερ πιτσα 4 τυρια μπεικερ μαστερ 5213000480252"]
 ---
 {{< rawhtml >}}
 

@@ -3,6 +3,7 @@ title: "Baker Master Pizza Λαχανικά 460g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Πίτσες"]
+smeta: ["baker master pitsa laxanika baker master πίστα λαχανικά baker master πιτσα λαχανικα βακερ μαστερ πιτσα λαχανικα baker master pizza laxanika 460g μπεικερ μαστερ 5213000480269"]
 ---
 {{< rawhtml >}}
 

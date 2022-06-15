@@ -3,6 +3,7 @@ title: "Baker Master Σπανακοτυροπιτάκια τρίγωνα 450g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
+smeta: ["baker master Σπανακοτυροπιτακια τριγωνα 450g βακερ μαστερ Σπανακοτυροπιτακια τριγωνα 450g 5213000480184 baker master spanakotyropitakia trigwna 450g μπεικερ μαστερ"]
 ---
 {{< rawhtml >}}
 

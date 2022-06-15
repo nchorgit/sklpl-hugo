@@ -183,6 +183,7 @@ input#myInput {
     border-radius: 4px 0 0 4px;
     display: flex;
     align-items: center;
+    font-size: 18px;
 }
 
 .fak {
@@ -192,6 +193,7 @@ input#myInput {
 
 .filter-search i {
     color: #666;
+    font-size: 18px;
 }
 
 .filter i {

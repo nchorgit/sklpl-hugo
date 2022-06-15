@@ -1,8 +1,15 @@
 ---
-title: "Baker Master Ζύμη σφολιάτας 800g"
+title: "Baker Master Φύλλα σφολιάτας 800g"
 categories: ["Baker Master"]
 gencat: ["Τρόφιμα"]
 tags: ["Ζύμες"]
+smeta: ["
+baker master φυλλα σφολιατας 800g
+baker master fylla sfoliatas 800
+βακερ μαστερ ζυμη σφολιατας 800
+μπεικερ μαστερ zymh zymes zimes zimh zimi filla fillo filo fila
+5213000480078
+"]
 ---
 {{< rawhtml >}}
 
