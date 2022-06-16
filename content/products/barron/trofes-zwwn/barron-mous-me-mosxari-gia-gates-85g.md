@@ -1,6 +1,11 @@
 ---
 title: "Barron Μους με Μοσχάρι για γάτες 85g"
 categories: ["Barron"]
+product_image: "/media/images/barron-mous-me-mosxari-gia-gates-85g.jpg"
+barcode: "5202576306172"
+varos: "85g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 smeta: ["

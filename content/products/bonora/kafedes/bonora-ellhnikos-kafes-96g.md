@@ -1,14 +1,18 @@
 ---
 title: "Bonora Ελληνικός καφές 96g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-ellhnikos-kafes-96g.jpg"
+barcode: "5202576707733"
+varos: "96g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 smeta: ["
 bonora Ελληνικος καφες 96g
 bonora ellhnikos kafes 96g
 βονορα kafedes kafes καφές καφες coffees
-greek coffee ellinikos kafes cafes
-5202576707733
+greek coffee ellinikos kafes cafes μπονορα mponora
 "]
 ---
 {{< rawhtml >}}

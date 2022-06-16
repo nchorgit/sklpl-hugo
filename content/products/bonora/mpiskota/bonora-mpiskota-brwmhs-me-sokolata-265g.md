@@ -1,8 +1,18 @@
 ---
 title: "Bonora Μπισκότα βρώμης με σοκολάτα 265g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-mpiskota-brwmhs-me-sokolata-265g.jpg"
+barcode: "5208046035801"
+varos: "265g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Μπισκότα"]
+smeta: ["
+bonora Μπισκοτα βρώμης με σοκολατα
+bonora mpiskota brwmhs me sokolata 265g
+mponora βονορα μπονορα
+"]
 ---
 {{< rawhtml >}}
 

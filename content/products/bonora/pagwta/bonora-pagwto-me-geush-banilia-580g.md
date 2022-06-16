@@ -1,8 +1,18 @@
 ---
 title: "Bonora Παγωτό με γεύση Βανίλια 580g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-pagwto-me-geush-banilia-580g.jpg"
+barcode: "5202576707962"
+varos: "580g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Παγωτά"]
+smeta: ["
+Bonora Παγωτο με γευση Βανιλια
+bonora pagwto me geush banilia
+mponora βονορα μπονορα
+"]
 ---
 {{< rawhtml >}}
 

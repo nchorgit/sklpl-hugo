@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Pizza Λαχανικά 460g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-pizza-laxanika-460g.jpg"
+barcode: "5213000480269"
+varos: "460g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πίτσες"]
 smeta: ["baker master pitsa laxanika baker master πίστα λαχανικά baker master πιτσα λαχανικα βακερ μαστερ πιτσα λαχανικα baker master pizza laxanika 460g μπεικερ μαστερ 5213000480269"]

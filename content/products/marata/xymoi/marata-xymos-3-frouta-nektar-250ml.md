@@ -1,6 +1,11 @@
 ---
 title: "Μαράτα Χυμός 3 φρούτα νέκταρ 250ml"
 categories: ["Μαράτα"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["tag"]
 ---

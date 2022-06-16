@@ -1,6 +1,11 @@
 ---
 title: "Barron Μπουκίτσες με Μοσχάρι για γάτες 400g"
 categories: ["Barron"]
+product_image: "/media/images/barron-mpoukitses-me-mosxari-gia-gates-400g.jpg"
+barcode: "5202576282346"
+varos: "400g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 smeta: ["

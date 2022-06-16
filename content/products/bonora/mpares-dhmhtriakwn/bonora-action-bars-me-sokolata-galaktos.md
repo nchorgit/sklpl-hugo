@@ -1,8 +1,18 @@
 ---
 title: "Bonora Action Bars με σοκολάτα γάλακτος"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-action-bars-me-sokolata-galaktos.jpg"
+barcode: "5202576634053"
+varos: "138g: 6X23g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Μπάρες δημητριακών"]
+smeta: ["
+bonora Action Bars με σοκολατα γαλακτος
+bonora action bars me sokolata galaktos 
+βονορα μπονορα mponora αψτιον βαρσ chocolate ψηοψολατε
+"]
 ---
 {{< rawhtml >}}
 

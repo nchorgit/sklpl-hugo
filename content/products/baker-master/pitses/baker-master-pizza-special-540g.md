@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Pizza Special 540g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-pizza-special-540g.jpg"
+barcode: "5213000480245"
+varos: "540g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πίτσες"]
 smeta: ["

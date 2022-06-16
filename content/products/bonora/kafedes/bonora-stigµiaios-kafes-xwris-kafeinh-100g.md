@@ -1,13 +1,17 @@
 ---
 title: "Bonora Στιγµιαίος καφές χωρίς καφεΐνη 100g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-stigµiaios-kafes-xwris-kafeinh-100g.jpg"
+barcode: "5202576707979"
+varos: "100g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 smeta: ["
-bonora
-bonora
-βονορα kafedes kafes καφές καφες coffees
-00000000
+bonora Στιγµιαίος καφές χωρις καφεινη 100g
+bonora stigµiaios kafes xwris kafeinh 100g
+βονορα kafedes kafes καφές καφες coffees νεσψαφε nescafe frappe frape φραπε φραπέ decaf μπονορα mponora
 "]
 ---
 {{< rawhtml >}}

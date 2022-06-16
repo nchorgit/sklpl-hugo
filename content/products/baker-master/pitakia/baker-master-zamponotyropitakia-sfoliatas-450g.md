@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Ζαμπονοτυροπιτάκια σφολιάτας 450g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-zamponotyropitakia-sfoliatas-450g.jpg"
+barcode: "5213000480016"
+varos: "450g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
 smeta: ["baker master Ζαμπονοτυροπιτακια σφολιατας 450g βακερ μαστερ Ζαμπονοτυροπιτακια σφολιατας 450g μπεικερ μαστερ 5213000480016 baker master zamponotyropitakia sfoliatas 450g"]

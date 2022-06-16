@@ -2,6 +2,11 @@
 title: "Μαράτα Επιδόρπιο γιαουρτιού με κομμάτια φράουλας 2Χ200g"
 weight: 5
 categories: ["Μαράτα"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Γιαούρτια"]
 ---

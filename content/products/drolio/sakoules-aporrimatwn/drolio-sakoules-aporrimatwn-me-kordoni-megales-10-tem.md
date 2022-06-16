@@ -1,6 +1,11 @@
 ---
 title: "Drolio Σακούλες Απορριμάτων με κορδόνι Μεγάλες 10 τεμ"
 categories: ["Drolio"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σακούλες Απορριμάτων"]
 weight: 4

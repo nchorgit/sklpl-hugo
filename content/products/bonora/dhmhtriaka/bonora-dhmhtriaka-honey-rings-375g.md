@@ -1,6 +1,11 @@
 ---
 title: "Bonora Δημητριακά Honey Rings 375g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-dhmhtriaka-honey-rings-375g.jpg"
+barcode: "5202576309357"
+varos: "375g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
 smeta: ["
@@ -8,7 +13,6 @@ bonora Δημητριακά Honey Rings 375g
 bonora dhmhtriaka Honey Rings 375g
 βονορα ηονευ ρινγσ Δαχτυλίδια Δαχτυλιδια daxtilidia
 μπονορα mponora dhmhtriaka dimitriaka
-5202576309357
 "]
 ---
 {{< rawhtml >}}

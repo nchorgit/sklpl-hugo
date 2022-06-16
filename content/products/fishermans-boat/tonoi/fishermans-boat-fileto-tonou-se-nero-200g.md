@@ -1,6 +1,11 @@
 ---
 title: "Fisherman's Boat Φιλέτο τόνου σε νερό 200g"
 categories: ["Fisherman's Boat"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Τόνοι"]
 ---

@@ -1,6 +1,11 @@
 ---
 title: "Drolio Ταψιά μεγάλα βαθιά D20"
 categories: ["Drolio"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σκεύη αλουμινίου"]
 weight: 5

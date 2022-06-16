@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Πολίτικα ζυμαράκια κουρού 330g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-politika-zymarakia-kourou-330g.jpg"
+barcode: "5213000480115"
+varos: "330g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Ζύμες"]
 smeta: ["

@@ -1,6 +1,11 @@
 ---
 title: "Sette Υγρά μαντηλάκια ντεμακιγιάζ με Υαλουρανικό οξύ"
 categories: ["Sette"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Ντεμακιγιάζ"]
 ---

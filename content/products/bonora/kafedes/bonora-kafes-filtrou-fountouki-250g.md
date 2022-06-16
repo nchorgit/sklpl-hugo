@@ -1,13 +1,17 @@
 ---
 title: "Bonora Καφές φίλτρου Φουντούκι 250g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-kafes-filtrou-fountouki-250g.jpg"
+barcode: "5202576460836"
+varos: "250g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 smeta: ["
-bonora
-bonora
-βονορα kafedes kafes καφές καφες coffees
-00000000
+bonora Καφες φιλτρου Φουντουκι 250g
+bonora kafes filtrou fountouki 250g
+βονορα kafedes kafes καφές καφες coffees μπονορα mponora
 "]
 ---
 {{< rawhtml >}}

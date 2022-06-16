@@ -1,13 +1,17 @@
 ---
 title: "Bonora Καφές φίλτρου Κλασικός 500g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-kafes-filtrou-klasikos-500g.jpg"
+barcode: "5202576460812"
+varos: "500g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 smeta: ["
-bonora
-bonora
-βονορα kafedes kafes καφές καφες coffees
-00000000
+bonora Καφες φιλτρου Κλασικος 500g
+bonora kafes filtrou klasikos 500g
+βονορα kafedes kafes καφές καφες coffees μπονορα mponora
 "]
 ---
 {{< rawhtml >}}

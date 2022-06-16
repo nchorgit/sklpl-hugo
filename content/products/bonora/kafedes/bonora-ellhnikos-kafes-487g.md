@@ -1,15 +1,19 @@
 ---
 title: "Bonora Ελληνικός καφές 487g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-ellhnikos-kafes-487g.jpg"
+barcode: "5202576707757"
+varos: "487g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 smeta: ["
 bonora Ελληνικος καφες 487g
 bonora ellhnikos kafes 487g
 βονορα kafedes kafes καφές καφες coffees
-greek coffee ellinikos kafes cafes
-00000000
-"]
+ greek coffee ellinikos kafes cafes μπονορα mponora
+ "]
 ---
 {{< rawhtml >}}
 

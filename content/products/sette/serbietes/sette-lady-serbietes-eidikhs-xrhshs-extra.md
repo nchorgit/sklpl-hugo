@@ -1,6 +1,11 @@
 ---
 title: "Sette Lady Σερβιέτες ειδικής χρήσης Extra"
 categories: ["Sette"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σερβιέτες"]
 ---

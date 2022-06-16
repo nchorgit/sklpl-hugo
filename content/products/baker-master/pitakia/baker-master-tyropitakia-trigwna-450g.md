@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Τυροπιτάκια τρίγωνα 450g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-tyropitakia-trigwna-450g.jpg"
+barcode: "5213000480160"
+varos: "450g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
 smeta: ["baker master Τυροπιτακια τριγωνα 450g βακερ μαστερ Τυροπιτάκια τρίγωνα 450g μπεικερ μαστερ 5213000480160 baker master tyropitakia trigwna 450g"]

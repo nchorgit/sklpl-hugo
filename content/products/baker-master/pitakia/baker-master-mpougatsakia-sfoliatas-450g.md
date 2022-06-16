@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Μπουγατσάκια σφολιάτας 450g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-mpougatsakia-sfoliatas-450g.jpg"
+barcode: "5213000480153"
+varos: "450g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
 smeta: ["baker master Μπουγατσακια σφολιατας 450g βακερ μαστερ Μπουγατσακια σφολιατας 450g baker master mpougatsakia sfoliatas 450g 5213000480153 μπεικερ μαστερ"]

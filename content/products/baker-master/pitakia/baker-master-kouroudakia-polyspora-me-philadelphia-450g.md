@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Κουρουδάκια πολύσπορα με Philadelphia 450g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-kouroudakia-polyspora-me-philadelphia-450g.jpg"
+barcode: "5213000480603"
+varos: "450g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
 smeta: ["baker master Κουρουδακια πολυσπορα με Philadelphia 450g βακερ μαστερ Κουρουδακια πολυσπορα με Philadelphia 450g baker master kouroudakia polyspora me philadelphia 450g μπεικερ μαστερ 5213000480603 πηιλαδελπηια filadelfia φιλαδελφια φιλαδέλφια"]

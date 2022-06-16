@@ -1,6 +1,11 @@
 ---
 title: "Kitten Απλώστρα ρούχων κρεμαστή γκρί"
 categories: ["Kitten"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Απλώστρες"]
 ---

@@ -1,6 +1,11 @@
 ---
 title: "Γλάρος 25 κόκκινες Χαρτοπετσέτες πολυτελείας 40Χ40cm"
 categories: ["Γλάρος"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Χαρτοπετσέτες"]
 ---

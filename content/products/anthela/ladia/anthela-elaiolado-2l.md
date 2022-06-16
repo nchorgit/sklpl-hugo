@@ -1,6 +1,11 @@
 ---
 title: "Ανθέλα Ελαιόλαδο 2L"
 categories: ["Ανθέλα"]
+product_image: "/media/images/anthela-elaiolado-2l.jpg"
+barcode: "5202576198630"
+varos: "2L"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Λάδια"]
 smeta: ["ανθελα ελαιολαδο anthela elaiolado anuela elaiolado 5202576198630 2l 2 litra 1 λιτρα 1 λίτρα "]

@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Ζύμη κουρού 600g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-zymh-kourou-600g.jpg"
+barcode: "5213000480085"
+varos: "600g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Ζύμες"]
 smeta: ["

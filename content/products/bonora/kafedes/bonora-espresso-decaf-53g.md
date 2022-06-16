@@ -1,14 +1,18 @@
 ---
 title: "Bonora Κάψουλες Espresso χωρίς καφεΐνη 53g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-espresso-decaf-53g.jpg"
+barcode: "5208046012277"
+varos: "53g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 smeta: ["
 Bonora Καψουλες χωρις καφεινη 53g
 Bonora kapsoules xwris kafeinh 53g
 βονορα kafedes kafes καφές καφες coffees cafes
-kacoyles εσπρεσσο εσπρέσο εσπρεσο εσπρέσσο decaf
-5208046012277
+kacoyles εσπρεσσο εσπρέσο εσπρεσο εσπρέσσο decaf μπονορα mponora
 "]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,11 @@
 ---
 title: "Frogo Σακούλες τροφίµων μεγάλες"
 categories: ["Frogo"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σακούλες τροφίμων"]
 ---

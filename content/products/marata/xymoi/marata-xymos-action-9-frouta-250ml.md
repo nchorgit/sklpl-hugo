@@ -1,6 +1,11 @@
 ---
 title: "Μαράτα Χυμός Action 9 φρούτα 250ml"
 categories: ["Μαράτα"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["tag"]
 ---

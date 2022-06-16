@@ -1,8 +1,18 @@
 ---
 title: "Bonora Παγωτό Στρατσιατέλα 580g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-pagwto-stratsiatela-580g.jpg"
+barcode: "5202576429659"
+varos: "580g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Παγωτά"]
+smeta: ["
+Bonora Παγωτο Στρατσιατελα
+bonora pagwto stratsiatela
+mponora βονορα μπονορα
+"]
 ---
 {{< rawhtml >}}
 

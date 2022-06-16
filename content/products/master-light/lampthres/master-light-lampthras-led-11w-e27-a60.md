@@ -1,6 +1,11 @@
 ---
 title: "Master Light Λαμπτήρας Led 11W E27 A60"
 categories: ["Master Light"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Λαμπτήρες"]
 ---

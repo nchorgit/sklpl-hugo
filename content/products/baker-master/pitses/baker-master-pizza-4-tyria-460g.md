@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Pizza 4 τυριά 460g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-pizza-4-tyria-460g.jpg"
+barcode: "5213000480252"
+varos: "460g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πίτσες"]
 smeta: ["baker master πίτσα 4 τυριά 460g baker master πιτσα 4 τυρια baker master pizza 4 tyria 460g baker master pitsa 4 tyria 460g βακερ μαστερ πιτσα 4 τυρια μπεικερ μαστερ 5213000480252"]

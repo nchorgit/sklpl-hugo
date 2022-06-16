@@ -1,6 +1,11 @@
 ---
 title: "Toni Τόνος σε ηλιέλαιο τεμαχισμένος 95g"
 categories: ["Toni"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Τόνοι"]
 ---

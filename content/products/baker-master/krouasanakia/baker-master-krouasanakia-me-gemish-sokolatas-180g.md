@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Κρουασανάκια με γέμιση σοκολάτας 180g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-krouasanakia-me-gemish-sokolatas-180g.jpg"
+barcode: "5213000480320"
+varos: "180g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Κρουασανάκια"]
 smeta : ["baker master krouasanakia me gemish sokolatas baker master κρουασανακια με γεμιση σοκολατας 180 γραμμαρια βακερ μαστερ κρουασανακια με γεμιση σοκολατας 5213000480320 μπεικερ μαστερ"]

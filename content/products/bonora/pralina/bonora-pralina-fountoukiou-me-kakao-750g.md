@@ -1,8 +1,18 @@
 ---
 title: "Bonora Πραλίνα φουντουκιού με κακάο 750g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-pralina-fountoukiou-me-kakao-750g.jpg"
+barcode: "5202576872110"
+varos: "750g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πραλίνα"]
+smeta: ["
+Bonora Πραλινα φουντουκιου με κακαο
+bonora pralina fountoukiou me kakao
+mponora βονορα μπονορα pralines
+"]
 ---
 {{< rawhtml >}}
 

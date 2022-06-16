@@ -1,8 +1,18 @@
 ---
 title: "Bonora Μαρμελάδα Έξτρα Βερίκοκο 450g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-marmelada-ekstra-berikoko-450g.jpg"
+barcode: "5202576630093"
+varos: "450g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Μαρμελάδες"]
+smeta: ["
+bonora Μαρμελαδα εξτρα Βερικοκο 450g
+bonora marmelada ekstra berikoko 450g
+βονορα εξτρα βερικοκο βερυκοκο marmelade εχτρα μπονορα mponora
+"]
 ---
 {{< rawhtml >}}
 

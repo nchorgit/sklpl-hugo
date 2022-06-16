@@ -1,6 +1,11 @@
 ---
 title: "Barron Μπουκίτσες με Κοτόπουλο για σκύλους 1230g"
 categories: ["Barron"]
+product_image: "/media/images/barron-mpoukitses-me-kotopoulo-gia-skylous-1230g.jpg"
+barcode: "5202576282360"
+varos: "1230g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 smeta: ["

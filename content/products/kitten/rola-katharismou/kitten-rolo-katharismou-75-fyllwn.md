@@ -1,6 +1,11 @@
 ---
 title: "Kitten Ρολό καθαρισμού 75 φύλλων"
 categories: ["Kitten"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Ρολά καθαρισμού"]
 ---

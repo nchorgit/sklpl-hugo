@@ -1,6 +1,11 @@
 ---
 title: "Μαράτα επιτραπέζιο νερό πηγής Σεπέτα 500ml"
 categories: ["Μαράτα"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Νερά"]
 ---

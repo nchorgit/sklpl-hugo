@@ -1,13 +1,17 @@
 ---
 title: "Bonora Γκοφρέτες με γεύση λεμονιού και βανίλιας 180g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-gkofretes-me-geush-lemoniou-kai-banilias-180g.jpg"
+barcode: "5202576630475"
+varos: "180g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Γκοφρέτες"]
 smeta: ["
 bonora Γκοφρετες με γευση λεμονιου και βανιλιας 180g
 bonora gkofretes me geush lemoniou kai banilias 180g
 βονορα gkofreta gkofretes gofreta gofretes vanilia vanilla
-5202576630475
 "]
 ---
 {{< rawhtml >}}

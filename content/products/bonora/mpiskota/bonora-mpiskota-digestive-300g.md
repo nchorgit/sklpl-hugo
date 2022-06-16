@@ -1,8 +1,18 @@
 ---
 title: "Bonora Μπισκότα Digestive 300g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-mpiskota-digestive-300g.jpg"
+barcode: "5202576872219"
+varos: "300g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Μπισκότα"]
+smeta: ["
+bonora Μπισκοτα Digestive
+bonora mpiskota Digestive
+mponora βονορα μπονορα
+"]
 ---
 {{< rawhtml >}}
 

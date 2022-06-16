@@ -1,8 +1,18 @@
 ---
 title: "Bonora Παγωτό Παρφέ Βανίλια - Σοκολάτα 1kg"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-pagwto-parfe-banilia-sokolata-1kg.jpg"
+barcode: "520257632257"
+varos: "1kg"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Παγωτά"]
+smeta: ["
+Bonora Παγωτο Παρφε Βανιλια - Σοκολατα
+bonora pagwto parfe banilia sokolata
+mponora βονορα μπονορα
+"]
 ---
 {{< rawhtml >}}
 

@@ -10,36 +10,31 @@
     <div class="cattitle">
         <div class="stitle">
             <form name="searchBox" onsubmit="return false">
-               
-                <input autocomplete="off" class="stext" type="text" name="keyword" onfocus="this.value=''" value="Αναζήτηση" />
-                <button id="sbutton"  type="button"onClick="searchFunction()"><i class="fas fa-search"></i> Αναζήτηση</button>
+                <input autocomplete="off" class="stext" type="text" name="keyword" onfocus="this.value=''"
+                    value="Αναζήτηση" />
+                <button id="sbutton" type="button" onClick="searchFunction()"><i class="fas fa-search"></i>
+                    Αναζήτηση</button>
             </form>
         </div>
-
     </div>
-
-
     <div class="wrapper">
-        <!--ul class="lprod">
+        <!--ul class="lprod"> 
             {{range .Site.RegularPages}}
             <li><a href="{{.Permalink}}">{{.Title}}</a></li>
             {{end}}
         </ul-->
         <ul class="lprod">
             {{range .Site.RegularPages}}
-
-
             <li>
-
-
-                <!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
-    <div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
-    <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
+                
                 <div class="post"><a href="{{.Permalink}}">
+                       
                         <h1 class="ltitle">{{.Title}}</h1>
-                        
+                        <div class="bar"><p>{{ .Params.barcode }}</p></div>
+                        <div class="var"><p>{{ .Params.varos }}</p></div>
+                        <div class="fimg">{{if isset .Params "product_image" }}<img src="{{ index .Params "product_image" }}"></div>{{ end }}
                     </a></div>
-                <!--<a href="#" class="product-image">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}-->
+              
                 <div class="plabels">
                     {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
                         href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tags"
@@ -47,23 +42,21 @@
                     {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
                         href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
                             aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
-                            <p>
-                                {{ if .Params.smeta }}<strong></strong> {{ range sort .Params.smeta }}<a class="smeta"
-                                            href="{{ "/smeta/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
-                                                aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
-                            </p>
-            {{ end }}
+                <p>
+                    {{ if .Params.smeta }}<strong></strong> {{ range sort .Params.smeta }}<a class="smeta"
+                        href="{{ "/smeta/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
+                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+                </p>
+               
             </li>
-
-            
-
+            {{ end }}
     </div>
-
     <script type="text/javascript">
-       $('input:text').click(
-    function(){
-        $(this).val('');
-    });
+        $('input:text').click(
+            function () {
+                $(this).val('');
+            });
+
         function searchFunction() {
             $(".lprod li")
                 .hide()
@@ -75,14 +68,11 @@
                 return $(elem).text().toUpperCase().indexOf(arg.toUpperCase()) >= 0;
             };
         });
-
-
         $(document).ready(function () {
             $('.stext').keypress(function (e) {
                 if (e.keyCode == 13)
                     $('#sbutton').click();
             });
-
         });
         $(document).ready(function () {
             $('.stext').click(function () {
@@ -91,32 +81,38 @@
         });
     </script>
     <style>
-    .fakos2 {
-        display: none;
-    }
-    .find a {
-        right: 15px
-    }
+        .fimg img {
+            width: 100%;
+        }
+        .fakos2 {
+            display: none;
+        }
+
+        .find a {
+            right: 15px
+        }
+
         .wrapper {
-    max-width: 1300px;
-    padding: 15px;
-    margin: 150px auto;
-    overflow: unset;
-}
+            max-width: 1300px;
+            padding: 15px;
+            margin: 150px auto;
+            overflow: unset;
+        }
+
         .cattitle {
-    padding: 25px 15px;
-    text-align: center;
-    background: #333;
-    margin-top: 70px;
-    font-size: 18px;
-    color: #6f6056;
-    border-bottom: 0px solid #e5d3c2;
-    border-radius: 0;
-    margin-bottom: -65px;
-}
+            padding: 25px 15px;
+            text-align: center;
+            background: #3a3939;
+            margin-top: 70px;
+            font-size: 18px;
+            color: #6f6056;
+            border-bottom: 0px solid #e5d3c2;
+            border-radius: 0;
+            margin-bottom: -65px;
+        }
+
         input:-webkit-autofill {
             -webkit-box-shadow: 0 0 0 1000px #444 inset !important;
-
         }
 
         input:-webkit-autofill::first-line {
@@ -134,50 +130,56 @@
         }
 
         .stitle {
-    padding: 0px 0 20px 0;
-    max-width: 1300px;
-    margin: 0 auto;
-    border-bottom: 2px solid #777;
-}
+            padding: 0px 0 20px 0;
+            max-width: 1300px;
+            margin: 0 auto;
+            border-bottom: 2px solid #777;
+        }
 
-input.stext {
-    border: 0px solid #eee;
-    -webkit-highlight: none;
-    outline: none;
-    padding: 0;
-    font-size: 22px;
-    font-family: inherit;
-    border-radius: 0px;
-    width: -webkit-fill-available;
-    background: transparent;
-    color: #fff;
-}
+        input.stext {
+            border: 0px solid #eee;
+            -webkit-highlight: none;
+            outline: none;
+            padding: 0;
+            font-size: 22px;
+            font-family: inherit;
+            border-radius: 0px;
+            width: -webkit-fill-available;
+            background: transparent;
+            color: #fff;
+        }
 
-#sbutton {
-    background: #8bc34a;
-    border: 0;
-    padding: 10px 15px;
-    color: #fff;
-    font-family: inherit;
-    font-weight: bold;
-    border-radius: 4px;
-    font-size: 18px;
-    display: flex;
-    align-items: center;
-}
+        #sbutton {
+            background: #75ae34;
+            border: 0;
+            padding: 9px 28px;
+            color: #fff;
+            font-family: inherit;
+            font-weight: bold;
+            border-radius: 50px;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            transition: all .2s;
+        }
 
-#sbutton i {
-    margin-right: 10px;
-    color: #fff;
-    font-size: 16px;
-    opacity: 1;
-}
+        #sbutton:hover {
+            background: #5d872d;
+            transition: all .2s;
+        }
+
+        #sbutton i {
+            margin-right: 10px;
+            color: #fff;
+            font-size: 16px;
+            opacity: 1;
+        }
 
         form {
             display: flex;
             align-items: center;
             justify-content: space-between;
-
         }
 
         ::selection {
@@ -241,8 +243,6 @@ input.stext {
             background: #eee;
             border-radius: 4px 4px 0 0;
         }
-
-
 
         .pimg img {
             width: 100%;
@@ -410,32 +410,23 @@ input.stext {
         }
 
         .main {
-
             transition: all .3s;
         }
-
 
         .smeta {
             display: none;
         }
 
         a.search {
-    
-    opacity: .3;
-    background: #000;
-    color: #000;
-    pointer-events: none;
-    
-}
+            opacity: .3;
+            background: #000;
+            color: #000;
+            pointer-events: none;
+        }
 
-a.search i {
-    
-   
-   
-    color: #000;
-   
-    
-}
+        a.search i {
+            color: #000;
+        }
     </style>
 
 

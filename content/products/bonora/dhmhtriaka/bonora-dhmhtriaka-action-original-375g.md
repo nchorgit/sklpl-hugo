@@ -1,6 +1,11 @@
 ---
 title: "Bonora Δημητριακά Action Original 375g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-dhmhtriaka-action-original-375g.jpg"
+barcode: "5202576282599"
+varos: "375g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
 smeta: ["

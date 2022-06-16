@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Σοκολατοπιτάκια κουρού 450g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-sokolatopitakia-kourou-450g.jpg"
+barcode: "5213000480061"
+varos: "450g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
 smeta: ["baker master Σοκολατοπιτακια κουρου 450g βακερ μαστερ Σοκολατοπιτακια κουρου 450g 5213000480061 baker-master-sokolatopitakia-kourou-450g baker master sokolatopitakia kourou 450g μπεικερ μαστερ"]

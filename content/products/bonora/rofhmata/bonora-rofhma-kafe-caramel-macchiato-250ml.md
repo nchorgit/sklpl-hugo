@@ -1,8 +1,18 @@
 ---
 title: "Bonora Ρόφημα καφέ Caramel Macchiato 250ml"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-rofhma-kafe-caramel-macchiato-250ml.jpg"
+barcode: "5202576633605"
+varos: "250ml"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Ροφήματα"]
+smeta: ["
+Bonora Ρόφημα καφε Caramel Macchiato
+bonora rofhma kafe Caramel Macchiato
+mponora βονορα μπονορα rofhma rofima καφές καφες coffees καραμέλα καραμελα μακιατο
+"]
 ---
 {{< rawhtml >}}
 

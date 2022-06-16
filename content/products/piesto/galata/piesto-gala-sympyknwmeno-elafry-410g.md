@@ -1,6 +1,11 @@
 ---
 title: "Πιέστο γάλα συμπυκνωμένο ελαφρύ 410g"
 categories: ["Πιέστο"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Γάλατα"]
 ---

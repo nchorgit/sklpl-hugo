@@ -1,8 +1,18 @@
 ---
 title: "Bonora Παγωτό Καϊμάκι 580g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-pagwto-kaimaki-580g.jpg"
+barcode: "5202576707948"
+varos: "580g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Παγωτά"]
+smeta: ["
+Bonora Παγωτο Καϊμάκι
+bonora pagwto kaimaki
+mponora βονορα μπονορα καιμακι
+"]
 ---
 {{< rawhtml >}}
 

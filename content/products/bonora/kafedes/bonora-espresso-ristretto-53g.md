@@ -1,13 +1,18 @@
 ---
 title: "Bonora Κάψουλες Espresso Ristretto 53g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-espresso-ristretto-53g.jpg"
+barcode: "5208046012246"
+varos: "53g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 smeta: ["
-bonora
-bonora
-βονορα kafedes kafes καφές καφες coffees
-00000000
+Bonora Καψουλες Espresso Ristretto
+Bonora kapsoules Espresso Ristretto
+βονορα kafedes kafes καφές καφες coffees cafes
+kacoyles εσπρεσσο εσπρέσο εσπρεσο εσπρέσσο ριστρεττο μπονορα mponora
 "]
 ---
 {{< rawhtml >}}

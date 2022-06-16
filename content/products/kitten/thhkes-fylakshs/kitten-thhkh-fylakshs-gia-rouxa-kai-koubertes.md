@@ -1,6 +1,11 @@
 ---
 title: "Kitten Θήκη φύλαξης για ρούχα και κουβέρτες"
 categories: ["Kitten"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Θήκες φύλαξης"]
 ---

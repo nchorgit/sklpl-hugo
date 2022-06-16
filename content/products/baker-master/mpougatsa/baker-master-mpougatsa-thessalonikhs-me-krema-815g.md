@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Μπουγάτσα Θεσσαλονίκης με κρέμα 815g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-mpougatsa-thessalonikhs-me-krema-815g.jpg"
+barcode: "5213000480627"
+varos: "815g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Μπουγάτσα"]
 smeta: ["Baker Master Μπουγατσα Θεσσαλονικης με κρεμα 815g baker-master mpougatsa thessalonikhs me krema 815g βακερ μαστερ Μπουγατσα Θεσσαλονικης με κρεμα 5213000480627 μπεικερ μαστερ"]

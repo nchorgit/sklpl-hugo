@@ -1,8 +1,18 @@
 ---
 title: "Bonora Ρόφημα καφέ Cappuccino 250ml"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-rofhma-kafe-cappuccino-250ml.jpg"
+barcode: "5202576633612"
+varos: "250ml"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Ροφήματα"]
+smeta: ["
+Bonora Ρόφημα καφε Cappuccino
+bonora rofhma kafe Cappuccino
+mponora βονορα μπονορα rofhma rofima καφές καφες coffees
+"]
 ---
 {{< rawhtml >}}
 

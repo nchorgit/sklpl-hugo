@@ -1,6 +1,11 @@
 ---
 title: "Buenas Πάριζα & Edam σε φέτες"
 categories: ["Buenas"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Αλλαντικά"]
 ---

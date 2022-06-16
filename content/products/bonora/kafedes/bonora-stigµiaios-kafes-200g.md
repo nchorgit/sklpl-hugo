@@ -1,13 +1,17 @@
 ---
 title: "Bonora Στιγµιαίος καφές 200g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-stigµiaios-kafes-200g.jpg"
+barcode: "5202576707986"
+varos: "200g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
 smeta: ["
-bonora
-bonora
-βονορα kafedes kafes καφές καφες coffees
-00000000
+bonora Στιγµιαίος καφές 200g
+bonora stigµiaios kafes 200g
+βονορα kafedes kafes καφές καφες coffees νεσψαφε nescafe frappe frape φραπε φραπέ μπονορα mponora
 "]
 ---
 {{< rawhtml >}}

@@ -1,6 +1,11 @@
 ---
 title: "Γλάρος 110 λευκές Χαρτοπετσέτες"
 categories: ["Γλάρος"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Χαρτοπετσέτες"]
 ---

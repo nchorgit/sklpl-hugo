@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Μπριοσάκια με γαλοπούλα και Philadelphia 450g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-mpriosakia-me-galopoula-kai-philadelphia-450g.jpg"
+barcode: "5213000480610"
+varos: "450g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
 smeta: ["baker master μπριοσακια με γαλοπουλα και Philadelphia 450g βακερ μαστερ μπριοσακια με γαλοπουλα και Philadelphia 450g baker master mpriosakia me galopoula kai philadelphia 450g μπεικερ μαστερ 5213000480610 πηιλαδελπηια filadelfia φιλαδελφια φιλαδέλφια"]

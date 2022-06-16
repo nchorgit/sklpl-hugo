@@ -1,6 +1,11 @@
 ---
 title: "Ανθέλα Ελαιόλαδο 4L"
 categories: ["Ανθέλα"]
+product_image: "/media/images/anthela-elaiolado-4l.jpg"
+barcode: "5202576464438"
+varos: "4L"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Λάδια"]
 smeta: ["ανθελα ελαιολαδο anthela elaiolado anuela elaiolado 5202576464438 4l 4 litra 4 λιτρα 4 λίτρα "]

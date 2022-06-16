@@ -1,6 +1,11 @@
 ---
 title: "Ρόμβος Τσίπουρο 200ml"
 categories: ["Ρόμβος"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Τσίπουρο"]
 ---

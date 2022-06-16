@@ -1,8 +1,18 @@
 ---
 title: "Bonora Κακάο 125g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-kakao-125g.jpg"
+barcode: "5202646000955"
+varos: "125g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Ροφήματα"]
+smeta: ["
+Bonora κακαο
+bonora kakao
+mponora βονορα μπονορα rofhma rofima
+"]
 ---
 {{< rawhtml >}}
 

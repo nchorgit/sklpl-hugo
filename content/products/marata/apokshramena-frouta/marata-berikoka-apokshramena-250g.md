@@ -2,6 +2,11 @@
 title: "Μαράτα Βερίκοκα αποξηραμένα 250g"
 weight: 2
 categories: ["Μαράτα"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Αποξηραμένα φρούτα"]
 ---

@@ -2,6 +2,11 @@
 title: "Σκλαβενίτης Μελιτζάνες παπουτσάκια 400g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Έτοιμα Φαγητά"]
 

@@ -1,6 +1,11 @@
 ---
 title: "Tickit Τετράδιο ριγέ 80 φύλλων"
 categories: ["Tickit"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]
 tags: ["Τετράδια"]
 ---

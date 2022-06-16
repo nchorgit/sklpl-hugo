@@ -1,6 +1,11 @@
 ---
 title: "Sette Υποσέντονα μιας χρήσης 180 Χ 90 cm"
 categories: ["Sette"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Υποσέντονα"]
 ---

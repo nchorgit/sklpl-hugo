@@ -1,6 +1,11 @@
 ---
 title: "Meat House Κεφτεδάκια προψημένα 420g"
 categories: ["Meat House"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Συσκευασμένα κρέατα"]
 ---

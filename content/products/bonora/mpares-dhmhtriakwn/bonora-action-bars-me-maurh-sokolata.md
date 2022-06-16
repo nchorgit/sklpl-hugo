@@ -1,8 +1,18 @@
 ---
 title: "Bonora Action Bars με μαύρη σοκολάτα"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-action-bars-me-maurh-sokolata.jpg"
+barcode: "5202576634060"
+varos: "138g: 6X23g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Μπάρες δημητριακών"]
+smeta: ["
+bonora Action Bars με μαυρη σοκολατα
+bonora action bars me maurh sokolata
+βονορα μπονορα mponora αψτιον βαρσ dark chocolate ψηοψολατε
+"]
 ---
 {{< rawhtml >}}
 

@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Μπουγάτσα Θεσσαλονίκης με τυρί 450g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-mpougatsa-thessalonikhs-me-tyri-450g.jpg"
+barcode: "5213000480634"
+varos: "450g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Μπουγάτσα"]
 smeta: ["Baker Master Μπουγατσα Θεσσαλονικης με τυρι 450g βακερ μαστερ Μπουγατσα Θεσσαλονικης με τυρι 450g baker master mpougatsa thessalonikhs me tyri 450g μπεικερ μαστερ 5213000480634"]

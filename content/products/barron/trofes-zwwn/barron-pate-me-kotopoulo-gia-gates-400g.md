@@ -1,6 +1,11 @@
 ---
 title: "Barron Πατέ με Κοτόπουλο για γάτες 400g"
 categories: ["Barron"]
+product_image: "/media/images/barron-pate-me-kotopoulo-gia-gates-400g.jpg"
+barcode: "5202576306158"
+varos: "400g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 smeta: ["

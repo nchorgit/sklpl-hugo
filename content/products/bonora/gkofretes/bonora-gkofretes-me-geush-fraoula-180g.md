@@ -1,13 +1,17 @@
 ---
 title: "Bonora Γκοφρέτες με γεύση φράουλα 180g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-gkofretes-me-geush-fraoula-180g.jpg"
+barcode: "5202576630468"
+varos: "180g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Γκοφρέτες"]
 smeta: ["
 bonora Γκοφρετες με γευση φραουλα 180g
 bonora gkofretes me geush fraoula 180g 
 βονορα gkofreta gkofretes gofreta gofretes
-5202576630468
 "]
 ---
 {{< rawhtml >}}

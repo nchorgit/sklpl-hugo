@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Σπανακοτυροπιτάκια τρίγωνα 450g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-spanakotyropitakia-trigwna-450g.jpg"
+barcode: "5213000480184"
+varos: "450g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
 smeta: ["baker master Σπανακοτυροπιτακια τριγωνα 450g βακερ μαστερ Σπανακοτυροπιτακια τριγωνα 450g 5213000480184 baker master spanakotyropitakia trigwna 450g μπεικερ μαστερ"]

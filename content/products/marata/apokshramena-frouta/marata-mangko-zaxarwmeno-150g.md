@@ -2,6 +2,11 @@
 title: "Μαράτα Μάνγκο ζαχαρωμένο 150g"
 weight: 2
 categories: ["Μαράτα"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Αποξηραμένα φρούτα"]
 ---

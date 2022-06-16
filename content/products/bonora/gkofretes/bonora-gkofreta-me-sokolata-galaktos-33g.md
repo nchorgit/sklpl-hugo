@@ -1,14 +1,17 @@
 ---
 title: "Bonora Γκοφρέτα με σοκολάτα γάλακτος 33g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-gkofreta-me-sokolata-galaktos-33g.jpg"
+barcode: "5202576630444"
+varos: "33g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Γκοφρέτες"]
 smeta: ["
 bonora Γκοφρετα με σοκολατα γαλακτος 33g
 bonora gkofreta me sokolata galaktos 33g
 βονορα gkofreta gkofretes gofreta gofretes
-
-5202576630444
 "]
 ---
 {{< rawhtml >}}

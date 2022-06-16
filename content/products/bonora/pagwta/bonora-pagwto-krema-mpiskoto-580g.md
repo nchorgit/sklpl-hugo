@@ -1,8 +1,18 @@
 ---
 title: "Bonora Παγωτό Κρέμα μπισκότο 580g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-pagwto-krema-mpiskoto-580g.jpg"
+barcode: "5202576681637"
+varos: "580g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Παγωτά"]
+smeta: ["
+Bonora Παγωτο Κρεμα μπισκοτο
+bonora pagwto krema mpiskoto
+mponora βονορα μπονορα
+"]
 ---
 {{< rawhtml >}}
 

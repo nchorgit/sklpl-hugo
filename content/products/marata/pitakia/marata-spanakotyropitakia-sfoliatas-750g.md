@@ -1,6 +1,11 @@
 ---
 title: "Μαράτα Σπανακοτυροπιτάκια σφολιάτας 750g"
 categories: ["Μαράτα"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
 ---

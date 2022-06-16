@@ -1,6 +1,11 @@
 ---
 title: "Μαράτα Αλεύρι για όλες τις χρήσεις 1kg"
 categories: ["Μαράτα"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Αλεύρι"]
 weight: 1

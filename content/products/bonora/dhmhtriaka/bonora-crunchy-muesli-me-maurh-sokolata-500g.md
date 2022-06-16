@@ -1,6 +1,11 @@
 ---
 title: "Bonora Crunchy Muesli με βρώμη και μαύρη σοκολάτα 500g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-crunchy-muesli-me-maurh-sokolata-500g.jpg"
+barcode: "5202576682702"
+varos: "500g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
 smeta: ["

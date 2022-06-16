@@ -1,6 +1,11 @@
 ---
 title: "Sette Αφρόντους για άνδρες 1000ml"
 categories: ["Sette"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Αφρόλουτρα"]
 ---

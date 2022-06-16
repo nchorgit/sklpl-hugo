@@ -1,6 +1,11 @@
 ---
 title: "Kitten Γάντια ελαστικά με επένδυση Νο 7"
 categories: ["Kitten"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Γάντια ελαστικά"]
 ---

@@ -1,6 +1,11 @@
 ---
 title: "Bonora Crunchy Muesli με βρώμη και κράνμπερι 500g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-crunchy-muesli-me-kranmperi-500g.jpg"
+barcode: "5202576682658"
+varos: "500g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
 smeta: ["

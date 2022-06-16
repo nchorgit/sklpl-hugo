@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Φύλλα σφολιάτας 800g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-zymh-sfoliatas-800g.jpg"
+barcode: "5213000480078"
+varos: "800g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Ζύμες"]
 smeta: ["

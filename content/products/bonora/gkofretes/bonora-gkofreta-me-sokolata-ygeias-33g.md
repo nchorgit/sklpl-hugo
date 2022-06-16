@@ -1,13 +1,17 @@
 ---
 title: "Bonora Γκοφρέτα με σοκολάτα υγείας 33g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-gkofreta-me-sokolata-ygeias-33g.jpg"
+barcode: "5202576630420"
+varos: "33g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Γκοφρέτες"]
 smeta: ["
 bonora Γκοφρετα με σοκολατα υγειας 33
 bonora gkofreta me sokolata ygeias 33g
 βονορα gkofretes gofreta gofretes
-5202576630420
 "]
 ---
 {{< rawhtml >}}

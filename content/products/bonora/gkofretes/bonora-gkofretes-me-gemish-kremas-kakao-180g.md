@@ -1,13 +1,17 @@
 ---
 title: "Bonora Γκοφρέτες με γέμιση κρέμας κακάο 180g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-gkofretes-me-gemish-kremas-kakao-180g.jpg"
+barcode: "5202576630451"
+varos: "180g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Γκοφρέτες"]
 smeta: ["
 bonora Γκοφρετες με γεμιση κρεμας κακαο 180g
 bonora bonora gkofretes me gemish kremas kakao 180g
 βονορα gkofreta gkofretes gofreta gofretes cocoa 
-5202576630451
 "]
 ---
 {{< rawhtml >}}

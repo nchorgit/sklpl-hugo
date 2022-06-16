@@ -1,6 +1,11 @@
 ---
 title: "Stampa Στυλό διαρκείας με κλιπ WT9908"
 categories: ["Stampa"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

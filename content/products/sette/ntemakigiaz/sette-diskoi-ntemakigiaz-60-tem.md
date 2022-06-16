@@ -1,6 +1,11 @@
 ---
 title: "Sette Δίσκοι Ντεμακιγιάζ 60 τεμ."
 categories: ["Sette"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Ντεμακιγιάζ"]
 ---

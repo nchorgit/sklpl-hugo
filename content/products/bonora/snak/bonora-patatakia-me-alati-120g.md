@@ -1,6 +1,11 @@
 ---
 title: "Bonora Πατατάκια με αλάτι 120g"
 categories: ["Bonora"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Σνακ"]
 ---

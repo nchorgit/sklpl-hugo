@@ -1,6 +1,11 @@
 ---
 title: "Barron Plus Ξηρά τροφή για στειρωμένες γάτες με Κοτόπουλο 1Kg"
 categories: ["Barron"]
+product_image: "/media/images/barron-plus-kshra-trofh-gia-steirwmenes-gates-me-kotopoulo-1kg.jpg"
+barcode: "5202576872134"
+varos: "1Kg"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Τροφές Ζώων"]
 smeta: ["

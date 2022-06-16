@@ -1,6 +1,11 @@
 ---
 title: "Bonora Δημητριακά Corn Flakes 375g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-dhmhtriaka-corn-flakes-375g.jpg"
+barcode: "5202576282582"
+varos: "375g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
 smeta: ["
@@ -8,7 +13,6 @@ bonora Δημητριακα Corn Flakes 375g
 bonora dhmhtriaka Corn Flakes 375g
 βονορα ψορν φλακεσ νιφάδες νιφαδες nifades
 μπονορα mponora dhmhtriaka dimitriaka
-00000000
 "]
 ---
 {{< rawhtml >}}

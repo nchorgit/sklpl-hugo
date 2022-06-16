@@ -1,6 +1,11 @@
 ---
 title: "Bonora Δημητριακά Choco Balls 375g"
 categories: ["Bonora"]
+product_image: "/media/images/bonora-dhmhtriaka-choco-balls-375g.jpg"
+barcode: "5202576309340"
+varos: "375g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Δημητριακά"]
 smeta: ["

@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Pizza Μαργαρίτα 415g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-pizza-margarita-415g.jpg"
+barcode: "5213000480238"
+varos: "415g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πίτσες"]
 smeta: ["

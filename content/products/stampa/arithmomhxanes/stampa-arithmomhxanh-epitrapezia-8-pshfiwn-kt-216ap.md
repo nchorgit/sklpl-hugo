@@ -1,6 +1,11 @@
 ---
 title: "Stampa Αριθμομηχανή επιτραπέζια 8 ψηφίων KT-216AP"
 categories: ["Stampa"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]
 tags: ["Αριθμομηχανές"]
 ---

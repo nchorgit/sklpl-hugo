@@ -1,6 +1,11 @@
 ---
 title: "Stampa Αριθμομηχανές τσέπης 8 ψηφίων DPC216"
 categories: ["Stampa"]
+product_image: ""
+barcode: ""
+varos: ""
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]
 tags: ["Αριθμομηχανές"]
 ---

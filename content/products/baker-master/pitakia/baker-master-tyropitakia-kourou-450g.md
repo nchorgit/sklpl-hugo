@@ -1,6 +1,11 @@
 ---
 title: "Baker Master Τυροπιτάκια κουρού 450g"
 categories: ["Baker Master"]
+product_image: "/media/images/baker-master-tyropitakia-kourou-450g.jpg"
+barcode: "5213000480030"
+varos: "450g"
+bar_img: "/media/svg/barcode.svg"
+var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Πιτάκια"]
 smeta: ["baker master Τυροπιτακια κουρου 450g βακερ μαστερ Τυροπιτακια κουρου 450g baker master tyropitakia kourou 450g 5213000480030 μπεικερ μαστερ"]
