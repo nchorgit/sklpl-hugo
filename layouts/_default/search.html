@@ -42,11 +42,11 @@
                     {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
                         href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
                             aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
-                <p>
+                <!--<p>
                     {{ if .Params.smeta }}<strong></strong> {{ range sort .Params.smeta }}<a class="smeta"
                         href="{{ "/smeta/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
                             aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
-                </p>
+                </p>-->
                
             </li>
             {{ end }}
