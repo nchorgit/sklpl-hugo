@@ -1,11 +1,11 @@
 ---
 title: "Drolio Ταψιά μεσαία D17"
 categories: ["Drolio"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/drolio-tapsia-mesaia-d17.jpg"
+barcode: "5202576204911"
+varos: "3 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σκεύη αλουμινίου"]
 weight: 5

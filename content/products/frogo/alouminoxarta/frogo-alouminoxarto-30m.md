@@ -1,11 +1,11 @@
 ---
 title: "Frogo Αλουμινόχαρτο 30m"
 categories: ["Frogo"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/frogo-alouminoxarto-30m.jpg"
+barcode: "5202576946910"
+varos: "30 μέτρα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Αλουμινόχαρτα"]
 ---
@@ -40,7 +40,7 @@ tags: ["Αλουμινόχαρτα"]
         Αποθηκεύστε το προϊόν σε περιβάλλον χωρίς υγρασία.
     </p><br>
     <div id="barcode">
-        <div id="barimage1"></div><span id="bartext">5202576946880</span>
+        <div id="barimage1"></div><span id="bartext">5202576946910</span>
     </div>
     <div id="varos">
         <div id="dimimg">

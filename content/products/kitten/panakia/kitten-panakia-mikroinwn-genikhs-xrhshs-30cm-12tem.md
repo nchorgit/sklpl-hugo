@@ -1,11 +1,11 @@
 ---
 title: "Kitten Πανάκια μικροϊνών γενικής χρήσης 30cm 12τεμ"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-panakia-mikroinwn-genikhs-xrhshs-30cm-12tem.jpg"
+barcode: "5202576681576"
+varos: "30 X 30 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dmc.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Πανάκια"]
 ---

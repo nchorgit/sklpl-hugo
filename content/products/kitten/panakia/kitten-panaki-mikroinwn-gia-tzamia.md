@@ -1,11 +1,11 @@
 ---
 title: "Kitten Πανάκι μικροϊνών για τζάμια"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-panaki-mikroinwn-gia-tzamia.jpg"
+barcode: "5202576680326"
+varos: "40 Χ 40 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dmc.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Πανάκια"]
 ---

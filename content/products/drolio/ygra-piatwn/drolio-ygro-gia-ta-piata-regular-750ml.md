@@ -1,9 +1,9 @@
 ---
 title: "Drolio Υγρό για τα πιάτα Regular 750ml"
 categories: ["Drolio"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/drolio-ygro-gia-ta-piata-regular-750ml.jpg"
+barcode: "5202576210370"
+varos: "750ml"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]

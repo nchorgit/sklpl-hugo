@@ -1,11 +1,11 @@
 ---
 title: "Kitten Ανταλλακτικά για ρολό καθαρισμού 2τεμ"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-antallaktika-gia-rolo-katharismou-2tem.jpg"
+barcode: "5202576681286"
+varos: "10 μέτρα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Ρολά καθαρισμού"]
 ---

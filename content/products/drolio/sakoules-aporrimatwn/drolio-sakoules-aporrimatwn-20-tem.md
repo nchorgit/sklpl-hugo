@@ -1,11 +1,11 @@
 ---
 title: "Drolio Σακούλες Απορριμάτων 20 τεμ."
 categories: ["Drolio"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/drolio-sakoules-aporrimatwn-20-tem.jpg"
+barcode: "5202576089242"
+varos: "53 X 80 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σακούλες Απορριμάτων"]
 weight: 4

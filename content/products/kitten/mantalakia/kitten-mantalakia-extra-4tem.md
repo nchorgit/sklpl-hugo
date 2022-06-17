@@ -1,11 +1,11 @@
 ---
 title: "Kitten Μανταλάκια extra 4τεμ"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-mantalakia-extra-4tem.jpg"
+barcode: "5202576709010"
+varos: "4 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Μανταλάκια"]
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Kitten Στεγνά πανάκια καθαρισμού"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-stegna-panakia-katharismou.jpg"
+barcode: "5202576688100"
+varos: "28 X 22 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dmc.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σκονοσκουπάκια"]
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Frogo Διαφανής Μεμβράνη 20m"
 categories: ["Frogo"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/frogo-diafanhs-membranh-20m.jpg"
+barcode: "5202576946927"
+varos: "20 μέτρα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Αλουμινόχαρτα"]
 ---

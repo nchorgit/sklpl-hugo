@@ -1,9 +1,9 @@
 ---
-title: "Buenas Λουκάνικα Πουλερικών"
+title: "Buenas Λουκάνικα Πουλερικών 140g"
 categories: ["Buenas"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/buenas-loukanika-poulerikwn.jpg"
+barcode: "5202576712942"
+varos: "140g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

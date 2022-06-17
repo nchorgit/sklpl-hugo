@@ -1,11 +1,11 @@
 ---
 title: "Γλάρος 2 λευκά Ρολά κουζίνας Γίγας"
 categories: ["Γλάρος"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/glaros-2-leuka-rola-kouzinas-gigas.jpg"
+barcode: "5200107430068"
+varos: "2 Χ 50,8 μέτρα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Χαρτί κουζίνας"]
 ---

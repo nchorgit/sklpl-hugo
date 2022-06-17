@@ -1,9 +1,9 @@
 ---
-title: "Buenas Πάριζα & Edam σε φέτες"
+title: "Buenas Πάριζα & Edam σε φέτες 360g"
 categories: ["Buenas"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/buenas-pariza-&-edam-se-fetes.jpg"
+barcode: "5202576475106"
+varos: "360g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

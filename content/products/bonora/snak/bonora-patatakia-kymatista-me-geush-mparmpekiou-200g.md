@@ -1,9 +1,9 @@
 ---
 title: "Bonora Πατατάκια Κυματιστά με γεύση μπάρμπεκιου 200g"
 categories: ["Bonora"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/bonora-patatakia-kymatista-me-geush-mparmpekiou-200g.jpg"
+barcode: "5202576630031"
+varos: "200g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

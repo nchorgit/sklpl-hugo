@@ -1,9 +1,9 @@
 ---
 title: "Buenas Πάριζα μπαστούνι"
 categories: ["Buenas"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/buenas-pariza-mpastouni.jpg"
+barcode: "ΠΩΛΗΣΗ ΧΥΜΑ"
+varos: "220 μερίδες"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

@@ -1,9 +1,9 @@
 ---
 title: "Bonora Σοκολάτα γάλακτος αμυγδάλου 100g"
 categories: ["Bonora"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/bonora-sokolata-galaktos-amygdalou-100g.jpg"
+barcode: "5202576633964"
+varos: "100g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

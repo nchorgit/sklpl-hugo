@@ -1,11 +1,11 @@
 ---
 title: "Kitten Καλάθι για μανταλάκια"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-kalathi-gia-mantalakia.jpg"
+barcode: "5202576680234"
+varos: "1 τεμάχιο"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Μανταλάκια"]
 ---

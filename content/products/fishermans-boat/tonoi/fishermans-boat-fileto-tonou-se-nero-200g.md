@@ -1,9 +1,9 @@
 ---
 title: "Fisherman's Boat Φιλέτο τόνου σε νερό 200g"
 categories: ["Fisherman's Boat"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/fishermans-boat-fileto-tonou-se-nero-200g.jpg"
+barcode: "5202576872356"
+varos: "200g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

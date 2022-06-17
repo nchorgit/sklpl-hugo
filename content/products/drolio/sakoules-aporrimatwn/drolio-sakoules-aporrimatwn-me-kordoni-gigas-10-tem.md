@@ -1,11 +1,11 @@
 ---
 title: "Drolio Σακούλες Απορριμάτων με κορδόνι Γίγας 10 τεμ"
 categories: ["Drolio"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/drolio-sakoules-aporrimatwn-me-kordoni-gigas-10-tem.jpg"
+barcode: "5202576789500"
+varos: "70 X 95 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σακούλες Απορριμάτων"]
 weight: 4

@@ -1,11 +1,11 @@
 ---
 title: "Γλάρος 6 πακέτα Χαρτομάντιλα"
 categories: ["Γλάρος"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/glaros-6-paketa-xartomantila.jpg"
+barcode: "5200107431089"
+varos: "21 x 21 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Χαρτομάντιλα"]
 ---

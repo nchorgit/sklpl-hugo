@@ -1,11 +1,11 @@
 ---
 title: "Kitten Απλώστρα ρούχων κρεμαστή πορτοκαλί"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-aplwstra-rouxwn-kremasth-portokali.jpg"
+barcode: "5202576680418"
+varos: "3 μέτρα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Απλώστρες"]
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Kitten Απλώστρα ρούχων με πτερύγια πράσινη"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-aplwstra-rouxwn-me-pterygia-prasinh.jpg"
+barcode: "5202576680449"
+varos: "20 μέτρα"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]

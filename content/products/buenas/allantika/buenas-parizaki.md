@@ -1,9 +1,9 @@
 ---
 title: "Buenas Παριζάκι"
 categories: ["Buenas"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/buenas-parizaki.jpg"
+barcode: "5202576119048"
+varos: "310g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

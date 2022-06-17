@@ -1,11 +1,11 @@
 ---
 title: "Γλάρος επαγγελματικο Ρολό κουζίνας"
 categories: ["Γλάρος"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/glaros-epaggelmatiko-rolo-kouzinas.jpg"
+barcode: "5200107431027"
+varos: "800γρ."
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Χαρτί κουζίνας"]
 ---

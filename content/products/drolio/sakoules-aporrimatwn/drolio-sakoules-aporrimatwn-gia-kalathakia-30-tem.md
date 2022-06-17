@@ -1,11 +1,11 @@
 ---
-title: "Drolio Σακούλες Απορριμάτων για καλαθάκια 30 τεμ."
+title: "Drolio Σακούλες Απορριμάτων για καλαθάκια 30 τεμ"
 categories: ["Drolio"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/drolio-sakoules-aporrimatwn-gia-kalathakia-30-tem.jpg"
+barcode: "5202576056213"
+varos: "46 X 56 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σακούλες Απορριμάτων"]
 weight: 4

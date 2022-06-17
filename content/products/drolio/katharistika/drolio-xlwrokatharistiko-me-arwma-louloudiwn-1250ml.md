@@ -1,9 +1,9 @@
 ---
 title: "Drolio Χλωροκαθαριστικό με άρωμα λουλουδιών 1250ml"
 categories: ["Drolio"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/drolio-xlwrokatharistiko-me-arwma-louloudiwn-1250ml.jpg"
+barcode: "5202576210400"
+varos: "1250ml"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]

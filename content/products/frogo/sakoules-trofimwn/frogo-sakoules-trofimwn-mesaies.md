@@ -1,11 +1,11 @@
 ---
 title: "Frogo Σακούλες τροφίµων μεσαίες"
 categories: ["Frogo"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/frogo-sakoules-trofimwn-mesaies.jpg"
+barcode: "5202576680463"
+varos: "27 X 27 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σακούλες τροφίμων"]
 ---

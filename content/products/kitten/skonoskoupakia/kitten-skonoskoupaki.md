@@ -1,11 +1,11 @@
 ---
 title: "Kitten Σκονοσκουπάκι"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-skonoskoupaki.jpg"
+barcode: "5202576688117"
+varos: "5 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σκονοσκουπάκια"]
 ---

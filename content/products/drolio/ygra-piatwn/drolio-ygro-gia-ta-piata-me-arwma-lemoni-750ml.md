@@ -1,9 +1,9 @@
 ---
 title: "Drolio Υγρό για τα πιάτα με άρωμα Λεμόνι 750ml"
 categories: ["Drolio"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/drolio-ygro-gia-ta-piata-me-arwma-lemoni-750ml.jpg"
+barcode: "5202576210387"
+varos: "750ml"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]

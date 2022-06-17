@@ -1,11 +1,11 @@
 ---
 title: "Kitten Σχοινί απλώματος ενισχυμένο 20m"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-sxoini-aplwmatos-enisxymeno-20m.jpg"
+barcode: "5202576680272"
+varos: "20 μέτρα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dmc.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Μανταλάκια"]
 ---

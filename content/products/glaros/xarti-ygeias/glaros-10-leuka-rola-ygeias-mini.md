@@ -1,11 +1,11 @@
 ---
 title: "Γλάρος 10 λευκά Ρολά υγείας Μίνι"
 categories: ["Γλάρος"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/glaros-10-leuka-rola-ygeias-mini.jpg"
+barcode: "5200107430198"
+varos: "10 Χ 23,4 μέτρα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Χαρτί υγείας"]
 ---

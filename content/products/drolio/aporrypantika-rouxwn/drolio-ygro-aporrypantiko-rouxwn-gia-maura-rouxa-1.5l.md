@@ -1,9 +1,9 @@
 ---
 title: "Drolio Υγρό απορρυπαντικό ρούχων για μαύρα ρούχα 1,5L"
 categories: ["Drolio"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/drolio-ygro-aporrypantiko-rouxwn-gia-maura-rouxa-1.5l.jpg"
+barcode: "5208046040898"
+varos: "1,5L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]

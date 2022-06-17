@@ -1,11 +1,11 @@
 ---
 title: "Frogo Σακούλες τροφίµων μικρές"
 categories: ["Frogo"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/frogo-sakoules-trofimwn-mikres.jpg"
+barcode: "5202576680456"
+varos: "20 X 18,5 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σακούλες τροφίμων"]
 ---

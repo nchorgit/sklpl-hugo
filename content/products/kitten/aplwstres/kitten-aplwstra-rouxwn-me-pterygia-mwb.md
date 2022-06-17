@@ -1,11 +1,11 @@
 ---
 title: "Kitten Απλώστρα ρούχων με πτερύγια μωβ"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-aplwstra-rouxwn-me-pterygia-mwb.jpg"
+barcode: "5202576680371"
+varos: "20 μέτρα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Απλώστρες"]
 ---

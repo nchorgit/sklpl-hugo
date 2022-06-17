@@ -1,11 +1,11 @@
 ---
 title: "Frogo Αλουμινόχαρτο 10m"
 categories: ["Frogo"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/frogo-alouminoxarto-10m.jpg"
+barcode: "5202576946880"
+varos: "10 μέτρα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Αλουμινόχαρτα"]
 ---

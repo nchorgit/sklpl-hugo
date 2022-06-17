@@ -1,11 +1,11 @@
 ---
 title: "Kitten Μανταλάκια χρωματιστά style 18τεμ"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-mantalakia-xrwmatista-style-18tem.jpg"
+barcode: "5202576680241"
+varos: "18 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Μανταλάκια"]
 ---

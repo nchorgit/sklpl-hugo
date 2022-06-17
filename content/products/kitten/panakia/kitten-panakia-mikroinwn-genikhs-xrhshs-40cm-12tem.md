@@ -1,9 +1,9 @@
 ---
 title: "Kitten Πανάκια μικροϊνών γενικής χρήσης 40cm 12τεμ"
 categories: ["Kitten"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/kitten-panakia-mikroinwn-genikhs-xrhshs-40cm-12tem.jpg"
+barcode: "5202576712850"
+varos: "40 X 40 cm"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]

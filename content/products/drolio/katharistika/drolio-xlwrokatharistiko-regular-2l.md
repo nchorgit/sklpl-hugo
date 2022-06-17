@@ -1,9 +1,9 @@
 ---
 title: "Drolio Χλωροκαθαριστικό Regular 2L"
 categories: ["Drolio"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/drolio-xlwrokatharistiko-regular-2l.jpg"
+barcode: "5202576210417"
+varos: "2L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
