@@ -1,7 +1,7 @@
 ---
 title: "Drolio Υγρό απορρυπαντικό ρούχων 2,31L"
 categories: ["Drolio"]
-product_image: ""/media/images/drolio-ygro-aporrypantiko-rouxwn-2,31l.jpg"
+product_image: "/media/images/drolio-ygro-aporrypantiko-rouxwn-2,31l.jpg"
 barcode: "5202576872349"
 varos: "2,31L"
 bar_img: "/media/svg/barcode.svg"

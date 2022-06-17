@@ -1,7 +1,7 @@
 ---
 title: "Buenas Λουκάνικα τύπου Φραγκφούρτης 280g"
 categories: ["Buenas"]
-product_image: ""/media/images/buenas-loukanika-typou-fragkfourths.jpg""
+product_image: "/media/images/buenas-loukanika-typou-fragkfourths.jpg"
 barcode: "5202575119055"
 varos: "280g"
 bar_img: "/media/svg/barcode.svg"
