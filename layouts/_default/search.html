@@ -32,6 +32,7 @@
                         <h1 class="ltitle">{{.Title}}</h1>
                         <div class="bar"><p>{{ .Params.barcode }}</p></div>
                         <div class="var"><p>{{ .Params.varos }}</p></div>
+                        <div class="smeta"><p>{{ .Params.smeta }}</p></div>
                         <div class="fimg">{{if isset .Params "product_image" }}<img src="{{ index .Params "product_image" }}"></div>{{ end }}
                     </a></div>
               
@@ -42,11 +43,7 @@
                     {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
                         href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
                             aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
-                <!--<p>
-                    {{ if .Params.smeta }}<strong></strong> {{ range sort .Params.smeta }}<a class="smeta"
-                        href="{{ "/smeta/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
-                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
-                </p>-->
+                
                
             </li>
             {{ end }}
