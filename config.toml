@@ -4,6 +4,7 @@ title = "Τα Προϊόντα Ιδιωτικής Ετικέτας"
 paginate = "8"
 paginatePath = ""
 removePathAccents = false
+assetDir = "static"
 
 [taxonomies]
   tag = "tags"
@@ -16,5 +17,12 @@ removePathAccents = false
 
 [outputs]
   home = ["HTML"]
+
+[imaging]
+  anchor = 'Smart'
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 75
+  resampleFilter = 'Box'
 
 

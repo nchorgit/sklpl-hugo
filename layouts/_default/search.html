@@ -5,7 +5,7 @@
     {{ partial "head" . }}
 </head>
 
-<body>
+<body><div class="container">
     {{ partial "header" . }}
     <div class="cattitle">
         <div class="stitle">
@@ -17,25 +17,45 @@
             </form>
         </div>
     </div>
+
+    <div class="nores">
+        <!--p style="margin-right: 10px;">Βρέθηκαν </p-->
+        <p class="numpres"> </p> Προϊόντα στην αναζήτηση: <div class="skeyout"><span><i class="fas fa-search"
+                    aria-hidden="true"></i></span> <span class="skey"></span></div>
+                    <button id="sbutton" type="button" onclick="searchFunction()"><i class="fas fa-search" aria-hidden="true"></i>
+                        Νέα Αναζήτηση</button>
+    </div>
     <div class="wrapper">
         <!--ul class="lprod"> 
             {{range .Site.RegularPages}}
             <li><a href="{{.Permalink}}">{{.Title}}</a></li>
             {{end}}
         </ul-->
+
         <ul class="lprod">
             {{range .Site.RegularPages}}
             <li>
-                
+
                 <div class="post"><a href="{{.Permalink}}">
-                       
+
                         <h1 class="ltitle">{{.Title}}</h1>
-                        <div class="bar"><p>{{ .Params.barcode }}</p></div>
-                        <div class="var"><p>{{ .Params.varos }}</p></div>
-                        <div class="smeta"><p>{{ .Params.smeta }}</p></div>
-                        <div class="fimg">{{if isset .Params "product_image" }}<img src="{{ index .Params "product_image" }}"></div>{{ end }}
+                        <div class="bar">
+                            <p>{{ .Params.barcode }}</p>
+                        </div>
+                        <div class="var">
+                            <p>{{ .Params.varos }}</p>
+                        </div>
+                        <div class="smeta">
+                            <p>{{ .Params.smeta }} {{.Permalink}} </p>
+                            <p>{{.Title}}</p>
+                        </div>
+
+                        <div class="fimg">{{if isset .Params "product_image" }}<img
+                                src="{{ index .Params "product_image" }}"></div>
+
+                        {{ end }}
                     </a></div>
-              
+
                 <div class="plabels">
                     {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
                         href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tags"
@@ -43,8 +63,8 @@
                     {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
                         href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
                             aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
-                
-               
+
+
             </li>
             {{ end }}
     </div>
@@ -59,6 +79,10 @@
                 .hide()
                 .filter(":contains('" + $("input[name='keyword']").val() + "')")
                 .show();
+            $('.cattitle').hide()
+           
+            $('.nores').show()
+            $('.nores .numpres').html($('li:visible').length);
         }
         $.expr[":"].contains = $.expr.createPseudo(function (arg) {
             return function (elem) {
@@ -69,18 +93,106 @@
             $('.stext').keypress(function (e) {
                 if (e.keyCode == 13)
                     $('#sbutton').click();
+
             });
         });
         $(document).ready(function () {
             $('.stext').click(function () {
                 $('li').hide()
+                $('.nores').hide()
             });
+
+
         });
+
+        $('.nores').hide()
+        $(document).ready(function () {
+            $("input").keyup(function () {
+                var value = $(this).val();
+                $(".skey").text(value);
+            }).keyup();
+        });
+
+        $(".smeta").each(function () {
+            var text = $(this).text();
+            $(this).text(
+                $(this)
+                .text()
+                .replace(/ά/g, "α")
+                .replace(/έ/g, "ε")
+                .replace(/ή/g, "η")
+                .replace(/ί/g, "ι")
+                .replace(/ό/g, "ο")
+                .replace(/ύ/g, "υ")
+                .replace(/ώ/g, "ω")
+                .replace(/-/g, " ")
+
+                /*.replace(/[^\w\s]/gi, " ")*/
+            );
+        });
+
+        $(".nores button").click(function () {
+  $(".nores, li").hide();
+  $(".cattitle").show();
+ 
+
+
+});
     </script>
     <style>
+        .nores button {
+            margin-left: 35px;
+        }
+        .skeyout span i {
+            color: #ffa500;
+            margin-right: 5px;
+            font-size: 20px;
+        }
+
+        .skeyout {
+            padding: 10px 15px;
+            border-left: 2px solid #555;
+            margin-left: 15px;
+            font-weight: bold;
+        }
+
+        .wspace {
+            background: #fff;
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            z-index: 1;
+            top: 200px;
+        }
+
+        .nores {
+            padding: 5px 15px;
+            text-align: center;
+            background: #3a3939;
+            margin-top: 65px;
+            font-size: 23px;
+            color: #e0dddb;
+            border-bottom: 0px solid #e5d3c2;
+            border-radius: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        p.numpres {
+            border-radius: 4px;
+            background: #d91a32;
+            color: #ffffff;
+            margin-right: 10px;
+            display: inline-block;
+            padding: 5px 20px;
+            font-weight: bold;
+        }
+
         .fimg img {
             width: 100%;
         }
+
         .fakos2 {
             display: none;
         }
@@ -192,9 +304,9 @@
             width: auto;
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
             grid-gap: 24px 18px;
-            margin: -85px auto -25px auto;
+            margin: -150px auto -25px auto;
             max-width: 1300px;
-            padding: 15px;
+            padding: 0px;
         }
 
         .lprod li {
@@ -415,16 +527,28 @@
         }
 
         a.search {
-            opacity: .3;
-            background: #000;
-            color: #000;
-            pointer-events: none;
+            
+            display: none;
         }
+        footer {
+            flex-shrink: 0;
+            width: 100%;
+}
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  flex: 1;
+}
 
-        a.search i {
-            color: #000;
-        }
     </style>
+    </div>
+{{ partial "footer" . }}
 
-
+</body>
 </html>

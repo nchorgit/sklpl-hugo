@@ -19,7 +19,7 @@
             {{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
             {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
             <div class="tagbutton">
-                <a href={{ .RelPermalink }} title="All pages with tag {{$name}}"><i class="fas fa-tags"></i> {{$name}}</a>
+                <a href={{ .RelPermalink }} title="Όλα τα Προϊόντα στην Κατηγορία <i>{{$name}}</i>">{{$name}}</a>
                 <sup>{{$cnt}}</sup>
             </div>
             {{end}}
