@@ -32,7 +32,7 @@
             {{end}}
         </ul-->
 
-        <ul class="lprod">
+        <ul class="lprod" style="visibility: hidden;">
             {{range .Site.RegularPages}}
             <li>
 
@@ -78,6 +78,7 @@
             $(".lprod li")
                 .hide()
                 .filter(":contains('" + $("input[name='keyword']").val() + "')")
+                .css("visibility", "visible")
                 .show();
             $('.cattitle').hide()
            
