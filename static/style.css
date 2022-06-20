@@ -16,8 +16,13 @@ body {
     margin: 0 auto;
     font-family: csans, astym, astyb, Arial, Helvetica, sans-serif;
     overflow-x: hidden;
-    font-size: 17.5px;
+    font-size: 19px;
     color: #444;
+
+}
+
+.container {
+    flex: 1;
 }
 
 a {
@@ -84,7 +89,7 @@ a:hover {
 .spages1 {
     display: flex;
     align-items: center;
-    max-width: 1300px;
+    max-width: 1500px;
     justify-content: space-between;
     padding: 15px;
     margin: 70px auto;
@@ -94,7 +99,7 @@ a:hover {
 .spages {
     display: flex;
     align-items: center;
-    max-width: 1300px;
+    max-width: 1500px;
     justify-content: space-between;
     padding: 15px;
     margin: 0 auto;
@@ -310,7 +315,7 @@ a:hover {
 */
 .main {
     margin: 90px auto;
-    max-width: 1300px;
+    max-width: 1500px;
     padding: 15px;
 }
 
@@ -332,6 +337,8 @@ h1.ltitle a {
 footer {
     padding: 0px;
     margin: 0 auto;
+    flex-shrink: 0;
+    width: 100%;
 }
 
 .ftimgout {
@@ -404,7 +411,7 @@ html {
     position: relative;
     z-index: 5;
     top: -0px;
-    max-width: 1300px;
+    max-width: 1500px;
     border-radius: 0 0 6px 6px;
 }
 
@@ -510,7 +517,7 @@ html {
 }
 
 .wrapper {
-    max-width: 1300px;
+    max-width: 1500px;
     padding: 15px;
     margin: 30px auto;
     overflow: auto;
@@ -594,7 +601,7 @@ a.mpl {
 .ilab {
     text-align: center;
     display: inline-block;
-    width: 18.8%;
+    width: 250px;
     margin: 15px;
     transition: all .3s;
 }

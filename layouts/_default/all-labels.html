@@ -6,24 +6,26 @@
 </head>
 
 <body>
-    {{ partial "header" . }}
-    <div class="ctout">
-        <div class="cattitle">
-            <div class="stitle">
-                <i class="far fa-clone" aria-hidden="true"></i>Κατηγορίες
+    <div class="container">
+        {{ partial "header" . }}
+        <div class="ctout">
+            <div class="cattitle">
+                <div class="stitle">
+                    <i class="far fa-clone" aria-hidden="true"></i>Κατηγορίες
+                </div>
             </div>
         </div>
-    </div>
-    <div class="wrapper">
-        <div class="tags">
-            {{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
-            {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-            <div class="tagbutton">
-                <a href={{ .RelPermalink }} title="Όλα τα Προϊόντα στην Κατηγορία <i>{{$name}}</i>">{{$name}}</a>
-                <sup>{{$cnt}}</sup>
+        <div class="wrapper">
+            <div class="tags">
+                {{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
+                {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+                <div class="tagbutton">
+                    <a href={{ .RelPermalink }} title="Όλα τα Προϊόντα στην Κατηγορία <i>{{$name}}</i>">{{$name}}</a>
+                    <sup>{{$cnt}}</sup>
+                </div>
+                {{end}}
+                {{end}}
             </div>
-            {{end}}
-            {{end}}
         </div>
     </div>
  

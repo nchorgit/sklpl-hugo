@@ -2,9 +2,9 @@
 title: "Σκλαβενίτης Φασολάκια λαδερά 400g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-fasolakia-ladera-400g.jpg"
+barcode: "5202576380578"
+varos: "400g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

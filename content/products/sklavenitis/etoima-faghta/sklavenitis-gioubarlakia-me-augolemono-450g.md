@@ -2,7 +2,7 @@
 title: "Σκλαβενίτης Γιουβαρλάκια με αυγολέμονο 450g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
+product_image: "/media/images/sklavenitis-gioubarlakia-me-augolemono-450g.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

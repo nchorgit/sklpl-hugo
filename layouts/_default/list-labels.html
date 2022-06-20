@@ -6,44 +6,41 @@
 </head>
 
 <body>
-    {{ partial "header" . }}
-
-    <div class="ctout">
-        <div class="cattitle">
-            <div class="stitle">
-                <i class="fas fa-list-alt" aria-hidden="true"></i>Λίστες Προϊόντων ανά Ετικέτα
-            </div>
-            <div class="filter-search">
-                <div class="filter"><i class="fas fa-filter"></i> Φίλτρο</div>
-                <div class="fak"><i class="fas fa-search" aria-hidden="true"></i></div>
-                <input id="myInput" type="text" placeholder="Περιγραφή">
-            </div>
-        </div>
-    </div>
-
-
-
-
-    <div class="wrapper">
-        <div class="mtrof">
-    
-      
-            {{ range $key, $taxonomy := .Site.Taxonomies.categories }} {{ $cnt := .Count }}
-            <div class="gencat">
-                <div class="list-title-out">
-                    <div class="list-title"><p>{{ $key }}</p> </div>
-                    <p>{{$cnt}}</p>
+    <div class="container">
+        {{ partial "header" . }}
+        <div class="ctout">
+            <div class="cattitle">
+                <div class="stitle">
+                    <i class="fas fa-list-alt" aria-hidden="true"></i>Λίστες Προϊόντων ανά Ετικέτα
                 </div>
-            <ul>
-                {{ range $taxonomy.Pages }}
-                <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
-                {{ end }}
-            </ul>
+                <div class="filter-search">
+                    <div class="filter"><i class="fas fa-filter"></i> Φίλτρο</div>
+                    <div class="fak"><i class="fas fa-search" aria-hidden="true"></i></div>
+                    <input id="myInput" type="text" placeholder="Περιγραφή">
+                </div>
+            </div>
         </div>
-            {{ end }}
-      
-   
-  </div>
+        <div class="wrapper">
+            <div class="mtrof">
+        
+        
+                {{ range $key, $taxonomy := .Site.Taxonomies.categories }} {{ $cnt := .Count }}
+                <div class="gencat">
+                    <div class="list-title-out">
+                        <div class="list-title"><p>{{ $key }}</p> </div>
+                        <p>{{$cnt}}</p>
+                    </div>
+                <ul>
+                    {{ range $taxonomy.Pages }}
+                    <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+                {{ end }}
+          
+           
+          </div>
+        </div>
     </div>
 
 <!--

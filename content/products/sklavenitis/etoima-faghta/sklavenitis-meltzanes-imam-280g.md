@@ -2,7 +2,7 @@
 title: "Σκλαβενίτης Μελτζάνες Ιμάμ 280g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
+product_image: "/media/images/sklavenitis-meltzanes-imam-280g.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

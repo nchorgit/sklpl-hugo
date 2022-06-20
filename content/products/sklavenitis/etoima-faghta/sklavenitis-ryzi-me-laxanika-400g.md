@@ -2,7 +2,7 @@
 title: "Σκλαβενίτης Ρύζι με λαχανικά 400g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
+product_image: "/media/images/sklavenitis-ryzi-me-laxanika-400g.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"
