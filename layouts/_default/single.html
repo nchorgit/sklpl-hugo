@@ -48,11 +48,14 @@
 {{ partial "footer" . }}
 </body>
 <style>
+    .post th, .post td, .post p, .post div, .post ul {
+border-radius: 4px;
+    }
     
     .bline {
         border-bottom: 2px solid #eee;
         margin: 0 auto;
-        max-width: 1500px;
+        max-width: 1400px;
     }
 p.yah {
     padding: 7px 20px 7px 0px;
@@ -71,7 +74,7 @@ p.yah {
     border-bottom:0px solid #eee;
     font-size: 17.5px;
     
-    max-width: 1500px;
+    max-width: 1400px;
     border-radius: 0px;
 }
 .pyah i {
@@ -107,10 +110,10 @@ a:hover.cat {
 }
 .main {
     display: grid;
-    gap: 18px;
+    gap: 24px;
     grid-template-columns: 1fr 2fr;
     justify-content: space-evenly;
-    margin-top: 0px;
+    margin-top: 10px;
 }
     .post {
     border: 0px solid #eee;
@@ -121,6 +124,7 @@ a:hover.cat {
 .pimg img {
     width: 50%;
     height: auto;
+    mix-blend-mode: darken;
 }
 
 #sistatika, #loipa {
@@ -129,8 +133,9 @@ a:hover.cat {
     color: #555555;
     padding: 10px 15px;
     font-weight: bold;
-    font-size: 17.5px;
+    font-size: 19px;
     margin: 0px;
+    border-radius: 4px;
 }
 
 .alltext {
@@ -149,9 +154,10 @@ a:hover.cat {
     line-height: 25px;
 }
 h1 {
-    font-size: 28px;
+    font-size: 30px;
     margin: 10px 0 25px 0;
     color: #444;
+    letter-spacing: -.5;
 }
 #flag {
     display: flex;
@@ -175,7 +181,7 @@ h1 {
     height: 40px;
     padding: 0px;
     width: 50%;
-    border-radius: 4px 0 0 0;
+    border-radius: 6px 0 0 6px;
     margin-bottom: 15px;
 }
 
@@ -196,6 +202,7 @@ h1 {
     vertical-align: middle;
     width: 19px;
     border-style: none !important;
+    border-radius: 4px 0 0 4px;
 }
 
 #bartext {
@@ -214,6 +221,8 @@ h1 {
     height: 40px;
     padding: 0px;
     width: 50%;
+    border-radius: 4px;
+
 }
 
 #varosimage {
@@ -234,6 +243,7 @@ h1 {
     background-size: 19px 22px;
     background-repeat: no-repeat;
     background-position: center;
+    border-radius: 4px 0 0 4px;
 }
 
 #varosimage1 {
@@ -431,12 +441,11 @@ h1 {
 }
 
 .plabels {
-    padding: 25px 0px;
-    /*background: #eee;*/
+    padding: 25px 15px;
     margin: 0;
     font-size: 19px;
-    border-radius: 0;
-    border-top: 2px solid #eee;
+    border-radius: 6px !important;
+    border: 2px solid #eee;
 }
 
 .plabels i {
@@ -463,10 +472,12 @@ h1 {
 .pimg {
     cursor: pointer !important;
     padding: 15px;
-    border: 2px solid #eee;
+    border: 0px solid #eee;
     border-radius: 6px;
     margin-bottom: 26px;
+    background: #f2f2f2;
 }
+
 
 .post br:last-child {
     display: none;
@@ -521,7 +532,9 @@ h1 {
     border: 0px solid #eee;
     border-radius: 6px;
     margin-bottom: 0px;
+    background: unset;
 }
+
 .pimg2bg {
     position: fixed;
     top: 0;
@@ -587,17 +600,7 @@ h1 {
 }
 
 
-.p-img {
-    display: block !important;
-    width: 60px;
-    height: 60px;
-    margin: auto;
-    position: absolute;
-    top:0;
-    bottom: 0;
-    left: 10px;
-    border-right: 2px solid #eee;
-}
+
 </style>
 <script>
 

@@ -89,7 +89,7 @@ a:hover {
 .spages1 {
     display: flex;
     align-items: center;
-    max-width: 1500px;
+    max-width: 1400px;
     justify-content: space-between;
     padding: 15px;
     margin: 70px auto;
@@ -99,7 +99,7 @@ a:hover {
 .spages {
     display: flex;
     align-items: center;
-    max-width: 1500px;
+    max-width: 1400px;
     justify-content: space-between;
     padding: 15px;
     margin: 0 auto;
@@ -174,6 +174,11 @@ a:hover {
     position: fixed;
     top: 0;
     z-index: 39;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
 }
 
 .header i {
@@ -315,7 +320,7 @@ a:hover {
 */
 .main {
     margin: 90px auto;
-    max-width: 1500px;
+    max-width: 1400px;
     padding: 15px;
 }
 
@@ -339,6 +344,11 @@ footer {
     margin: 0 auto;
     flex-shrink: 0;
     width: 100%;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
 }
 
 .ftimgout {
@@ -357,6 +367,7 @@ footer {
     color: #eee;
     background: #444;
     padding: 30px;
+    border-radius: 0;
 }
 
 @keyframes fadein {
@@ -411,7 +422,7 @@ html {
     position: relative;
     z-index: 5;
     top: -0px;
-    max-width: 1500px;
+    max-width: 1400px;
     border-radius: 0 0 6px 6px;
 }
 
@@ -517,7 +528,7 @@ html {
 }
 
 .wrapper {
-    max-width: 1500px;
+    max-width: 1400px;
     padding: 15px;
     margin: 30px auto;
     overflow: auto;
@@ -594,7 +605,7 @@ a.mpl {
 .ilab a {
     text-decoration: none;
     color: #555;
-    font-size: 21px;
+    font-size: 20px;
     letter-spacing: -.5px;
 }
 
