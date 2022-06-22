@@ -1,9 +1,10 @@
 ---
 title: "Stampa Μαρκαδόροι υπογράμμισης WT7001 4τεμ"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-markadoroi-ypogrammishs-wt7001-4tem.jpg"
+product_image_lowres: "/media/images/low/stampa-markadoroi-ypogrammishs-wt7001-4tem.jpg"
+barcode: "5202576648883"
+varos: "4 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

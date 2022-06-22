@@ -2,6 +2,7 @@
 title: "Γλάρος 2 λευκά Ρολά κουζίνας"
 categories: ["Γλάρος"]
 product_image: "/media/images/glaros-2-leuka-rola-kouzinas.jpg"
+product_image_lowres: "/media/images/low/glaros-2-leuka-rola-kouzinas.jpg"
 barcode: "5200107430006"
 varos: "2 Χ 12,7 μέτρα"
 bar_img: "/media/svg/barcode.svg"

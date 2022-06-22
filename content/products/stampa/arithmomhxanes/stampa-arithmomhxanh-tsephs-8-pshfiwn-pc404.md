@@ -1,9 +1,10 @@
 ---
 title: "Stampa Αριθμομηχανή τσέπης 8 ψηφίων PC404"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-arithmomhxanh-tsephs-8-pshfiwn-pc404.jpg"
+product_image_lowres: "/media/images/low/stampa-arithmomhxanh-tsephs-8-pshfiwn-pc404.jpg"
+barcode: "4719135014047"
+varos: "8 ψηφίων"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

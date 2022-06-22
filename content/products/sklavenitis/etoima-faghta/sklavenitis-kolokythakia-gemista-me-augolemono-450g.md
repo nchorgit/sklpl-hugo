@@ -3,8 +3,9 @@ title: "Σκλαβενίτης Κολοκυθάκια γεμιστά με αυγ
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/media/images/sklavenitis-kolokythakia-gemista-me-augolemono-450g.jpg"
-barcode: ""
-varos: ""
+product_image_lowres: "/media/images/low/sklavenitis-kolokythakia-gemista-me-augolemono-450g.jpg"
+barcode: "5202576100787"
+varos: "450g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

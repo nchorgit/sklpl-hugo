@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Αμύγδαλα ψίχα σε φέτες αποφλοιωμένα ΕΛ 150g"
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-amygdala-psixa-se-fetes-apofloiwmena-el-150g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-amygdala-psixa-se-fetes-apofloiwmena-el-150g.jpg"
+barcode: "5202576252103"
+varos: "150g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

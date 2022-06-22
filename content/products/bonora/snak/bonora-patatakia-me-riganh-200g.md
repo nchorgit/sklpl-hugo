@@ -2,6 +2,7 @@
 title: "Bonora Πατατάκια με ρίγανη 200g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-patatakia-me-riganh-200g.jpg"
+product_image_lowres: "/media/images/low/bonora-patatakia-me-riganh-200g.jpg"
 barcode: "5202576630017"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"

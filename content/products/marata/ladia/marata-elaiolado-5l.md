@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Ελαιόλαδο 5L"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-elaiolado-5l.jpg"
+product_image_lowres: "/media/images/low/marata-elaiolado-5l.jpg"
+barcode: "5202576099906"
+varos: "5L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

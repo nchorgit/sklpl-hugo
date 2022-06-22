@@ -1,7 +1,8 @@
 ---
 title: "Sette Κρέμα μαλλιών 500ml"
 categories: ["Sette"]
-product_image: ""
+product_image: "/media/images/sette-krema-malliwn-500ml.jpg"
+product_image_lowres: "/media/images/low/sette-krema-malliwn-500ml.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

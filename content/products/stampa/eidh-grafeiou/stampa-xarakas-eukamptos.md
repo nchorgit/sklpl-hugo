@@ -1,9 +1,10 @@
 ---
 title: "Stampa Χάρακας εύκαμπτος"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-xarakas-eukamptos.jpg"
+product_image_lowres: "/media/images/low/stampa-xarakas-eukamptos.jpg"
+barcode: "5202576637498"
+varos: "30 cm"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

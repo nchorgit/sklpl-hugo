@@ -2,6 +2,7 @@
 title: "Bonora Ποπ κορν με αλάτι 100g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-pop-corn-me-alati-100g.jpg"
+product_image_lowres: "/media/images/low/bonora-pop-corn-me-alati-100g.jpg"
 barcode: "5208046039939"
 varos: "100g"
 bar_img: "/media/svg/barcode.svg"

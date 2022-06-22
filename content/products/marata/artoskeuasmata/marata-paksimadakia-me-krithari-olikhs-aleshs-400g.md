@@ -2,9 +2,10 @@
 title: "Μαράτα Παξιμαδάκια με κριθάρι ολικής άλεσης 400g"
 weight: 3
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-paksimadakia-me-krithari-olikhs-aleshs-400g.jpg"
+product_image_lowres: "/media/images/low/marata-paksimadakia-me-krithari-olikhs-aleshs-400g.jpg"
+barcode: "5202576633926"
+varos: "400g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

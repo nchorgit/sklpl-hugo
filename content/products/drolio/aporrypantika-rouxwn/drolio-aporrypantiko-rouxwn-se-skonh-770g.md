@@ -3,6 +3,7 @@ title: "Drolio απορρυπαντικό ρούχων σε σκόνη 770g"
 categories: ["Drolio"]
 product_image: "/media/images/drolio-aporrypantiko-rouxwn-se-skonh-770g.jpg"
 barcode: "5208046020081"
+product_image_lowres: "/media/images/low/drolio-aporrypantiko-rouxwn-se-skonh-770g.jpg"
 varos: "770g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"

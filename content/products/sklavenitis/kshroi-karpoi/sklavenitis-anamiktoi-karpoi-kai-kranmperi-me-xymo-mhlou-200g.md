@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Ανάμικτοι καρποί και κράνμπερι με χυμό μήλου 200g"
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-anamiktoi-karpoi-kai-kranmperi-me-xymo-mhlou-200g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-anamiktoi-karpoi-kai-kranmperi-me-xymo-mhlou-200g.jpg"
+barcode: "5208046079348"
+varos: "200g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

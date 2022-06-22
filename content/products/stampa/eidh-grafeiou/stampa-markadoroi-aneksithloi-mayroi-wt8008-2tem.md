@@ -1,9 +1,10 @@
 ---
 title: "Stampa Μαρκαδόροι ανεξίτηλοι μαύροι WT8008 2τεμ"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-markadoroi-aneksithloi-mayroi-wt8008-2tem.jpg"
+product_image_lowres: "/media/images/low/stampa-markadoroi-aneksithloi-mayroi-wt8008-2tem.jpg"
+barcode: "5202576648821"
+varos: "2 τεμαχίων"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

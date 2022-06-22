@@ -2,8 +2,9 @@
 title: "Bonora Παγωτό με γεύση Σοκολάτα - κακάο 580g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-pagwto-me-geush-sokolata-kakao-580g.jpg"
+product_image_lowres: "/media/images/low/bonora-pagwto-me-geush-sokolata-kakao-580g.jpg"
 barcode: "5202576707955"
-varos: "580g"
+varos: "580g / 1L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

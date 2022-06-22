@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Φύλλο χωριάτικο 700g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-fyllo-xwriatiko-700g.jpg"
+product_image_lowres: "/media/images/low/marata-fyllo-xwriatiko-700g.jpg"
+barcode: "5208046013229"
+varos: "700g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

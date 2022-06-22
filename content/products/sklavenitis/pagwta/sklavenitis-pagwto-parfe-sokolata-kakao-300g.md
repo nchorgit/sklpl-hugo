@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Παγωτό Παρφέ Σοκολάτα Κακάο 300g"
 date: 2022-05-19T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-pagwto-parfe-sokolata-kakao-300g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-pagwto-parfe-sokolata-kakao-300g.jpg"
+barcode: "5202576457218"
+varos: "300g / 500ml"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

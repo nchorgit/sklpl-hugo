@@ -2,8 +2,9 @@
 title: "Bonora Παγωτό Βανίλια - Σοκολάτα 1kg"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-pagwto-banilia-sokolata-1kg.jpg"
+product_image_lowres: "/media/images/low/bonora-pagwto-banilia-sokolata-1kg.jpg"
 barcode: "520257630512"
-varos: "1kg"
+varos: "1.100g / 2L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

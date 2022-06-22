@@ -2,9 +2,10 @@
 title: "Μαράτα Γάλα Φρέσκο ελαφρύ 1L - Π2"
 weight: 4
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-gala-fresko-elafry-1l-p2.jpg"
+product_image_lowres: "/media/images/low/marata-gala-fresko-elafry-1l-p2.jpg"
+barcode: "5202576302365"
+varos: "1L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

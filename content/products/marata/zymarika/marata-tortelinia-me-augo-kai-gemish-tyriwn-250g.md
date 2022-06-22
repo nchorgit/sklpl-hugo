@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Τορτελίνια με αυγο και γέμιση τυριών 250g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-tortelinia-me-augo-kai-gemish-tyriwn-250g.jpg"
+product_image_lowres: "/media/images/low/marata-tortelinia-me-augo-kai-gemish-tyriwn-250g.jpg"
+barcode: "5202576000000"
+varos: "500g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

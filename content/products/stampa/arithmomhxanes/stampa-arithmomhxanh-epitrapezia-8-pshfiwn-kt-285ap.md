@@ -1,9 +1,10 @@
 ---
 title: "Stampa Αριθμομηχανή επιτραπέζια 8 ψηφίων KT-285AP"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-arithmomhxanh-epitrapezia-8-pshfiwn-kt-285ap.jpg"
+product_image_lowres: "/media/images/low/stampa-arithmomhxanh-epitrapezia-8-pshfiwn-kt-285ap.jpg"
+barcode: "4719135012852"
+varos: "8 ψηφίων"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

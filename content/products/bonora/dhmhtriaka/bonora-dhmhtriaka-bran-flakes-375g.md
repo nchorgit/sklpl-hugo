@@ -2,6 +2,7 @@
 title: "Bonora Δημητριακά Bran Flakes 375g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-dhmhtriaka-bran-flakes-375g.jpg"
+product_image_lowres: "/media/images/low/bonora-dhmhtriaka-bran-flakes-375g.jpg"
 barcode: "5202576309463"
 varos: "375g"
 bar_img: "/media/svg/barcode.svg"

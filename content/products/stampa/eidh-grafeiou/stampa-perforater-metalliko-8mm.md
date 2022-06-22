@@ -1,9 +1,10 @@
 ---
 title: "Stampa Περφορατέρ μεταλλικό 8mm"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-perforater-metalliko-8mm.jpg"
+product_image_lowres: "/media/images/low/stampa-perforater-metalliko-8mm.jpg"
+barcode: "5202576634824"
+varos: "8 mm"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

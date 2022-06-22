@@ -2,6 +2,7 @@
 title: "Bonora Μαρμελάδα Έξτρα Φράουλα 450g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-marmelada-ekstra-fraoula-450g.jpg"
+product_image_lowres: "/media/images/low/bonora-marmelada-ekstra-fraoula-450g.jpg"
 barcode: "5202576630079"
 varos: "450g"
 bar_img: "/media/svg/barcode.svg"

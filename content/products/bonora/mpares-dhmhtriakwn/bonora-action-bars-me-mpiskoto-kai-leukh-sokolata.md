@@ -2,6 +2,7 @@
 title: "Bonora Action Bars με μπισκότο και λευκή σοκολάτα"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-action-bars-me-mpiskoto-kai-leukh-sokolata.jpg"
+product_image_lowres: "/media/images/low/bonora-action-bars-me-mpiskoto-kai-leukh-sokolata.jpg"
 barcode: "5202576634077"
 varos: "141g: 6x23,5g"
 bar_img: "/media/svg/barcode.svg"

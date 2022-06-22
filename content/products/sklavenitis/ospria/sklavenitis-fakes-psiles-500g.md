@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Φακές ψιλές 500g"
 date: 2022-05-20T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-fakes-psiles-500g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-fakes-psiles-500g.jpg"
+barcode: "5202576250147"
+varos: "500g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

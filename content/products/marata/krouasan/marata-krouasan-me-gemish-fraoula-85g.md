@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Κρουασάν με γέμιση φράουλα 85g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-krouasan-me-gemish-fraoula-85g.jpg"
+product_image_lowres: "/media/images/low/marata-krouasan-me-gemish-fraoula-85g.jpg"
+barcode: "5202576390331"
+varos: "85g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

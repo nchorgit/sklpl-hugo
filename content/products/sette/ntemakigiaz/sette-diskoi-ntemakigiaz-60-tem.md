@@ -1,7 +1,8 @@
 ---
 title: "Sette Δίσκοι Ντεμακιγιάζ 60 τεμ."
 categories: ["Sette"]
-product_image: ""
+product_image: "/media/images/sette-diskoi-ntemakigiaz-60-tem.jpg"
+product_image_lowres: "/media/images/low/sette-diskoi-ntemakigiaz-60-tem.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

@@ -1,9 +1,10 @@
 ---
 title: "Stampa Αριθμομηχανή επιτραπέζια 10 ψηφίων DC351"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-arithmomhxanh-epitrapezia-10-pshfiwn-dc351.jpg"
+product_image_lowres: "/media/images/low/stampa-arithmomhxanh-epitrapezia-10-pshfiwn-dc351.jpg"
+barcode: "4719135013514"
+varos: "10 ψηφίων"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

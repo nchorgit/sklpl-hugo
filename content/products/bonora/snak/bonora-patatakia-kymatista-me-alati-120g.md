@@ -2,6 +2,7 @@
 title: "Bonora Πατατάκια Κυματιστά με αλάτι 120g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-patatakia-kymatista-me-alati-120g.jpg"
+product_image_lowres: "/media/images/low/bonora-patatakia-kymatista-me-alati-120g.jpg"
 barcode: "5202576630024"
 varos: "120g"
 bar_img: "/media/svg/barcode.svg"

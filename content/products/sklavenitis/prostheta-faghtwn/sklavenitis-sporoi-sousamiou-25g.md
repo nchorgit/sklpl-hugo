@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Σπόροι σουσαμιού 25g"
 date: 2022-05-18T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-sporoi-sousamiou-25g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-sporoi-sousamiou-25g.jpg"
+barcode: "5202576250642"
+varos: "25g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

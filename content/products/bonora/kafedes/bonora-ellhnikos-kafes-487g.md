@@ -2,6 +2,7 @@
 title: "Bonora Ελληνικός καφές 487g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-ellhnikos-kafes-487g.jpg"
+product_image_lowres: "/media/images/low/bonora-ellhnikos-kafes-487g.jpg"
 barcode: "5202576707757"
 varos: "487g"
 bar_img: "/media/svg/barcode.svg"

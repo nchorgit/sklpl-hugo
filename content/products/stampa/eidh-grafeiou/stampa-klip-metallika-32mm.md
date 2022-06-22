@@ -1,9 +1,10 @@
 ---
 title: "Stampa Κλιπ μεταλλικά 32mm"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-klip-metallika-32mm.jpg"
+product_image_lowres: "/media/images/low/stampa-klip-metallika-32mm.jpg"
+barcode: "5202576634992"
+varos: "24 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

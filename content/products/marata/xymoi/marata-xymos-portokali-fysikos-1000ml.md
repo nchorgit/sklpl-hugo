@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Χυμός πορτοκάλι φυσικός 1000ml"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-xymos-portokali-fysikos-1000ml.jpg"
+product_image_lowres: "/media/images/low/marata-xymos-portokali-fysikos-1000ml.jpg"
+barcode: "5202576043855"
+varos: "1L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

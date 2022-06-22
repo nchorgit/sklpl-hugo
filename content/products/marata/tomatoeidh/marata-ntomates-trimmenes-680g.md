@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Ντομάτες τριμμένες 680g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-ntomates-trimmenes-680g.jpg"
+product_image_lowres: "/media/images/low/marata-ntomates-trimmenes-680g.jpg"
+barcode: "5202576464520"
+varos: "680g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

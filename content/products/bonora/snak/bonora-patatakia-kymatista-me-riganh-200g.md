@@ -2,6 +2,7 @@
 title: "Bonora Πατατάκια Κυματιστά με ρίγανη 200g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-patatakia-kymatista-me-riganh-200g.jpg"
+product_image_lowres: "/media/images/low/bonora-patatakia-kymatista-me-riganh-200g.jpg"
 barcode: "5202576630048"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"

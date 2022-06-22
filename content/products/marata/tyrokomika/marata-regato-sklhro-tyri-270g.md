@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Regato σκληρό τυρί 270g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-regato-sklhro-tyri-270g.jpg"
+product_image_lowres: "/media/images/low/marata-regato-sklhro-tyri-270g.jpg"
+barcode: "000000000000"
+varos: "270g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

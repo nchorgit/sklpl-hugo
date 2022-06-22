@@ -1,9 +1,10 @@
 ---
 title: "Stampa Βάση κολλητικής ταινίας πλαστική"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-bash-kollhtikhs-tainias-plastikh.jpg"
+product_image_lowres: "/media/images/low/stampa-bash-kollhtikhs-tainias-plastikh.jpg"
+barcode: "5202576634817"
+varos: "1 τεμάχιο"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

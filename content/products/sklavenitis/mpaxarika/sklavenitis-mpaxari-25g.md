@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Μπαχάρι 25g"
 date: 2022-05-21T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-mpaxari-25g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-mpaxari-25g.jpg"
+barcode: "5202576250604"
+varos: "25g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

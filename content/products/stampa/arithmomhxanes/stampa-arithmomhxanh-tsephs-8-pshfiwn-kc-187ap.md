@@ -1,9 +1,10 @@
 ---
 title: "Stampa Αριθμομηχανή τσέπης 8 ψηφίων KC-187ΑP"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-arithmomhxanh-tsephs-8-pshfiwn-kc-187ap.jpg"
+product_image_lowres: "/media/images/low/stampa-arithmomhxanh-tsephs-8-pshfiwn-kc-187ap.jpg"
+barcode: "4719135011879"
+varos: "8 ψηφίων"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

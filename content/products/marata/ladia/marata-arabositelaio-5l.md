@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Αραβοσιτέλαιο 5L"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-arabositelaio-5l.jpg"
+product_image_lowres: "/media/images/low/marata-arabositelaio-5l.jpg"
+barcode: "5202576864214"
+varos: "5L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

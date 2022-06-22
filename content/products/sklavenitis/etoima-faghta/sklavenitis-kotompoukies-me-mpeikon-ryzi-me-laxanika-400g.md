@@ -3,8 +3,9 @@ title: "Σκλαβενίτης Κοτομπουκιές με μπέικον & ρ
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/media/images/sklavenitis-kotompoukies-me-mpeikon-ryzi-me-laxanika-400g.jpg"
-barcode: ""
-varos: ""
+product_image_lowres: "/media/images/low/sklavenitis-kotompoukies-me-mpeikon-ryzi-me-laxanika-400g.jpg"
+barcode: "5202576100862"
+varos: "400g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

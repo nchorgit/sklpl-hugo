@@ -1,9 +1,10 @@
 ---
 title: "Toni Τόνος σε νερό τεμαχισμένος 3X95g"
 categories: ["Toni"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/toni-tonos-se-nero-temaxismenos-3x95g.jpg"
+product_image_lowres: "/media/images/low/toni-tonos-se-nero-temaxismenos-3x95g.jpg"
+barcode: "5202576707795"
+varos: "3Χ95g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

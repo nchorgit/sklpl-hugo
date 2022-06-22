@@ -2,6 +2,7 @@
 title: "Bonora Action Bars με σοκολάτα γάλακτος"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-action-bars-me-sokolata-galaktos.jpg"
+product_image_lowres: "/media/images/low/bonora-action-bars-me-sokolata-galaktos.jpg"
 barcode: "5202576634053"
 varos: "138g: 6X23g"
 bar_img: "/media/svg/barcode.svg"

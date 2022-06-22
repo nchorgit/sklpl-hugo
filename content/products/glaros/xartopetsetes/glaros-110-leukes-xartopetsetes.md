@@ -1,9 +1,10 @@
 ---
 title: "Γλάρος 110 λευκές Χαρτοπετσέτες"
 categories: ["Γλάρος"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/glaros-110-leukes-xartopetsetes.jpg"
+product_image_lowres: "/media/images/low/glaros-110-leukes-xartopetsetes.jpg"
+barcode: "5200107430198"
+varos: "30 Χ 30 cm"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]

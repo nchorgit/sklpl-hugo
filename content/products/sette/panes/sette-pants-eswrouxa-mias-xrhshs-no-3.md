@@ -1,7 +1,8 @@
 ---
 title: "Sette Pants Εσώρουχα μιας χρήσης No 3"
 categories: ["Sette"]
-product_image: ""
+product_image: "/media/images/sette-pants-eswrouxa-mias-xrhshs-no-3.jpg"
+product_image_lowres: "/media/images/low/sette-pants-eswrouxa-mias-xrhshs-no-3.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

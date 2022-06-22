@@ -2,6 +2,7 @@
 title: "Bonora Μπισκότα γεμιστά με γεύση βανίλια 500g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-mpiskota-gemista-me-geush-banilia-500g.jpg"
+product_image_lowres: "/media/images/low/bonora-mpiskota-gemista-me-geush-banilia-500g.jpg"
 barcode: "5202576682443"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

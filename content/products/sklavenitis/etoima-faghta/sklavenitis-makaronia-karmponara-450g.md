@@ -3,8 +3,9 @@ title: "Σκλαβενίτης Μακαρόνια καρμπονάρα 450g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/media/images/sklavenitis-makaronia-karmponara-450g.jpg"
-barcode: ""
-varos: ""
+product_image_lowres: "/media/images/low/sklavenitis-makaronia-karmponara-450g.jpg"
+barcode: "5202576682757"
+varos: "450g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

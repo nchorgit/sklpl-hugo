@@ -1,9 +1,10 @@
 ---
 title: "Stampa Μαρκαδόροι γραφής μπλε WT5810 3τεμ"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-markadoroi-grafhs-mple-wt5810-3tem.jpg"
+product_image_lowres: "/media/images/low/stampa-markadoroi-grafhs-mple-wt5810-3tem.jpg"
+barcode: "5202576652194"
+varos: "3 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

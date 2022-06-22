@@ -2,6 +2,7 @@
 title: "Μαράτα Φαρίνα 500g"
 categories: ["Μαράτα"]
 product_image: "/media/images/marata-farina-500g.jpg"
+product_image_lowres: "/media/images/low/marata-farina-500g.jpg"
 barcode: "5202576300996"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

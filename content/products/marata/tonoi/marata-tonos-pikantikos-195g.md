@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Τόνος πικάντικος 195g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-tonos-pikantikos-195g.jpg"
+product_image_lowres: "/media/images/low/marata-tonos-pikantikos-195g.jpg"
+barcode: "5202576099609"
+varos: "195g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

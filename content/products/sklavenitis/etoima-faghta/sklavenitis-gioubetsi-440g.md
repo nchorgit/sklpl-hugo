@@ -3,8 +3,9 @@ title: "Σκλαβενίτης Γιουβέτσι 440g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/media/images/sklavenitis-gioubetsi-440g.jpg"
-barcode: ""
-varos: ""
+product_image_lowres: "/media/images/low/sklavenitis-gioubetsi-440g.jpg"
+barcode: "5202576377325"
+varos: "440g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

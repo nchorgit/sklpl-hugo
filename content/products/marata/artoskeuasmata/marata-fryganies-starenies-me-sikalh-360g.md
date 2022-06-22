@@ -2,9 +2,10 @@
 title: "Μαράτα Φρυγανιές σταρένιες με σίκαλη 360g"
 weight: 3
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-fryganies-starenies-me-sikalh-360g.jpg"
+product_image_lowres: "/media/images/low/marata-fryganies-starenies-me-sikalh-360g.jpg"
+barcode: "5202576203556"
+varos: "360g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

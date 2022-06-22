@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Πένες ριγέ 500g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-penes-rige-500g.jpg"
+product_image_lowres: "/media/images/low/marata-penes-rige-500g.jpg"
+barcode: "5202576182943"
+varos: "500g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

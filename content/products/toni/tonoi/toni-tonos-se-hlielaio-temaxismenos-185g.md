@@ -1,9 +1,10 @@
 ---
 title: "Toni Τόνος σε ηλιέλαιο τεμαχισμένος 185g"
 categories: ["Toni"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/toni-tonos-se-hlielaio-temaxismenos-185g.jpg"
+product_image_lowres: "/media/images/low/toni-tonos-se-hlielaio-temaxismenos-185g.jpg"
+barcode: "5202576206298"
+varos: "185g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

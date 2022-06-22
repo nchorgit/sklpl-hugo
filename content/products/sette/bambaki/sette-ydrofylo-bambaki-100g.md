@@ -1,7 +1,8 @@
 ---
 title: "Sette Υδρόφυλο βαμβάκι 100g"
 categories: ["Sette"]
-product_image: ""
+product_image: "/media/images/sette-ydrofylo-bambaki-100g.jpg"
+product_image_lowres: "/media/images/low/sette-ydrofylo-bambaki-100g.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

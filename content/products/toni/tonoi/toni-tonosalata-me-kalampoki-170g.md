@@ -1,9 +1,10 @@
 ---
 title: "Toni Τονοσαλάτα με καλαμπόκι 170g"
 categories: ["Toni"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/toni-tonosalata-me-kalampoki-170g.jpg"
+product_image_lowres: "/media/images/low/toni-tonosalata-me-kalampoki-170g.jpg"
+barcode: "5202576872387"
+varos: "170g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

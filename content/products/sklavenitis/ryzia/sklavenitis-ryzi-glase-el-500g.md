@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Ρύζι Γλασέ ΕΛ 500g"
 date: 2022-05-17T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-ryzi-glase-el-500g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-ryzi-glase-el-500g.jpg"
+barcode: "5202576250024"
+varos: "500g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

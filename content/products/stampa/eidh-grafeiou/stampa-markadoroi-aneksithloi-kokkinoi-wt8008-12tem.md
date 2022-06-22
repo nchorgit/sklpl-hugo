@@ -1,9 +1,10 @@
 ---
 title: "Stampa Μαρκαδόροι ανεξίτηλοι κόκκινοι WT8008 12τεμ"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-markadoroi-aneksithloi-kokkinoi-wt8008-12tem.jpg"
+product_image_lowres: "/media/images/low/stampa-markadoroi-aneksithloi-kokkinoi-wt8008-12tem.jpg"
+barcode: "5202576648876"
+varos: "12 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

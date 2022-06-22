@@ -2,6 +2,7 @@
 title: "Bonora Καφές φίλτρου Βανίλια Καραμέλα 250g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-kafes-filtrou-banilia-karamela-250g.jpg"
+product_image_lowres: "/media/images/low/bonora-kafes-filtrou-banilia-karamela-250g.jpg"
 barcode: "5202576460843"
 varos: "250g"
 bar_img: "/media/svg/barcode.svg"

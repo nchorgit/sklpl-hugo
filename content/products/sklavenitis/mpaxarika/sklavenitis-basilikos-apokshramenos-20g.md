@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Βασιλικός αποξηραμένος 20g"
 date: 2022-05-21T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-basilikos-apokshramenos-20g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-basilikos-apokshramenos-20g.jpg"
+barcode: "5202576465114"
+varos: "20g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

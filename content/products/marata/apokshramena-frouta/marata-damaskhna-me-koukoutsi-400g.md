@@ -2,9 +2,10 @@
 title: "Μαράτα Δαμάσκηνα με κουκούτσι 400g"
 weight: 2
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-damaskhna-me-koukoutsi-400g.jpg"
+product_image_lowres: "/media/images/low/marata-damaskhna-me-koukoutsi-400g.jpg"
+barcode: "5202576101838"
+varos: "400g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

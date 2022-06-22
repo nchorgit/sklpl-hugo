@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Χυμός ροδάκινο 250ml"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-xymos-rodakino-250ml.jpg"
+product_image_lowres: "/media/images/low/marata-xymos-rodakino-250ml.jpg"
+barcode: "5202576680227"
+varos: "250ml"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

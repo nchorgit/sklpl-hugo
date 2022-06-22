@@ -3,8 +3,9 @@ title: "Σκλαβενίτης Μπιφτέκια γαλοπούλας με ρύ
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/media/images/sklavenitis-mpiftekia-galopoulas-me-ryzi-kai-laxanika-400g.jpg"
-barcode: ""
-varos: ""
+product_image_lowres: "/media/images/low/sklavenitis-mpiftekia-galopoulas-me-ryzi-kai-laxanika-400g.jpg"
+barcode: "5208046037751"
+varos: "400g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

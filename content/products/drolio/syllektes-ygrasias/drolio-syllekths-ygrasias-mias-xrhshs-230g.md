@@ -3,6 +3,7 @@ title: "Drolio Συλλέκτης υγρασίας Μιας χρήσης 230g"
 categories: ["Drolio"]
 product_image: "/media/images/drolio-syllekths-ygrasias-mias-xrhshs-230g.jpg"
 barcode: "5202576471177"
+product_image_lowres: "/media/images/low/drolio-syllekths-ygrasias-mias-xrhshs-230g.jpg"
 varos: "230g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"

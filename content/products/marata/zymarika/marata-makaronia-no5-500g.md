@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Μακαρόνια Νο5 500g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-makaronia-no5-500g.jpg"
+product_image_lowres: "/media/images/low/marata-makaronia-no5-500g.jpg"
+barcode: "5202576185890"
+varos: "500g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

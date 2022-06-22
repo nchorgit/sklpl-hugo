@@ -1,9 +1,10 @@
 ---
 title: "Stampa Κλιπ μεταλλικά 19mm"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-klip-metallika-19mm.jpg"
+product_image_lowres: "/media/images/low/stampa-klip-metallika-19mm.jpg"
+barcode: "5202576635029"
+varos: "40 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

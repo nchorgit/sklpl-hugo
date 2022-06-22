@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Φασόλια γίγαντες 500g"
 date: 2022-05-20T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-fasolia-gigantes-500g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-fasolia-gigantes-500g.jpg"
+barcode: "5202576250055"
+varos: "500g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

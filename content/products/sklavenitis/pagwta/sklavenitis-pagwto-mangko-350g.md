@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Παγωτό Μάνγκο 350g"
 date: 2022-05-19T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-pagwto-mangko-350g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-pagwto-mangko-350g.jpg"
+barcode: "5202576632240"
+varos: "350g / 500ml"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

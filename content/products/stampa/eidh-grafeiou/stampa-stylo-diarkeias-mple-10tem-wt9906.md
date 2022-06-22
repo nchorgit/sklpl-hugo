@@ -1,9 +1,10 @@
 ---
 title: "Stampa Στυλό διαρκείας μπλε 10τεμ WT9906"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-stylo-diarkeias-mple-10tem-wt9906.jpg"
+product_image_lowres: "/media/images/low/stampa-stylo-diarkeias-mple-10tem-wt9906.jpg"
+barcode: "5202576659100"
+varos: "10 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

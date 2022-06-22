@@ -2,9 +2,10 @@
 title: "Μαράτα Ψωμί για τοστ σταρένιο 340g"
 weight: 3
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-pswmi-gia-tost-starenio-340g.jpg"
+product_image_lowres: "/media/images/low/marata-pswmi-gia-tost-starenio-340g.jpg"
+barcode: "5202576303164"
+varos: "250g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

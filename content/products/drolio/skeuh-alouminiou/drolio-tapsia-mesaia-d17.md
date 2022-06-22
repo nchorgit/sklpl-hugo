@@ -3,6 +3,7 @@ title: "Drolio Ταψιά μεσαία D17"
 categories: ["Drolio"]
 product_image: "/media/images/drolio-tapsia-mesaia-d17.jpg"
 barcode: "5202576204911"
+product_image_lowres: "/media/images/low/drolio-tapsia-mesaia-d17.jpg"
 varos: "3 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/tem.svg"

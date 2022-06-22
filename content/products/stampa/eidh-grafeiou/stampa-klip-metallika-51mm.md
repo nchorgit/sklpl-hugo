@@ -1,9 +1,10 @@
 ---
 title: "Stampa Κλιπ μεταλλικά 51mm"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-klip-metallika-51mm.jpg"
+product_image_lowres: "/media/images/low/stampa-klip-metallika-51mm.jpg"
+barcode: "5202576634985"
+varos: "12 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

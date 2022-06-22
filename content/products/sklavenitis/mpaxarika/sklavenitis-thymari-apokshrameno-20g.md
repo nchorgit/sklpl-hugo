@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Θυμάρι αποξηραμένο 20g"
 date: 2022-05-21T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-thymari-apokshrameno-20g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-thymari-apokshrameno-20g.jpg"
+barcode: "5202576465107"
+varos: "20g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

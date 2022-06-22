@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Κοράλλι 500g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-korali-500g.jpg"
+product_image_lowres: "/media/images/low/marata-korali-500g.jpg"
+barcode: "5202576185906"
+varos: "500g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

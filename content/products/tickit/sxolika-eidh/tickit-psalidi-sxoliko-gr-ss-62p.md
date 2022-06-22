@@ -1,9 +1,10 @@
 ---
 title: "Tickit Ψαλίδι σχολικό GR-SS-62P"
 categories: ["Tickit"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/tickit-psalidi-sxoliko-gr-ss-62p.jpg"
+product_image_lowres: "/media/images/low/tickit-psalidi-sxoliko-gr-ss-62p.jpg"
+barcode: "5202576866560"
+varos: "13 cm"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

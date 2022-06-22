@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Κρουασάν με γέμιση κρέμα φουντουκιού 85g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-krouasan-me-gemish-krema-fountoukiou-85g.jpg"
+product_image_lowres: "/media/images/low/marata-krouasan-me-gemish-krema-fountoukiou-85g.jpg"
+barcode: "5202576390324"
+varos: "85g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

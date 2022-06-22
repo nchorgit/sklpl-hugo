@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Πυραυλάκι βανίλια & σοκολάτα 400g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-pyraulaki-banilia-sokolata-400g.jpg"
+product_image_lowres: "/media/images/low/marata-pyraulaki-banilia-sokolata-400g.jpg"
+barcode: "5202576066052"
+varos: "400g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

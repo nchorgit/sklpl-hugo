@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Ταχίνι με κακάο 350g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-taxini-me-kakao-350g.jpg"
+product_image_lowres: "/media/images/low/marata-taxini-me-kakao-350g.jpg"
+barcode: "5202576602380"
+varos: "350g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

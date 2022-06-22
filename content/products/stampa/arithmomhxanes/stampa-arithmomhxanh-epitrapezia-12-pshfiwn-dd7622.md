@@ -1,9 +1,10 @@
 ---
 title: "Stampa Αριθμομηχανή επιτραπέζια 12 ψηφίων DD7622"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-arithmomhxanh-epitrapezia-12-pshfiwn-dd7622.jpg"
+product_image_lowres: "/media/images/low/stampa-arithmomhxanh-epitrapezia-12-pshfiwn-dd7622.jpg"
+barcode: "4719135023513"
+varos: "12 ψηφίων"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

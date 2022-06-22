@@ -1,9 +1,10 @@
 ---
 title: "Tickit Μαρκαδόροι ζωγραφικής χοντροί 12τεμ"
 categories: ["Tickit"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/tickit-markadoroi-zwgrafikhs-xontroi-12tem.jpg"
+product_image_lowres: "/media/images/low/tickit-markadoroi-zwgrafikhs-xontroi-12tem.jpg"
+barcode: "5202576661226"
+varos: "12 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

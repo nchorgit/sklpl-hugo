@@ -1,9 +1,10 @@
 ---
 title: "Toni Τονοσαλάτα µεξικάνα 170g"
 categories: ["Toni"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/toni-tonosalata-meksikana-170g.jpg"
+product_image_lowres: "/media/images/low/toni-tonosalata-meksikana-170g.jpg"
+barcode: "5202576872370"
+varos: "170g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

@@ -3,6 +3,7 @@ title: "Drolio Υγρό απορρυπαντικό ρούχων για μαύρ�
 categories: ["Drolio"]
 product_image: "/media/images/drolio-ygro-aporrypantiko-rouxwn-gia-maura-rouxa-1.5l.jpg"
 barcode: "5208046040898"
+product_image_lowres: "/media/images/low/drolio-ygro-aporrypantiko-rouxwn-gia-maura-rouxa-1.5l.jpg"
 varos: "1,5L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"

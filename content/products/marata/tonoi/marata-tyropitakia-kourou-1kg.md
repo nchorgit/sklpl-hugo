@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Τυροπιτάκια κουρού 1kg"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-tyropitakia-kourou-1kg.jpg"
+product_image_lowres: "/media/images/low/marata-tyropitakia-kourou-1kg.jpg"
+barcode: "5202576632295"
+varos: "1kg"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

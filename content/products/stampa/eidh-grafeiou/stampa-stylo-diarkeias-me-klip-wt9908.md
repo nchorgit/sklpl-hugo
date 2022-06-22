@@ -1,9 +1,10 @@
 ---
 title: "Stampa Στυλό διαρκείας με κλιπ WT9908"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-stylo-diarkeias-me-klip-wt9908.jpg"
+product_image_lowres: "/media/images/low/stampa-stylo-diarkeias-me-klip-wt9908.jpg"
+barcode: "5202576663053"
+varos: "4 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

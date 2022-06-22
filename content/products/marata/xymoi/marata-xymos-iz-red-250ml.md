@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Χυμός Iz Red 250ml"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-xymos-iz-red-250ml.jpg"
+product_image_lowres: "/media/images/low/marata-xymos-iz-red-250ml.jpg"
+barcode: "5202576043893"
+varos: "250ml"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

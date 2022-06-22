@@ -2,9 +2,10 @@
 title: "Μαράτα Δαμάσκηνα χωρίς κουκούτσι 250g"
 weight: 2
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-damaskhna-xwris-koukoutsi-250g.jpg"
+product_image_lowres: "/media/images/low/marata-damaskhna-xwris-koukoutsi-250g.jpg"
+barcode: "5202576101814"
+varos: "250g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

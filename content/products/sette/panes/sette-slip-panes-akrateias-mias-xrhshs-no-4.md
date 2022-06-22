@@ -1,7 +1,8 @@
 ---
 title: "Sette Slip Πάνες ακράτειας μιας χρήσης No 4"
 categories: ["Sette"]
-product_image: ""
+product_image: "/media/images/sette-slip-panes-akrateias-mias-xrhshs-no-4.jpg"
+product_image_lowres: "/media/images/low/sette-slip-panes-akrateias-mias-xrhshs-no-4.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

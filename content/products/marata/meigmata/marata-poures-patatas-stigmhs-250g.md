@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Πουρές πατάτας στιγμής 250g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-poures-patatas-stigmhs-250g.jpg"
+product_image_lowres: "/media/images/low/marata-poures-patatas-stigmhs-250g.jpg"
+barcode: "5202576633995"
+varos: "250g (2 X 125g)"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

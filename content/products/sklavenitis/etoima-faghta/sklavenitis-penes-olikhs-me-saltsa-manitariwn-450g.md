@@ -3,8 +3,9 @@ title: "Σκλαβενίτης Πένες ολικής με σάλτσα μαν�
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/media/images/sklavenitis-penes-olikhs-me-saltsa-manitariwn-450g.jpg"
-barcode: ""
-varos: ""
+product_image_lowres: "/media/images/low/sklavenitis-penes-olikhs-me-saltsa-manitariwn-450g.jpg"
+barcode: "5202576633490"
+varos: "450g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα επιτραπέζιο νερό πηγής Χήτος 6 Χ 1,5L"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-epitrapezio-nero-phghs-xhtos-6x1.5l.jpg"
+product_image_lowres: "/media/images/low/marata-epitrapezio-nero-phghs-xhtos-6x1.5l.jpg"
+barcode: "52502576712973"
+varos: "1,5L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

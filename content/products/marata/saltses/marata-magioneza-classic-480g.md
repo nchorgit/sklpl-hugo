@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Μαγιονέζα classic 480g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-magioneza-classic-480g.jpg"
+product_image_lowres: "/media/images/low/marata-magioneza-classic-480g.jpg"
+barcode: "5202576630413"
+varos: "480g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

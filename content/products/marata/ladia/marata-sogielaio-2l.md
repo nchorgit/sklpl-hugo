@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Σογιέλαιο 2L"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-sogielaio-2l.jpg"
+product_image_lowres: "/media/images/low/marata-sogielaio-2l.jpg"
+barcode: "5202576303072"
+varos: "2L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

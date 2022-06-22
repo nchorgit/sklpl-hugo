@@ -2,6 +2,7 @@
 title: "Bonora Δημητριακά Action Fruit 375g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-dhmhtriaka-action-fruit-375g.jpg"
+product_image_lowres: "/media/images/low/bonora-dhmhtriaka-action-fruit-375g.jpg"
 barcode: "5202576283220"
 varos: "375g"
 bar_img: "/media/svg/barcode.svg"

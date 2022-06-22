@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Πασατέμπος χονδρός ψημένος 150g"
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-pasatempos-xondros-pshmenos-150g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-pasatempos-xondros-pshmenos-150g.jpg"
+barcode: "5202576250413"
+varos: "150g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

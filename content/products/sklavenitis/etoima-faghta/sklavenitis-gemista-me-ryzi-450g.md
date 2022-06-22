@@ -3,6 +3,7 @@ title: "Σκλαβενίτης Γεμιστά με ρύζι 450g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/media/images/sklavenitis-gemista-me-ryzi-450g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-gemista-me-ryzi-450g.jpg"
 barcode: "5202576377288"
 varos: "450g"
 bar_img: "/media/svg/barcode.svg"

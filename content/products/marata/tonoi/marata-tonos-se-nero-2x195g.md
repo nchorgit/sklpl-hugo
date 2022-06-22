@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Τόνος σε νερό 2X195g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-tonos-se-nero-2x195g.jpg"
+product_image_lowres: "/media/images/low/marata-tonos-se-nero-2x195g.jpg"
+barcode: "5202576481169"
+varos: "2Χ195g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

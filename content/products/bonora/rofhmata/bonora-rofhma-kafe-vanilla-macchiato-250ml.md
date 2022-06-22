@@ -1,9 +1,10 @@
 ---
 title: "Bonora Ρόφημα καφέ Vanilla Macchiato 250ml"
 categories: ["Bonora"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/bonora-rofhma-kafe-vanilla-macchiato-250ml.jpg"
+product_image_lowres: "/media/images/low/bonora-rofhma-kafe-vanilla-macchiato-250ml.jpg"
+barcode: "5202576633629"
+varos: "250ml"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

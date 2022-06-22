@@ -1,9 +1,10 @@
 ---
 title: "Stampa Ψαλίδι γραφείου 357B"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-psalidi-grafeiou-357b.jpg"
+product_image_lowres: "/media/images/low/stampa-psalidi-grafeiou-357b.jpg"
+barcode: "5202576866607"
+varos: "21cm"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

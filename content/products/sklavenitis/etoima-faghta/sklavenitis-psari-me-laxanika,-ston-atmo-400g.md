@@ -3,8 +3,9 @@ title: "Σκλαβενίτης Ψάρι με λαχανικά, στον ατμό
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/media/images/sklavenitis-psari-me-laxanika,-ston-atmo-400g.jpg"
-barcode: ""
-varos: ""
+product_image_lowres: "/media/images/low/sklavenitis-psari-me-laxanika,-ston-atmo-400g.jpg"
+barcode: "5202576461321"
+varos: "400g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

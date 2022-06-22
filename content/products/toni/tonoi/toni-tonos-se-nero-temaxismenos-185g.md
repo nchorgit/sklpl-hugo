@@ -1,9 +1,10 @@
 ---
 title: "Toni Τόνος σε νερό τεμαχισμένος 185g"
 categories: ["Toni"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/toni-tonos-se-nero-temaxismenos-185g.jpg"
+product_image_lowres: "/media/images/low/toni-tonos-se-nero-temaxismenos-185g.jpg"
+barcode: "5202576206106"
+varos: "185g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

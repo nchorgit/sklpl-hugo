@@ -3,8 +3,9 @@ title: "Σκλαβενίτης Σουφλέ με ταλιατέλες 350g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/media/images/sklavenitis-soufle-me-taliateles-350g.jpg"
-barcode: ""
-varos: ""
+product_image_lowres: "/media/images/low/sklavenitis-soufle-me-taliateles-350g.jpg"
+barcode: "5202576377301"
+varos: "350g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

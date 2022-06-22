@@ -2,6 +2,7 @@
 title: "Γλάρος 4 λευκά Ρολά κουζίνας"
 categories: ["Γλάρος"]
 product_image: "/media/images/glaros-4-leuka-rola-kouzinas.jpg"
+product_image_lowres: "/media/images/low/glaros-4-leuka-rola-kouzinas.jpg"
 barcode: "5200107430013"
 varos: "4 Χ 12,7 μέτρα"
 bar_img: "/media/svg/barcode.svg"

@@ -3,6 +3,7 @@ title: "Drolio Σακούλες Απορριμάτων με κορδόνι Με�
 categories: ["Drolio"]
 product_image: "/media/images/drolio-sakoules-aporrimatwn-20-tem.jpg"
 barcode: "5202576293311"
+product_image_lowres: "/media/images/low/drolio-sakoules-aporrimatwn-20-tem.jpg"
 varos: "52 X 75 cm"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/dcm.svg"

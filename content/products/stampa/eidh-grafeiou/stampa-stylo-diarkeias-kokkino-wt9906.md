@@ -1,9 +1,10 @@
 ---
 title: "Stampa Στυλό διαρκείας κόκκινο WT9906"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-stylo-diarkeias-kokkino-wt9906.jpg"
+product_image_lowres: "/media/images/low/stampa-stylo-diarkeias-kokkino-wt9906.jpg"
+barcode: "5202576658097"
+varos: "50 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

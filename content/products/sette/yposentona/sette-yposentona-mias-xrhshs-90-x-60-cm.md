@@ -1,7 +1,8 @@
 ---
 title: "Sette Υποσέντονα μιας χρήσης 90 Χ 60 cm"
 categories: ["Sette"]
-product_image: ""
+product_image: "/media/images/sette-yposentona-mias-xrhshs-90-x-60-cm.jpg"
+product_image_lowres: "/media/images/low/sette-yposentona-mias-xrhshs-90-x-60-cm.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

@@ -2,6 +2,7 @@
 title: "Bonora Πατατάκια με ρίγανη 120g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-patatakia-me-riganh-120g.jpg"
+product_image_lowres: "/media/images/low/bonora-patatakia-me-riganh-120g.jpg"
 barcode: "5202576630000"
 varos: "120g"
 bar_img: "/media/svg/barcode.svg"

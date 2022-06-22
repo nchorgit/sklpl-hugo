@@ -3,8 +3,9 @@ title: "Σκλαβενίτης Κοτόπουλο σχάρας με λαχανι
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/media/images/sklavenitis-kotopoulo-sxaras-me-laxanika-380g.jpg"
-barcode: ""
-varos: ""
+product_image_lowres: "/media/images/low/sklavenitis-kotopoulo-sxaras-me-laxanika-380g.jpg"
+barcode: "5202576029217"
+varos: "380g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

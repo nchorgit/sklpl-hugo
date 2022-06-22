@@ -1,7 +1,8 @@
 ---
 title: "Sette Υγρά μαντηλάκια ντεμακιγιάζ με Υαλουρανικό οξύ"
 categories: ["Sette"]
-product_image: ""
+product_image: "/media/images/sette-ygra-manthlakia-ntemakigiaz-me-yalouraniko-oksy.jpg"
+product_image_lowres: "/media/images/low/sette-ygra-manthlakia-ntemakigiaz-me-yalouraniko-oksy.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

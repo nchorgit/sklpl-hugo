@@ -1,9 +1,10 @@
 ---
 title: "Stampa Αριθμομηχανή τσέπης 12 ψηφίων KC-403"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-arithmomhxanh-tsephs-12-pshfiwn-kc-403.jpg"
+product_image_lowres: "/media/images/low/stampa-arithmomhxanh-tsephs-12-pshfiwn-kc-403.jpg"
+barcode: "4719135014030"
+varos: "12 ψηφίων"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

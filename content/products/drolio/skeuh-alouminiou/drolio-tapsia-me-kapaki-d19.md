@@ -1,9 +1,10 @@
 ---
 title: "Drolio Ταψιά με καπάκι D19"
 categories: ["Drolio"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/drolio-tapsia-me-kapaki-d19.jpg"
+barcode: "5202576132566"
+product_image_lowres: "/media/images/low/drolio-tapsia-me-kapaki-d19.jpg"
+varos: "3 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]

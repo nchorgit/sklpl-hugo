@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Σταφίδες ξανθές 200g"
 date: 2022-05-25T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-stafides-ksanthes-200g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-stafides-ksanthes-200g.jpg"
+barcode: "5202576027459"
+varos: "500g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

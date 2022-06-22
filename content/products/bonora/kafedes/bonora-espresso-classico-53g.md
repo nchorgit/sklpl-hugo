@@ -2,6 +2,7 @@
 title: "Bonora Κάψουλες Espresso Classico 53g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-espresso-classico-53g.jpg"
+product_image_lowres: "/media/images/low/bonora-espresso-classico-53g.jpg"
 barcode: "5208046012253"
 varos: "53g"
 bar_img: "/media/svg/barcode.svg"

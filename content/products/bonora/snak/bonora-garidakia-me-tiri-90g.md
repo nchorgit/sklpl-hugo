@@ -2,6 +2,7 @@
 title: "Bonora Γαριδάκια με γεύση τυρί 90g"
 categories: ["Bonora"]
 product_image: "/media/images/bonora-garidakia-me-tiri-90g.jpg"
+product_image_lowres: "/media/images/low/bonora-garidakia-me-tiri-90g.jpg"
 barcode: "5208046039960"
 varos: "90g"
 bar_img: "/media/svg/barcode.svg"

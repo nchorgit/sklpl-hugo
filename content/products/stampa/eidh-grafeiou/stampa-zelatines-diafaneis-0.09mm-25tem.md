@@ -1,9 +1,10 @@
 ---
 title: "Stampa Ζελατίνες διαφανείς 0.09mm 25τεμ"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-zelatines-diafaneis-0.09mm-25tem.jpg"
+product_image_lowres: "/media/images/low/stampa-zelatines-diafaneis-0.09mm-25tem.jpg"
+barcode: "5202576734746"
+varos: "25 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

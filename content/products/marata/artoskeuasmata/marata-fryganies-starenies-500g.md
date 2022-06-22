@@ -2,9 +2,10 @@
 title: "Μαράτα Φρυγανιές σταρένιες 500g"
 weight: 3
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-fryganies-starenies-500g.jpg"
+product_image_lowres: "/media/images/low/marata-fryganies-starenies-500g.jpg"
+barcode: "5202576203594"
+varos: "500g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

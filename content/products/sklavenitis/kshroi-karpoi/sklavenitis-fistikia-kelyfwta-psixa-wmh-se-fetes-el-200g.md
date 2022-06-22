@@ -2,9 +2,10 @@
 title: "Σκλαβενίτης Φιστίκια κελυφωτά ψίχα ωμή σε φέτες ΕΛ 200g"
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sklavenitis-fistikia-kelyfwta-psixa-wmh-se-fetes-el-200g.jpg"
+product_image_lowres: "/media/images/low/sklavenitis-fistikia-kelyfwta-psixa-wmh-se-fetes-el-200g.jpg"
+barcode: "5202576043800"
+varos: "200g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

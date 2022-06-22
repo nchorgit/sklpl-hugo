@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Ψιλοκομμένες ντομάτες 370g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-psilokommenes-ntomates-370g.jpg"
+product_image_lowres: "/media/images/low/marata-psilokommenes-ntomates-370g.jpg"
+barcode: "5202576097735"
+varos: "370g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

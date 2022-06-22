@@ -3,8 +3,9 @@ title: "Σκλαβενίτης Μαυρομάτικα σαλάτα 400g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/media/images/sklavenitis-mauromatika-salata-400g.jpg"
-barcode: ""
-varos: ""
+product_image_lowres: "/media/images/low/sklavenitis-mauromatika-salata-400g.jpg"
+barcode: "5202576370043"
+varos: "400g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

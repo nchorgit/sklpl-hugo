@@ -2,9 +2,10 @@
 title: "Μαράτα Επιδόρπιο γιαουρτιού με κομμάτια φράουλας 2Χ200g"
 weight: 5
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-epidorpio-giaourtiou-me-kommatia-fraoulas-2x200g.jpg"
+product_image_lowres: "/media/images/low/marata-epidorpio-giaourtiou-me-kommatia-fraoulas-2x200g.jpg"
+barcode: "5202576210585"
+varos: "2X200g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

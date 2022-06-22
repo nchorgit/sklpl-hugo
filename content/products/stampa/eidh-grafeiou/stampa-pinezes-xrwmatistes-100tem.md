@@ -1,9 +1,10 @@
 ---
 title: "Stampa Πινέζες χρωματιστές 100τεμ"
 categories: ["Stampa"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/stampa-pinezes-xrwmatistes-100tem.jpg"
+product_image_lowres: "/media/images/low/stampa-pinezes-xrwmatistes-100tem.jpg"
+barcode: "5202576634954"
+varos: "100 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Όροφος"]

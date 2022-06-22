@@ -1,9 +1,10 @@
 ---
 title: "Sette Αφρόλουτρο Γιασεμί 500ml"
 categories: ["Sette"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/sette-afroloutro-giasemi-500ml.jpg"
+product_image_lowres: "/media/images/low/sette-afroloutro-giasemi-500ml.jpg"
+barcode: "5202576124202"
+varos: "500ml"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]

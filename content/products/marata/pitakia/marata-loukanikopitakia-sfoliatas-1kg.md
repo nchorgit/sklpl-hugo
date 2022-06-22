@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Λουκανικοπιτάκια σφολιάτας 1kg"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-loukanikopitakia-sfoliatas-1kg.jpg"
+product_image_lowres: "/media/images/low/marata-loukanikopitakia-sfoliatas-1kg.jpg"
+barcode: "5202576632288"
+varos: "1kg"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

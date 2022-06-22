@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Σόδα 400g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-soda-400g.jpg"
+product_image_lowres: "/media/images/low/marata-soda-400g.jpg"
+barcode: "5202576282704"
+varos: "400g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

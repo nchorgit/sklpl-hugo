@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Σιμιγδάλι χονδρό 500g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-simigdali-xondro-500g.jpg"
+product_image_lowres: "/media/images/low/marata-simigdali-xondro-500g.jpg"
+barcode: "5202576681316"
+varos: "500g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

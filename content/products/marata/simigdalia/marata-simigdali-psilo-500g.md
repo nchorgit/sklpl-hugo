@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Σιμιγδάλι ψιλό 500g"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-simigdali-psilo-500g.jpg"
+product_image_lowres: "/media/images/low/marata-simigdali-psilo-500g.jpg"
+barcode: "5202576681309"
+varos: "500g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

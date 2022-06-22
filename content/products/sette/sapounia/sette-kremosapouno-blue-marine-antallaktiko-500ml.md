@@ -1,7 +1,8 @@
 ---
 title: "Sette Κρεμοσάπουνο Blue Marine Ανταλλακτικό 500ml"
 categories: ["Sette"]
-product_image: ""
+product_image: "/media/images/sette-kremosapouno-blue-marine-antallaktiko-500ml.jpg"
+product_image_lowres: "/media/images/low/sette-kremosapouno-blue-marine-antallaktiko-500ml.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

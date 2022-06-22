@@ -1,9 +1,10 @@
 ---
 title: "Μαράτα Πυρηνέλαιο 1L"
 categories: ["Μαράτα"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/media/images/marata-pyrhnelaio-1l.jpg"
+product_image_lowres: "/media/images/low/marata-pyrhnelaio-1l.jpg"
+barcode: "5202576097636"
+varos: "1L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
