@@ -848,7 +848,9 @@ a.mpl {
 #taftotita br:nth-child(1) {
     display: none;
 }
-
+.cattitle br {
+    display: none;
+}
 #oroi {
     font-size: 10pt;
     color: #eee;
@@ -978,4 +980,26 @@ a.mpl {
     #taftotita {
         text-align: left;
     }
+}
+
+@media only screen and (max-width:740px) {
+    .cattitle br {
+       display: block;
+    }
+
+    .cattitle strong {
+        border-left: 0px solid #555;
+        margin-left: 0px;
+        display: block;
+        border: 2px solid #555;
+        border-radius: 4px;
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width:421px) {
+.cattitle b {
+    display: block;
+    margin: 0 0 10px 0;
+}
 }

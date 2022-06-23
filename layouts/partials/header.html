@@ -31,14 +31,18 @@
       <a href="/list-labels"><i class="fas fa-tags" aria-hidden="true"></i> Ετικέτες</a>
       <a href="/list-categories"><i class="far fa-clone" aria-hidden="true"></i> Κατηγορίες</a>
       <a class="teams" href="/list-group"><span class="team1"><i class="far fa-clone" aria-hidden="true"></i>
-          Ομάδες:</span> 
-       
-            <span class="team2" style="border: 0;">Τρόφιμα</span><span class="team2">Μη Τρόφιμα</span><span
-            class="team2">Όροφος</span>
-          </a>
+          Ομάδες:</span>
+        <span class="team2" style="border: 0;">Τρόφιμα</span><span class="team2">Μη Τρόφιμα</span><span
+          class="team2">Όροφος</span>
+      </a>
     </nav>
   </div>
 </div>
+<script>
+  $("a.list").click(function () {
+    $(".dlistout").slideToggle("slow");
+  });
+</script>
 <style>
   /*DROP MENU*/
   img.logo-2 {
@@ -48,14 +52,14 @@
 
   .dots {
     display: none;
-    grid-gap: 3px;
+    grid-gap: 5px;
   }
 
   .din {
-    width: 4px;
-    height: 4px;
+    width: 20px;
+    height: 2px;
     background: #eee;
-    border-radius: 50%;
+    border-radius: 6px;
   }
 
   .header {
@@ -111,6 +115,7 @@
     text-decoration: none;
     font-weight: bold;
     letter-spacing: -1px;
+    line-height: 36px;
   }
 
   .line {
@@ -187,28 +192,28 @@
     background: #333;
   }
 
-  ..drop-list nav {
-  gap: 10px;
-}
+  .drop-list nav {
+    gap: 10px;
+  }
 
-a.teams {
+  a.teams {
     border-radius: 4px;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-}
+  }
 
-span.team2 {
+  span.team2 {
     margin-right: 10px;
     border-left: 2px solid #888;
     padding-left: 10px;
     font-weight: normal;
-}
+  }
 
-span.team1 {
+  span.team1 {
     margin-right: 5px;
-}
+  }
 
   .drop-list i {
     margin-right: 10px;
@@ -222,13 +227,13 @@ span.team1 {
     display: none;
   }
 
-  @media only screen and (max-width:1290px) {
+  @media only screen and (max-width:1330px) {
     .list span {
       display: none;
     }
   }
 
-  @media only screen and (max-width:1128px) {
+  @media only screen and (max-width:1173px) {
     .fnav {
       gap: 10px;
     }
@@ -243,6 +248,10 @@ span.team1 {
   }
 
   @media only screen and (max-width:925px) {
+    .wrapper {
+      margin: -65px auto;
+    }
+
     img.logo-1 {
       display: none;
     }
@@ -264,42 +273,77 @@ span.team1 {
     }
   }
 
-  @media only screen and (max-width:820px) {
+  @media only screen and (max-width:870px) {
     nav.snav {
       display: grid;
       width: 100%;
       padding: 0px;
       gap: 15px;
     }
- 
-span.team1 {
-    font-weight: bold;
-}
+
+    span.team1 {
+      font-weight: bold;
+    }
+
     a.teams {
-    justify-content: left;
-    margin: 0;
-    
-}
+      justify-content: left;
+      margin: 0;
+    }
   }
- 
 
-    @media only screen and (max-width:690px) {
-      a.search span {
-        display: none;
-      }
+  @media only screen and (max-width:690px) {
+    a.search {
+      padding: 12px;
+      border-radius: 6px;
+    }
 
-      a.search i {
-        margin: 0;
+    a.search span {
+      display: none;
+    }
+
+    a.search i {
+      margin: 0;
+    }
+  }
+
+  @media only screen and (max-width:544px) {
+    .ftitle {
+      font-size: 6.5vw !important;
+      padding: 15px 0px !important;
+    }
+
+    nav a {
+      display: none;
+    }
+
+    .line {
+      display: none;
+    }
+
+    .dots {
+      display: grid;
+      background: #555;
+      padding: 0;
+      border-radius: 4px;
+      height: 11px;
+      padding: 15px 0;
+      align-items: center;
+      align-content: center;
+      width: 40px;
+      justify-content: center;
+      position: absolute;
+      right: 65px;
+    }
+  }
+    @media only screen and (max-width:388px) {
+      .logotext {
+        font-size: 24px;
       }
     }
 
-    @media only screen and (max-width:480px) {
-
+    @media only screen and (max-width:371px) {
+      .logotext {
+        font-size: 20px;
+      }
     }
-
 </style>
-<script>
-  $("a.list").click(function () {
-    $(".dlistout").slideToggle("slow");
-  });
-</script>

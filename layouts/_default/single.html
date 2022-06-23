@@ -372,7 +372,7 @@ h1 {
     border-collapse: separate;
     border-spacing: 2px;
     font-size: 19px;
-    min-width: 700px;
+    /*min-width: 700px;*/
 }
 
 #diatable p {
@@ -599,7 +599,34 @@ h1 {
 }
 }
 
+@media only screen and (max-width: 570px) {
+    #barcode {
+    background: #ddd;
+    display: block;
+    float: none;
+    height: 40px;
+    padding: 0px;
+    width: 100%;
+    border-radius: 6px 6px 0 0;
+    margin-bottom: 15px;
+}
 
+#varos {
+    background: #bbb;
+    display: block;
+    float: none;
+    height: 40px;
+    padding: 0px;
+    width: 100%;
+    border-radius: 0 0 6px 6px;
+    margin-top: -15px;
+    margin-bottom: 15px;
+}
+#varos div {
+    border-radius: 0 0 0 6px;
+    }
+}
+}
 
 </style>
 <script>

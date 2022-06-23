@@ -7,19 +7,13 @@
 
 <body>
     {{ partial "header" . }}
-
-    <div class="cattitle"><b>{{ len (where .Pages "Section" "!=" "") }}</b> Προϊόντα στην κατηγορία: <strong><i
-                class="far fa-clone" aria-hidden="true"></i> {{ .Title }}</strong></div>
-
+    <div class="cattitle"><b>{{ len (where .Pages "Section" "!=" "") }}</b> Προϊόντα στην κατηγορία:<br>
+        <strong><i class="far fa-clone" aria-hidden="true"></i> {{ .Title }}</strong></div>
     {{.Content}}
     {{ partial "pagination2" . }}
     <div class="product-list">
         {{ range .Paginator.Pages.ByWeight }}
-
-
         <div class="main">
-
-
             <!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
 <div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
 <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
@@ -36,289 +30,335 @@
                     href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
                         aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
         </div>
-
-
         {{ end }}
-
     </div>
     {{ partial "pagination" . }}
-  
-
-<script>
-    $(".alltext").remove();
-    /*   $( document ).ready(function() {
+    <script>
+        $(".alltext").remove();
+        /*   $( document ).ready(function() {
         $(".alltext").remove();
 });*/
-</script>
-<style>
-    .cattitle i {
-        color: #ffa500;
-        margin-right: 5px;
-        font-size: 20px;
-    }
-    p.pnum {
-        height: 44px;
-        padding: 0 18px;
-        margin: 0;
-        text-align: center;
-        line-height: 44px;
-        background: #eee;
-        border-radius: 4px;
-        font-size: 17px;
-        
-        
-    }
+    </script>
+    <style>
+        .cattitle i {
+            color: #ffa500;
+            margin-right: 5px;
+            font-size: 20px;
+        }
 
-    .product-list {
-        display: grid;
-        width: auto;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-        grid-gap: 24px 18px;
-        margin: -85px auto -25px auto;
-        max-width: 1400px;
-        padding: 15px;
-    }
+        p.pnum {
+            height: 44px;
+            padding: 0 18px;
+            margin: 0;
+            text-align: center;
+            line-height: 44px;
+            background: #eee;
+            border-radius: 4px;
+            font-size: 17px;
+        }
 
-    .product p {
-        display: none;
-    }
+        .product-list {
+            display: grid;
+            width: auto;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-gap: 24px 18px;
+            margin: -85px auto -25px auto;
+            max-width: 1400px;
+            padding: 15px;
+        }
 
-    .post {
-    border: 2px solid #eee;
-    border-radius: 6px 6px 0 0;
+        .product p {
+            display: none;
+        }
+
+        .post {
+            border: 2px solid #eee;
+            border-radius: 6px 6px 0 0;
+        }
+
+        .post a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .product {
+            border: 0;
+            padding: 15px;
+        }
+
+        h1.ltitle {
+            margin: 0;
+        }
+
+        h1.ltitle {
+            display: flex;
+            padding: 20px;
+            text-decoration: none;
+            color: #444;
+            font-weight: bold;
+            font-size: 20px;
+            height: 55px;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+            letter-spacing: -.3px;
+            margin: -2px -2px 0 -2px;
+            background: #eee;
+            border-radius: 4px 4px 0 0;
+        }
+
+        .pimg img {
+            width: 100%;
+            border: 0;
+            outline: 0;
+            max-width: 500px;
+            margin: auto;
+            display: flex;
+            cursor: pointer;
+            padding: 20px 0 0;
+        }
+
+        .plabels {
+            background: #ff5500;
+            padding: 15px 0;
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            border-radius: 0 0 4px 4px;
+            margin: -2px 0px -7px 0px;
+        }
+
+        .plabels a {
+            padding: 7px 8px;
+            background: #e64d00;
+            text-decoration: none;
+            color: #fff;
+            font-size: 15px;
+            font-weight: 500;
+            border-radius: 2px;
+            margin: 0px;
+            letter-spacing: -.5;
+        }
+
+        .plabels a:nth-child(1) {
+            margin-right: 5px;
+        }
+
+        .plabels i {
+            margin-right: 5px;
+        }
+
+        #powerimage {
+            background-image: url(/media/icons/power.svg);
+        }
+
+        #barimage1,
+        #varosimage1,
+        #varosimage,
+        #dimimg,
+        #powerimage,
+        #temimg {
+            background: #fff;
+            display: block;
+        }
+
+        .product {
+            border: 0;
+            padding: 0;
+        }
+
+        .main {
+            margin: 0px auto;
+            max-width: 100%;
+            padding: 0;
+            display: inherit;
+            margin: 0;
+        }
+
+        br {
+            display: none;
+        }
+
+        #barimage1 {
+            background: #fff;
+            border-radius: 0%;
+            float: left;
+            height: 40px;
+            width: 40px;
+            background-image: url(/media/icons/barcode.png);
+            background-size: 19px 22px;
+            background-repeat: no-repeat;
+            background-position: center;
+            display: block;
+        }
+
+        #dimimg {
+            background: #fff;
+            border-radius: 0%;
+            float: left;
+            height: 40px;
+            width: 40px;
+            background-image: url(/media/icons/dim.png);
+            background-size: 19px 22px;
+            background-repeat: no-repeat;
+            background-position: center;
+            display: block;
+        }
+
+        #varosimage1 {
+            background: #fff;
+            border-radius: 0%;
+            float: left;
+            height: 40px;
+            width: 40px;
+            background-image: url(/media/icons/varos.png);
+            background-size: 17px 23px;
+            background-repeat: no-repeat;
+            background-position: center;
+            display: inherit;
+        }
+
+        #powerimage {
+            background: #fff;
+            border-radius: 0%;
+            float: left;
+            height: 40px;
+            width: 40px;
+            background-image: url(/media/icons/power.svg);
+            background-size: 17px 23px;
+            background-repeat: no-repeat;
+            background-position: center;
+            display: inherit;
+        }
+
+        #barimage img {
+            display: block;
+            height: 22px;
+            margin: 0px auto;
+            padding-top: 9px;
+            text-align: center;
+            vertical-align: middle;
+            width: 19px;
+            border-style: none !important;
+        }
+
+        #varosimage img {
+            display: block;
+            height: 23px;
+            margin: 0px auto;
+            padding-top: 9px;
+            text-align: center;
+            vertical-align: middle;
+            width: 17px;
+            border-style: none !important;
+        }
+
+        #barcode,
+        #varos {
+            background: #fff;
+            border-bottom: 2px solid #eeee;
+            display: flex;
+            float: left;
+            height: 50px;
+            padding: 0px;
+            width: 100%;
+            align-items: center;
+        }
+
+        #bartext,
+        #varostext {
+            font-size: 19px;
+            margin-left: 0px;
+            font-weight: 300;
+        }
+
+        #varosimage,
+        #barimage {
+            background: #fff;
+            border-radius: 0%;
+            float: left;
+            height: 40px;
+            width: 40px;
+        }
+
+        .pimg,
+        #pics2 {
+            display: inherit !important;
+        }
+
+        a.scat {
+            margin-right: 5px;
+        }
+
+        .product div,
+        .product table {
+            display: none;
+        }
+
+        .main:hover {
+            opacity: .8;
+            transition: all .3s;
+        }
+
+        .main {
+            transition: all .3s;
+        }
+
+        footer br {
+            display: block;
+        }
+
+        @media only screen and (max-width:665px) {
+            h1.ltitle {
+                font-size: 25px;
+                height: auto;
+            }
+
+            .spages1 {
+                display: none;
+            }
+
+            .product-list {
+                margin-top: 75px;
+            }
+
+            .spages2 {
+    margin: 10px auto;
+    display: grid;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    gap: 0;
+    margin-bottom: 50px;
 }
 
-    .post a {
-        text-decoration: none;
-        color: inherit;
-    }
-
-    .product {
-        border: 0;
-        padding: 15px;
-    }
-
-    h1.ltitle {
-        margin: 0;
-    }
-
-    h1.ltitle {
-        display: flex;
-        padding: 20px;
-        text-decoration: none;
-        color: #444;
-        font-weight: bold;
-        font-size: 20px;
-        height: 55px;
-        text-align: center;
-        align-items: center;
-        justify-content: center;
-        letter-spacing: -.3px;
-        margin: -2px -2px 0 -2px;
-        background: #eee;
-        border-radius: 4px 4px 0 0;
-    }
-
-
-
-    .pimg img {
-        width: 100%;
-        border: 0;
-        outline: 0;
-        max-width: 500px;
-        margin: auto;
-        display: flex;
-        cursor: pointer;
-        padding: 20px 0 0;
-    }
-
-    .plabels {
-        background: #ff5500;
-        padding: 15px 0;
-        display: flex;
-        text-align: center;
-        justify-content: center;
-        border-radius: 0 0 4px 4px;
-        margin: -2px 0px -7px 0px;
-    }
-
-    .plabels a {
-        padding: 7px 8px;
-        background: #e64d00;
-        text-decoration: none;
-        color: #fff;
-        font-size: 15px;
-        font-weight: 500;
-        border-radius: 2px;
-        margin: 0px;
-        letter-spacing: -.5;
-    }
-
-    .plabels a:nth-child(1) {
-        margin-right: 5px;
-    }
-
-    .plabels i {
-        margin-right: 5px;
-    }
-    #powerimage {
-    background-image: url(/media/icons/power.svg);}
-    
-    #barimage1,
-    #varosimage1,
-    #varosimage,
-    #dimimg,
-    #powerimage,
-    #temimg {
-        background: #fff;
-        display: block;
-    }
-
-    .product {
-        border: 0;
-        padding: 0;
-    }
-
-    .main {
-        margin: 0px auto;
-        max-width: 100%;
-        padding: 0;
-        display: inherit;
-    }
-
-    br {
-        display: none;
-    }
-
-    #barimage1 {
-        background: #fff;
-        border-radius: 0%;
-        float: left;
-        height: 40px;
-        width: 40px;
-        background-image: url(/media/icons/barcode.png);
-        background-size: 19px 22px;
-        background-repeat: no-repeat;
-        background-position: center;
-        display: block;
-    }
-    #dimimg {
-        background: #fff;
-        border-radius: 0%;
-        float: left;
-        height: 40px;
-        width: 40px;
-        background-image: url(/media/icons/dim.png);
-        background-size: 19px 22px;
-        background-repeat: no-repeat;
-        background-position: center;
-        display: block;
-    }
-    #varosimage1 {
-        background: #fff;
-        border-radius: 0%;
-        float: left;
-        height: 40px;
-        width: 40px;
-        background-image: url(/media/icons/varos.png);
-        background-size: 17px 23px;
-        background-repeat: no-repeat;
-        background-position: center;
-        display: inherit;
-    }
-    #powerimage {
-        background: #fff;
-        border-radius: 0%;
-        float: left;
-        height: 40px;
-        width: 40px;
-        background-image: url(/media/icons/power.svg);
-        background-size: 17px 23px;
-        background-repeat: no-repeat;
-        background-position: center;
-        display: inherit;
-    }
-
-    #barimage img {
-        display: block;
-        height: 22px;
-        margin: 0px auto;
-        padding-top: 9px;
-        text-align: center;
-        vertical-align: middle;
-        width: 19px;
-        border-style: none !important;
-    }
-
-    #varosimage img {
-        display: block;
-        height: 23px;
-        margin: 0px auto;
-        padding-top: 9px;
-        text-align: center;
-        vertical-align: middle;
-        width: 17px;
-        border-style: none !important;
-    }
-
-    #barcode,
-    #varos {
-        background: #fff;
-        border-bottom: 2px solid #eeee;
-        display: flex;
-        float: left;
-        height: 50px;
-        padding: 0px;
-        width: 100%;
-        align-items: center;
-    }
-
-    #bartext,
-    #varostext {
-        font-size: 19px;
-        margin-left: 0px;
-        font-weight: 300;
-    }
-
-    #varosimage,
-    #barimage {
-        background: #fff;
-        border-radius: 0%;
-        float: left;
-        height: 40px;
-        width: 40px;
-    }
-
-    .pimg,
-    #pics2 {
-        display: inherit !important;
-    }
-
-    a.scat {
-        margin-right: 5px;
-    }
-
-    .product div,
-    .product table {
-        display: none;
-    }
-
-    .main:hover {
-        opacity: .8;
-        transition: all .3s;
-    }
-
-    .main {
-
-        transition: all .3s;
-    }
-    footer br {
-        display: block;
-    }
-</style>
-<script>
-    /* $(".product div, .product table").remove()*/
-</script>
-{{ partial "footer" . }}
+.page-link {
+    position: relative;
+    display: block;
+    padding: 0;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #333;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    width: auto;
+    height: auto;
+    text-align: center;
+    line-height: initial;
+    text-decoration: none;
+    margin-right: 5px;
+    border: 2px solid #eee;
+    border-radius: 4px;
+    font-weight: normal;
+    padding: 5px;
+}
+        }
+    </style>
+    <script>
+        /* $(".product div, .product table").remove()*/
+    </script>
+    {{ partial "footer" . }}
 </body>
+
 </html>
