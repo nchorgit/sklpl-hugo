@@ -372,7 +372,8 @@ h1 {
     border-collapse: separate;
     border-spacing: 2px;
     font-size: 19px;
-    /*min-width: 700px;*/
+    min-width: 700px;
+    table-layout: fixed;
 }
 
 #diatable p {
@@ -586,12 +587,13 @@ h1 {
 @media only screen and (max-width: 870px) {
     .main {
     
-    grid-template-columns: auto;
+    display: block;
 }
-.sidebar {
-    display: none;
+.relhead, .wlist {
+    display: none;}
+    .pimg {display: block;}
 }
-}
+
 
 @media only screen and (max-width: 770px) {
 .ptitle {
@@ -625,7 +627,15 @@ h1 {
 #varos div {
     border-radius: 0 0 0 6px;
     }
+    .plabels {
+        display: grid;
+        grid-gap: 5px;
+        padding: 5px 10px 10px;
+    }
 }
+@media only screen and (max-width: 430px) {
+    .yah {display: none;}
+    .pimg {margin: -25 -25px 15px;}
 }
 
 </style>
