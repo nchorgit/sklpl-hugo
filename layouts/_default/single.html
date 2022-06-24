@@ -40,7 +40,26 @@
 <!--<a href="#" class="product-image">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}-->
 
 </div>
-<div class="pimg2bg"><div class="pimg2"><p class="imgcaption">{{.Title}}</p></div> </div>
+<div class="pimg2bg">
+    <div class="fclose">
+        <div style="
+    width: 40px;
+    height: 4px;
+    background: white;
+    position: absolute;
+"></div>
+        <div style="
+    width: 4px;
+    height: 40px;
+    background: white;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+"></div>
+        </div>
+    
+    <div class="pimg2"><p class="imgcaption">{{.Title}}</p></div> </div>
 
 
 </div>
@@ -48,6 +67,17 @@
 {{ partial "footer" . }}
 </body>
 <style>
+ .fclose {
+    position: absolute;
+    top: 90px;
+    right: 15px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transform: rotateZ(45deg);
+}
     .post th, .post td, .post p, .post div, .post ul {
 border-radius: 4px;
     }

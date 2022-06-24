@@ -2,6 +2,7 @@
 title: "Frogo Αλουμινόχαρτο 30m"
 categories: ["Frogo"]
 product_image: "/media/images/frogo-alouminoxarto-30m.jpg"
+product_image_lowres: "/media/images/low/frogo-alouminoxarto-30m.jpg"
 barcode: "5202576946910"
 varos: "30 μέτρα"
 bar_img: "/media/svg/barcode.svg"

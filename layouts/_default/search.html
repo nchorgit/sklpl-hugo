@@ -5,69 +5,77 @@
     {{ partial "head" . }}
 </head>
 
-<body><div class="container">
-    {{ partial "header" . }}
-    <div class="cattitle">
-        <div class="stitle">
-            <form name="searchBox" onsubmit="return false">
-                <input autocomplete="off" class="stext" type="text" name="keyword" onfocus="this.value=''"
-                    value="Αναζήτηση" />
-                <button id="sbutton" type="button" onClick="searchFunction()"><i class="fas fa-search"></i>
-                    Αναζήτηση</button>
-            </form>
+<body>
+    <div class="container">
+        {{ partial "header" . }}
+        <div class="cattitle">
+            <div class="stitle">
+                <form name="searchBox" onsubmit="return false">
+                    <input autocomplete="off" class="stext" type="text" name="keyword" onfocus="this.value=''"
+                        value="Αναζήτηση" />
+                    <button id="sbutton" type="button" onClick="searchFunction()"><i class="fas fa-search"></i>
+                        <span>Αναζήτηση</span></button>
+                </form>
+            </div>
         </div>
-    </div>
-
-    <div class="nores">
-        <!--p style="margin-right: 10px;">Βρέθηκαν </p-->
-        <p class="numpres"> </p> Προϊόντα στην αναζήτηση: <div class="skeyout"><span><i class="fas fa-search"
-                    aria-hidden="true"></i></span> <span class="skey"></span></div>
-                    <button id="sbutton" type="button" onclick="searchFunction()"><i class="fas fa-search" aria-hidden="true"></i>
-                        Νέα Αναζήτηση</button>
-    </div>
-    <div class="wrapper">
-        <!--ul class="lprod"> 
+        <div class="nores">
+            <!--p style="margin-right: 10px;">Βρέθηκαν </p-->
+            <div class="res1">
+                <p class="numpres"> </p> <span>Προϊόντα στην αναζήτηση:</span>
+            </div>
+            <div class="res2">
+                <div class="skeyout"><span><i class="fas fa-search" aria-hidden="true"></i></span> <span
+                        class="skey"></span></div>
+                <button id="sbutton2" type="button" onclick="searchFunction()"><i class="fas fa-search"
+                        aria-hidden="true"></i>
+                    <span>Νέα Αναζήτηση</span></button>
+            </div>
+        </div>
+        <div class="wrapper">
+            <!--ul class="lprod"> 
             {{range .Site.RegularPages}}
             <li><a href="{{.Permalink}}">{{.Title}}</a></li>
             {{end}}
         </ul-->
-
-        <ul class="lprod" style="visibility: hidden;">
-            {{range .Site.RegularPages}}
-            <li>
-
-                <div class="post"><a href="{{.Permalink}}">
-
-                        <h1 class="ltitle">{{.Title}}</h1>
-                        <div class="bar">
-                            <p>{{ .Params.barcode }}</p>
-                        </div>
-                        <div class="var">
-                            <p>{{ .Params.varos }}</p>
-                        </div>
-                        <div class="smeta">
-                            <p>{{ .Params.smeta }} {{.Permalink}} </p>
-                            <p>{{.Title}}</p>
-                        </div>
-
-                        <div class="fimg">{{if isset .Params "product_image_lowres" }}<img
-                                src="{{ index .Params "product_image_lowres" }}"></div>
-
-                        {{ end }}
-                    </a></div>
-
-                <div class="plabels">
-                    {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
-                        href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tags"
-                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
-                    {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
-                        href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
-                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
-
-
-            </li>
-            {{ end }}
+            <ul class="lprod" style="visibility: hidden;">
+                {{range .Site.RegularPages}}
+                <li>
+                    <div class="post"><a href="{{.Permalink}}">
+                            <h1 class="ltitle">{{.Title}}</h1>
+                            <div class="barvar">
+                                <div class="bar"><div class="bar-img">
+                                    {{if isset .Params "bar_img" }}<img
+                                        src="{{ index .Params "bar_img" }}">
+                                </div>{{ end }}
+                                    <p>{{ .Params.barcode }}</p>
+                                </div>
+                                <div class="var"><div class="var-img">
+                                    {{if isset .Params "bar_img" }}<img
+                                        src="{{ index .Params "var_img" }}">
+                                </div>{{ end }}
+                                    <p>{{ .Params.varos }}</p>
+                                </div>
+                            </div>
+                            <div class="smeta">
+                                <p>{{ .Params.smeta }} {{.Permalink}} </p>
+                                <p>{{.Title}}</p>
+                            </div>
+                            <div class="fimg">{{if isset .Params "product_image_lowres" }}<img
+                                    src="{{ index .Params "product_image_lowres" }}"></div>
+                            {{ end }}
+                        </a></div>
+                    <div class="plabels">
+                        {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
+                            href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tags"
+                                aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+                        {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
+                            href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
+                                aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
+                </li>
+                {{ end }}
+        </div>
     </div>
+    {{ partial "footer" . }}
     <script type="text/javascript">
         $('input:text').click(
             function () {
@@ -81,7 +89,6 @@
                 .css("visibility", "visible")
                 .show();
             $('.cattitle').hide()
-           
             $('.nores').show()
             $('.nores .numpres').html($('li:visible').length);
         }
@@ -94,7 +101,6 @@
             $('.stext').keypress(function (e) {
                 if (e.keyCode == 13)
                     $('#sbutton').click();
-
             });
         });
         $(document).ready(function () {
@@ -102,10 +108,7 @@
                 $('li').hide()
                 $('.nores').hide()
             });
-
-
         });
-
         $('.nores').hide()
         $(document).ready(function () {
             $("input").keyup(function () {
@@ -113,7 +116,6 @@
                 $(".skey").text(value);
             }).keyup();
         });
-
         $(".smeta").each(function () {
             var text = $(this).text();
             $(this).text(
@@ -127,26 +129,34 @@
                 .replace(/ύ/g, "υ")
                 .replace(/ώ/g, "ω")
                 .replace(/-/g, " ")
-
                 /*.replace(/[^\w\s]/gi, " ")*/
             );
         });
-
         $(".nores button").click(function () {
-  $(".nores, li").hide();
-  $(".cattitle").show();
- 
-
-
-});
+            $(".nores, li").hide();
+            $(".cattitle").show();
+        });
     </script>
     <style>
+        body {
+            background: #eee;
+        }
+        .res2 {
+            display: flex;
+            align-items: center;
+        }
+
+        .nores br {
+            display: none;
+        }
+
         .nores button {
             margin-left: 35px;
         }
+
         .skeyout span i {
             color: #ffa500;
-            margin-right: 5px;
+            margin-right: 8px;
             font-size: 20px;
         }
 
@@ -233,10 +243,13 @@
 
         .lprod li {
             display: none;
-            border: 0px solid #eee;
-            border-radius: 4px;
+            border: 2px solid #eee;
+            border-radius: 6px;
             font-family: inherit;
             font-size: 18px;
+            position: relative;
+            list-style-type: none;
+            background: #fff;
         }
 
         .stitle {
@@ -259,7 +272,8 @@
             color: #fff;
         }
 
-        #sbutton {
+        #sbutton,
+        #sbutton2 {
             background: #75ae34;
             border: 0;
             padding: 9px 28px;
@@ -274,12 +288,14 @@
             transition: all .2s;
         }
 
-        #sbutton:hover {
+        #sbutton:hover,
+        #sbutton2:hover {
             background: #5d872d;
             transition: all .2s;
         }
 
-        #sbutton i {
+        #sbutton i,
+        #sbutton2 i {
             margin-right: 10px;
             color: #fff;
             font-size: 16px;
@@ -303,109 +319,65 @@
         .lprod {
             display: grid;
             width: auto;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            grid-gap: 24px 18px;
-            margin: -150px auto -25px auto;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            grid-gap: 18px;
+            margin: -140px auto -25px auto;
             max-width: 1400px;
             padding: 0px;
         }
 
-        .lprod li {
-            list-style-type: none;
-        }
-
-        .product p {
-            display: none;
-        }
-
-        .post {
-            border: 2px solid #eee;
-            border-radius: 6px;
-        }
 
         .post a {
             text-decoration: none;
             color: inherit;
         }
 
-        .product {
-            border: 0;
-            padding: 15px;
-        }
-
         h1.ltitle {
-            margin: 0;
-        }
-
-        h1.ltitle {
-            display: flex;
-            padding: 20px;
-            text-decoration: none;
-            color: #444;
-            font-weight: bold;
-            font-size: 20px;
-            height: 55px;
-            text-align: center;
+            padding: 0 15px 0;
+            text-align: left;
+            justify-content: left;
+            border-bottom: 2px solid #eee;
+            background: transparent;
+            font-size: 22px;
+            height: 100px;
             align-items: center;
-            justify-content: center;
-            letter-spacing: -.3px;
-            margin: -2px -2px 0 -2px;
-            background: #eee;
-            border-radius: 4px 4px 0 0;
-        }
-
-        .pimg img {
-            width: 100%;
-            border: 0;
-            outline: 0;
-            max-width: 500px;
-            margin: auto;
+            align-content: center;
             display: flex;
-            cursor: pointer;
-            padding: 0 !important;
+            margin: 0 0 0 196px;
         }
-
+        .fimg {
+    position: absolute;
+    width: 184px;
+    top: 0;
+    border-right: 2px solid #eee;
+    padding: 5px;
+}
+       
         .plabels {
-            background: #ff5500;
-            padding: 15px 0;
-            display: flex;
-            text-align: center;
-            justify-content: center;
-            border-radius: 0 0 4px 4px;
-            margin: -2px 0px -7px 0px;
-        }
-
-        .plabels a {
-            padding: 7px 8px;
-            background: #e64d00;
-            text-decoration: none;
-            color: #fff;
-            font-size: 17px;
-            font-weight: 500;
-            border-radius: 2px;
-            margin: 0px;
-        }
-
+    
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    margin: 0 0 0 196px;
+    border-top: 2px solid #eee;
+    align-items: center;
+}
+.plabels a {
+    padding: 5px 10px;
+    background: #eee;
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 3px;
+    margin: 0px;
+}
         .plabels a:nth-child(1) {
             margin-right: 5px;
         }
 
         .plabels i {
             margin-right: 5px;
-        }
-
-        #powerimage {
-            background-image: url(/media/icons/power.svg);
-        }
-
-        #barimage1,
-        #varosimage1,
-        #varosimage,
-        #dimimg,
-        #powerimage,
-        #temimg {
-            background: #fff;
-            display: block;
         }
 
         .product {
@@ -424,80 +396,33 @@
             display: none;
         }
 
-        #barimage1 {
-            background: #fff;
-            border-radius: 0%;
-            float: left;
-            height: 40px;
-            width: 40px;
-            background-image: url(/media/icons/barcode.png);
-            background-size: 19px 22px;
-            background-repeat: no-repeat;
-            background-position: center;
-            display: block;
-        }
-
-        #varosimage1 {
-            background: #fff;
-            border-radius: 0%;
-            float: left;
-            height: 40px;
-            width: 40px;
-            background-image: url(/media/icons/varos.png);
-            background-size: 17px 23px;
-            background-repeat: no-repeat;
-            background-position: center;
-            display: inherit;
-        }
-
-        #barimage img {
-            display: block;
-            height: 22px;
-            margin: 0px auto;
-            padding-top: 9px;
-            text-align: center;
-            vertical-align: middle;
-            width: 19px;
-            border-style: none !important;
-        }
-
-        #varosimage img {
-            display: block;
-            height: 23px;
-            margin: 0px auto;
-            padding-top: 9px;
-            text-align: center;
-            vertical-align: middle;
-            width: 17px;
-            border-style: none !important;
-        }
-
-        #barcode,
-        #varos {
-            background: #fff;
-            border-bottom: 2px solid #eeee;
+        .barvar {
             display: flex;
-            float: left;
-            height: 40px;
-            padding: 0px;
-            width: 100%;
+            margin-left: 194px;
+        }
+
+        .bar,
+        .var {
+            font-size: 20px;
+            padding: 10px 15px;
+            display: flex;
             align-items: center;
+            gap: 10px;
         }
 
-        #bartext,
-        #varostext {
-            font-size: 17.5px;
-            margin-left: 0px;
-            font-weight: 300;
-        }
+        .bar-img {
+    height: 22px;
+    width: 19px;
+}
 
-        #varosimage,
-        #barimage {
-            background: #fff;
-            border-radius: 0%;
-            float: left;
-            height: 40px;
-            width: 40px;
+.var-img {
+    height: 22px;
+    width: 14px;
+}
+
+        .bar p,
+        .var p {
+            margin: 0;
         }
 
         .pimg,
@@ -509,10 +434,7 @@
             margin-right: 5px;
         }
 
-        .product div,
-        .product table {
-            display: none;
-        }
+        
 
         .main:hover {
             opacity: .8;
@@ -528,28 +450,114 @@
         }
 
         a.search {
-            
             display: none;
         }
+
         footer {
             flex-shrink: 0;
             width: 100%;
-}
-html {
-  height: 100%;
-}
-body {
-  min-height: 100%;
-  display: flex;
-  flex-direction: column;
-}
-.container {
-  flex: 1;
-}
+        }
 
+        html {
+            height: 100%;
+        }
+
+        body {
+            min-height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            flex: 1;
+        }
+
+        @media only screen and (max-width: 840px) {
+            #sbutton2 span {
+                display: none;
+            }
+
+            #sbutton2 {
+                padding: 12px;
+                border-radius: 4px;
+                position: absolute;
+                top: 15px;
+                right: 15px;
+                z-index: 50;
+            }
+
+            #sbutton2 i {
+                margin: 0;
+            }
+
+            .nores br {
+                display: block;
+            }
+
+            .nores {
+                display: block;
+                padding: 5px 15px 30px;
+            }
+
+            .res2 {
+                display: flex;
+                align-items: center;
+                width: 100%;
+                border-radius: 4px;
+                border: 2px solid #555;
+            }
+
+            .skeyout {
+                padding: 10px 15px;
+                border-left: 0px solid #555;
+                margin-left: 0;
+                font-weight: bold;
+                width: auto;
+            }
+        }
+
+        @media only screen and (max-width: 665px) {
+           .lprod {
+               grid-template-columns: 100%;
+           }
+           .barvar {display: block;}
+        }
+
+        @media only screen and (max-width: 544px) {
+            .dots {
+                right: 65px;
+            }
+
+            #sbutton span {
+                display: none;
+            }
+
+            #sbutton {
+                padding: 12px;
+                border-radius: 4px;
+                position: absolute;
+                top: 15px;
+                right: 15px;
+                z-index: 50;
+            }
+
+            #sbutton i {
+                margin: 0;
+            }
+        }
+
+        @media only screen and (max-width: 421px) {
+            p.numpres {
+                display: block;
+                margin-bottom: 10px;
+                margin-right: 0;
+            }
+
+            .res2 {
+                margin-top: 10px;
+            }
+        }
     </style>
-    </div>
-{{ partial "footer" . }}
-
 </body>
+
 </html>

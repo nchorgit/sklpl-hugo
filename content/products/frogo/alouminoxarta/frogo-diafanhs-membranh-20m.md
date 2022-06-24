@@ -2,6 +2,7 @@
 title: "Frogo Διαφανής Μεμβράνη 20m"
 categories: ["Frogo"]
 product_image: "/media/images/frogo-diafanhs-membranh-20m.jpg"
+product_image_lowres: "/media/images/low/frogo-diafanhs-membranh-20m.jpg"
 barcode: "5202576946927"
 varos: "20 μέτρα"
 bar_img: "/media/svg/barcode.svg"
