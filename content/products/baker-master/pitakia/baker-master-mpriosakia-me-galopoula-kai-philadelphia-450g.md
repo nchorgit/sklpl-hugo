@@ -1,5 +1,6 @@
 ---
 title: "Baker Master Μπριοσάκια με γαλοπούλα και Philadelphia 450g"
+weight: 3
 categories: ["Baker Master"]
 product_image: "/media/images/baker-master-mpriosakia-me-galopoula-kai-philadelphia-450g.jpg"
 barcode: "5213000480610"

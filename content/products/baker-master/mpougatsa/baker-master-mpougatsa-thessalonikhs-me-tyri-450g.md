@@ -1,5 +1,6 @@
 ---
 title: "Baker Master Μπουγάτσα Θεσσαλονίκης με τυρί 450g"
+weight: 2
 categories: ["Baker Master"]
 product_image: "/media/images/baker-master-mpougatsa-thessalonikhs-me-tyri-450g.jpg"
 barcode: "5213000480634"

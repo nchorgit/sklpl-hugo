@@ -1,5 +1,6 @@
 ---
 title: "Baker Master Σοκολατοπιτάκια κουρού 450g"
+weight: 3
 categories: ["Baker Master"]
 product_image: "/media/images/baker-master-sokolatopitakia-kourou-450g.jpg"
 barcode: "5213000480061"

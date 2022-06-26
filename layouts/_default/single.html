@@ -81,6 +81,8 @@
     .post th, .post td, .post p, .post div, .post ul {
 border-radius: 4px;
     }
+
+    
     
     .bline {
         border-bottom: 2px solid #eee;
@@ -154,7 +156,7 @@ a:hover.cat {
 .pimg img {
     width: 50%;
     height: auto;
-    mix-blend-mode: darken;
+    mix-blend-mode: multiply;
 }
 
 #sistatika, #loipa {
@@ -391,19 +393,17 @@ h1 {
     
 
 }
-.tabout {
-    overflow-x: auto;
-    margin: 0 -2px;
-}
+
 
 #diatable {
-    width: 100%;
+    width: -webkit-fill-available;
     border: 0px solid black;
     border-collapse: separate;
     border-spacing: 2px;
     font-size: 19px;
     min-width: 700px;
     table-layout: fixed;
+    margin: 0 -2px;
 }
 
 #diatable p {
@@ -470,13 +470,16 @@ h1 {
 .texr2 {
     font-weight: bold;
 }
-
+td br {
+    display: block !important;
+}
 .plabels {
-    padding: 25px 15px;
+    padding: 20px 10px;
     margin: 0;
     font-size: 19px;
     border-radius: 6px !important;
-    border: 2px solid #eee;
+    border: 0px solid #eee;
+    background: #eee ;
 }
 
 .plabels i {
@@ -622,6 +625,10 @@ h1 {
 .relhead, .wlist {
     display: none;}
     .pimg {display: block;}
+    .tabout {
+    overflow-x: auto;
+    margin: 0 ;
+}
 }
 
 
@@ -660,12 +667,13 @@ h1 {
     .plabels {
         display: grid;
         grid-gap: 5px;
-        padding: 5px 10px 10px;
+        padding: 0;
+        border: 0;
     }
 }
 @media only screen and (max-width: 430px) {
     .yah {display: none;}
-    .pimg {margin: -25 -25px 15px;}
+    .pimg {margin: 0}
 }
 
 </style>

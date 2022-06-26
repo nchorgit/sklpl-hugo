@@ -1,5 +1,6 @@
 ---
 title: "Baker Master Pizza Λαχανικά 460g"
+draft: true
 categories: ["Baker Master"]
 product_image: "/media/images/baker-master-pizza-laxanika-460g.jpg"
 barcode: "5213000480269"

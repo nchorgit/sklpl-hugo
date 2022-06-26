@@ -1,5 +1,6 @@
 ---
 title: "Baker Master Pizza Μαργαρίτα 415g"
+weight: 4
 categories: ["Baker Master"]
 product_image: "/media/images/baker-master-pizza-margarita-415g.jpg"
 barcode: "5213000480238"

@@ -1,5 +1,6 @@
 ---
 title: "Baker Master Τυροπιτάκια σφολιάτας 450g"
+weight: 3
 categories: ["Baker Master"]
 product_image: "/media/images/baker-master-tyropitakia-sfoliatas-450g.jpg"
 barcode: "5213000480009"

@@ -1,5 +1,6 @@
 ---
 title: "Baker Master Pizza 4 τυριά 460g"
+draft: true
 categories: ["Baker Master"]
 product_image: "/media/images/baker-master-pizza-4-tyria-460g.jpg"
 barcode: "5213000480252"

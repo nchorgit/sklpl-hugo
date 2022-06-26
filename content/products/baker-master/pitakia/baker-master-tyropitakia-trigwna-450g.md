@@ -1,5 +1,6 @@
 ---
 title: "Baker Master Τυροπιτάκια τρίγωνα 450g"
+weight: 3
 categories: ["Baker Master"]
 product_image: "/media/images/baker-master-tyropitakia-trigwna-450g.jpg"
 barcode: "5213000480160"
