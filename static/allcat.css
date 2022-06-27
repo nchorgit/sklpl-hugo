@@ -39,7 +39,7 @@
 
     padding: 0px;
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: repeat( auto-fit, minmax(313px, 1fr) );
     gap: 10px;
 }
 
@@ -147,11 +147,11 @@ sup {
 }
 
 input#myInput {
-    border: 2px solid #f47920;
-    padding: 0px 15px 0px 43px; 
-    border-radius: 0 4px 4px 0;
+    border: 0;
+    padding: 9px 15px 9px 43px;
+    border-radius: 6px;
     font-family: inherit;
-    height: 41px;
+    /* height: 41px; */
     outline: none;
     font-size: inherit;
     width: 100%;
@@ -167,16 +167,14 @@ input#myInput {
     display: flex;
     align-items: center;
     align-content: center;
-   width: 60%;
-    
-    
-    border-radius: 6px;
+    width: 60%;
+    border-radius: 0;
     position: relative;
+    border-left: 2px solid #555;
 }
 
 .filter {
     padding: 0px 15px;
-    background: #f47920;
     color: #fff;
     height: 45px;
     line-height: 40px;
@@ -197,6 +195,6 @@ input#myInput {
 }
 
 .filter i {
-    color: #fff;
+    color: #f47920;
     margin-right: 5px;
 }

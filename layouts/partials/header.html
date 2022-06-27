@@ -38,9 +38,27 @@
     </nav>
   </div>
 </div>
+
+<div class="drsmenu">
+  <a class="s555 sbb1 sbc333" href="/all-labels"><i class="fas fa-tags" aria-hidden="true"></i> Ετικέτες</a>
+  <a class="s555" href="/all-categories"><i class="far fa-clone" aria-hidden="true"></i> Κατηγορίες</a>
+  <p class="s444 sp15 sm0 steee"><i class="fas fa-list-alt" aria-hidden="true"></i> Λίστες Προϊόντων <i class="fas fa-chevron-down" style="color: orange; margin-left:8px" aria-hidden="true"></i></p>
+  <a class="s555 sbb1 sbc222" href="/list-labels"><i class="fas fa-tags" aria-hidden="true"></i> Ετικέτες</a>
+  <a class="s555 sbb1 sbc222" href="/list-categories"><i class="far fa-clone" aria-hidden="true"></i> Κατηγορίες</a>
+  <a class="s333" href="/list-group"><i class="fas fa-object-group"></i> Ομάδες <i class="fas fa-chevron-down" style="color: orange; margin-left:8px" aria-hidden="true"></i>
+  <p class="sfwn">Τρόφιμα</p>
+  <p class="sfwn">Μη Τρόφιμα</p>
+  <p class="sfwn">Όροφος</p>
+</a>
+</div>
+
 <script>
   $("a.list").click(function () {
     $(".dlistout").slideToggle("slow");
+  });
+
+  $(".dots").click(function () {
+    $(".drsmenu").slideToggle("slow");
   });
 </script>
 <style>
@@ -49,7 +67,12 @@
     display: none;
     height: 38px;
   }
-
+  .hero-img {
+    width: auto;
+    height: 500px;
+    background: red;
+    margin: 70px auto -70px auto;
+}
   .dots {
     display: none;
     grid-gap: 5px;
@@ -61,7 +84,31 @@
     background: #eee;
     border-radius: 6px;
   }
+  .drsmenu {
+    background: #333;
+    position: fixed;
+    width: 100%;
+    z-index: 50;
+    top: 70px;
+    padding: 0px;
+    display: none;
+}
 
+.drsmenu i {
+  margin-right: 10px;
+}
+
+.drsmenu a {
+ 
+    color: #eee;
+    display: block;
+    padding: 15px;
+    font-weight: bold;
+   
+    
+}
+
+.drsmenu a:hover {background:#222;}
   .header {
     width: 100%;
     height: 40px;
@@ -88,7 +135,7 @@
 
   .logopl a {
     width: 500px;
-    height: auto;
+    height: 40px;
     top: 0;
     bottom: 0;
     margin: 0 auto;
@@ -311,7 +358,9 @@
       font-size: 6.5vw !important;
       padding: 15px 0px !important;
     }
-
+    .drop-list {
+      display: none;
+    }
     nav a {
       display: none;
     }
@@ -333,7 +382,15 @@
       justify-content: center;
       position: absolute;
       right: 65px;
+      cursor: pointer;
+      transition: all .3s;
     }
+
+    .dots:hover {
+      transition: all .3s;
+      background: #333;
+    }
+
   }
     @media only screen and (max-width:388px) {
       .logotext {

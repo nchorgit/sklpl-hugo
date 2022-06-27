@@ -380,8 +380,8 @@
      padding: 10px
  }
 
- .sp15 {
-     padding: 10px
+ .sp015 {
+     padding: 0 15px;
  }
 
  .sgp {
@@ -776,6 +776,14 @@
  }
  .sbc000 {
     border-color: #000
+}
+
+.sbc222 {
+    border-color: #222
+}
+
+.sbc333 {
+    border-color: #333
 }
  .sbc444 {
      border-color: #444

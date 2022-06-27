@@ -591,58 +591,7 @@ a.mpl {
     margin-bottom: -5px;
 }
 
-.ilabels {
-    text-align: justify;
-    margin: -15px;
-    transition: all .3s;
-}
 
-.ilab:hover {
-    opacity: .7;
-    transition: all .3s;
-}
-
-.ilab a {
-    text-decoration: none;
-    color: #555;
-    font-size: 20px;
-    letter-spacing: -.5px;
-}
-
-.ilab {
-    text-align: center;
-    display: inline-block;
-    width: 250px;
-    margin: 15px;
-    transition: all .3s;
-}
-
-.ilab img {
-    width: 100%;
-    border-radius: 6px 6px 0 0;
-}
-
-.ilab p {
-    background: #fff;
-    padding: 20px 15px;
-    margin-top: -7px;
-    border-radius: 0 0 6px 6px;
-    border: 0px solid #ddd;
-    font-size: 25px;
-}
-
-.ilab p i {
-    font-size: 12px;
-    color: #777;
-}
-
-.tpie {
-    text-align: center;
-    font-size: 40px;
-    display: none;
-    color: #666;
-    letter-spacing: -1.1px;
-}
 
 @media only screen and (max-width:1090px) {
     .promo {
@@ -650,40 +599,7 @@ a.mpl {
     }
 }
 
-@media only screen and (max-width:1015px) {
-    .ilabels {
-        text-align: justify;
-        margin: 0px;
-    }
 
-    .ilab {
-        width: 31%;
-        margin: 0px;
-    }
-}
-
-@media only screen and (max-width:643px) {
-    .ilab {
-        width: 48%;
-        margin: 0px;
-    }
-}
-
-@media only screen and (max-width:433px) {
-    .ilab {
-        width: 48%;
-        margin: 0px;
-        font-size: 15px;
-    }
-
-    .ilab p {
-        font-size: 15px;
-    }
-
-    .tpie {
-        font-size: 25px;
-    }
-}
 
 .footcol {
     display: table-cell;

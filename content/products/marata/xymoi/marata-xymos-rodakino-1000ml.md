@@ -8,7 +8,7 @@ varos: "1L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
-tags: ["tag"]
+tags: ["Χυμοί"]
 ---
 {{< rawhtml >}}
 
