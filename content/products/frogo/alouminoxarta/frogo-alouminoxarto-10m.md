@@ -1,8 +1,8 @@
 ---
 title: "Frogo Αλουμινόχαρτο 10m"
 categories: ["Frogo"]
-product_image: "/media/images/frogo-alouminoxarto-10m.jpg"
-product_image_lowres: "/media/images/low/frogo-alouminoxarto-10m.jpg"
+product_image: "/assets/images/frogo-alouminoxarto-10m.jpg"
+product_image_lowres: "/assets/images/low/frogo-alouminoxarto-10m.jpg"
 barcode: "5202576946880"
 varos: "10 μέτρα"
 bar_img: "/media/svg/barcode.png"
@@ -38,5 +38,5 @@ tags: ["Αλουμινόχαρτα"]
     Για την αποφυγή ανάπτυξης μικροοργανισμών, μη χρησιμοποιείτε ξανά το ίδιο κομμάτι αλουμινόχαρτο.
     Αποθηκεύστε το προϊόν σε περιβάλλον χωρίς υγρασία.
 </p><br><div id="barcode"><div id="barimage1"></div><span id="bartext">5202576946880</span></div><div id="varos"><div id="dimimg">
-  </div><span id="varostext">10 μέτρα</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br><div class="pimg"><img alt="Frogo Αλουμινόχαρτο 10m" title="Frogo Αλουμινόχαρτο 10m" src="/media/images/frogo-alouminoxarto-10m.jpg"></div></div>
+  </div><span id="varostext">10 μέτρα</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br><div class="pimg"><img alt="Frogo Αλουμινόχαρτο 10m" title="Frogo Αλουμινόχαρτο 10m" src="/assets/images/frogo-alouminoxarto-10m.jpg"></div></div>
 {{< /rawhtml >}}

@@ -1,9 +1,9 @@
 ---
 title: "Drolio Ταψιά μεσαία D17"
 categories: ["Drolio"]
-product_image: "/media/images/drolio-tapsia-mesaia-d17.jpg"
+product_image: "/assets/images/drolio-tapsia-mesaia-d17.jpg"
 barcode: "5202576204911"
-product_image_lowres: "/media/images/low/drolio-tapsia-mesaia-d17.jpg"
+product_image_lowres: "/assets/images/low/drolio-tapsia-mesaia-d17.jpg"
 varos: "3 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/tem.svg"
@@ -62,7 +62,7 @@ weight: 5
     </div>
     <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br>
     <div class="pimg"><img alt="Drolio Ταψιά μεσαία D17" title="Drolio Ταψιά μεσαία D17"
-            src="/media/images/drolio-tapsia-mesaia-d17.jpg"></div>
+            src="/assets/images/drolio-tapsia-mesaia-d17.jpg"></div>
 </div>
 {{< /rawhtml >}}
 

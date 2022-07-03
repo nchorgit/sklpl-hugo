@@ -1,8 +1,8 @@
 ---
 title: "Sette Lady Σερβιέτες ειδικής χρήσης Super"
 categories: ["Sette"]
-product_image: "/media/images/sette-lady-serbietes-eidikhs-xrhshs-super.jpg"
-product_image_lowres: "/media/images/low/sette-lady-serbietes-eidikhs-xrhshs-super.jpg"
+product_image: "/assets/images/sette-lady-serbietes-eidikhs-xrhshs-super.jpg"
+product_image_lowres: "/assets/images/low/sette-lady-serbietes-eidikhs-xrhshs-super.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"
@@ -12,7 +12,7 @@ tags: ["Σερβιέτες"]
 ---
 {{< rawhtml >}}
 
-<div class="sload425"><div class="product">SOON<br><div class="pimg"><img alt="Sette Lady Σερβιέτες ειδικής χρήσης Super" title="Sette Lady Σερβιέτες ειδικής χρήσης Super" src="/media/images/sette-lady-serbietes-eidikhs-xrhshs-super.jpg"></div></div></div>
+<div class="sload425"><div class="product">SOON<br><div class="pimg"><img alt="Sette Lady Σερβιέτες ειδικής χρήσης Super" title="Sette Lady Σερβιέτες ειδικής χρήσης Super" src="/assets/images/sette-lady-serbietes-eidikhs-xrhshs-super.jpg"></div></div></div>
 {{< /rawhtml >}}
 
 

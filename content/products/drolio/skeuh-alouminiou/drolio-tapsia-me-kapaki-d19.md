@@ -1,9 +1,9 @@
 ---
 title: "Drolio Ταψιά με καπάκι D19"
 categories: ["Drolio"]
-product_image: "/media/images/drolio-tapsia-me-kapaki-d19.jpg"
+product_image: "/assets/images/drolio-tapsia-me-kapaki-d19.jpg"
 barcode: "5202576132566"
-product_image_lowres: "/media/images/low/drolio-tapsia-me-kapaki-d19.jpg"
+product_image_lowres: "/assets/images/low/drolio-tapsia-me-kapaki-d19.jpg"
 varos: "3 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
@@ -74,7 +74,7 @@ weight: 5
 </div>
 <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br>
 <div class="pimg"><img alt="Drolio Ταψιά με καπάκι D19" title="Drolio Ταψιά με καπάκι D19"
-        src="/media/images/drolio-tapsia-me-kapaki-d19.jpg"></div>
+        src="/assets/images/drolio-tapsia-me-kapaki-d19.jpg"></div>
 </div>
 {{< /rawhtml >}}
 

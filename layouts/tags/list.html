@@ -13,15 +13,28 @@
     {{ partial "pagination2" . }}
     <div class="product-list">
         {{ range .Paginator.Pages.ByWeight }}
-        <div class="main">
-            <!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
-<div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
-<div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
+        <div class="product">
             <div class="post"><a href="{{.Permalink}}">
                     <h1 class="ltitle">{{.Title}}</h1>
-                    {{.Content}}
+                    <div class="barvar">
+                        <div class="bar">
+                            <div class="bar-img">
+                                {{if isset .Params "bar_img" }}<img src="{{ index .Params "bar_img" }}">
+                            </div>{{ end }}
+                            <p>{{ .Params.barcode }}</p>
+                        </div>
+                        <div class="var">
+                            <div class="var-img">
+                                {{if isset .Params "bar_img" }}<img src="{{ index .Params "var_img" }}">
+                            </div>{{ end }}
+                            <p>{{ .Params.varos }}</p>
+                        </div>
+                    </div>
+                    <div class="fimg">{{if isset .Params "product_image" }}<img
+                            src="{{ index .Params "product_image" }}"></div>
+                    {{ end }}
                 </a></div>
-            <!--<a href="#" class="product-image">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}-->
+           
             <div class="plabels">
                 {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
                     href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tags"
@@ -67,9 +80,35 @@
             padding: 15px;
         }
 
-        .product p {
-            display: none;
+        .barvar {
+            display: grid;
         }
+
+        .bar,
+        .var {
+            font-size: 20px;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            border-bottom: 2px solid #eee;
+        }
+
+        .bar-img {
+            height: 22px;
+            width: 19px;
+        }
+
+        .var-img {
+            height: 22px;
+            width: 14px;
+        }
+
+        .bar p,
+        .var p {
+            margin: 0;
+        }
+
 
         .post {
             border: 2px solid #eee;
@@ -83,7 +122,7 @@
 
         .product {
             border: 0;
-            padding: 15px;
+            
         }
 
         h1.ltitle {
@@ -107,7 +146,7 @@
             border-radius: 4px 4px 0 0;
         }
 
-        .pimg img {
+        .fimg img {
             width: 100%;
             border: 0;
             outline: 0;
@@ -148,151 +187,8 @@
             margin-right: 5px;
         }
 
-        #powerimage {
-            background-image: url(/media/icons/power.svg);
-        }
-
-        #barimage1,
-        #varosimage1,
-        #varosimage,
-        #dimimg,
-        #powerimage,
-        #temimg {
-            background: #fff;
-            display: block;
-        }
-
-        .product {
-            border: 0;
-            padding: 0;
-        }
-
-        .main {
-            margin: 0px auto;
-            max-width: 100%;
-            padding: 0;
-            display: inherit;
-            margin: 0;
-        }
-
-        br {
-            display: none;
-        }
-
-        #barimage1 {
-            background: #fff;
-            border-radius: 0%;
-            float: left;
-            height: 40px;
-            width: 40px;
-            background-image: url(/media/icons/barcode.png);
-            background-size: 19px 22px;
-            background-repeat: no-repeat;
-            background-position: center;
-            display: block;
-        }
-
-        #dimimg {
-            background: #fff;
-            border-radius: 0%;
-            float: left;
-            height: 40px;
-            width: 40px;
-            background-image: url(/media/icons/dim.png);
-            background-size: 19px 22px;
-            background-repeat: no-repeat;
-            background-position: center;
-            display: block;
-        }
-
-        #varosimage1 {
-            background: #fff;
-            border-radius: 0%;
-            float: left;
-            height: 40px;
-            width: 40px;
-            background-image: url(/media/icons/varos.png);
-            background-size: 17px 23px;
-            background-repeat: no-repeat;
-            background-position: center;
-            display: inherit;
-        }
-
-        #powerimage {
-            background: #fff;
-            border-radius: 0%;
-            float: left;
-            height: 40px;
-            width: 40px;
-            background-image: url(/media/icons/power.svg);
-            background-size: 17px 23px;
-            background-repeat: no-repeat;
-            background-position: center;
-            display: inherit;
-        }
-
-        #barimage img {
-            display: block;
-            height: 22px;
-            margin: 0px auto;
-            padding-top: 9px;
-            text-align: center;
-            vertical-align: middle;
-            width: 19px;
-            border-style: none !important;
-        }
-
-        #varosimage img {
-            display: block;
-            height: 23px;
-            margin: 0px auto;
-            padding-top: 9px;
-            text-align: center;
-            vertical-align: middle;
-            width: 17px;
-            border-style: none !important;
-        }
-
-        #barcode,
-        #varos {
-            background: #fff;
-            border-bottom: 2px solid #eeee;
-            display: flex;
-            float: left;
-            height: 50px;
-            padding: 0px;
-            width: 100%;
-            align-items: center;
-        }
-
-        #bartext,
-        #varostext {
-            font-size: 19px;
-            margin-left: 0px;
-            font-weight: 300;
-        }
-
-        #varosimage,
-        #barimage {
-            background: #fff;
-            border-radius: 0%;
-            float: left;
-            height: 40px;
-            width: 40px;
-        }
-
-        .pimg,
-        #pics2 {
-            display: inherit !important;
-        }
-
         a.scat {
             margin-right: 5px;
-        }
-
-        .product div,
-        .product table {
-            display: none;
         }
 
         .main:hover {
@@ -302,6 +198,7 @@
 
         .main {
             transition: all .3s;
+            display: block;
         }
 
         footer br {
@@ -323,36 +220,36 @@
             }
 
             .spages2 {
-    margin: 10px auto;
-    display: grid;
-    height: auto;
-    align-items: center;
-    justify-content: center;
-    padding: 0;
-    gap: 0;
-    margin-bottom: 50px;
-}
+                margin: 10px auto;
+                display: grid;
+                height: auto;
+                align-items: center;
+                justify-content: center;
+                padding: 0;
+                gap: 0;
+                margin-bottom: 50px;
+            }
 
-.page-link {
-    position: relative;
-    display: block;
-    padding: 0;
-    margin-left: -1px;
-    line-height: 1.25;
-    color: #333;
-    background-color: #fff;
-    border: 1px solid #dee2e6;
-    width: auto;
-    height: auto;
-    text-align: center;
-    line-height: initial;
-    text-decoration: none;
-    margin-right: 5px;
-    border: 2px solid #eee;
-    border-radius: 4px;
-    font-weight: normal;
-    padding: 5px;
-}
+            .page-link {
+                position: relative;
+                display: block;
+                padding: 0;
+                margin-left: -1px;
+                line-height: 1.25;
+                color: #333;
+                background-color: #fff;
+                border: 1px solid #dee2e6;
+                width: auto;
+                height: auto;
+                text-align: center;
+                line-height: initial;
+                text-decoration: none;
+                margin-right: 5px;
+                border: 2px solid #eee;
+                border-radius: 4px;
+                font-weight: normal;
+                padding: 5px;
+            }
         }
     </style>
     <script>

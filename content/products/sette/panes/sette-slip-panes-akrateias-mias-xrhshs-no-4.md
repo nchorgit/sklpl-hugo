@@ -1,8 +1,8 @@
 ---
 title: "Sette Slip Πάνες ακράτειας μιας χρήσης No 4"
 categories: ["Sette"]
-product_image: "/media/images/sette-slip-panes-akrateias-mias-xrhshs-no-4.jpg"
-product_image_lowres: "/media/images/low/sette-slip-panes-akrateias-mias-xrhshs-no-4.jpg"
+product_image: "/assets/images/sette-slip-panes-akrateias-mias-xrhshs-no-4.jpg"
+product_image_lowres: "/assets/images/low/sette-slip-panes-akrateias-mias-xrhshs-no-4.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"
@@ -12,7 +12,7 @@ tags: ["Πάνες"]
 ---
 {{< rawhtml >}}
 
-<div class="sload438"><div class="product">SOON<br><div class="pimg"><img alt="Sette Slip Πάνες ακράτειας μιας χρήσης No 4" title="Sette Slip Πάνες ακράτειας μιας χρήσης No 4" src="/media/images/sette-slip-panes-akrateias-mias-xrhshs-no-4.jpg"></div></div></div>
+<div class="sload438"><div class="product">SOON<br><div class="pimg"><img alt="Sette Slip Πάνες ακράτειας μιας χρήσης No 4" title="Sette Slip Πάνες ακράτειας μιας χρήσης No 4" src="/assets/images/sette-slip-panes-akrateias-mias-xrhshs-no-4.jpg"></div></div></div>
 {{< /rawhtml >}}
 
 

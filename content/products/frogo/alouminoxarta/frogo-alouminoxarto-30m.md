@@ -1,8 +1,8 @@
 ---
 title: "Frogo Αλουμινόχαρτο 30m"
 categories: ["Frogo"]
-product_image: "/media/images/frogo-alouminoxarto-30m.jpg"
-product_image_lowres: "/media/images/low/frogo-alouminoxarto-30m.jpg"
+product_image: "/assets/images/frogo-alouminoxarto-30m.jpg"
+product_image_lowres: "/assets/images/low/frogo-alouminoxarto-30m.jpg"
 barcode: "5202576946910"
 varos: "30 μέτρα"
 bar_img: "/media/svg/barcode.svg"
@@ -49,6 +49,6 @@ tags: ["Αλουμινόχαρτα"]
     </div>
     <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br>
     <div class="pimg"><img alt="Frogo Αλουμινόχαρτο 30m" title="Frogo Αλουμινόχαρτο 30m"
-            src="/media/images/frogo-alouminoxarto-30m.jpg"></div>
+            src="/assets/images/frogo-alouminoxarto-30m.jpg"></div>
 </div>
 {{< /rawhtml >}}

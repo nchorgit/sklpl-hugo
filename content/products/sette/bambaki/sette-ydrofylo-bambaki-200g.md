@@ -1,8 +1,8 @@
 ---
 title: "Sette Υδρόφυλο βαμβάκι 200g"
 categories: ["Sette"]
-product_image: "/media/images/sette-ydrofylo-bambaki-200g.jpg"
-product_image_lowres: "/media/images/low/sette-ydrofylo-bambaki-200g.jpg"
+product_image: "/assets/images/sette-ydrofylo-bambaki-200g.jpg"
+product_image_lowres: "/assets/images/low/sette-ydrofylo-bambaki-200g.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"
@@ -12,7 +12,7 @@ tags: ["Βαμβάκι"]
 ---
 {{< rawhtml >}}
 
-<div class="sload440"><div class="product">SOON<br><div class="pimg"><img alt="Sette Υδρόφυλο βαμβάκι 200g" title="Sette Υδρόφυλο βαμβάκι 200g" src="/media/images/sette-ydrofylo-bambaki-200g.jpg"></div></div></div>
+<div class="sload440"><div class="product">SOON<br><div class="pimg"><img alt="Sette Υδρόφυλο βαμβάκι 200g" title="Sette Υδρόφυλο βαμβάκι 200g" src="/assets/images/sette-ydrofylo-bambaki-200g.jpg"></div></div></div>
 {{< /rawhtml >}}
 
 

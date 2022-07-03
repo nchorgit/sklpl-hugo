@@ -1,2 +1,6 @@
-<!-- raw html -->
-{{.Inner}}
+{{ if .Params.image }}
+    {{ with ($.Site.GetPage (path.Dir .)).Resources.GetMatch (path.Base .) }}
+        {{ $r := .Resize "240x" }}
+        <img src="{{ $r.RelPermalink }}">
+    {{ end }}
+{{ end }}

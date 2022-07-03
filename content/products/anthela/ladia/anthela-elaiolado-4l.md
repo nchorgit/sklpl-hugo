@@ -1,8 +1,8 @@
 ---
 title: "Ανθέλα Ελαιόλαδο 4L"
 categories: ["Ανθέλα"]
-product_image: "/media/images/anthela-elaiolado-4l.jpg"
-product_image_lowres: "/media/images/low/anthela-elaiolado-4l.jpg"
+product_image: "/assets/images/anthela-elaiolado-4l.jpg"
+product_image_lowres: "/assets/images/low/anthela-elaiolado-4l.jpg"
 barcode: "5202576464438"
 varos: "4L"
 bar_img: "/media/svg/barcode.svg"

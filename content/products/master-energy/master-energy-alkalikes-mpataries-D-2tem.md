@@ -46,6 +46,6 @@ tags: ["Μπαταρίες"]
   </div>
   <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br>
   <div class="pimg"><img alt="Master Energy Αλκαλικές Μπαταρίες D 2τεμ" title="Master Energy Αλκαλικές Μπαταρίες D 2τεμ"
-      src="/media/images/master-energy-alkalikes-mpataries-D-2tem.jpg"></div>
+      src="/assets/images/master-energy-alkalikes-mpataries-D-2tem.jpg"></div>
 </div>
 {{< /rawhtml >}}

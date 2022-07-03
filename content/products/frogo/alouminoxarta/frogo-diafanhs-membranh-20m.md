@@ -1,8 +1,8 @@
 ---
 title: "Frogo Διαφανής Μεμβράνη 20m"
 categories: ["Frogo"]
-product_image: "/media/images/frogo-diafanhs-membranh-20m.jpg"
-product_image_lowres: "/media/images/low/frogo-diafanhs-membranh-20m.jpg"
+product_image: "/assets/images/frogo-diafanhs-membranh-20m.jpg"
+product_image_lowres: "/assets/images/low/frogo-diafanhs-membranh-20m.jpg"
 barcode: "5202576946927"
 varos: "20 μέτρα"
 bar_img: "/media/svg/barcode.svg"
@@ -35,5 +35,5 @@ tags: ["Αλουμινόχαρτα"]
 Αποθηκεύστε το προϊόν σε μέρος δροσερό και σκιερό, χωρίς υγρασία και έντονες οσμές.<br><br>
 <b>ΜΑΚΡΙΑ ΑΠΟ ΠΑΙΔΙΑ. ΚΙΝΔΥΝΟΣ ΑΣΦΥΞΙΑΣ.</b>
 </p><br><div id="barcode"><div id="barimage1"></div><span id="bartext">5202576946927</span></div><div id="varos"><div id="dimimg">
-  </div><span id="varostext">20 μέτρα</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br><div class="pimg"><img alt="Διαφανής Μεμβράνη 20m" title="Διαφανής Μεμβράνη 20m" src="/media/images/frogo-diafanhs-membranh-20m.jpg"></div></div>
+  </div><span id="varostext">20 μέτρα</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br><div class="pimg"><img alt="Διαφανής Μεμβράνη 20m" title="Διαφανής Μεμβράνη 20m" src="/assets/images/frogo-diafanhs-membranh-20m.jpg"></div></div>
 {{< /rawhtml >}}
