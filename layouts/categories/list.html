@@ -15,7 +15,7 @@
         {{ range .Paginator.Pages.ByWeight }}
         <div class="product">
             <div class="post"><a href="{{.Permalink}}">
-                    <h1 class="ltitle">{{.Title}}</h1>
+                    <div class="ltitle">{{.Title}}</div>
                     <div class="barvar">
                         <div class="bar">
                             <div class="bar-img">
@@ -101,7 +101,7 @@
 
         .var-img {
             height: 22px;
-            width: 14px;
+            width: 19px;
         }
 
         .bar p,
@@ -127,28 +127,13 @@
 
         
 
-        .ltitle {
-            display: flex;
-            padding: 20px;
-            text-decoration: none;
-            color: #444;
-            font-weight: bold;
-            font-size: 20px;
-            height: 55px;
-            text-align: center;
-            align-items: center;
-            justify-content: center;
-            letter-spacing: -.3px;
-            margin: -2px -2px 0 -2px;
-            background: #eee;
-            border-radius: 4px 4px 0 0;
-        }
+        
 
         .fimg img {
-            width: 100%;
+            width: 333px;
             border: 0;
             outline: 0;
-            max-width: 500px;
+            
             margin: auto;
             display: flex;
             cursor: pointer;
@@ -202,7 +187,22 @@
         footer br {
             display: block;
         }
-
+        .ltitle {
+            display: flex;
+            padding: 20px;
+            text-decoration: none;
+            color: #444;
+            font-weight: bold;
+            font-size: 20px;
+            height: 55px;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+            letter-spacing: -.3px;
+            margin: -2px -2px 0 -2px;
+            background: #eee;
+            border-radius: 4px 4px 0 0;
+        }
         @media only screen and (max-width:665px) {
             .ltitle {
                 font-size: 25px;
