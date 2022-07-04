@@ -5,7 +5,7 @@
 <body>
 {{ partial "header" . }}
 
-<div style="border-bottom: 2px solid #eee;">
+<div style="border-bottom: 0px solid #eee; background: #3a3939; margin: -5px auto;">
     <div class="pyah"><p class="yah"><span style="
         margin-right: 0px;
     ">Βρίσκεστε εδώ: </span><!--span style="
@@ -96,7 +96,7 @@ border-radius: 4px;
 p.yah {
     padding: 0px 10px 0px 0;
     margin: 0;
-    background: #fff;
+   
     font-weight: bold;
     
     position: relative;
@@ -105,35 +105,35 @@ p.yah {
 }
 .pyah {
     display: flex;
-    margin: 80px auto 0;
-    padding: 8 15px 14px;
+    margin: 75px auto 0;
+    padding: 25px 15px;
     border-bottom:0px solid #eee;
     font-size: 17.5px;
-    color: #666;
+    color: #e0dddb;
     max-width: 1400px;
     border-radius: 0px;
-    justify-content: left;
-    letter-spacing: -.25px;
+    justify-content: center;
+    letter-spacing: 0px;
+    align-items: center;
 }
 .pyah i {
     font-size: 16px;
-    color: #999;
+    color: orange;
     margin-right: 5px;
 }
 
-a.home i {font-size: 19px;color: #f47920;}
+a.home i {font-size: 19px;color: #ddd; margin: 0;}
 a.home {
     text-decoration: none;
-    margin-left: -10px;
-    padding: 0px 10px;
-    /* background: #9e9e9e; */
-    color: #f47920;
+    margin-left: 0px;
+    padding: 7px 10px;
+    background: #d91a32;
     font-weight: bold;
-    border-radius: 0;
     text-align: center;
     display: flex;
     align-items: center;
-    border-right: 2px solid #ddd;
+    border-radius: 3px;
+    margin-right: 5px;
 }
 /*a.cat {
     text-decoration: none;
@@ -145,11 +145,11 @@ a.home {
 }*/
 a.cat {
     text-decoration: none;
-   color: #666;
+   color: #e0dddb;
     padding: 0px 10px;
     font-weight: bold;
     border-radius: 0;
-    border-right: 2px solid #ddd;
+    border-right: 2px solid #555;
 }
 a:hover.home,
 a:hover.cat {
@@ -164,7 +164,7 @@ a:hover.cat {
     gap: 24px;
     grid-template-columns: 1fr 2fr;
     justify-content: space-evenly;
-    margin-top: 10px;
+    margin-top: 30px;
 }
     .post {
     border: 0px solid #eee;
@@ -413,7 +413,9 @@ h1 {
 
 }
 
-
+th br {
+    display: block !important;
+}
 #diatable {
     width: -webkit-fill-available;
     border: 0px solid black;
