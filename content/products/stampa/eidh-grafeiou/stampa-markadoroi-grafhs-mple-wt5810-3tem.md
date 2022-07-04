@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-markadoroi-grafhs-mple-wt5810-3
 barcode: "5202576652194"
 varos: "3 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

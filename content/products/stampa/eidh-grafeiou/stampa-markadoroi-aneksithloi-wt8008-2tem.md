@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-markadoroi-aneksithloi-wt8008-2
 barcode: "5202576648845"
 varos: "2 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

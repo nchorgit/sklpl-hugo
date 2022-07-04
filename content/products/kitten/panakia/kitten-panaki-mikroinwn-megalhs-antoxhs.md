@@ -5,7 +5,7 @@ product_image: "/assets/images/kitten-panaki-mikroinwn-megalhs-antoxhs.jpg"
 barcode: "5202576680296"
 varos: "40 Χ 40 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/dmc.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Πανάκια"]
 ---

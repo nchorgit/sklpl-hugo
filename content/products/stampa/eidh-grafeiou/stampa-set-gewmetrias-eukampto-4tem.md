@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-set-gewmetrias-eukampto-4tem.jp
 barcode: "5202576638044"
 varos: "4 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

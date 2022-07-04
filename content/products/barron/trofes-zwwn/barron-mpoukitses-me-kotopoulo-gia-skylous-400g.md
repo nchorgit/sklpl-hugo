@@ -2,6 +2,7 @@
 title: "Barron Μπουκίτσες με Κοτόπουλο για σκύλους 400g"
 categories: ["Barron"]
 product_image: "/assets/images/barron-mpoukitses-me-kotopoulo-gia-skylous-400g.jpg"
+product_image_lowres: "/assets/images/low/barron-mpoukitses-me-kotopoulo-gia-skylous-400g.jpg"
 barcode: "5202576282377"
 varos: "400g"
 bar_img: "/media/svg/barcode.svg"

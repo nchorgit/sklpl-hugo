@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/tickit-markadoroi-zwgrafikhs-xontroi-1
 barcode: "5202576661226"
 varos: "12 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Σχολικά είδη"]
 ---

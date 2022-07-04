@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-markadoroi-ypogrammishs-wt7001-
 barcode: "5202576648883"
 varos: "10 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

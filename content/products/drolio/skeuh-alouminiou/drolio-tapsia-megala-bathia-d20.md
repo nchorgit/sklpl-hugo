@@ -70,7 +70,7 @@ weight: 5
         <div id="barimage1"></div><span id="bartext">5202576132559</span>
     </div>
     <div id="varos">
-        <div id="varosimage1" style="background-image:url(https://sites.google.com/site/sklplfiles/files/tem.png)">
+        <div id="varosimage1" style="background-image:url(/media/svg/tem.svg)">
         </div><span id="varostext">3 τεμάχια</span>
     </div>
     <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div>

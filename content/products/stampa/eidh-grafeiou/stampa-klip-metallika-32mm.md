@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-klip-metallika-32mm.jpg"
 barcode: "5202576634992"
 varos: "24 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

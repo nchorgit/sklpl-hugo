@@ -5,7 +5,7 @@ product_image: "/assets/images/kitten-gantia-elastika-me-ependysh-no-9.jpg"
 barcode: "5202576469594"
 varos: "No 9 X-Large"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/dmc.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Γάντια ελαστικά"]
 ---

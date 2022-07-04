@@ -1,11 +1,12 @@
 ---
 title: "Master Energy Αλκαλική μπαταρία πλακέ 9Volt"
 categories: ["Master Energy"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/assets/images/master-energy-alkalikh-mpataria-plake-9volt.jpg"
+product_image_lowres: "/assets/images/low/master-energy-alkalikh-mpataria-plake-9volt.jpg"
+barcode: "5203381997272"
+varos: "9V"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/power.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Μπαταρίες"]
 ---

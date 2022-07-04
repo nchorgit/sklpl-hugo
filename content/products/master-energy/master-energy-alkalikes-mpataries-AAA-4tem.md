@@ -1,11 +1,12 @@
 ---
 title: "Master Energy Αλκαλικές Μπαταρίες AAA 4τεμ"
 categories: ["Master Energy"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/assets/images/master-energy-alkalikes-mpataries-AAA-4tem.jpg"
+product_image_lowres: "/assets/images/low/master-energy-alkalikes-mpataries-AAA-4tem.jpg"
+barcode: "5203381997319"
+varos: "1,5V"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/power.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Μπαταρίες"]
 ---

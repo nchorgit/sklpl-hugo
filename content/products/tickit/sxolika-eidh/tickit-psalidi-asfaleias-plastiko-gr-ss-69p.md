@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/tickit-psalidi-asfaleias-plastiko-gr-s
 barcode: "5202576866584"
 varos: "12,5 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Όροφος"]
 tags: ["Σχολικά είδη"]
 ---

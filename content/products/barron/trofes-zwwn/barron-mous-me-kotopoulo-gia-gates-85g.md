@@ -2,6 +2,7 @@
 title: "Barron Μους με Κοτόπουλο για γάτες 85g"
 categories: ["Barron"]
 product_image: "/assets/images/barron-mous-me-kotopoulo-gia-gates-85g.jpg"
+product_image_lowres: "/assets/images/low/barron-mous-me-kotopoulo-gia-gates-85g.jpg"
 barcode: "5202576306189"
 varos: "85g"
 bar_img: "/media/svg/barcode.svg"

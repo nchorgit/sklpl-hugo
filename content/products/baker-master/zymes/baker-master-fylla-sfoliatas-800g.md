@@ -3,7 +3,7 @@ title: "Baker Master Φύλλα σφολιάτας 800g"
 weight: 5
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-zymh-sfoliatas-800g.jpg"
-product_image_lowres: ""
+product_image_lowres: "/assets/images/low/baker-master-zymh-sfoliatas-800g.jpg"
 barcode: "5213000480078"
 varos: "800g"
 bar_img: "/media/svg/barcode.svg"

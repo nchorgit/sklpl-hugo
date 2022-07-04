@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-syrraptiko-xeiros-no10.jpg"
 barcode: "5202576634732"
 varos: "15 φύλλα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

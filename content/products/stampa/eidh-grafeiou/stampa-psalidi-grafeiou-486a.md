@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-psalidi-grafeiou-486a.jpg"
 barcode: "5202576866591"
 varos: "17,2 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

@@ -2,6 +2,7 @@
 title: "Barron Πατέ με Μοσχάρι για σκύλους 400g"
 categories: ["Barron"]
 product_image: "/assets/images/barron-pate-me-mosxari-gia-skylous-400g.jpg"
+product_image_lowres: "/assets/images/low/barron-pate-me-mosxari-gia-skylous-400g.jpg"
 barcode: "5202576306226"
 varos: "400g"
 bar_img: "/media/svg/barcode.svg"

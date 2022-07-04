@@ -3,7 +3,7 @@ title: "Baker Master Τυροπιτάκια τρίγωνα 450g"
 weight: 3
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-tyropitakia-trigwna-450g.jpg"
-product_image_lowres: ""
+product_image_lowres: "/assets/images/low/baker-master-tyropitakia-trigwna-450g.jpg"
 barcode: "5213000480160"
 varos: "450g"
 bar_img: "/media/svg/barcode.svg"

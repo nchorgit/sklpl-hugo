@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-syndethres-metallikoi-kouti-28m
 barcode: "5202576634961"
 varos: "400 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

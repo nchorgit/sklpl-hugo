@@ -5,7 +5,7 @@ product_image: "/assets/images/kitten-sxoini-aplwmatos-enisxymeno-20m.jpg"
 barcode: "5202576680272"
 varos: "20 μέτρα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/dmc.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Μανταλάκια"]
 ---

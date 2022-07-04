@@ -2,6 +2,7 @@
 title: "Barron Ξηρά τροφή για γάτες με Μοσχάρι 2kg"
 categories: ["Barron"]
 product_image: "/assets/images/barron-kshra-trofh-gia-gates-me-mosxari-2kg.jpg"
+product_image_lowres: "/assets/images/low/barron-kshra-trofh-gia-gates-me-mosxari-2kg.jpg"
 barcode: "5202576306219"
 varos: "2kg"
 bar_img: "/media/svg/barcode.svg"

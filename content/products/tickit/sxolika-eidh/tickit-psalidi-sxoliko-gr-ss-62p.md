@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/tickit-psalidi-sxoliko-gr-ss-62p.jpg"
 barcode: "5202576866560"
 varos: "13 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Όροφος"]
 tags: ["Σχολικά είδη"]
 ---

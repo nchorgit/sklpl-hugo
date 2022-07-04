@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-karfakia-pinaka-xrwmatista.jpg"
 barcode: "5202576634930"
 varos: "100 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

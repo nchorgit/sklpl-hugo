@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-stylo-diarkeias-wt9906.jpg"
 barcode: "5202576660069"
 varos: "10 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

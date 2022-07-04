@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-syrraptiko-xeiros-no-24-6-26-6.
 barcode: "5202576634725"
 varos: "40 φύλλα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

@@ -3,7 +3,7 @@ title: "Baker Master Κουρουδάκια πολύσπορα με Philadelphia
 weight: 3
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-kouroudakia-polyspora-me-philadelphia-450g.jpg"
-product_image_lowres: ""
+product_image_lowres: "/assets/images/low/baker-master-kouroudakia-polyspora-me-philadelphia-450g.jpg"
 barcode: "5213000480603"
 varos: "450g"
 bar_img: "/media/svg/barcode.svg"

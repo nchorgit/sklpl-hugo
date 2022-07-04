@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-stylo-diarkeias-mple-wt9906.jpg
 barcode: "5202576657533"
 varos: "50 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

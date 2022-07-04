@@ -1,11 +1,12 @@
 ---
 title: "Master Energy Αλκαλικές Μπαταρίες D 2τεμ"
 categories: ["Master Energy"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/assets/images/master-energy-alkalikes-mpataries-D-2tem.jpg"
+product_image_lowres: "/assets/images/low/master-energy-alkalikes-mpataries-D-2tem.jpg"
+barcode: "5203381997289"
+varos: "1,5V"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/power.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Μπαταρίες"]
 ---

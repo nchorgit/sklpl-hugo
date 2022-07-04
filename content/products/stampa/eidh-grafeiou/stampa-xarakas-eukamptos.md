@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-xarakas-eukamptos.jpg"
 barcode: "5202576637498"
 varos: "30 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

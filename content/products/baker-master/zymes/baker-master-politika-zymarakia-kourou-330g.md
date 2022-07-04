@@ -4,7 +4,7 @@ draft: true
 weight: 5
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-politika-zymarakia-kourou-330g.jpg"
-product_image_lowres: ""
+product_image_lowres: "/assets/images/low/baker-master-politika-zymarakia-kourou-330g.jpg"
 barcode: "5213000480115"
 varos: "330g"
 bar_img: "/media/svg/barcode.svg"

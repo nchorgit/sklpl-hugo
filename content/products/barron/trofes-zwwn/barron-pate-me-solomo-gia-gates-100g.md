@@ -2,6 +2,7 @@
 title: "Barron Πατέ με Σολομό για γάτες 100g"
 categories: ["Barron"]
 product_image: "/assets/images/barron-pate-me-solomo-gia-gates-100g.jpg"
+product_image_lowres: "/assets/images/low/barron-pate-me-solomo-gia-gates-100g.jpg"
 barcode: "5208046011157"
 varos: "100g"
 bar_img: "/media/svg/barcode.svg"

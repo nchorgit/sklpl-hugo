@@ -2,6 +2,7 @@
 title: "Barron Ξηρά τροφή για σκύλους με Μοσχάρι 3kg"
 categories: ["Barron"]
 product_image: "/assets/images/barron-kshra-trofh-gia-skylous-me-mosxari-3kg.jpg"
+product_image_lowres: "/assets/images/low/barron-kshra-trofh-gia-skylous-me-mosxari-3kg.jpg"
 barcode: "5202576306240"
 varos: "3kg"
 bar_img: "/media/svg/barcode.svg"

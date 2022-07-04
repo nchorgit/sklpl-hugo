@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-markadoroi-aneksithloi-kokkinoi
 barcode: "5202576648876"
 varos: "12 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

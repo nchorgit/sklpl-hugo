@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/tickit-markadoroi-zwgrafikhs-leptoi-12
 barcode: "5202576661219"
 varos: "12 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Σχολικά είδη"]
 ---

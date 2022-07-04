@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-klip-metallika-xrwmatista-19mm.
 barcode: "5202576634947"
 varos: "10 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

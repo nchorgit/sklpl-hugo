@@ -5,7 +5,7 @@ product_image: "/assets/images/kitten-gantia-elastika-me-ependysh-no-7.jpg"
 barcode: "5202576469563"
 varos: "No 7 Small"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/dmc.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Γάντια ελαστικά"]
 ---

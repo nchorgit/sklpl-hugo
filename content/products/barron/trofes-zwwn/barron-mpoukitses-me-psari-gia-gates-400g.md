@@ -2,6 +2,7 @@
 title: "Barron Μπουκίτσες με Ψάρι για γάτες 400g"
 categories: ["Barron"]
 product_image: "/assets/images/barron-mpoukitses-me-psari-gia-gates-400g.jpg"
+product_image_lowres: "/assets/images/low/barron-mpoukitses-me-psari-gia-gates-400g.jpg"
 barcode: "5202576282339"
 varos: "400g"
 bar_img: "/media/svg/barcode.svg"

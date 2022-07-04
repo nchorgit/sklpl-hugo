@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/stampa-syrraptiko-no-10-syndethres.jpg
 barcode: "5202576634756"
 varos: "15 φύλλα"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---

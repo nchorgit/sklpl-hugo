@@ -6,7 +6,7 @@ product_image_lowres: "/assets/images/low/tickit-tetradio-rige-60-fyllwn.jpg"
 barcode: "5202576165367"
 varos: "60 φύλλων"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Όροφος"]
 tags: ["Τετράδια"]
 ---

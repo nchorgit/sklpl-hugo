@@ -4,9 +4,9 @@ categories: ["Stampa"]
 product_image: "/assets/images/stampa-psalidi-grafeiou-357b.jpg"
 product_image_lowres: "/assets/images/low/stampa-psalidi-grafeiou-357b.jpg"
 barcode: "5202576866607"
-varos: "21cm"
+varos: "21 cm"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/dcm.svg"
 gencat: ["Όροφος"]
 tags: ["Είδη γραφείου"]
 ---
