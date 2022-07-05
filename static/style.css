@@ -915,7 +915,8 @@ a.mpl {
 
 @media only screen and (max-width:421px) {
 .cattitle b {
-    display: block;
-    margin: 0 0 10px 0;
+    
+    padding: 5px 15px;
 }
+.cattitle {font-size: 20px;}
 }

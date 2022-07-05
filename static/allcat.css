@@ -9,7 +9,7 @@
 
 .stitle {
 
-    display: inline-block;
+    display: flex;
     padding: 0;
     font-size: 25px;
     font-weight: bold;
@@ -24,9 +24,10 @@
     display: flex;
     align-items: center;
     gap: 20px;
-    justify-content: space-between;
-    max-width: 1300px;
+    justify-content: center;
+    max-width: 1400px;
     margin: 70px auto -65px auto;
+    flex-flow: wrap;
 }
 
 .cattitle i {
@@ -136,7 +137,7 @@ sup {
 .gencat li a {
     display: flex;
     height: 48px;
-    padding: 10px 55px;
+    padding: 15px;
     align-items: center;
     color: #444;
     margin: 0;
@@ -147,16 +148,15 @@ sup {
 }
 
 input#myInput {
-    border: 0;
+    border: 2px solid #eee;
     padding: 9px 15px 9px 43px;
-    border-radius: 6px;
+    border-radius: 4px;
     font-family: inherit;
-    /* height: 41px; */
     outline: none;
     font-size: inherit;
     width: 100%;
+    background: #eee;
 }
-
 ::placeholder {
     font-family: inherit;
     font-size: 18px;
@@ -167,10 +167,12 @@ input#myInput {
     display: flex;
     align-items: center;
     align-content: center;
-    width: 60%;
-    border-radius: 0;
+    width: -webkit-fill-available;
+    border-radius: 6px;
     position: relative;
-    border-left: 2px solid #555;
+    border: 2px solid #555;
+    padding: 0;
+    background: #444;
 }
 
 .filter {
@@ -197,4 +199,21 @@ input#myInput {
 .filter i {
     color: #f47920;
     margin-right: 5px;
+}
+@media only screen and (max-width:500px) {
+    .gencat ul {
+        grid-template-columns:auto;
+    }
+    .stitle {
+        zoom: 75%;
+    }
+    .filter span {
+        display: none;
+    }
+    .fak {
+        left: 66px;
+    }
+    .gencat li a {
+        height: auto;
+    }
 }
