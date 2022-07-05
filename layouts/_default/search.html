@@ -24,10 +24,8 @@
                 <p class="numpres"> </p> <span>Προϊόντα στην αναζήτηση:</span>
             </div>
             <div class="res2">
-                <div class="skeyout"><span><i class="fas fa-search" aria-hidden="true"></i></span> <span
-                        class="skey"></span></div>
-                <button id="sbutton2" type="button" onclick="searchFunction()"><i class="fas fa-search"
-                        aria-hidden="true"></i>
+                <div class="skeyout"><span><i class="fas fa-search"></i></span> <span class="skey"></span></div>
+                <button id="sbutton2" type="button" onclick="searchFunction()"><i class="fas fa-search-plus"></i>
                     <span>Νέα Αναζήτηση</span></button>
             </div>
         </div>
@@ -66,7 +64,7 @@
                         </a></div>
                     <div class="plabels">
                         {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
-                            href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tags"
+                            href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
                                 aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
                         {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
                             href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
@@ -107,6 +105,13 @@
             $('.stext').click(function () {
                 $('li').hide()
                 $('.nores').hide()
+            });
+        });
+        $(document).ready(function () {
+            $('.skey').click(function () {
+                $('li').hide()
+                $('.nores').hide()
+                $('.cattitle').show()
             });
         });
         $('.nores').hide()
@@ -296,11 +301,17 @@
             transition: all .2s;
         }
 
-        #sbutton i,
-        #sbutton2 i {
+        #sbutton i {
             margin-right: 10px;
             color: #fff;
             font-size: 16px;
+            opacity: 1;
+        }
+
+        #sbutton2 i {
+            margin-right: 10px;
+            color: #fff;
+            font-size: 18px;
             opacity: 1;
         }
 
@@ -493,6 +504,7 @@
 
             #sbutton2 i {
                 margin: 0;
+                font-size: 16px;
             }
 
             .nores br {
@@ -518,21 +530,25 @@
                 margin-left: 0;
                 font-weight: bold;
                 width: auto;
+                margin: auto;
             }
         }
 
         @media only screen and (max-width: 665px) {
             .lprod {
-    grid-template-columns: auto auto;
-    grid-gap: 5px;
-}
+                grid-template-columns: auto auto;
+                grid-gap: 5px;
+            }
 
             .barvar {
                 display: block;
             }
-            .bar, .var {
-    border-bottom: 2px solid #eee;
-}
+
+            .bar,
+            .var {
+                border-bottom: 2px solid #eee;
+            }
+
             h1.ltitle {
                 font-size: 20px;
                 margin: 0;
@@ -554,24 +570,29 @@
                 display: grid;
                 grid-gap: 2px;
             }
+
             a.scat {
-    margin-right: 0px;
-}
-.plabels a {
-    padding: 10px;
-}
+                margin-right: 0px;
+            }
+
+            .plabels a {
+                padding: 10px;
+            }
         }
+
         @media only screen and (max-width: 590px) {
             .lprod {
-    grid-template-columns: auto;
-    grid-gap: 5px;
-    margin: -165px -15px -15px;
-}
-.lprod li {
-    border: 0;
-    border-radius: 0;
-}
+                grid-template-columns: auto;
+                grid-gap: 5px;
+                margin: -165px -15px -15px;
+            }
+
+            .lprod li {
+                border: 0;
+                border-radius: 0;
+            }
         }
+
         @media only screen and (max-width: 544px) {
             .dots {
                 right: 65px;

@@ -1,58 +1,58 @@
 <html>
-<head>
-{{ partial "head" . }}
-</head>
-<body>
-{{ partial "header" . }}
 
-<div style="border-bottom: 0px solid #eee; background: #3a3939; margin: -5px auto;">
-    <div class="pyah"><p class="yah"><span style="
+<head>
+    {{ partial "head" . }}
+</head>
+
+<body>
+    {{ partial "header" . }}
+    <div style="border-bottom: 0px solid #eee; background: #3a3939; margin: -5px auto;">
+        <div class="pyah">
+            <p class="yah"><span style="
         margin-right: 0px;
-    ">Βρίσκεστε εδώ: </span><!--span style="
+    ">Βρίσκεστε εδώ: </span>
+                <!--span style="
         font-size: 33px;
         position: absolute;
         top: -5px;
-    ">›</span--> </p><a href="/" class="home"><i class="fas fa-home"></i></a>{{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="cat"><i class="fas fa-tags" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
-
-{{ if .Params.tags }}<strong></strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="cat"><i class="far fa-clone" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
-        <div class="ptitle">{{.Title}}</div>
+    ">›</span-->
+            </p><a href="/" class="home"><i class="fas fa-home"></i></a>{{ if .Params.categories }}<strong></strong>
+            {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="cat"><i
+                    class="fas fa-tag" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
+            {{ if .Params.tags }}<strong></strong> {{range .Params.tags}}<a
+                href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tag"><i class="far fa-clone"
+                    aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
+            <div class="ptitle">{{.Title}}</div>
+        </div>
     </div>
-</div>
-
-<div class="main">
-
-    <div class="sidebar">{{ partial "sidebar" . }}</div>
-<div class="product">
-
-<!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
+    <div class="main">
+        <div class="sidebar">{{ partial "sidebar" . }}</div>
+        <div class="product">
+            <!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
 <div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
 <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
-<div class="post">
-
-    <h1>{{.Title}}</h1>
-
-
-  
-
-    {{.Content}}
-    
-    <div class="plabels">
-        {{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tags" aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
-        {{ if .Params.tags }}<strong></strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone" aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
-       
-</div>
-<!--<a href="#" class="product-image">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}-->
-
-</div>
-<div class="pimg2bg">
-    <div class="fclose">
-        <div style="
+            <div class="post">
+                <h1>{{.Title}}</h1>
+                {{.Content}}
+                <div class="plabels">
+                    {{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a
+                        href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
+                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+                    {{ if .Params.tags }}<strong></strong> {{range .Params.tags}}<a
+                        href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
+                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
+            </div>
+            <!--<a href="#" class="product-image">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}-->
+        </div>
+        <div class="pimg2bg">
+            <div class="fclose">
+                <div style="
     width: 40px;
     height: 4px;
     background: white;
     position: absolute;
 "></div>
-        <div style="
+                <div style="
     width: 4px;
     height: 40px;
     background: white;
@@ -61,81 +61,92 @@
     right: 0;
     margin: auto;
 "></div>
+            </div>
+            <div class="pimg2">
+                <p class="imgcaption">{{.Title}}</p>
+            </div>
         </div>
-    
-    <div class="pimg2"><p class="imgcaption">{{.Title}}</p></div> </div>
-
-
-</div>
-
-{{ partial "footer" . }}
+    </div>
+    {{ partial "footer" . }}
 </body>
 <style>
- .fclose {
-    position: absolute;
-    top: 90px;
-    right: 15px;
-    width: 40px;
-    height: 40px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    transform: rotateZ(45deg);
-}
-    .post th, .post td, .post p, .post div, .post ul {
-border-radius: 4px;
+    .fclose {
+        position: absolute;
+        top: 90px;
+        right: 15px;
+        width: 40px;
+        height: 40px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        transform: rotateZ(45deg);
     }
 
-    
-    
+    .post th,
+    .post td,
+    .post p,
+    .post div,
+    .post ul {
+        border-radius: 4px;
+    }
+
     .bline {
         border-bottom: 2px solid #eee;
         margin: 0 auto;
         max-width: 1400px;
     }
-p.yah {
-    padding: 0px 10px 0px 0;
-    margin: 0;
-   
-    font-weight: bold;
-    
-    position: relative;
-    border-radius: 3px;
-    margin-right: 5px;
-}
-.pyah {
-    display: flex;
-    margin: 75px auto 0;
-    padding: 25px 15px;
-    border-bottom:0px solid #eee;
-    font-size: 17.5px;
-    color: #e0dddb;
-    max-width: 1400px;
-    border-radius: 0px;
-    justify-content: center;
-    letter-spacing: 0px;
-    align-items: center;
-}
-.pyah i {
-    font-size: 16px;
-    color: orange;
-    margin-right: 5px;
-}
 
-a.home i {font-size: 19px;color: #ddd; margin: 0;}
-a.home {
-    text-decoration: none;
-    margin-left: 0px;
-    padding: 7px 10px;
-    background: #d91a32;
-    font-weight: bold;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    border-radius: 3px;
-    margin-right: 5px;
-}
-/*a.cat {
+    p.yah {
+        padding: 0px 10px 0px 0;
+        margin: 0;
+        font-weight: bold;
+        position: relative;
+        border-radius: 3px;
+        margin-right: 5px;
+    }
+
+    .pyah {
+        display: flex;
+        margin: 75px auto 0;
+        padding: 25px 15px;
+        border-bottom: 0px solid #eee;
+        font-size: 17.5px;
+        color: #e0dddb;
+        max-width: 1400px;
+        border-radius: 0px;
+        justify-content: center;
+        letter-spacing: 0px;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 15px 0;
+    }
+
+    .pyah i {
+        font-size: 16px;
+        color: orange;
+        margin-right: 5px;
+    }
+
+    a.home i {
+        font-size: 19px;
+        color: #ddd;
+        margin: 0;
+    }
+
+    a.home {
+        text-decoration: none;
+        margin-left: 0px;
+        padding: 7px;
+        background: #d91a32;
+        font-weight: bold;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        border-radius: 3px;
+        margin-right: 5px;
+    }
+
+    /*a.cat {
     text-decoration: none;
     color: white;
     padding: 5px 10px;
@@ -143,590 +154,598 @@ a.home {
     font-weight: normal;
     border-radius: 3px;
 }*/
-a.cat {
-    text-decoration: none;
-   color: #e0dddb;
-    padding: 0px 10px;
-    font-weight: bold;
-    border-radius: 0;
-    border-right: 2px solid #555;
-}
-a:hover.home,
-a:hover.cat {
-    /*background: #444;*/
-}
-.ptitle {
-    padding: 0px 10px;
-    
-}
-.main {
-    display: grid;
-    gap: 24px;
-    grid-template-columns: 1fr 2fr;
-    justify-content: space-evenly;
-    margin-top: 30px;
-}
-    .post {
-    border: 0px solid #eee;
-    padding: 0px;
-    border-radius: 6px;
-}
-
-.pimg img {
-    width: 50%;
-    height: auto;
-    mix-blend-mode: multiply;
-}
-
-#sistatika, #loipa {
-    background: #eee;
-    border-bottom: solid 0px #ccc;
-    color: #555555;
-    padding: 10px 15px;
-    font-weight: bold;
-    font-size: 19px;
-    margin: 0px;
-    border-radius: 4px;
-}
-
-.alltext {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-left: 0px;
-    padding-right: 0px;
-    
-    color: #444;
-    font-size: 19px;
-}
-
-.alltext,
-.post p,
-.post div {
-    line-height: 25px;
-}
-h1 {
-    font-size: 30px;
-    margin: 10px 0 25px 0;
-    color: #444;
-    letter-spacing: -.5;
-}
-#flag {
-    display: flex;
-    margin: -15px 0 15px 0;
-    gap: 5px;
-}
-#flagimage img {
-    width: 32px;
-}
-#pics2 {
-    display: block;
-}
-
-#flagimage2 {
-    display: none;
-}
-#barcode {
-    background: #ddd;
-    display: table;
-    float: left;
-    height: 40px;
-    padding: 0px;
-    width: 50%;
-    border-radius: 6px 0 0 6px;
-    margin-bottom: 15px;
-}
-
-#barimage {
-    background: #eee;
-    border-radius: 4px 0 0 4px;
-    float: left;
-    height: 40px;
-    width: 40px;
-}
-
-#barimage img {
-    display: block;
-    height: 22px;
-    margin: 0px auto;
-    padding-top: 9px;
-    text-align: center;
-    vertical-align: middle;
-    width: 19px;
-    border-style: none !important;
-    
-}
-
-#bartext {
-    color: #444;
-    float: left;
-    font-size: 20px;
-    line-height: 40px;
-    margin-left: 10px;
-    font-weight: 700;
-}
-
-#varos {
-    background: #bbb;
-    display: table;
-    float: left;
-    height: 40px;
-    padding: 0px;
-    width: 50%;
-    border-radius: 4px;
-
-}
-
-#varosimage {
-    background: #eee;
-    border-radius: 0%;
-    float: left;
-    height: 40px;
-    width: 40px;
-}
-
-#barimage1 {
-    background: #eee;
-    border-radius: 0%;
-    float: left;
-    height: 40px;
-    width: 40px;
-    background-image: url(/media/svg/barcode.svg);
-    background-size: 19px 22px;
-    background-repeat: no-repeat;
-    background-position: center;
-    border-radius: 4px 0 0 4px;
-}
-
-#varosimage1 {
-    background: #eee;
-    border-radius: 0%;
-    float: left;
-    height: 40px;
-    width: 40px;
-    background-image: url(/media/svg/varos.svg);
-    background-size: 19px 22px;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-#powerimage {
-    background: #eee;
-    border-radius: 0%;
-    float: left;
-    height: 40px;
-    width: 40px;
-    background-image: url(/media/icons/power.svg);
-    background-size: 19px 22px;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-#dimimg {
-    background: #eee;
-    border-radius: 0%;
-    float: left;
-    height: 40px;
-    width: 40px;
-    background-image: url(/media/svg/dcm.svg);
-    background-size: 19px 22px;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-#temimg {
-    background: #eee;
-    border-radius: 0%;
-    float: left;
-    height: 40px;
-    width: 40px;
-    background-image: url(/media/svg/tem.svg);
-    background-size: 19px 22px;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-#varosimage img {
-    display: block;
-    height: 22px;
-    margin: 0px auto;
-    padding-top: 9px;
-    text-align: center;
-    vertical-align: middle;
-    width: 19px;
-    border-style: none !important;
-}
-
-#varostext {
-    color: #444;
-    float: left;
-    font-size: 20px;
-    line-height: 40px;
-    margin-left: 10px;
-    font-weight: 700;
-}
-
-
-#kivotio {
-    background: #555;
-    padding: 0px;
-    color: white;
-    clear: both;
-    font-weight: bold;
-    margin-top: 2px;
-    visibility: hidden;
-    height: 0;
-}
-
-.keno {
-    width: auto;
-    height: 18px;
-}
-.pgray {
-    padding: 20px;background: #eee;margin: 0;
-    
-}
-.pdanger {
-    padding: 10px;
-    background-color: red;
-    color: #fff;
-    font-weight:bold;
-    margin: 0;
-    
-    text-align: center;
-
-}
-.pgend {
-    padding: 10px;
-    color: #fff;
-    font-weight:bold;
-    margin: 0;
-    
-    text-align: center;
-
-}
-.pgenw {
-    padding: 10px;
-    color: #000;
-    font-weight:bold; 
-    margin: 0;
-    
-
-}
-
-th br {
-    display: block !important;
-}
-#diatable {
-    width: -webkit-fill-available;
-    border: 0px solid black;
-    border-collapse: separate;
-    border-spacing: 2px;
-    font-size: 19px;
-    min-width: 700px;
-    table-layout: fixed;
-    margin: 0 -2px;
-}
-
-#diatable p {
-    margin: 0;
-}
-
-#diatable th {
-    background: darkorange;
-    padding: 15px 15px;
-    border: 1px solid white;
-    text-align: center;
-    color: white;
-    text-shadow: 0px 0px 0px black;
-   
-}
-
-#diatable td {
-    background: #eee;
-    padding: 10px 15px;
-    border: 1px solid white;
-
-}
-
-#diatable tr:last-child td {
-    border-bottom: 0; border-right: 0;
-}
-
-#diatable tr th {
-    border-right: 0;
-    border-top: 0;
-  
-}
-
-#diatable tr td:first-child,
-#diatable tr th:first-child {
-    border-left: 0;
-}
-
-#diatable tr td {
-    border-right: 0;
-     
-}
-
-#diatable tr td {
-    border-top: 0;
-}
-
-.texr {
-    text-align: right;
-}
-
-.gray {
-    background: #666 !important;
-    color: #eee;
-    font-weight: bold;
-}
-
-.gray2 {
-    background: #666 !important;
-    color: #eee;
-    text-align: right;
-}
-
-.texr2 {
-    font-weight: bold;
-}
-td br {
-    display: block !important;
-}
-.plabels {
-    padding: 20px 10px;
-    margin: 0;
-    font-size: 19px;
-    border-radius: 6px !important;
-    border: 0px solid #eee;
-    background: #eee ;
-}
-
-.plabels i {
-    margin-right: 10px;
-}
-
-.plabels a {
-    padding: 10px 15px;
-    background: #ff5500;
-    text-decoration: none;
-    color: white;
-    border-radius: 4px;
-    align-items: center;
-}
-
-.plabels a:hover {
-    background: #444;
-}
-.product .product {
-    padding: 0;
-    border: 0;
-}
-
-.pimg {
-    cursor: pointer !important;
-    padding: 15px;
-    border: 0px solid #eee;
-    border-radius: 6px;
-    margin-bottom: 26px;
-    background: #f2f2f2;
-}
-
-
-.post br:last-child {
-    display: none;
-}
-
-@keyframes example {
-    from {
-        top: -100%;
+    a.cat, a.tag {
+        text-decoration: none;
+        color: #e0dddb;
+        padding: 0px 10px;
+        font-weight: bold;
+        border-radius: 0;
+        border-right: 2px solid #555;
     }
 
-    to {
-        top: 0px;
-    }
-}
-
-@keyframes example2 {
-    0% {
-        opacity: 0;
+    a:hover.home,
+    a:hover.cat {
+        /*background: #444;*/
     }
 
-    55% {
-        opacity: 0;
+    .ptitle {
+        padding: 0px 10px;
     }
 
-    100% {
-        opacity: 1;
-    }
-}
-
-.pimg2 {
-    position: fixed;
-    top: -100%;
-    right: 15px;
-    bottom: 0;
-    left: 15px;
-    width: auto;
-    height: 100%;
-    
-    margin: 0 auto;
-    z-index: 3;
-    border: 0;
-    display: flex;
-    justify-content: center;
-    flex-direction: column-reverse;
-}
-
-
-
-.pimg2 .pimg {
-    cursor: pointer !important;
-    padding: 0px;
-    border: 0px solid #eee;
-    border-radius: 6px;
-    margin-bottom: 0px;
-    background: unset;
-}
-
-.pimg2bg {
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    padding: 20px;
-    box-sizing: border-box;
-    background: rgb(0 0 0 / 94%);
-    display: none;
-    z-index: 2;
-}
-
-.pimg img {
-    width: 100%;
-    border: 0;
-    outline: 0;
-    max-width: 500px;
-    margin: auto;
-    display: flex;
-    cursor: pointer;
-    padding: 0 !important;
-}
-.pimg2 .pimg img {
-    width: 100%;
-    display: flex;
-    animation-name: example;
-    animation-duration: 1s;
-    position: relative;
-    top: 0px;
-    height: auto;
-    border-radius: 6px;
-    max-width: 700px;
-    height: auto;
-}
-.imgcaption {
-    display: none;
-    
-    bottom: 30px;
-    left: 0;
-    text-align: center;
-    animation-name: example2;
-    animation-duration: 2s;
-    color: #eee;
-    right: 0;
-}
-@media only screen and (max-width: 870px) {
     .main {
-    
-    display: block;
-}
-.relhead, .wlist {
-    display: none;}
-    .pimg {display: block;}
-    .tabout {
-    overflow-x: auto;
-    margin: 0 ;
-}
-}
-
-
-@media only screen and (max-width: 770px) {
-.ptitle {
-    display: none;
-}
-}
-
-@media only screen and (max-width: 570px) {
-    #barcode {
-    background: #ddd;
-    display: block;
-    float: none;
-    height: 40px;
-    padding: 0px;
-    width: 100%;
-    border-radius: 6px 6px 0 0;
-    margin-bottom: 15px;
-}
-
-#varos {
-    background: #bbb;
-    display: block;
-    float: none;
-    height: 40px;
-    padding: 0px;
-    width: 100%;
-    border-radius: 0 0 6px 6px;
-    margin-top: -15px;
-    margin-bottom: 15px;
-}
-#varos div {
-    border-radius: 0 0 0 6px;
-    }
-    .plabels {
         display: grid;
-        grid-gap: 5px;
+        gap: 24px;
+        grid-template-columns: 1fr 2fr;
+        justify-content: space-evenly;
+        margin-top: 30px;
+    }
+
+    .post {
+        border: 0px solid #eee;
+        padding: 0px;
+        border-radius: 6px;
+    }
+
+    .pimg img {
+        width: 50%;
+        height: auto;
+        mix-blend-mode: multiply;
+    }
+
+    #sistatika,
+    #loipa {
+        background: #eee;
+        border-bottom: solid 0px #ccc;
+        color: #555555;
+        padding: 10px 15px;
+        font-weight: bold;
+        font-size: 19px;
+        margin: 0px;
+        border-radius: 4px;
+    }
+
+    .alltext {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 0px;
+        padding-right: 0px;
+        color: #444;
+        font-size: 19px;
+    }
+
+    .alltext,
+    .post p,
+    .post div {
+        line-height: 25px;
+    }
+
+    h1 {
+        font-size: 30px;
+        margin: 10px 0 25px 0;
+        color: #444;
+        letter-spacing: -.5;
+    }
+
+    #flag {
+        display: flex;
+        margin: -15px 0 15px 0;
+        gap: 5px;
+    }
+
+    #flagimage img {
+        width: 32px;
+    }
+
+    #pics2 {
+        display: block;
+    }
+
+    #flagimage2 {
+        display: none;
+    }
+
+    #barcode {
+        background: #ddd;
+        display: table;
+        float: left;
+        height: 40px;
+        padding: 0px;
+        width: 50%;
+        border-radius: 6px 0 0 6px;
+        margin-bottom: 15px;
+    }
+
+    #barimage {
+        background: #eee;
+        border-radius: 4px 0 0 4px;
+        float: left;
+        height: 40px;
+        width: 40px;
+    }
+
+    #barimage img {
+        display: block;
+        height: 22px;
+        margin: 0px auto;
+        padding-top: 9px;
+        text-align: center;
+        vertical-align: middle;
+        width: 19px;
+        border-style: none !important;
+    }
+
+    #bartext {
+        color: #444;
+        float: left;
+        font-size: 20px;
+        line-height: 40px;
+        margin-left: 10px;
+        font-weight: 700;
+    }
+
+    #varos {
+        background: #bbb;
+        display: table;
+        float: left;
+        height: 40px;
+        padding: 0px;
+        width: 50%;
+        border-radius: 4px;
+    }
+
+    #varosimage {
+        background: #eee;
+        border-radius: 0%;
+        float: left;
+        height: 40px;
+        width: 40px;
+    }
+
+    #barimage1 {
+        background: #eee;
+        border-radius: 0%;
+        float: left;
+        height: 40px;
+        width: 40px;
+        background-image: url(/media/svg/barcode.svg);
+        background-size: 19px 22px;
+        background-repeat: no-repeat;
+        background-position: center;
+        border-radius: 4px 0 0 4px;
+    }
+
+    #varosimage1 {
+        background: #eee;
+        border-radius: 0%;
+        float: left;
+        height: 40px;
+        width: 40px;
+        background-image: url(/media/svg/varos.svg);
+        background-size: 19px 22px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    #powerimage {
+        background: #eee;
+        border-radius: 0%;
+        float: left;
+        height: 40px;
+        width: 40px;
+        background-image: url(/media/icons/power.svg);
+        background-size: 19px 22px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    #dimimg {
+        background: #eee;
+        border-radius: 0%;
+        float: left;
+        height: 40px;
+        width: 40px;
+        background-image: url(/media/svg/dcm.svg);
+        background-size: 19px 22px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    #temimg {
+        background: #eee;
+        border-radius: 0%;
+        float: left;
+        height: 40px;
+        width: 40px;
+        background-image: url(/media/svg/tem.svg);
+        background-size: 19px 22px;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    #varosimage img {
+        display: block;
+        height: 22px;
+        margin: 0px auto;
+        padding-top: 9px;
+        text-align: center;
+        vertical-align: middle;
+        width: 19px;
+        border-style: none !important;
+    }
+
+    #varostext {
+        color: #444;
+        float: left;
+        font-size: 20px;
+        line-height: 40px;
+        margin-left: 10px;
+        font-weight: 700;
+    }
+
+    #kivotio {
+        background: #555;
+        padding: 0px;
+        color: white;
+        clear: both;
+        font-weight: bold;
+        margin-top: 2px;
+        visibility: hidden;
+        height: 0;
+    }
+
+    .keno {
+        width: auto;
+        height: 18px;
+    }
+
+    .pgray {
+        padding: 20px;
+        background: #eee;
+        margin: 0;
+    }
+
+    .pdanger {
+        padding: 10px;
+        background-color: red;
+        color: #fff;
+        font-weight: bold;
+        margin: 0;
+        text-align: center;
+    }
+
+    .pgend {
+        padding: 10px;
+        color: #fff;
+        font-weight: bold;
+        margin: 0;
+        text-align: center;
+    }
+
+    .pgenw {
+        padding: 10px;
+        color: #000;
+        font-weight: bold;
+        margin: 0;
+    }
+
+    th br {
+        display: block !important;
+    }
+
+    #diatable {
+        width: -webkit-fill-available;
+        border: 0px solid black;
+        border-collapse: separate;
+        border-spacing: 2px;
+        font-size: 19px;
+        min-width: 700px;
+        table-layout: fixed;
+        margin: 0 -2px;
+    }
+
+    #diatable p {
+        margin: 0;
+    }
+
+    #diatable th {
+        background: darkorange;
+        padding: 15px 15px;
+        border: 1px solid white;
+        text-align: center;
+        color: white;
+        text-shadow: 0px 0px 0px black;
+    }
+
+    #diatable td {
+        background: #eee;
+        padding: 10px 15px;
+        border: 1px solid white;
+    }
+
+    #diatable tr:last-child td {
+        border-bottom: 0;
+        border-right: 0;
+    }
+
+    #diatable tr th {
+        border-right: 0;
+        border-top: 0;
+    }
+
+    #diatable tr td:first-child,
+    #diatable tr th:first-child {
+        border-left: 0;
+    }
+
+    #diatable tr td {
+        border-right: 0;
+    }
+
+    #diatable tr td {
+        border-top: 0;
+    }
+
+    .texr {
+        text-align: right;
+    }
+
+    .gray {
+        background: #666 !important;
+        color: #eee;
+        font-weight: bold;
+    }
+
+    .gray2 {
+        background: #666 !important;
+        color: #eee;
+        text-align: right;
+    }
+
+    .texr2 {
+        font-weight: bold;
+    }
+
+    td br {
+        display: block !important;
+    }
+
+    .plabels {
+        padding: 20px 10px;
+        margin: 0;
+        font-size: 19px;
+        border-radius: 6px !important;
+        border: 0px solid #eee;
+        background: #eee;
+    }
+
+    .plabels i {
+        margin-right: 10px;
+    }
+
+    .plabels a {
+        padding: 10px 15px;
+        background: #ff5500;
+        text-decoration: none;
+        color: white;
+        border-radius: 4px;
+        align-items: center;
+    }
+
+    .plabels a:hover {
+        background: #444;
+    }
+
+    .product .product {
         padding: 0;
         border: 0;
     }
-}
-@media only screen and (max-width: 430px) {
-    .yah {display: none;}
-    .pimg {margin: 0}
-}
 
+    .pimg {
+        cursor: pointer !important;
+        padding: 15px;
+        border: 0px solid #eee;
+        border-radius: 6px;
+        margin-bottom: 26px;
+        background: #f2f2f2;
+    }
+
+    .post br:last-child {
+        display: none;
+    }
+
+    @keyframes example {
+        from {
+            top: -100%;
+        }
+
+        to {
+            top: 0px;
+        }
+    }
+
+    @keyframes example2 {
+        0% {
+            opacity: 0;
+        }
+
+        55% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+
+    .pimg2 {
+        position: fixed;
+        top: -100%;
+        right: 15px;
+        bottom: 0;
+        left: 15px;
+        width: auto;
+        height: 100%;
+        margin: 0 auto;
+        z-index: 3;
+        border: 0;
+        display: flex;
+        justify-content: center;
+        flex-direction: column-reverse;
+    }
+
+    .pimg2 .pimg {
+        cursor: pointer !important;
+        padding: 0px;
+        border: 0px solid #eee;
+        border-radius: 6px;
+        margin-bottom: 0px;
+        background: unset;
+    }
+
+    .pimg2bg {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        padding: 20px;
+        box-sizing: border-box;
+        background: rgb(0 0 0 / 94%);
+        display: none;
+        z-index: 2;
+    }
+
+    .pimg img {
+        width: 100%;
+        border: 0;
+        outline: 0;
+        max-width: 500px;
+        margin: auto;
+        display: flex;
+        cursor: pointer;
+        padding: 0 !important;
+    }
+
+    .pimg2 .pimg img {
+        width: 100%;
+        display: flex;
+        animation-name: example;
+        animation-duration: 1s;
+        position: relative;
+        top: 0px;
+        height: auto;
+        border-radius: 6px;
+        max-width: 700px;
+        height: auto;
+    }
+
+    .imgcaption {
+        display: none;
+        bottom: 30px;
+        left: 0;
+        text-align: center;
+        animation-name: example2;
+        animation-duration: 2s;
+        color: #eee;
+        right: 0;
+    }
+
+    @media only screen and (max-width: 870px) {
+        .main {
+            display: block;
+        }
+
+        .relhead,
+        .wlist {
+            display: none;
+        }
+
+        .pimg {
+            display: block;
+        }
+
+        .tabout {
+            overflow-x: auto;
+            margin: 0;
+        }
+    }
+
+    @media only screen and (max-width: 770px) {
+        .ptitle {
+            display: none;
+        }
+        a.tag {
+            border-right: 0;
+            
+        }
+        a.home {padding: 5px;}
+    }
+
+    @media only screen and (max-width: 570px) {
+        #barcode {
+            background: #ddd;
+            display: block;
+            float: none;
+            height: 40px;
+            padding: 0px;
+            width: 100%;
+            border-radius: 6px 6px 0 0;
+            margin-bottom: 15px;
+        }
+
+        #varos {
+            background: #bbb;
+            display: block;
+            float: none;
+            height: 40px;
+            padding: 0px;
+            width: 100%;
+            border-radius: 0 0 6px 6px;
+            margin-top: -15px;
+            margin-bottom: 15px;
+        }
+
+        #varos div {
+            border-radius: 0 0 0 6px;
+        }
+
+        .plabels {
+            display: grid;
+            grid-gap: 5px;
+            padding: 0;
+            border: 0;
+        }
+    }
+
+    @media only screen and (max-width: 430px) {
+        .yah {
+            display: none;
+        }
+
+        .pimg {
+            margin: 0
+        }
+    }
 </style>
 <script>
-
-
-$(".pimg2").click(function () {
-  $(".pimg2bg").fadeOut();
-  $('.pimg2').animate({top: '-100%'},'5000',function(){
-
-
-});
- 
- $(".imgcaption").fadeOut();
- 
-});
-$(".main .pimg").prependTo(".sidebar")
-
-
-$(".pimg").click(function () {
-  $(".pimg2bg").fadeIn();
-
- $(".pimg2").animate({top: '50px'},'5000',function(){
-
-
-});
- $(".imgcaption").show();
- 
-});
-$(".pimg").clone().appendTo(".pimg2");
-
-
-
+    $(".pimg2").click(function () {
+        $(".pimg2bg").fadeOut();
+        $('.pimg2').animate({
+            top: '-100%'
+        }, '5000', function () {});
+        $(".imgcaption").fadeOut();
+    });
+    $(".main .pimg").prependTo(".sidebar")
+    $(".pimg").click(function () {
+        $(".pimg2bg").fadeIn();
+        $(".pimg2").animate({
+            top: '50px'
+        }, '5000', function () {});
+        $(".imgcaption").show();
+    });
+    $(".pimg").clone().appendTo(".pimg2");
 </script>
+
 </html>

@@ -5,22 +5,29 @@
 	Δείτε επίσης</p>
 <ul class="wlist">
 	{{ range . }}
-	
+
 	<li class="wmain">
-		
+
 		<div class="post">
-			<a href="{{.Permalink}}">
-				<h1 class="ltitle">{{.Title}}</h1>
-				{{.Content}}</a> 
-		<div class="plabels">
-			{{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
-				href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tags"
-					aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
-			{{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
-				href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
-					aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
-				
-				</div></li>
+
+				<div class="fimg">{{if isset .Params "product_image_lowres" }}<img
+						src="{{ index .Params "product_image_lowres" }}"></div>
+				{{ end }}
+
+				<div class="reright">
+					<a href="{{.Permalink}}"><h1 class="ltitle">{{.Title}}</h1></a>
+					<div class="plabels">
+						{{ if .Params.categories }}{{ range sort .Params.categories }}<a class="scat"
+							href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
+								aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+						{{ if .Params.tags }}{{ range sort .Params.tags }}<a class="stag"
+							href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
+								aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
+				</div>
+
+			</div>
+
+	</li>
 	{{ end }}
 </ul>
 {{ end }}
@@ -30,5 +37,5 @@
 	$(".wlist .p-img").removeClass("pimg")
 </script>
 <style>
-	
+
 </style>

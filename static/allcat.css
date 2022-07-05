@@ -48,6 +48,9 @@
     display: flex;
     position: relative;
     align-items: center;
+    background: #efe2de;
+    padding: 0 0 0 15px;
+    border-radius: 4px;
 }
 
 .tagbutton a {
@@ -60,14 +63,28 @@
     color: #6f6056;
     text-transform: capitalize;
     border-radius: 4px;
+    transition: all .5s;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
 }
 
 .tagbutton a:hover,
 .gencat li a:hover {
-    background: #333;
-    color: #eee;
+    /*background: #333;
+    */color: #000;
+    text-decoration: underline;
+    transition: all .5s;
+    font-weight: bold;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
 }
-
+.tagbutton i {
+    color: #c5a59c;
+}
 sup {
     color: #fff;
     background: #d91a32;

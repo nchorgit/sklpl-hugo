@@ -8,7 +8,7 @@
 <body>
     {{ partial "header" . }}
     <div class="cattitle"><b>{{ len (where .Pages "Section" "!=" "") }}</b> Προϊόντα στην ετικέτα: <strong><i
-                class="fas fa-tags" aria-hidden="true"></i> {{ .Title }}</strong></div>
+                class="fas fa-tag" aria-hidden="true"></i> {{ .Title }}</strong></div>
     {{.Content}}
     {{ partial "pagination2" . }}
     <div class="product-list">
@@ -37,7 +37,7 @@
            
             <div class="plabels">
                 {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
-                    href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tags"
+                    href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
                         aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
                 {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
                     href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
