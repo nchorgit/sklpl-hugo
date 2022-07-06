@@ -2,6 +2,7 @@
 title: "Kitten Γάντια ελαστικά με επένδυση Νο 7½"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-gantia-elastika-me-ependysh-no-7½.jpg"
+product_image_lowres: "/assets/images/low/kitten-gantia-elastika-me-ependysh-no-7½.jpg"
 barcode: "5202576469570"
 varos: "No 7½ Medium"
 bar_img: "/media/svg/barcode.svg"

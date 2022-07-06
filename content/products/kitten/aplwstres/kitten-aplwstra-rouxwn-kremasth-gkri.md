@@ -2,6 +2,7 @@
 title: "Kitten Απλώστρα ρούχων κρεμαστή γκρί"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-aplwstra-rouxwn-kremasth-gkri.jpg"
+product_image_lowres: "/assets/images/low/kitten-aplwstra-rouxwn-kremasth-gkri.jpg"
 barcode: "5202576680425"
 varos: "3 μέτρα"
 bar_img: "/media/svg/barcode.svg"

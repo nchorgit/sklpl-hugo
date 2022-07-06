@@ -2,6 +2,7 @@
 title: "Kitten Μανταλάκια ξύλινα 24τεμ"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-mantalakia-ksylina-24tem.jpg"
+product_image_lowres: "/assets/images/low/kitten-mantalakia-ksylina-24tem.jpg"
 barcode: "5202576680265"
 varos: "24 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

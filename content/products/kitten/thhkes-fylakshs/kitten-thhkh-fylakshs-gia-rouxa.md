@@ -2,6 +2,7 @@
 title: "Kitten Θήκη φύλαξης για ρούχα"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-thhkh-fylakshs-gia-rouxa.jpg"
+product_image_lowres: "/assets/images/low/kitten-thhkh-fylakshs-gia-rouxa.jpg"
 barcode: "5202576680777"
 varos: "50 X 40 X 15 cm"
 bar_img: "/media/svg/barcode.svg"

@@ -2,6 +2,7 @@
 title: "Kitten Σπογγοπετσέτα Νο 3"
 categories: ["Kitten"]
 product_image: ""
+product_image_lowres: "/assets/images/low/kitten-spoggopetseta-no-3.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

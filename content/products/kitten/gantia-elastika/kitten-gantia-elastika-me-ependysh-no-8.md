@@ -2,6 +2,7 @@
 title: "Kitten Γάντια ελαστικά με επένδυση Νο 8"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-gantia-elastika-me-ependysh-no-8.jpg"
+product_image_lowres: "/assets/images/low/kitten-gantia-elastika-me-ependysh-no-8.jpg"
 barcode: "5202576469587"
 varos: "No 8 Large"
 bar_img: "/media/svg/barcode.svg"

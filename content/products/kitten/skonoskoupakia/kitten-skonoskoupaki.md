@@ -2,6 +2,7 @@
 title: "Kitten Σκονοσκουπάκι"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-skonoskoupaki.jpg"
+product_image_lowres: "/assets/images/low/kitten-skonoskoupaki.jpg"
 barcode: "5202576688117"
 varos: "5 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

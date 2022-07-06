@@ -2,6 +2,7 @@
 title: "Kitten Απλώστρα ρούχων με πτερύγια μωβ"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-aplwstra-rouxwn-me-pterygia-mwb.jpg"
+product_image_lowres: "/assets/images/low/kitten-aplwstra-rouxwn-me-pterygia-mwb.jpg"
 barcode: "5202576680371"
 varos: "20 μέτρα"
 bar_img: "/media/svg/barcode.svg"

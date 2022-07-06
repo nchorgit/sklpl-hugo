@@ -2,6 +2,7 @@
 title: "Kitten Απλώστρα ρούχων με πτερύγια γκρί"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-aplwstra-rouxwn-me-pterygia-gkri.jpg"
+product_image_lowres: "/assets/images/low/kitten-aplwstra-rouxwn-me-pterygia-gkri.jpg"
 barcode: "5202576680388"
 varos: "18 μέτρα"
 bar_img: "/media/svg/barcode.svg"

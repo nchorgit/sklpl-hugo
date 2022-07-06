@@ -2,6 +2,7 @@
 title: "Kitten Θήκη φύλαξης για ρούχα και κουβέρτες"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-thhkh-fylakshs-gia-rouxa-kai-koubertes.jpg"
+product_image_lowres: "/assets/images/low/kitten-thhkh-fylakshs-gia-rouxa-kai-koubertes.jpg"
 barcode: "5202576680746"
 varos: "60 X 45 X 20 cm"
 bar_img: "/media/svg/barcode.svg"

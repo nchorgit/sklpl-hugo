@@ -2,6 +2,7 @@
 title: "Kitten Καλάθι για μανταλάκια"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-kalathi-gia-mantalakia.jpg"
+product_image_lowres: "/assets/images/low/kitten-kalathi-gia-mantalakia.jpg"
 barcode: "5202576680234"
 varos: "1 τεμάχιο"
 bar_img: "/media/svg/barcode.svg"

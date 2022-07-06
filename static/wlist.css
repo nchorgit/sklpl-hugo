@@ -75,6 +75,7 @@
     color: #333;
     letter-spacing: -.3px;
     padding: 0 10px 10px 0;
+    line-height: initial;
 }
 
 

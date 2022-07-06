@@ -2,6 +2,7 @@
 title: "Kitten Σκονοσκουπάκι με επεκτεινόμενη λαβή"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-skonoskoupaki-me-epekteinomenh-labh.jpg"
+product_image_lowres: "/assets/images/low/kitten-skonoskoupaki-me-epekteinomenh-labh.jpg"
 barcode: "5202576688094"
 varos: "5 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
