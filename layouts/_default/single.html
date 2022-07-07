@@ -23,15 +23,11 @@
                 href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tag"><i class="far fa-clone"
                     aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
             <div class="ptitle">{{.Title}}</div>
-            
         </div>
         <div class="top-title">
-            
         </div>
     </div>
-    
     <div class="main">
-        
         <div class="pimage"></div>
         <div class="top-title">
             <h1>{{.Title}}</h1>
@@ -41,7 +37,6 @@
 <div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
 <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
             <div class="post">
-                
                 <div class="pimg3">{{ partial "image" . }}</div>
                 {{.Content}}
                 <div class="plabels">
@@ -54,7 +49,6 @@
             </div>
             <div class="sidebar">{{ partial "sidebar" . }}</div>
         </div>
-        
         <div class="pimg2bg">
             <div class="fclose">
                 <div style="
@@ -81,25 +75,27 @@
     {{ partial "footer" . }}
 </body>
 <style>
- .pimage {
-    margin-bottom: -18px;
-    padding: 0;
-    grid-row: 2;
-    margin-top: -82;
-}
+    .pimage {
+        margin-bottom: -18px;
+        padding: 0;
+        grid-row: 2;
+        margin-top: -82;
+    }
 
-.top-title {
-    grid-row: 1;
-    grid-column: 2;
-}
-.product {
-    grid-row: 2 / 10;
-    margin-top: -10px;
-}
+    .top-title {
+        grid-row: 1;
+        grid-column: 2;
+    }
 
-.sidebar {
-    grid-row: 3;
-}
+    .product {
+        grid-row: 2 / 10;
+        margin-top: -10px;
+    }
+
+    .sidebar {
+        grid-row: 3;
+    }
+
     .fclose {
         position: absolute;
         top: 90px;
@@ -184,7 +180,8 @@
     font-weight: normal;
     border-radius: 3px;
 }*/
-    a.cat, a.tag {
+    a.cat,
+    a.tag {
         text-decoration: none;
         color: #e0dddb;
         padding: 0px 10px;
@@ -216,7 +213,8 @@
         border-radius: 6px;
     }
 
-    .pimg img, .pimg3 img {
+    .pimg img,
+    .pimg3 img {
         width: 50%;
         height: auto;
         mix-blend-mode: multiply;
@@ -463,14 +461,11 @@
     }
 
     #diatable {
-        width:100%;
+        width: 100%;
         border: 0px solid black;
         border-collapse: separate;
         border-spacing: 2px;
         font-size: 19px;
-        
-       
-        
     }
 
     #diatable p {
@@ -570,7 +565,8 @@
         border: 0;
     }
 
-    .pimg, .pimg3 {
+    .pimg,
+    .pimg3 {
         cursor: pointer !important;
         padding: 15px;
         border: 0px solid #eee;
@@ -623,7 +619,8 @@
         flex-direction: column-reverse;
     }
 
-    .pimg2 .pimg, .pimg2 .pimg3 {
+    .pimg2 .pimg,
+    .pimg2 .pimg3 {
         cursor: pointer !important;
         padding: 0px;
         border: 0px solid #eee;
@@ -646,7 +643,8 @@
         display: none;
         z-index: 2;
     }
-.pimg3 img,
+
+    .pimg3 img,
     .pimg img {
         width: 100%;
         border: 0;
@@ -658,7 +656,8 @@
         padding: 0 !important;
     }
 
-    .pimg2 .pimg img, .pimg2 .pimg3 img {
+    .pimg2 .pimg img,
+    .pimg2 .pimg3 img {
         width: 100%;
         display: flex;
         animation-name: example;
@@ -681,56 +680,61 @@
         color: #eee;
         right: 0;
     }
+
     .tabout {
-    overflow: auto;
-    margin: 0 -2px;
-}
-.pimg3 {display: none;}
+        overflow: auto;
+        margin: 0 -2px;
+    }
+
+    .pimg3 {
+        display: none;
+    }
+
     @media only screen and (max-width: 1103px) {
         .top-title {
-    grid-row: 1;
-    grid-column: 1;
-}
-.product {
-    grid-row: 2;
-}
+            grid-row: 1;
+            grid-column: 1;
+        }
 
-.pimage {
-    margin-top: 0;
-    
-    grid-row: 3;
-   
-}
-.sidebar {
-    grid-row: 4;
-}
+        .product {
+            grid-row: 2;
+        }
 
-.main {
-    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
-    padding: 15px;
-}
+        .pimage {
+            margin: 0 0 -18px;
+            grid-row: 3;
+        }
 
-ul.wlist {
-    grid-template-columns: auto;
+        .sidebar {
+            grid-row: 4;
+        }
 
-}
+        .main {
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            padding: 15px;
+        }
 
-.wmain {
-zoom: 130%;
-    
-}
-       
+        ul.wlist {
+            grid-template-columns: auto;
+        }
+
+        .wmain {
+            zoom: 130%;
+        }
     }
 
     @media only screen and (max-width: 770px) {
         .ptitle {
             display: none;
         }
+
         a.tag {
             border-right: 0;
-            
         }
-        a.home {padding: 5px;}
+
+        a.home {
+            padding: 5px;
+        }
     }
 
     @media only screen and (max-width: 570px) {
@@ -741,36 +745,49 @@ zoom: 130%;
             height: 40px;
             padding: 0px;
             width: 100%;
-            border-radius: 6px 6px 0 0;
+            border-radius: 4px 4px 0 0;
             margin-bottom: 15px;
         }
+
         .wmain {
-zoom: 105%;
-    
-}
-        #varos {
-            background: #bbb;
-            display: block;
-            float: none;
-            height: 40px;
-            padding: 0px;
-            width: 100%;
-            border-radius: 0 0 6px 6px;
-            margin-top: -15px;
-            margin-bottom: 15px;
+            zoom: 105%;
         }
 
-        #varos div {
-            border-radius: 0 0 0 6px;
+        #diatable {
+            font-size: 16px;
         }
+        p.yah {
+            display: none;
+        }
+   
 
-        .plabels {
-            display: grid;
-            grid-gap: 5px;
-            padding: 0;
-            border: 0;
-            background: transparent;
-        }
+    #varos {
+        background: #bbb;
+        display: block;
+        float: none;
+        height: 40px;
+        padding: 0px;
+        width: 100%;
+        border-radius: 0 0 4px 4px;
+        margin-top: -15px;
+        margin-bottom: 15px;
+    }
+
+    #varos div {
+        border-radius: 0 0 0 4px;
+    }
+
+    #barcode div {
+        border-radius: 4 0 0 0;
+    }
+
+    .plabels {
+        display: grid;
+        grid-gap: 5px;
+        padding: 0;
+        border: 0;
+        background: transparent;
+    }
     }
 
     @media only screen and (max-width: 430px) {
@@ -799,7 +816,6 @@ zoom: 105%;
         }, '5000', function () {});
         $(".imgcaption").show();
     });
-
     $(".pimg3").click(function () {
         $(".pimg2bg").fadeIn();
         $(".pimg2").animate({
@@ -809,8 +825,6 @@ zoom: 105%;
     });
     $(".pimg").clone().appendTo(".pimg2");
     $(".pimg3").clone().appendTo(".pimg2");
-   
-   
 </script>
 
 </html>
