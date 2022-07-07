@@ -26,13 +26,15 @@
         </div>
     </div>
     <div class="main">
-        <div class="sidebar">{{ partial "sidebar" . }}</div>
+        <div class="pimage"></div>
+        
         <div class="product">
             <!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
 <div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
 <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
             <div class="post">
                 <h1>{{.Title}}</h1>
+                <div class="pimg3">{{ partial "image" . }}</div>
                 {{.Content}}
                 <div class="plabels">
                     {{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a
@@ -42,8 +44,9 @@
                         href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
                             aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
             </div>
-            <!--<a href="#" class="product-image">{{if isset .Params "featured_image" }}<img src="{{ index .Params "featured_image" }}"></a>{{ end }}-->
+            <div class="sidebar">{{ partial "sidebar" . }}</div>
         </div>
+        
         <div class="pimg2bg">
             <div class="fclose">
                 <div style="
@@ -70,6 +73,16 @@
     {{ partial "footer" . }}
 </body>
 <style>
+    .pimage {
+        margin-bottom: -18px;
+    padding: 0;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+.product {
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
     .fclose {
         position: absolute;
         top: 90px;
@@ -82,11 +95,11 @@
         transform: rotateZ(45deg);
     }
 
-    .post th,
-    .post td,
-    .post p,
-    .post div,
-    .post ul {
+    .product th,
+    .product td,
+    .product p,
+    .product div,
+    .product ul {
         border-radius: 4px;
     }
 
@@ -186,7 +199,7 @@
         border-radius: 6px;
     }
 
-    .pimg img {
+    .pimg img, .pimg3 img {
         width: 50%;
         height: auto;
         mix-blend-mode: multiply;
@@ -540,7 +553,7 @@
         border: 0;
     }
 
-    .pimg {
+    .pimg, .pimg3 {
         cursor: pointer !important;
         padding: 15px;
         border: 0px solid #eee;
@@ -593,7 +606,7 @@
         flex-direction: column-reverse;
     }
 
-    .pimg2 .pimg {
+    .pimg2 .pimg, .pimg2 .pimg3 {
         cursor: pointer !important;
         padding: 0px;
         border: 0px solid #eee;
@@ -616,7 +629,7 @@
         display: none;
         z-index: 2;
     }
-
+.pimg3 img,
     .pimg img {
         width: 100%;
         border: 0;
@@ -628,7 +641,7 @@
         padding: 0 !important;
     }
 
-    .pimg2 .pimg img {
+    .pimg2 .pimg img, .pimg2 .pimg3 img {
         width: 100%;
         display: flex;
         animation-name: example;
@@ -651,7 +664,7 @@
         color: #eee;
         right: 0;
     }
-
+.pimg3 {display: none;}
     @media only screen and (max-width: 870px) {
         .main {
             display: block;
@@ -737,7 +750,7 @@
         }, '5000', function () {});
         $(".imgcaption").fadeOut();
     });
-    $(".main .pimg").prependTo(".sidebar")
+    $(".main .pimg").prependTo(".pimage")
     $(".pimg").click(function () {
         $(".pimg2bg").fadeIn();
         $(".pimg2").animate({
@@ -745,7 +758,18 @@
         }, '5000', function () {});
         $(".imgcaption").show();
     });
+
+    $(".pimg3").click(function () {
+        $(".pimg2bg").fadeIn();
+        $(".pimg2").animate({
+            top: '50px'
+        }, '5000', function () {});
+        $(".imgcaption").show();
+    });
     $(".pimg").clone().appendTo(".pimg2");
+    $(".pimg3").clone().appendTo(".pimg2");
+   
+   
 </script>
 
 </html>
