@@ -1,8 +1,8 @@
 .fimg img {
-    width: 100%;
+    width: 90%;
     border: 0;
     outline: 0;
-    max-width: 500px;
+    min-width: 90px;
     margin: auto;
     display: flex;
     cursor: pointer;
@@ -40,19 +40,18 @@
     border-top: 0;
     position: relative;
     padding: 0;
+    flex-direction: column-reverse;
 }
 
 .wlist .plabels a {
-    padding: 0px 10px;
+    padding: 2px 0px;
     background: transparent;
     text-decoration: none;
     align-items: flex-start;
     border-radius: 0px;
     pointer-events: none;
-    color: #333;
-    border-left: 2px solid #c8c8c8;
+    color: #555;
 }
-
 .wlist .post {
     padding: 15px;
     border-radius: 0px;
@@ -99,6 +98,7 @@
     border: 2px solid #eee;
     padding: 5px;
     background: #fff;
+    border-radius: 6px;
 }
 
 
@@ -109,4 +109,8 @@
 
 .wmain:last-child {
     border-radius: 0 0 6px 6px;
+}
+
+a.scat {
+    border-top: 2px solid #ddd;
 }

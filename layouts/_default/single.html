@@ -23,17 +23,25 @@
                 href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tag"><i class="far fa-clone"
                     aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
             <div class="ptitle">{{.Title}}</div>
+            
+        </div>
+        <div class="top-title">
+            
         </div>
     </div>
+    
     <div class="main">
-        <div class="pimage"></div>
         
+        <div class="pimage"></div>
+        <div class="top-title">
+            <h1>{{.Title}}</h1>
+        </div>
         <div class="product">
             <!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
 <div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
 <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
             <div class="post">
-                <h1>{{.Title}}</h1>
+                
                 <div class="pimg3">{{ partial "image" . }}</div>
                 {{.Content}}
                 <div class="plabels">
@@ -73,15 +81,24 @@
     {{ partial "footer" . }}
 </body>
 <style>
-    .pimage {
-        margin-bottom: -18px;
+ .pimage {
+    margin-bottom: -18px;
     padding: 0;
-    grid-row-start: 1;
-    grid-row-end: 2;
+    grid-row: 2;
+    margin-top: -82;
+}
+
+.top-title {
+    grid-row: 1;
+    grid-column: 2;
 }
 .product {
-    grid-row-start: 1;
-    grid-row-end: 3;
+    grid-row: 2 / 10;
+    margin-top: -10px;
+}
+
+.sidebar {
+    grid-row: 3;
 }
     .fclose {
         position: absolute;
@@ -188,7 +205,7 @@
     .main {
         display: grid;
         gap: 24px;
-        grid-template-columns: 1fr 2fr;
+        grid-template-columns: 458px 2fr;
         justify-content: space-evenly;
         margin-top: 30px;
     }
@@ -446,14 +463,14 @@
     }
 
     #diatable {
-        width: -webkit-fill-available;
+        width:100%;
         border: 0px solid black;
         border-collapse: separate;
         border-spacing: 2px;
         font-size: 19px;
-        min-width: 700px;
-        table-layout: fixed;
-        margin: 0 -2px;
+        
+       
+        
     }
 
     #diatable p {
@@ -664,25 +681,45 @@
         color: #eee;
         right: 0;
     }
+    .tabout {
+    overflow: auto;
+    margin: 0 -2px;
+}
 .pimg3 {display: none;}
-    @media only screen and (max-width: 870px) {
-        .main {
-            display: block;
-        }
+    @media only screen and (max-width: 1103px) {
+        .top-title {
+    grid-row: 1;
+    grid-column: 1;
+}
+.product {
+    grid-row: 2;
+}
 
-        .relhead,
-        .wlist {
-            display: none;
-        }
+.pimage {
+    margin-top: 0;
+    
+    grid-row: 3;
+   
+}
+.sidebar {
+    grid-row: 4;
+}
 
-        .pimg {
-            display: block;
-        }
+.main {
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    padding: 15px;
+}
 
-        .tabout {
-            overflow-x: auto;
-            margin: 0;
-        }
+ul.wlist {
+    grid-template-columns: auto;
+
+}
+
+.wmain {
+zoom: 130%;
+    
+}
+       
     }
 
     @media only screen and (max-width: 770px) {
@@ -707,7 +744,10 @@
             border-radius: 6px 6px 0 0;
             margin-bottom: 15px;
         }
-
+        .wmain {
+zoom: 105%;
+    
+}
         #varos {
             background: #bbb;
             display: block;
@@ -729,6 +769,7 @@
             grid-gap: 5px;
             padding: 0;
             border: 0;
+            background: transparent;
         }
     }
 
