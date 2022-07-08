@@ -32,12 +32,13 @@
         <div class="top-title">
             <h1>{{.Title}}</h1>
         </div>
+        <div class="sidebar">{{ partial "sidebar" . }}</div>
         <div class="product">
             <!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
 <div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
 <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
             <div class="post">
-                <div class="pimg3">{{ partial "image" . }}</div>
+                
                 {{.Content}}
                 <div class="plabels">
                     {{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a
@@ -47,7 +48,7 @@
                         href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
                             aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
             </div>
-            <div class="sidebar">{{ partial "sidebar" . }}</div>
+            
         </div>
         <div class="pimg2bg">
             <div class="fclose">
@@ -75,6 +76,117 @@
     {{ partial "footer" . }}
 </body>
 <style>
+    .fimg img {
+        width: 90%;
+        border: 0;
+        outline: 0;
+        min-width: 90px;
+        margin: auto;
+        display: flex;
+        cursor: pointer;
+        border-radius: 2px;
+    }
+
+    .relhead {
+        border-radius: 12px 6px 0 0;
+        font-weight: bold;
+        padding: 0;
+        background: #444;
+        color: #eee;
+        margin: -6 0 0 0;
+        border-bottom: 0px solid #333;
+        height: 63px;
+    }
+
+    .relhead i {
+        background: #f47920;
+        border-top-left-radius: 6px;
+        font-size: 22px;
+        height: 63px;
+        width: 63px;
+        text-align: center;
+        line-height: 63px;
+    }
+
+    .wlist .plabels {
+        margin: 0;
+        font-size: 15px;
+        background: transparent;
+        border: 0px solid #eee;
+        display: flex;
+        gap: 2px;
+        border-top: 0;
+        position: relative;
+        padding: 0;
+        flex-direction: column-reverse;
+        text-align: left;
+    }
+
+    .wlist .plabels a {
+        padding: 2px 0px;
+        background: transparent;
+        text-decoration: none;
+        align-items: flex-start;
+        border-radius: 0px;
+        pointer-events: none;
+        color: #555;
+    }
+
+    .wlist .post {
+        padding: 15px;
+        border-radius: 0px;
+        position: relative;
+        display: grid;
+        grid-template-columns: 1fr 4fr;
+        grid-gap: 15px;
+    }
+
+    .wmain {
+        margin: 0;
+        border-top: 0;
+        background: #eeeeee;
+    }
+
+    .wlist h1 {
+        font-size: 17px;
+        margin: 0;
+        color: #333;
+        letter-spacing: -.3px;
+        padding: 0 10px 10px 0;
+        line-height: initial;
+    }
+
+    .wlist {
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+        display: grid;
+        background: unset;
+        border-radius: 0 0 8px 8px;
+        border: 0px solid #eee;
+        border-top: 0;
+    }
+
+    .wmain .fimg {
+        margin: auto;
+        border: 2px solid #eee;
+        padding: 5px;
+        background: #fff;
+        border-radius: 6px;
+    }
+
+    .wmain:nth-child(odd) {
+        background: #fafafa;
+    }
+
+    .wmain:last-child {
+        border-radius: 0 0 6px 6px;
+    }
+
+    a.scat {
+        border-top: 2px solid #ddd;
+    }
+
     .pimage {
         margin-bottom: -18px;
         padding: 0;
@@ -192,7 +304,7 @@
 
     a:hover.home,
     a:hover.cat {
-        /*background: #444;*/
+        background: #444;
     }
 
     .ptitle {
@@ -691,27 +803,48 @@
     }
 
     @media only screen and (max-width: 1103px) {
+
+        #sistatika,
+        #loipa {
+            margin: 0 -15px;
+            border-radius: 0;
+        }
+
         .top-title {
             grid-row: 1;
             grid-column: 1;
         }
 
         .product {
-            grid-row: 2;
+            grid-row: 3;
         }
 
         .pimage {
-            margin: 0 0 -18px;
-            grid-row: 3;
+            margin: -22 -15px;
+            grid-row:2;
+        }
+
+        .pimg {
+            border-radius: 0;
         }
 
         .sidebar {
             grid-row: 4;
+            margin: 10px -15px 0;
+        }
+
+        p.relhead {
+            border-radius: 0;
+        }
+
+        .relhead i {
+            border-radius: 0;
         }
 
         .main {
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
             padding: 15px;
+            margin-top: 0;
         }
 
         ul.wlist {
@@ -720,6 +853,13 @@
 
         .wmain {
             zoom: 130%;
+        }
+
+        .plabels {
+            padding: 20px 15px;
+            border-radius: 0px !important;
+            background: #eee;
+            margin: 0 -15px;
         }
     }
 
@@ -756,47 +896,42 @@
         #diatable {
             font-size: 16px;
         }
+
         p.yah {
             display: none;
         }
-   
 
-    #varos {
-        background: #bbb;
-        display: block;
-        float: none;
-        height: 40px;
-        padding: 0px;
-        width: 100%;
-        border-radius: 0 0 4px 4px;
-        margin-top: -15px;
-        margin-bottom: 15px;
-    }
+        #varos {
+            background: #bbb;
+            display: block;
+            float: none;
+            height: 40px;
+            padding: 0px;
+            width: 100%;
+            border-radius: 0 0 4px 4px;
+            margin-top: -15px;
+            margin-bottom: 15px;
+        }
 
-    #varos div {
-        border-radius: 0 0 0 4px;
-    }
+        #varos div {
+            border-radius: 0 0 0 4px;
+        }
 
-    #barcode div {
-        border-radius: 4 0 0 0;
-    }
+        #barcode div {
+            border-radius: 4px 0 0 0;
+        }
 
-    .plabels {
-        display: grid;
-        grid-gap: 5px;
-        padding: 0;
-        border: 0;
-        background: transparent;
-    }
+        .plabels {
+            grid-gap: 5px;
+            border: 0;
+            font-size: 13px;
+            text-align: center;
+        }
     }
 
     @media only screen and (max-width: 430px) {
         .yah {
             display: none;
-        }
-
-        .pimg {
-            margin: 0
         }
     }
 </style>
