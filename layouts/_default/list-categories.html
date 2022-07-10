@@ -33,7 +33,7 @@
                 </div>
                 <ul>
                     {{ range $taxonomy.Pages }}
-                    <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
+                    <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"><div class="pimg3">{{ partial "image-low" . }}</div><span>{{ .LinkTitle }}</span></a></li>
                     {{ end }}
                 </ul>
             </div>

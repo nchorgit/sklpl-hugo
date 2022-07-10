@@ -394,7 +394,7 @@ footer {
     display: none;
     position: fixed;
     bottom: 20px;
-    right: 30px;
+    right: 10px;
     z-index: 99;
     transition: all .3s;
     border: none;
