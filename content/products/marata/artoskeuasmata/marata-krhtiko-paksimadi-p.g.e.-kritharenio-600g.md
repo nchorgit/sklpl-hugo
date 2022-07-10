@@ -1,5 +1,5 @@
 ---
-title: "Μαράτα Κρητικό παξιμάδι Π.Γ.Ε. Κριθαρένιο 600g"
+title: "Μαράτα Παξιμάδι Κρητικό  Π.Γ.Ε. Κριθαρένιο 600g"
 weight: 3
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-krhtiko-paksimadi-p.g.e.-kritharenio-600g.jpg"
