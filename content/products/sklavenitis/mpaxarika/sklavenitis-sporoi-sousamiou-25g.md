@@ -9,7 +9,7 @@ varos: "25g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
-tags: ["Πρόσθετα φαγητών"]
+tags: ["Μπαχαρικά"]
 
 ---
 {{< rawhtml >}}
