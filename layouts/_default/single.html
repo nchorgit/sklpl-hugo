@@ -40,6 +40,9 @@
             <div class="post">
                 
                 {{.Content}}
+                <div class="pimg">{{if isset .Params "product_image" }}<img alt="{{.Title}}" title="{{.Title}}"
+                    src="{{ index .Params "product_image" }}"></div>
+                {{ end }}
                 <div class="plabels">
                     {{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a
                         href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
@@ -76,6 +79,13 @@
     {{ partial "footer" . }}
 </body>
 <style>
+    .pimg:first-child {
+    display: none;
+}
+
+.pimg2 .pimg:nth-child(2) {
+    display: none;
+}
     .fimg img {
         width: 90%;
         border: 0;
@@ -122,13 +132,13 @@
         text-align: left;
     }
 
-    .wlist .plabels a {
+    .wlist .plabels div {
         padding: 2px 0px;
         background: transparent;
         text-decoration: none;
         align-items: flex-start;
         border-radius: 0px;
-        pointer-events: none;
+      
         color: #555;
     }
 
@@ -145,6 +155,7 @@
         margin: 0;
         border-top: 0;
         background: #eeeeee;
+        transition: all .3s;
     }
 
     .wlist h1 {
@@ -155,7 +166,12 @@
         padding: 0 10px 10px 0;
         line-height: initial;
     }
-
+.wmain:hover {
+    filter: brightness(1);
+    transition: all .3s;
+    background: orange !important;
+    color: #eee !important;
+}
     .wlist {
         padding: 0;
         margin: 0;
@@ -688,7 +704,7 @@
     }
 
     .post br:last-child {
-        display: none;
+        display: block;
     }
 
     @keyframes example {
@@ -801,7 +817,16 @@
     .pimg3 {
         display: none;
     }
+/* TABLE 2*/
 
+.dia2 tr:nth-child(3) td, .dia2 tr:nth-child(5) td {
+    background: #666 !important;
+    color: #eee;
+}
+
+.dia2 td:first-child {
+    font-weight: bold;
+}
     @media only screen and (max-width: 1103px) {
 
         #sistatika,

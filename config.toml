@@ -16,7 +16,7 @@ assetDir = "static"
   layout = ""
 
 [outputs]
-  home = ["HTML"]
+  home = ["HTML", "json"]
 
 [imaging]
   anchor = 'Smart'

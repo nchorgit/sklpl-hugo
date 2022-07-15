@@ -379,7 +379,9 @@
  .sp10 {
      padding: 10px
  }
-
+ .sp1015 {
+    padding: 10px 15px;
+}
  .sp015 {
      padding: 0 15px;
  }
