@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/wlist.css">
 {{ $related := .Site.Pages.Related . | first 5 }}
 {{ with $related }}
 <p class="relhead">
@@ -35,7 +36,7 @@
 
 </ul>
 {{ end }}
-<link rel="stylesheet" href="/wlist.css">
+
 <script>
 	$(".wlist .pimg").addClass("p-img")
 	$(".wlist .p-img").removeClass("pimg")
