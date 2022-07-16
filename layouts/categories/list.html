@@ -3,55 +3,6 @@
 
 <head>
     {{ partial "head" . }}
-</head>
-
-<body>
-    {{ partial "header" . }}
-    <div class="cattitle"><b>{{ len (where .Pages "Section" "!=" "") }}</b> Προϊόντα στην ετικέτα: <strong><i
-                class="fas fa-tag" aria-hidden="true"></i> {{ .Title }}</strong></div>
-    {{.Content}}
-    {{ partial "pagination2" . }}
-    <div class="product-list">
-        {{ range .Paginator.Pages.ByWeight }}
-        <div class="product">
-            <div class="post"><a href="{{.Permalink}}">
-                    <div class="ltitle">{{.Title}}</div>
-                    <div class="barvar">
-                        <div class="bar">
-                            <div class="bar-img">
-                                {{if isset .Params "bar_img" }}<img src="{{ index .Params "bar_img" }}">
-                            </div>{{ end }}
-                            <p>{{ .Params.barcode }}</p>
-                        </div>
-                        <div class="var">
-                            <div class="var-img">
-                                {{if isset .Params "bar_img" }}<img src="{{ index .Params "var_img" }}">
-                            </div>{{ end }}
-                            <p>{{ .Params.varos }}</p>
-                        </div>
-                    </div>
-                    <div class="fimg">{{if isset .Params "product_image" }}<img
-                            src="{{ index .Params "product_image" }}"></div>
-                    {{ end }}
-                </a></div>
-           
-            <div class="plabels">
-                {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
-                    href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
-                        aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
-                {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
-                    href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
-                        aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
-        </div>
-        {{ end }}
-    </div>
-    {{ partial "pagination" . }}
-    <script>
-        $(".alltext").remove();
-        /*   $( document ).ready(function() {
-        $(".alltext").remove();
-});*/
-    </script>
     <style>
         .cattitle i {
             color: #ffa500;
@@ -256,6 +207,56 @@
             }
         }
     </style>
+</head>
+
+<body>
+    {{ partial "header" . }}
+    <div class="cattitle"><b>{{ len (where .Pages "Section" "!=" "") }}</b> Προϊόντα στην ετικέτα: <strong><i
+                class="fas fa-tag" aria-hidden="true"></i> {{ .Title }}</strong></div>
+    {{.Content}}
+    {{ partial "pagination2" . }}
+    <div class="product-list">
+        {{ range .Paginator.Pages.ByWeight }}
+        <div class="product">
+            <div class="post"><a href="{{.Permalink}}">
+                    <div class="ltitle">{{.Title}}</div>
+                    <div class="barvar">
+                        <div class="bar">
+                            <div class="bar-img">
+                                {{if isset .Params "bar_img" }}<img src="{{ index .Params "bar_img" }}">
+                            </div>{{ end }}
+                            <p>{{ .Params.barcode }}</p>
+                        </div>
+                        <div class="var">
+                            <div class="var-img">
+                                {{if isset .Params "bar_img" }}<img src="{{ index .Params "var_img" }}">
+                            </div>{{ end }}
+                            <p>{{ .Params.varos }}</p>
+                        </div>
+                    </div>
+                    <div class="fimg">{{if isset .Params "product_image" }}<img
+                            src="{{ index .Params "product_image" }}"></div>
+                    {{ end }}
+                </a></div>
+           
+            <div class="plabels">
+                {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
+                    href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
+                        aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+                {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
+                    href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
+                        aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
+        </div>
+        {{ end }}
+    </div>
+    {{ partial "pagination" . }}
+    <script>
+        $(".alltext").remove();
+        /*   $( document ).ready(function() {
+        $(".alltext").remove();
+});*/
+    </script>
+
     
     {{ partial "footer" . }}
 </body>

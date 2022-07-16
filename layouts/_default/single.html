@@ -2,893 +2,893 @@
 
 <head>
     {{ partial "head" . }}
-
-</head>
-<style>
-    .pimg:first-child {
-    display: none;
-}
-
-.pimg2 .pimg:nth-child(2) {
-    display: none;
-}
-    .fimg img {
-        width: 90%;
-        border: 0;
-        outline: 0;
-        min-width: 90px;
-        margin: auto;
-        display: flex;
-        cursor: pointer;
-        border-radius: 2px;
+    <style>
+        .pimg:first-child {
+        display: none;
     }
-
-    .relhead {
-        border-radius: 12px 6px 0 0;
-        font-weight: bold;
-        padding: 0;
-        background: #444;
-        color: #eee;
-        margin: -6 0 0 0;
-        border-bottom: 0px solid #333;
-        height: 63px;
+    
+    .pimg2 .pimg:nth-child(2) {
+        display: none;
     }
-
-    .relhead i {
-        background: #f47920;
-        border-top-left-radius: 6px;
-        font-size: 22px;
-        height: 63px;
-        width: 63px;
-        text-align: center;
-        line-height: 63px;
-    }
-
-    .wlist .plabels {
-        margin: 0;
-        font-size: 15px;
-        background: transparent;
-        border: 0px solid #eee;
-        display: flex;
-        gap: 2px;
-        border-top: 0;
-        position: relative;
-        padding: 0;
-        flex-direction: column-reverse;
-        text-align: left;
-    }
-
-    .wlist .plabels div {
-        padding: 2px 0px;
-        background: transparent;
-        text-decoration: none;
-        align-items: flex-start;
-        border-radius: 0px;
-      
-        color: #555;
-    }
-
-    .wlist .post {
-        padding: 15px;
-        border-radius: 0px;
-        position: relative;
-        display: grid;
-        grid-template-columns: 1fr 4fr;
-        grid-gap: 15px;
-    }
-
-    .wmain {
-        margin: 0;
-        border-top: 0;
-        background: #eeeeee;
+        .fimg img {
+            width: 90%;
+            border: 0;
+            outline: 0;
+            min-width: 90px;
+            margin: auto;
+            display: flex;
+            cursor: pointer;
+            border-radius: 2px;
+        }
+    
+        .relhead {
+            border-radius: 12px 6px 0 0;
+            font-weight: bold;
+            padding: 0;
+            background: #444;
+            color: #eee;
+            margin: -6 0 0 0;
+            border-bottom: 0px solid #333;
+            height: 63px;
+        }
+    
+        .relhead i {
+            background: #f47920;
+            border-top-left-radius: 6px;
+            font-size: 22px;
+            height: 63px;
+            width: 63px;
+            text-align: center;
+            line-height: 63px;
+        }
+    
+        .wlist .plabels {
+            margin: 0;
+            font-size: 15px;
+            background: transparent;
+            border: 0px solid #eee;
+            display: flex;
+            gap: 2px;
+            border-top: 0;
+            position: relative;
+            padding: 0;
+            flex-direction: column-reverse;
+            text-align: left;
+        }
+    
+        .wlist .plabels div {
+            padding: 2px 0px;
+            background: transparent;
+            text-decoration: none;
+            align-items: flex-start;
+            border-radius: 0px;
+          
+            color: #555;
+        }
+    
+        .wlist .post {
+            padding: 15px;
+            border-radius: 0px;
+            position: relative;
+            display: grid;
+            grid-template-columns: 1fr 4fr;
+            grid-gap: 15px;
+        }
+    
+        .wmain {
+            margin: 0;
+            border-top: 0;
+            background: #eeeeee;
+            transition: all .3s;
+        }
+    
+        .wlist h1 {
+            font-size: 17px;
+            margin: 0;
+            color: #333;
+            letter-spacing: -.3px;
+            padding: 0 10px 10px 0;
+            line-height: initial;
+        }
+    .wmain:hover {
+        filter: brightness(1);
         transition: all .3s;
-    }
-
-    .wlist h1 {
-        font-size: 17px;
-        margin: 0;
-        color: #333;
-        letter-spacing: -.3px;
-        padding: 0 10px 10px 0;
-        line-height: initial;
-    }
-.wmain:hover {
-    filter: brightness(1);
-    transition: all .3s;
-    background: orange !important;
-    color: #eee !important;
-}
-    .wlist {
-        padding: 0;
-        margin: 0;
-        list-style-type: none;
-        display: grid;
-        background: unset;
-        border-radius: 0 0 8px 8px;
-        border: 0px solid #eee;
-        border-top: 0;
-    }
-
-    .wmain .fimg {
-        margin: auto;
-        border: 2px solid #eee;
-        padding: 5px;
-        background: #fff;
-        border-radius: 6px;
-    }
-
-    .wmain:nth-child(odd) {
-        background: #fafafa;
-    }
-
-    .wmain:last-child {
-        border-radius: 0 0 6px 6px;
-    }
-
-    a.scat {
-        border-top: 2px solid #ddd;
-    }
-
-    .pimage {
-        margin-bottom: -18px;
-        padding: 0;
-        grid-row: 2;
-        margin-top: -82px;
-    }
-
-    .top-title {
-        grid-row: 1;
-        grid-column: 2;
-    }
-
-    .product {
-        grid-row: 2 / 10;
-        margin-top: -10px;
-    }
-
-    .sidebar {
-        grid-row: 3;
-    }
-
-    .fclose {
-        position: absolute;
-        top: 90px;
-        right: 15px;
-        width: 40px;
-        height: 40px;
-        cursor: pointer;
-        display: flex;
-        align-items: center;
-        transform: rotateZ(45deg);
-    }
-
-    .product th,
-    .product td,
-    .product p,
-    .product div,
-    .product ul {
-        border-radius: 4px;
-    }
-
-    .bline {
-        border-bottom: 2px solid #eee;
-        margin: 0 auto;
-        max-width: 1400px;
-    }
-
-    p.yah {
-        padding: 0px 10px 0px 0;
-        margin: 0;
-        font-weight: bold;
-        position: relative;
-        border-radius: 3px;
-        margin-right: 5px;
-    }
-
-    .pyah {
-        display: flex;
-        margin: 75px auto 0;
-        padding: 25px 15px;
-        border-bottom: 0px solid #eee;
-        font-size: 17.5px;
-        color: #e0dddb;
-        max-width: 1400px;
-        border-radius: 0px;
-        justify-content: center;
-        letter-spacing: 0px;
-        align-items: center;
-        flex-wrap: wrap;
-        gap: 15px 0;
-    }
-
-    .pyah i {
-        font-size: 16px;
-        color: orange;
-        margin-right: 5px;
-    }
-
-    a.home i {
-        font-size: 19px;
-        color: #ddd;
-        margin: 0;
-    }
-
-    a.home {
-        text-decoration: none;
-        margin-left: 0px;
-        padding: 7px;
-        background: #d91a32;
-        font-weight: bold;
-        text-align: center;
-        display: flex;
-        align-items: center;
-        border-radius: 3px;
-        margin-right: 5px;
-    }
-
-    /*a.cat {
-    text-decoration: none;
-    color: white;
-    padding: 5px 10px;
-    background: #ff5500;
-    font-weight: normal;
-    border-radius: 3px;
-}*/
-    a.cat,
-    a.tag {
-        text-decoration: none;
-        color: #e0dddb;
-        padding: 0px 10px;
-        font-weight: bold;
-        border-radius: 0;
-        border-right: 2px solid #555;
-    }
-
-    a:hover.home,
-    a:hover.cat {
-        background: #444;
-    }
-
-    .ptitle {
-        padding: 0px 10px;
-    }
-
-    .main {
-        display: grid;
-        gap: 24px;
-        grid-template-columns: 458px 2fr;
-        justify-content: space-evenly;
-        margin-top: 30px;
-    }
-
-    .post {
-        border: 0px solid #eee;
-        padding: 0px;
-        border-radius: 6px;
-    }
-
-    .pimg img,
-    .pimg3 img {
-        width: 50%;
-        height: auto;
-        mix-blend-mode: multiply;
-    }
-
-    #sistatika,
-    #loipa {
-        background: #eee;
-        border-bottom: solid 0px #ccc;
-        color: #555555;
-        padding: 10px 15px;
-        font-weight: bold;
-        font-size: 19px;
-        margin: 0px;
-        border-radius: 4px;
-    }
-
-    .alltext {
-        padding-top: 15px;
-        padding-bottom: 15px;
-        padding-left: 0px;
-        padding-right: 0px;
-        color: #444;
-        font-size: 19px;
-    }
-
-    .alltext,
-    .post p,
-    .post div {
-        line-height: 25px;
-    }
-
-    h1 {
-        font-size: 30px;
-        margin: 10px 0 25px 0;
-        color: #444;
-        letter-spacing: -.5;
-    }
-
-    #flag {
-        display: flex;
-        margin: -15px 0 15px 0;
-        gap: 5px;
-    }
-
-    #flagimage img {
-        width: 32px;
-    }
-
-    #pics2 {
-        display: block;
-    }
-
-    #flagimage2 {
-        display: none;
-    }
-
-    #barcode {
-        background: #ddd;
-        display: table;
-        float: left;
-        height: 40px;
-        padding: 0px;
-        width: 50%;
-        border-radius: 6px 0 0 6px;
-        margin-bottom: 15px;
-    }
-
-    #barimage {
-        background: #eee;
-        border-radius: 4px 0 0 4px;
-        float: left;
-        height: 40px;
-        width: 40px;
-    }
-
-    #barimage img {
-        display: block;
-        height: 22px;
-        margin: 0px auto;
-        padding-top: 9px;
-        text-align: center;
-        vertical-align: middle;
-        width: 19px;
-        border-style: none !important;
-    }
-
-    #bartext {
-        color: #444;
-        float: left;
-        font-size: 20px;
-        line-height: 40px;
-        margin-left: 10px;
-        font-weight: 700;
-    }
-
-    #varos {
-        background: #bbb;
-        display: table;
-        float: left;
-        height: 40px;
-        padding: 0px;
-        width: 50%;
-        border-radius: 4px;
-    }
-
-    #varosimage {
-        background: #eee;
-        border-radius: 0%;
-        float: left;
-        height: 40px;
-        width: 40px;
-    }
-
-    #barimage1 {
-        background: #eee;
-        border-radius: 0%;
-        float: left;
-        height: 40px;
-        width: 40px;
-        background-image: url(/media/svg/barcode.svg);
-        background-size: 19px 22px;
-        background-repeat: no-repeat;
-        background-position: center;
-        border-radius: 4px 0 0 4px;
-    }
-
-    #varosimage1 {
-        background: #eee;
-        border-radius: 0%;
-        float: left;
-        height: 40px;
-        width: 40px;
-        background-image: url(/media/svg/varos.svg);
-        background-size: 19px 22px;
-        background-repeat: no-repeat;
-        background-position: center;
-    }
-
-    #powerimage {
-        background: #eee;
-        border-radius: 0%;
-        float: left;
-        height: 40px;
-        width: 40px;
-        background-image: url(/media/icons/power.svg);
-        background-size: 19px 22px;
-        background-repeat: no-repeat;
-        background-position: center;
-    }
-
-    #dimimg {
-        background: #eee;
-        border-radius: 0%;
-        float: left;
-        height: 40px;
-        width: 40px;
-        background-image: url(/media/svg/dcm.svg);
-        background-size: 19px 22px;
-        background-repeat: no-repeat;
-        background-position: center;
-    }
-
-    #temimg {
-        background: #eee;
-        border-radius: 0%;
-        float: left;
-        height: 40px;
-        width: 40px;
-        background-image: url(/media/svg/tem.svg);
-        background-size: 19px 22px;
-        background-repeat: no-repeat;
-        background-position: center;
-    }
-
-    #varosimage img {
-        display: block;
-        height: 22px;
-        margin: 0px auto;
-        padding-top: 9px;
-        text-align: center;
-        vertical-align: middle;
-        width: 19px;
-        border-style: none !important;
-    }
-
-    #varostext {
-        color: #444;
-        float: left;
-        font-size: 20px;
-        line-height: 40px;
-        margin-left: 10px;
-        font-weight: 700;
-    }
-
-    #kivotio {
-        background: #555;
-        padding: 0px;
-        color: white;
-        clear: both;
-        font-weight: bold;
-        margin-top: 2px;
-        visibility: hidden;
-        height: 0;
-    }
-
-    .keno {
-        width: auto;
-        height: 18px;
-    }
-
-    .pgray {
-        padding: 20px;
-        background: #eee;
-        margin: 0;
-    }
-
-    .pdanger {
-        padding: 10px;
-        background-color: red;
-        color: #fff;
-        font-weight: bold;
-        margin: 0;
-        text-align: center;
-    }
-
-    .pgend {
-        padding: 10px;
-        color: #fff;
-        font-weight: bold;
-        margin: 0;
-        text-align: center;
-    }
-
-    .pgenw {
-        padding: 10px;
-        color: #000;
-        font-weight: bold;
-        margin: 0;
-    }
-
-    th br {
-        display: block !important;
-    }
-
-    #diatable {
-        width: 100%;
-        border: 0px solid black;
-        border-collapse: separate;
-        border-spacing: 2px;
-        font-size: 19px;
-    }
-
-    #diatable p {
-        margin: 0;
-    }
-
-    #diatable th {
-        background: darkorange;
-        padding: 15px 15px;
-        border: 1px solid white;
-        text-align: center;
-        color: white;
-        text-shadow: 0px 0px 0px black;
-    }
-
-    #diatable td {
-        background: #eee;
-        padding: 10px 15px;
-        border: 1px solid white;
-    }
-
-    #diatable tr:last-child td {
-        border-bottom: 0;
-        border-right: 0;
-    }
-
-    #diatable tr th {
-        border-right: 0;
-        border-top: 0;
-    }
-
-    #diatable tr td:first-child,
-    #diatable tr th:first-child {
-        border-left: 0;
-    }
-
-    #diatable tr td {
-        border-right: 0;
-    }
-
-    #diatable tr td {
-        border-top: 0;
-    }
-
-    .texr {
-        text-align: right;
-    }
-
-    .gray {
-        background: #666 !important;
-        color: #eee;
-        font-weight: bold;
-    }
-
-    .gray2 {
-        background: #666 !important;
-        color: #eee;
-        text-align: right;
-    }
-
-    .texr2 {
-        font-weight: bold;
-    }
-
-    td br {
-        display: block !important;
-    }
-
-    .plabels {
-        padding: 20px 10px;
-        margin: 0;
-        font-size: 19px;
-        border-radius: 6px !important;
-        border: 0px solid #eee;
-        background: #eee;
-    }
-
-    .plabels i {
-        margin-right: 10px;
-    }
-
-    .plabels a {
-        padding: 10px 15px;
-        background: #ff5500;
-        text-decoration: none;
-        color: white;
-        border-radius: 4px;
-        align-items: center;
-    }
-
-    .plabels a:hover {
-        background: #444;
-    }
-
-    .product .product {
-        padding: 0;
-        border: 0;
-    }
-
-    .pimg,
-    .pimg3 {
-        cursor: pointer !important;
-        padding: 15px;
-        border: 0px solid #eee;
-        border-radius: 6px;
-        margin-bottom: 26px;
-        background: #f2f2f2;
-    }
-
-    .post br:last-child {
-        display: block;
-    }
-
-    @keyframes example {
-        from {
-            top: -100%;
+        background: orange !important;
+        color: #eee !important;
+    }
+        .wlist {
+            padding: 0;
+            margin: 0;
+            list-style-type: none;
+            display: grid;
+            background: unset;
+            border-radius: 0 0 8px 8px;
+            border: 0px solid #eee;
+            border-top: 0;
         }
-
-        to {
-            top: 0px;
+    
+        .wmain .fimg {
+            margin: auto;
+            border: 2px solid #eee;
+            padding: 5px;
+            background: #fff;
+            border-radius: 6px;
         }
-    }
-
-    @keyframes example2 {
-        0% {
-            opacity: 0;
+    
+        .wmain:nth-child(odd) {
+            background: #fafafa;
         }
-
-        55% {
-            opacity: 0;
+    
+        .wmain:last-child {
+            border-radius: 0 0 6px 6px;
         }
-
-        100% {
-            opacity: 1;
+    
+        a.scat {
+            border-top: 2px solid #ddd;
         }
-    }
-
-    .pimg2 {
-        position: fixed;
-        top: -100%;
-        right: 15px;
-        bottom: 0;
-        left: 15px;
-        width: auto;
-        height: 100%;
-        margin: 0 auto;
-        z-index: 3;
-        border: 0;
-        display: flex;
-        justify-content: center;
-        flex-direction: column-reverse;
-    }
-
-    .pimg2 .pimg,
-    .pimg2 .pimg3 {
-        cursor: pointer !important;
-        padding: 0px;
-        border: 0px solid #eee;
-        border-radius: 6px;
-        margin-bottom: 0px;
-        background: unset;
-    }
-
-    .pimg2bg {
-        position: fixed;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        padding: 20px;
-        box-sizing: border-box;
-        background: rgb(0 0 0 / 94%);
-        display: none;
-        z-index: 2;
-    }
-
-    .pimg3 img,
-    .pimg img {
-        width: 100%;
-        border: 0;
-        outline: 0;
-        max-width: 500px;
-        margin: auto;
-        display: flex;
-        cursor: pointer;
-        padding: 0 !important;
-    }
-
-    .pimg2 .pimg img,
-    .pimg2 .pimg3 img {
-        width: 100%;
-        display: flex;
-        animation-name: example;
-        animation-duration: 1s;
-        position: relative;
-        top: 0px;
-        height: auto;
-        border-radius: 6px;
-        max-width: 700px;
-        height: auto;
-    }
-
-    .imgcaption {
-        display: none;
-        bottom: 30px;
-        left: 0;
-        text-align: center;
-        animation-name: example2;
-        animation-duration: 2s;
-        color: #eee;
-        right: 0;
-    }
-
-    .tabout {
-        overflow: auto;
-        margin: 0 -2px;
-    }
-
-    .pimg3 {
-        display: none;
-    }
-/* TABLE 2*/
-
-.dia2 tr:nth-child(3) td, .dia2 tr:nth-child(5) td {
-    background: #666 !important;
-    color: #eee;
-}
-
-.dia2 td:first-child {
-    font-weight: bold;
-}
-    @media only screen and (max-width: 1103px) {
-
-        #sistatika,
-        #loipa {
-            margin: 0 -15px;
-            border-radius: 0;
+    
+        .pimage {
+            margin-bottom: -18px;
+            padding: 0;
+            grid-row: 2;
+            margin-top: -82px;
         }
-
+    
         .top-title {
             grid-row: 1;
-            grid-column: 1;
+            grid-column: 2;
         }
-
+    
         .product {
+            grid-row: 2 / 10;
+            margin-top: -10px;
+        }
+    
+        .sidebar {
             grid-row: 3;
         }
-
-        .pimage {
-            margin: -22 -15px;
-            grid-row:2;
+    
+        .fclose {
+            position: absolute;
+            top: 90px;
+            right: 15px;
+            width: 40px;
+            height: 40px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            transform: rotateZ(45deg);
         }
-
-        .pimg {
+    
+        .product th,
+        .product td,
+        .product p,
+        .product div,
+        .product ul {
+            border-radius: 4px;
+        }
+    
+        .bline {
+            border-bottom: 2px solid #eee;
+            margin: 0 auto;
+            max-width: 1400px;
+        }
+    
+        p.yah {
+            padding: 0px 10px 0px 0;
+            margin: 0;
+            font-weight: bold;
+            position: relative;
+            border-radius: 3px;
+            margin-right: 5px;
+        }
+    
+        .pyah {
+            display: flex;
+            margin: 75px auto 0;
+            padding: 25px 15px;
+            border-bottom: 0px solid #eee;
+            font-size: 17.5px;
+            color: #e0dddb;
+            max-width: 1400px;
+            border-radius: 0px;
+            justify-content: center;
+            letter-spacing: 0px;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px 0;
+        }
+    
+        .pyah i {
+            font-size: 16px;
+            color: orange;
+            margin-right: 5px;
+        }
+    
+        a.home i {
+            font-size: 19px;
+            color: #ddd;
+            margin: 0;
+        }
+    
+        a.home {
+            text-decoration: none;
+            margin-left: 0px;
+            padding: 7px;
+            background: #d91a32;
+            font-weight: bold;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            border-radius: 3px;
+            margin-right: 5px;
+        }
+    
+        /*a.cat {
+        text-decoration: none;
+        color: white;
+        padding: 5px 10px;
+        background: #ff5500;
+        font-weight: normal;
+        border-radius: 3px;
+    }*/
+        a.cat,
+        a.tag {
+            text-decoration: none;
+            color: #e0dddb;
+            padding: 0px 10px;
+            font-weight: bold;
             border-radius: 0;
+            border-right: 2px solid #555;
         }
-
-        .sidebar {
-            grid-row: 4;
-            margin: 10px -15px 0;
+    
+        a:hover.home,
+        a:hover.cat {
+            background: #444;
         }
-
-        p.relhead {
-            border-radius: 0;
-        }
-
-        .relhead i {
-            border-radius: 0;
-        }
-
-        .main {
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            padding: 15px;
-            margin-top: 0;
-        }
-
-        ul.wlist {
-            grid-template-columns: auto;
-        }
-
-        .wmain {
-            zoom: 130%;
-        }
-
-        .plabels {
-            padding: 20px 15px;
-            border-radius: 0px !important;
-            background: #eee;
-            margin: 0 -15px;
-        }
-    }
-
-    @media only screen and (max-width: 770px) {
+    
         .ptitle {
+            padding: 0px 10px;
+        }
+    
+        .main {
+            display: grid;
+            gap: 24px;
+            grid-template-columns: 458px 2fr;
+            justify-content: space-evenly;
+            margin-top: 30px;
+        }
+    
+        .post {
+            border: 0px solid #eee;
+            padding: 0px;
+            border-radius: 6px;
+        }
+    
+        .pimg img,
+        .pimg3 img {
+            width: 50%;
+            height: auto;
+            mix-blend-mode: multiply;
+        }
+    
+        #sistatika,
+        #loipa {
+            background: #eee;
+            border-bottom: solid 0px #ccc;
+            color: #555555;
+            padding: 10px 15px;
+            font-weight: bold;
+            font-size: 19px;
+            margin: 0px;
+            border-radius: 4px;
+        }
+    
+        .alltext {
+            padding-top: 15px;
+            padding-bottom: 15px;
+            padding-left: 0px;
+            padding-right: 0px;
+            color: #444;
+            font-size: 19px;
+        }
+    
+        .alltext,
+        .post p,
+        .post div {
+            line-height: 25px;
+        }
+    
+        h1 {
+            font-size: 30px;
+            margin: 10px 0 25px 0;
+            color: #444;
+            letter-spacing: -.5;
+        }
+    
+        #flag {
+            display: flex;
+            margin: -15px 0 15px 0;
+            gap: 5px;
+        }
+    
+        #flagimage img {
+            width: 32px;
+        }
+    
+        #pics2 {
+            display: block;
+        }
+    
+        #flagimage2 {
             display: none;
         }
-
-        a.tag {
-            border-right: 0;
-        }
-
-        a.home {
-            padding: 5px;
-        }
-    }
-
-    @media only screen and (max-width: 570px) {
+    
         #barcode {
             background: #ddd;
-            display: block;
-            float: none;
+            display: table;
+            float: left;
             height: 40px;
             padding: 0px;
-            width: 100%;
-            border-radius: 4px 4px 0 0;
+            width: 50%;
+            border-radius: 6px 0 0 6px;
             margin-bottom: 15px;
         }
-
-        .wmain {
-            zoom: 105%;
+    
+        #barimage {
+            background: #eee;
+            border-radius: 4px 0 0 4px;
+            float: left;
+            height: 40px;
+            width: 40px;
         }
-
-        #diatable {
-            font-size: 16px;
+    
+        #barimage img {
+            display: block;
+            height: 22px;
+            margin: 0px auto;
+            padding-top: 9px;
+            text-align: center;
+            vertical-align: middle;
+            width: 19px;
+            border-style: none !important;
         }
-
-        p.yah {
-            display: none;
+    
+        #bartext {
+            color: #444;
+            float: left;
+            font-size: 20px;
+            line-height: 40px;
+            margin-left: 10px;
+            font-weight: 700;
         }
-
+    
         #varos {
             background: #bbb;
-            display: block;
-            float: none;
+            display: table;
+            float: left;
             height: 40px;
             padding: 0px;
-            width: 100%;
-            border-radius: 0 0 4px 4px;
-            margin-top: -15px;
-            margin-bottom: 15px;
+            width: 50%;
+            border-radius: 4px;
         }
-
-        #varos div {
-            border-radius: 0 0 0 4px;
+    
+        #varosimage {
+            background: #eee;
+            border-radius: 0%;
+            float: left;
+            height: 40px;
+            width: 40px;
         }
-
-        #barcode div {
-            border-radius: 4px 0 0 0;
+    
+        #barimage1 {
+            background: #eee;
+            border-radius: 0%;
+            float: left;
+            height: 40px;
+            width: 40px;
+            background-image: url(/media/svg/barcode.svg);
+            background-size: 19px 22px;
+            background-repeat: no-repeat;
+            background-position: center;
+            border-radius: 4px 0 0 4px;
         }
-
-        .plabels {
-            grid-gap: 5px;
-            border: 0;
-            font-size: 13px;
+    
+        #varosimage1 {
+            background: #eee;
+            border-radius: 0%;
+            float: left;
+            height: 40px;
+            width: 40px;
+            background-image: url(/media/svg/varos.svg);
+            background-size: 19px 22px;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    
+        #powerimage {
+            background: #eee;
+            border-radius: 0%;
+            float: left;
+            height: 40px;
+            width: 40px;
+            background-image: url(/media/icons/power.svg);
+            background-size: 19px 22px;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    
+        #dimimg {
+            background: #eee;
+            border-radius: 0%;
+            float: left;
+            height: 40px;
+            width: 40px;
+            background-image: url(/media/svg/dcm.svg);
+            background-size: 19px 22px;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    
+        #temimg {
+            background: #eee;
+            border-radius: 0%;
+            float: left;
+            height: 40px;
+            width: 40px;
+            background-image: url(/media/svg/tem.svg);
+            background-size: 19px 22px;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    
+        #varosimage img {
+            display: block;
+            height: 22px;
+            margin: 0px auto;
+            padding-top: 9px;
+            text-align: center;
+            vertical-align: middle;
+            width: 19px;
+            border-style: none !important;
+        }
+    
+        #varostext {
+            color: #444;
+            float: left;
+            font-size: 20px;
+            line-height: 40px;
+            margin-left: 10px;
+            font-weight: 700;
+        }
+    
+        #kivotio {
+            background: #555;
+            padding: 0px;
+            color: white;
+            clear: both;
+            font-weight: bold;
+            margin-top: 2px;
+            visibility: hidden;
+            height: 0;
+        }
+    
+        .keno {
+            width: auto;
+            height: 18px;
+        }
+    
+        .pgray {
+            padding: 20px;
+            background: #eee;
+            margin: 0;
+        }
+    
+        .pdanger {
+            padding: 10px;
+            background-color: red;
+            color: #fff;
+            font-weight: bold;
+            margin: 0;
             text-align: center;
         }
-    }
-
-    @media only screen and (max-width: 430px) {
-        .yah {
+    
+        .pgend {
+            padding: 10px;
+            color: #fff;
+            font-weight: bold;
+            margin: 0;
+            text-align: center;
+        }
+    
+        .pgenw {
+            padding: 10px;
+            color: #000;
+            font-weight: bold;
+            margin: 0;
+        }
+    
+        th br {
+            display: block !important;
+        }
+    
+        #diatable {
+            width: 100%;
+            border: 0px solid black;
+            border-collapse: separate;
+            border-spacing: 2px;
+            font-size: 19px;
+        }
+    
+        #diatable p {
+            margin: 0;
+        }
+    
+        #diatable th {
+            background: darkorange;
+            padding: 15px 15px;
+            border: 1px solid white;
+            text-align: center;
+            color: white;
+            text-shadow: 0px 0px 0px black;
+        }
+    
+        #diatable td {
+            background: #eee;
+            padding: 10px 15px;
+            border: 1px solid white;
+        }
+    
+        #diatable tr:last-child td {
+            border-bottom: 0;
+            border-right: 0;
+        }
+    
+        #diatable tr th {
+            border-right: 0;
+            border-top: 0;
+        }
+    
+        #diatable tr td:first-child,
+        #diatable tr th:first-child {
+            border-left: 0;
+        }
+    
+        #diatable tr td {
+            border-right: 0;
+        }
+    
+        #diatable tr td {
+            border-top: 0;
+        }
+    
+        .texr {
+            text-align: right;
+        }
+    
+        .gray {
+            background: #666 !important;
+            color: #eee;
+            font-weight: bold;
+        }
+    
+        .gray2 {
+            background: #666 !important;
+            color: #eee;
+            text-align: right;
+        }
+    
+        .texr2 {
+            font-weight: bold;
+        }
+    
+        td br {
+            display: block !important;
+        }
+    
+        .plabels {
+            padding: 20px 10px;
+            margin: 0;
+            font-size: 19px;
+            border-radius: 6px !important;
+            border: 0px solid #eee;
+            background: #eee;
+        }
+    
+        .plabels i {
+            margin-right: 10px;
+        }
+    
+        .plabels a {
+            padding: 10px 15px;
+            background: #ff5500;
+            text-decoration: none;
+            color: white;
+            border-radius: 4px;
+            align-items: center;
+        }
+    
+        .plabels a:hover {
+            background: #444;
+        }
+    
+        .product .product {
+            padding: 0;
+            border: 0;
+        }
+    
+        .pimg,
+        .pimg3 {
+            cursor: pointer !important;
+            padding: 15px;
+            border: 0px solid #eee;
+            border-radius: 6px;
+            margin-bottom: 26px;
+            background: #f2f2f2;
+        }
+    
+        .post br:last-child {
+            display: block;
+        }
+    
+        @keyframes example {
+            from {
+                top: -100%;
+            }
+    
+            to {
+                top: 0px;
+            }
+        }
+    
+        @keyframes example2 {
+            0% {
+                opacity: 0;
+            }
+    
+            55% {
+                opacity: 0;
+            }
+    
+            100% {
+                opacity: 1;
+            }
+        }
+    
+        .pimg2 {
+            position: fixed;
+            top: -100%;
+            right: 15px;
+            bottom: 0;
+            left: 15px;
+            width: auto;
+            height: 100%;
+            margin: 0 auto;
+            z-index: 3;
+            border: 0;
+            display: flex;
+            justify-content: center;
+            flex-direction: column-reverse;
+        }
+    
+        .pimg2 .pimg,
+        .pimg2 .pimg3 {
+            cursor: pointer !important;
+            padding: 0px;
+            border: 0px solid #eee;
+            border-radius: 6px;
+            margin-bottom: 0px;
+            background: unset;
+        }
+    
+        .pimg2bg {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            padding: 20px;
+            box-sizing: border-box;
+            background: rgb(0 0 0 / 94%);
+            display: none;
+            z-index: 2;
+        }
+    
+        .pimg3 img,
+        .pimg img {
+            width: 100%;
+            border: 0;
+            outline: 0;
+            max-width: 500px;
+            margin: auto;
+            display: flex;
+            cursor: pointer;
+            padding: 0 !important;
+        }
+    
+        .pimg2 .pimg img,
+        .pimg2 .pimg3 img {
+            width: 100%;
+            display: flex;
+            animation-name: example;
+            animation-duration: 1s;
+            position: relative;
+            top: 0px;
+            height: auto;
+            border-radius: 6px;
+            max-width: 700px;
+            height: auto;
+        }
+    
+        .imgcaption {
+            display: none;
+            bottom: 30px;
+            left: 0;
+            text-align: center;
+            animation-name: example2;
+            animation-duration: 2s;
+            color: #eee;
+            right: 0;
+        }
+    
+        .tabout {
+            overflow: auto;
+            margin: 0 -2px;
+        }
+    
+        .pimg3 {
             display: none;
         }
+    /* TABLE 2*/
+    
+    .dia2 tr:nth-child(3) td, .dia2 tr:nth-child(5) td {
+        background: #666 !important;
+        color: #eee;
     }
-</style>
+    
+    .dia2 td:first-child {
+        font-weight: bold;
+    }
+        @media only screen and (max-width: 1103px) {
+    
+            #sistatika,
+            #loipa {
+                margin: 0 -15px;
+                border-radius: 0;
+            }
+    
+            .top-title {
+                grid-row: 1;
+                grid-column: 1;
+            }
+    
+            .product {
+                grid-row: 3;
+            }
+    
+            .pimage {
+                margin: -22 -15px;
+                grid-row:2;
+            }
+    
+            .pimg {
+                border-radius: 0;
+            }
+    
+            .sidebar {
+                grid-row: 4;
+                margin: 10px -15px 0;
+            }
+    
+            p.relhead {
+                border-radius: 0;
+            }
+    
+            .relhead i {
+                border-radius: 0;
+            }
+    
+            .main {
+                grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+                padding: 15px;
+                margin-top: 0;
+            }
+    
+            ul.wlist {
+                grid-template-columns: auto;
+            }
+    
+            .wmain {
+                zoom: 130%;
+            }
+    
+            .plabels {
+                padding: 20px 15px;
+                border-radius: 0px !important;
+                background: #eee;
+                margin: 0 -15px;
+            }
+        }
+    
+        @media only screen and (max-width: 770px) {
+            .ptitle {
+                display: none;
+            }
+    
+            a.tag {
+                border-right: 0;
+            }
+    
+            a.home {
+                padding: 5px;
+            }
+        }
+    
+        @media only screen and (max-width: 570px) {
+            #barcode {
+                background: #ddd;
+                display: block;
+                float: none;
+                height: 40px;
+                padding: 0px;
+                width: 100%;
+                border-radius: 4px 4px 0 0;
+                margin-bottom: 15px;
+            }
+    
+            .wmain {
+                zoom: 105%;
+            }
+    
+            #diatable {
+                font-size: 16px;
+            }
+    
+            p.yah {
+                display: none;
+            }
+    
+            #varos {
+                background: #bbb;
+                display: block;
+                float: none;
+                height: 40px;
+                padding: 0px;
+                width: 100%;
+                border-radius: 0 0 4px 4px;
+                margin-top: -15px;
+                margin-bottom: 15px;
+            }
+    
+            #varos div {
+                border-radius: 0 0 0 4px;
+            }
+    
+            #barcode div {
+                border-radius: 4px 0 0 0;
+            }
+    
+            .plabels {
+                grid-gap: 5px;
+                border: 0;
+                font-size: 13px;
+                text-align: center;
+            }
+        }
+    
+        @media only screen and (max-width: 430px) {
+            .yah {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
 <body>
     {{ partial "header" . }}
-    <div class="search-hide" style="display: none;">
+    
         <div style="border-bottom: 0px solid #eee; background: #3a3939; margin: -5px auto;">
             <div class="pyah">
                 <p class="yah"><span style="
@@ -958,7 +958,7 @@
                     <p class="imgcaption">{{.Title}}</p>
                 </div>
             </div>
-        </div></div>
+        </div>
         {{ partial "footer" . }}
     
 </body>
