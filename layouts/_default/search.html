@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <div class="container">
+    <div class="container" style="display: none;">
         {{ partial "header" . }}
         <div class="cattitle">
             <div class="stitle">
@@ -140,6 +140,12 @@
         $(".nores button").click(function () {
             $(".nores, li").hide();
             $(".cattitle").show();
+        });
+        $(document).ready(function () {
+           
+                $('.container').show()
+                
+            
         });
     </script>
     <style>

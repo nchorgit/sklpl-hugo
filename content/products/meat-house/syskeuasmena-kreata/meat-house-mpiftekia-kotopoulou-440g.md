@@ -1,9 +1,10 @@
 ---
-title: "Meat House Μπιφτέκια κοτόπουλου"
+title: "Meat House Μπιφτέκια κοτόπουλου 440g"
 categories: ["Meat House"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/assets/images/meat-house-mpiftekia-kotopoulou-440g.jpg"
+product_image_lowres: "/assets/images/low/meat-house-mpiftekia-kotopoulou-440g.jpg"
+barcode: "5213002030196"
+varos: "440g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

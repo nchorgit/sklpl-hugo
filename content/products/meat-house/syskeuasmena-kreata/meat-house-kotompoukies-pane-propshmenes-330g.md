@@ -1,9 +1,10 @@
 ---
 title: "Meat House Κοτομπουκιές πανέ προψημένες 330g"
 categories: ["Meat House"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/assets/images/meat-house-kotompoukies-pane-propshmenes-330g.jpg"
+product_image_lowres: "/assets/images/low/meat-house-kotompoukies-pane-propshmenes-330g.jpg"
+barcode: "5213002030141"
+varos: "330g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

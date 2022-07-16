@@ -1,9 +1,10 @@
 ---
 title: "Meat House Σνίτσελ κοτόπουλου πανέ προψημένο 330g"
 categories: ["Meat House"]
-product_image: ""
-barcode: ""
-varos: ""
+product_image: "/assets/images/meat-house-snitsel-kotopoulou-pane-propshmeno-330g.jpg"
+product_image_lowres: "/assets/images/low/meat-house-snitsel-kotopoulou-pane-propshmeno-330g.jpg"
+barcode: "5213002030158"
+varos: "330g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
