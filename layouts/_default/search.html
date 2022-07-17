@@ -149,9 +149,7 @@
         });
     </script>
     <style>
-        body {
-            background: #eee;
-        }
+       
 
         .res2 {
             display: flex;
@@ -359,7 +357,7 @@
             text-align: left;
             justify-content: left;
             border-bottom: 2px solid #eee;
-            background: transparent;
+            background: #eee;
             font-size: 22px;
             height: 100px;
             align-items: center;
@@ -383,13 +381,14 @@
             margin: 0 0 0 196px;
             border-top: 2px solid #eee;
             align-items: center;
+            background: #ff5500;
         }
 
         .plabels a {
             padding: 5px 10px;
-            background: #eee;
+            background: #e64d00;
             text-decoration: none;
-            color: #555;
+            color: #eee;
             font-size: 16px;
             font-weight: 500;
             border-radius: 3px;
@@ -543,7 +542,7 @@
         @media only screen and (max-width: 665px) {
             .lprod {
                 grid-template-columns: auto auto;
-                grid-gap: 5px;
+                grid-gap: 15px;
             }
 
             .barvar {
@@ -556,9 +555,9 @@
             }
 
             h1.ltitle {
-                font-size: 20px;
+                font-size: 21px;
                 margin: 0;
-                text-align: center;
+                justify-content: center;
             }
 
             .fimg {
@@ -589,13 +588,16 @@
         @media only screen and (max-width: 590px) {
             .lprod {
                 grid-template-columns: auto;
-                grid-gap: 5px;
-                margin: -165px -15px -15px;
+                grid-gap: 15px;
+                /*margin: -165px -15px -15px;*/
+            }
+            .fimg {
+                width: 250px;
             }
 
-            .lprod li {
-                border: 0;
-                border-radius: 0;
+            .plabels {
+                display: flex;
+                justify-content: center;
             }
         }
 
@@ -620,6 +622,7 @@
             #sbutton i {
                 margin: 0;
             }
+            
         }
 
         @media only screen and (max-width: 421px) {

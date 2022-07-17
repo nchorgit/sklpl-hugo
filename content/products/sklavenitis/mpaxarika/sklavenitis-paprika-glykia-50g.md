@@ -9,7 +9,7 @@ varos: "50g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
-tags: ["Χυμοί"]
+tags: ["Μπαχαρικά"]
 
 ---
 {{< rawhtml >}}
