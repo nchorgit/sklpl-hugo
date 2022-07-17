@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Καλαμπόκι ωμό για ποπ κορν 
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-kalampoki-wmo-gia-pop-korn-el-250g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-kalampoki-wmo-gia-pop-korn-el-250g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-kalampoki-wmo-gia-pop-korn-el-250g.jpg"
 barcode: "5202576475137"
 varos: "250g"
 bar_img: "/media/svg/barcode.svg"

@@ -3,7 +3,7 @@ title: "Baker Master Pizza Special 540g"
 weight: 4
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-pizza-special-540g.jpg"
-product_image_lowres: "/assets/images/low/baker-master-pizza-special-540g.jpg"
+product_image_lowres: "/assets/low/baker-master-pizza-special-540g.jpg"
 barcode: "5213000480245"
 varos: "540g"
 bar_img: "/media/svg/barcode.svg"

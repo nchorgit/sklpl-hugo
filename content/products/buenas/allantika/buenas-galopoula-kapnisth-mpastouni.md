@@ -2,7 +2,7 @@
 title: "Buenas Γαλοπούλα καπνιστή μπαστούνι"
 categories: ["Buenas"]
 product_image: "/assets/images/buenas-galopoula-kapnisth-mpastouni.jpg"
-product_image_lowres: "/assets/images/low/buenas-galopoula-kapnisth-mpastouni.jpg"
+product_image_lowres: "/assets/low/buenas-galopoula-kapnisth-mpastouni.jpg"
 barcode: "ΠΩΛΗΣΗ ΧΥΜΑ"
 varos: "240 μερίδες"
 bar_img: "/media/svg/barcode.svg"

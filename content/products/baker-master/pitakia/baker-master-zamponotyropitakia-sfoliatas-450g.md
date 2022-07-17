@@ -3,7 +3,7 @@ title: "Baker Master Ζαμπονοτυροπιτάκια σφολιάτας 450
 weight: 3
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-zamponotyropitakia-sfoliatas-450g.jpg"
-product_image_lowres: "/assets/images/low/baker-master-zamponotyropitakia-sfoliatas-450g.jpg"
+product_image_lowres: "/assets/low/baker-master-zamponotyropitakia-sfoliatas-450g.jpg"
 barcode: "5213000480016"
 varos: "450g"
 bar_img: "/media/svg/barcode.svg"

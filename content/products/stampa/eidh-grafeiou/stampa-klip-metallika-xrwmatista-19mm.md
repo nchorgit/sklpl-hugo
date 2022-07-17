@@ -2,7 +2,7 @@
 title: "Stampa Κλιπ μεταλλικά χρωματιστά 19mm"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-klip-metallika-xrwmatista-19mm.jpg"
-product_image_lowres: "/assets/images/low/stampa-klip-metallika-xrwmatista-19mm.jpg"
+product_image_lowres: "/assets/low/stampa-klip-metallika-xrwmatista-19mm.jpg"
 barcode: "5202576634947"
 varos: "10 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

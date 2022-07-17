@@ -3,7 +3,7 @@ title: "Μαράτα Παπάγια ζαχαρωμένη 250g"
 weight: 2
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-papagia-zaxarwmenh-250g.jpg"
-product_image_lowres: "/assets/images/low/marata-papagia-zaxarwmenh-250g.jpg"
+product_image_lowres: "/assets/low/marata-papagia-zaxarwmenh-250g.jpg"
 barcode: "5202576101913"
 varos: "250g"
 bar_img: "/media/svg/barcode.svg"

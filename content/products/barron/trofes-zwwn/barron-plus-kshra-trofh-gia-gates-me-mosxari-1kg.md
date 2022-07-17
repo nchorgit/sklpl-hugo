@@ -2,7 +2,7 @@
 title: "Barron Plus Ξηρά τροφή για γάτες με Μοσχάρι 1Kg"
 categories: ["Barron"]
 product_image: "/assets/images/barron-plus-kshra-trofh-gia-gates-me-mosxari-1kg.jpg"
-product_image_lowres: "/assets/images/low/barron-plus-kshra-trofh-gia-gates-me-mosxari-1kg.jpg"
+product_image_lowres: "/assets/low/barron-plus-kshra-trofh-gia-gates-me-mosxari-1kg.jpg"
 barcode: "5202576872127"
 varos: "1Kg"
 bar_img: "/media/svg/barcode.svg"

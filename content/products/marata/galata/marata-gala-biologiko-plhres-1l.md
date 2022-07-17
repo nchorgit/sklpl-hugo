@@ -3,7 +3,7 @@ title: "Μαράτα Γάλα Βιολογικό πλήρες 1L"
 weight: 4
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-gala-biologiko-plhres-1l.jpg"
-product_image_lowres: "/assets/images/low/marata-gala-biologiko-plhres-1l.jpg"
+product_image_lowres: "/assets/low/marata-gala-biologiko-plhres-1l.jpg"
 barcode: "5202576496730"
 varos: "1L"
 bar_img: "/media/svg/barcode.svg"

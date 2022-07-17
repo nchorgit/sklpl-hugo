@@ -2,7 +2,7 @@
 title: "Barron Μπουκίτσες με Κοτόπουλο για γάτες 400g"
 categories: ["Barron"]
 product_image: "/assets/images/barron-mpoukitses-me-kotopoulo-gia-gates-400g.jpg"
-product_image_lowres: "/assets/images/low/barron-mpoukitses-me-kotopoulo-gia-gates-400g.jpg"
+product_image_lowres: "/assets/low/barron-mpoukitses-me-kotopoulo-gia-gates-400g.jpg"
 barcode: "5202576282322"
 varos: "400g"
 bar_img: "/media/svg/barcode.svg"

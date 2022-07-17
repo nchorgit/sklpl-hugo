@@ -2,7 +2,7 @@
 title: "Tickit Τετράδιο ριγέ 60 φύλλων"
 categories: ["Tickit"]
 product_image: "/assets/images/tickit-tetradio-rige-60-fyllwn.jpg"
-product_image_lowres: "/assets/images/low/tickit-tetradio-rige-60-fyllwn.jpg"
+product_image_lowres: "/assets/low/tickit-tetradio-rige-60-fyllwn.jpg"
 barcode: "5202576165367"
 varos: "60 φύλλων"
 bar_img: "/media/svg/barcode.svg"

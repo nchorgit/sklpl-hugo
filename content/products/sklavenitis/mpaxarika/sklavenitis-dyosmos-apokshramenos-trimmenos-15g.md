@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Δυόσμος αποξηραμένος τριμ�
 date: 2022-05-21T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-dyosmos-apokshramenos-trimmenos-15g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-dyosmos-apokshramenos-trimmenos-15g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-dyosmos-apokshramenos-trimmenos-15g.jpg"
 barcode: "5202576250741"
 varos: "15g"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Kitten Απλώστρα ρούχων με πτερύγια πορτοκαλί"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-aplwstra-rouxwn-me-pterygia-portokali.jpg"
-product_image_lowres: "/assets/images/low/kitten-aplwstra-rouxwn-me-pterygia-portokali.jpg"
+product_image_lowres: "/assets/low/kitten-aplwstra-rouxwn-me-pterygia-portokali.jpg"
 barcode: "5202576680371"
 varos: "3 μέτρα"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Master Light Λαμπτήρας Led 11W E27 A60"
 categories: ["Master Light"]
 product_image: "/assets/images/master-light-lampthras-led-11w-e27-a60.jpg"
-product_image_lowres: "/assets/images/low/master-light-lampthras-led-11w-e27-a60.jpg"
+product_image_lowres: "/assets/low/master-light-lampthras-led-11w-e27-a60.jpg"
 barcode: "5203381995605"
 varos: "11W"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Stampa Αριθμομηχανή επιστημονική SC736"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-arithmomhxanh-episthmonikh-sc736.jpg"
-product_image_lowres: "/assets/images/low/stampa-arithmomhxanh-episthmonikh-sc736.jpg"
+product_image_lowres: "/assets/low/stampa-arithmomhxanh-episthmonikh-sc736.jpg"
 barcode: "4719135017369"
 varos: "10 ψηφίων"
 bar_img: "/media/svg/barcode.svg"

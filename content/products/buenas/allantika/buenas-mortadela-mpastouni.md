@@ -2,7 +2,7 @@
 title: "Buenas Μορταδέλα μπαστούνι"
 categories: ["Buenas"]
 product_image: "/assets/images/buenas-mortadela-mpastouni.jpg"
-product_image_lowres: "/assets/images/low/buenas-mortadela-mpastouni.jpg"
+product_image_lowres: "/assets/low/buenas-mortadela-mpastouni.jpg"
 barcode: "ΠΩΛΗΣΗ ΧΥΜΑ"
 varos: "170 μερίδες"
 bar_img: "/media/svg/barcode.svg"

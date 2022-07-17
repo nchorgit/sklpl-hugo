@@ -2,7 +2,7 @@
 title: "Stampa Συρραπτικό Nο 24/6 & 26/6 & συνδετήρες"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-syrraptiko-no-24-6-26-6-syndethres.jpg"
-product_image_lowres: "/assets/images/low/stampa-syrraptiko-no-24-6-26-6-syndethres.jpg"
+product_image_lowres: "/assets/low/stampa-syrraptiko-no-24-6-26-6-syndethres.jpg"
 barcode: "5202576634688"
 varos: "15 φύλλα"
 bar_img: "/media/svg/barcode.svg"

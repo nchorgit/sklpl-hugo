@@ -2,7 +2,7 @@
 title: "Bonora Κακάο 125g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-kakao-125g.jpg"
-product_image_lowres: "/assets/images/low/bonora-kakao-125g.jpg"
+product_image_lowres: "/assets/low/bonora-kakao-125g.jpg"
 barcode: "5202646000955"
 varos: "125g"
 bar_img: "/media/svg/barcode.svg"

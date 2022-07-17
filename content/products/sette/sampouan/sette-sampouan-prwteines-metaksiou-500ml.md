@@ -2,7 +2,7 @@
 title: "Sette Σαμπουάν Πρωτεΐνες Μεταξιού 500ml"
 categories: ["Sette"]
 product_image: "/assets/images/sette-sampouan-prwteines-metaksiou-500ml.jpg"
-product_image_lowres: "/assets/images/low/sette-sampouan-prwteines-metaksiou-500ml.jpg"
+product_image_lowres: "/assets/low/sette-sampouan-prwteines-metaksiou-500ml.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

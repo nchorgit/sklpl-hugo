@@ -2,7 +2,7 @@
 title: "Μαράτα Ταχίνι 300g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-taxini-300g.jpg"
-product_image_lowres: "/assets/images/low/marata-taxini-300g.jpg"
+product_image_lowres: "/assets/low/marata-taxini-300g.jpg"
 barcode: "5202576308046"
 varos: "300g"
 bar_img: "/media/svg/barcode.svg"

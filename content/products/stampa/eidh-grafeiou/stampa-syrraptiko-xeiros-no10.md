@@ -2,7 +2,7 @@
 title: "Stampa Συρραπτικό χειρός No10"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-syrraptiko-xeiros-no10.jpg"
-product_image_lowres: "/assets/images/low/stampa-syrraptiko-xeiros-no10.jpg"
+product_image_lowres: "/assets/low/stampa-syrraptiko-xeiros-no10.jpg"
 barcode: "5202576634732"
 varos: "15 φύλλα"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Bonora Γκοφρέτες με γέμιση κρέμας κακάο 180g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-gkofretes-me-gemish-kremas-kakao-180g.jpg"
-product_image_lowres: "/assets/images/low/bonora-gkofretes-me-gemish-kremas-kakao-180g.jpg"
+product_image_lowres: "/assets/low/bonora-gkofretes-me-gemish-kremas-kakao-180g.jpg"
 barcode: "5202576630451"
 varos: "180g"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Sette Αφρόλουτρο Μέλι & Γάλα 1000ml"
 categories: ["Sette"]
 product_image: "/assets/images/sette-afroloutro-meli-gala-1000ml.jpg"
-product_image_lowres: "/assets/images/low/sette-afroloutro-meli-gala-1000ml.jpg"
+product_image_lowres: "/assets/low/sette-afroloutro-meli-gala-1000ml.jpg"
 barcode: "5202576210103"
 varos: "1000ml"
 bar_img: "/media/svg/barcode.svg"

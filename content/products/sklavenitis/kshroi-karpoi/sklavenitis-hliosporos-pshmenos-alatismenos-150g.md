@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Ηλιόσπορος ψημένος αλατισ�
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-hliosporos-pshmenos-alatismenos-150g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-hliosporos-pshmenos-alatismenos-150g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-hliosporos-pshmenos-alatismenos-150g.jpg"
 barcode: "5202576250406"
 varos: "150g"
 bar_img: "/media/svg/barcode.svg"

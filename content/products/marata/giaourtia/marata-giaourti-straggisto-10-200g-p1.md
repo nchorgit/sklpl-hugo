@@ -3,7 +3,7 @@ title: "Μαράτα Γιαούρτι στραγγιστό 10% 200g Π1"
 weight: 5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-giaourti-straggisto-10-200g-p1.jpg"
-product_image_lowres: "/assets/images/low/marata-giaourti-straggisto-10-200g-p1.jpg"
+product_image_lowres: "/assets/low/marata-giaourti-straggisto-10-200g-p1.jpg"
 barcode: "520257633537"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"

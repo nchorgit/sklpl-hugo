@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Κάσιους ψημένα μη αλατισμέ
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-kasious-pshmena-mh-alatismena-200g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-kasious-pshmena-mh-alatismena-200g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-kasious-pshmena-mh-alatismena-200g.jpg"
 barcode: "5202576002937"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"

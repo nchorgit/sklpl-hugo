@@ -2,7 +2,7 @@
 title: "Stampa Αριθμομηχανή επιτραπέζια 8 ψηφίων KT-430AP"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-arithmomhxanh-epitrapezia-8-pshfiwn-kt-430ap.jpg"
-product_image_lowres: "/assets/images/low/stampa-arithmomhxanh-epitrapezia-8-pshfiwn-kt-430ap.jpg"
+product_image_lowres: "/assets/low/stampa-arithmomhxanh-epitrapezia-8-pshfiwn-kt-430ap.jpg"
 barcode: "4719135014306"
 varos: "8 ψηφίων"
 bar_img: "/media/svg/barcode.svg"

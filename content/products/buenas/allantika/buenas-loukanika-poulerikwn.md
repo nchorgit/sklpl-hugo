@@ -2,7 +2,7 @@
 title: "Buenas Λουκάνικα Πουλερικών 140g"
 categories: ["Buenas"]
 product_image: "/assets/images/buenas-loukanika-poulerikwn.jpg"
-product_image_lowres: "/assets/images/low/buenas-loukanika-poulerikwn.jpg"
+product_image_lowres: "/assets/low/buenas-loukanika-poulerikwn.jpg"
 barcode: "5202576712942"
 varos: "140g"
 bar_img: "/media/svg/barcode.svg"

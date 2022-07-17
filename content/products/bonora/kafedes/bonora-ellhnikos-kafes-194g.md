@@ -2,7 +2,7 @@
 title: "Bonora Ελληνικός καφές 194g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-ellhnikos-kafes-194g.jpg"
-product_image_lowres: "/assets/images/low/bonora-ellhnikos-kafes-194g.jpg"
+product_image_lowres: "/assets/low/bonora-ellhnikos-kafes-194g.jpg"
 barcode: "5202576707740"
 varos: "194g"
 bar_img: "/media/svg/barcode.svg"

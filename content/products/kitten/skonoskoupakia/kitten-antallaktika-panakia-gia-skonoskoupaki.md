@@ -2,7 +2,7 @@
 title: "Kitten Ανταλλακτικά πανάκια για σκονοσκουπάκι"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-antallaktika-panakia-gia-skonoskoupaki.jpg"
-product_image_lowres: "/assets/images/low/kitten-antallaktika-panakia-gia-skonoskoupaki.jpg"
+product_image_lowres: "/assets/low/kitten-antallaktika-panakia-gia-skonoskoupaki.jpg"
 barcode: "5202576688124"
 varos: "10 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

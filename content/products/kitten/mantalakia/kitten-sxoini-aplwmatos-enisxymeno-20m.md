@@ -2,7 +2,7 @@
 title: "Kitten Σχοινί απλώματος ενισχυμένο 20m"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-sxoini-aplwmatos-enisxymeno-20m.jpg"
-product_image_lowres: "/assets/images/low/kitten-sxoini-aplwmatos-enisxymeno-20m.jpg"
+product_image_lowres: "/assets/low/kitten-sxoini-aplwmatos-enisxymeno-20m.jpg"
 barcode: "5202576680272"
 varos: "20 μέτρα"
 bar_img: "/media/svg/barcode.svg"

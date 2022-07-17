@@ -2,7 +2,7 @@
 title: "Μαράτα Τοματοπολτός (γυάλινο βάζο) 200g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-tomatopoltos-gyalino-bazo-200g.jpg"
-product_image_lowres: "/assets/images/low/marata-tomatopoltos-gyalino-bazo-200g.jpg"
+product_image_lowres: "/assets/low/marata-tomatopoltos-gyalino-bazo-200g.jpg"
 barcode: "5202576680920"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"

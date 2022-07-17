@@ -2,7 +2,7 @@
 title: "Stampa Συρραπτικό xειρός Nο 64"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-syrraptiko-xeiros-no-64.jpg"
-product_image_lowres: "/assets/images/low/stampa-syrraptiko-xeiros-no-64.jpg"
+product_image_lowres: "/assets/low/stampa-syrraptiko-xeiros-no-64.jpg"
 barcode: "5202576634701"
 varos: "15 φύλλα"
 bar_img: "/media/svg/barcode.svg"

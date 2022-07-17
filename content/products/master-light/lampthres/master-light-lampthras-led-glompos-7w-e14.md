@@ -2,7 +2,7 @@
 title: "Master Light Λαμπτήρας Led Γλόμπος 7W E14"
 categories: ["Master Light"]
 product_image: "/assets/images/master-light-lampthras-led-glompos-7w-e14.jpg"
-product_image_lowres: "/assets/images/low/master-light-lampthras-led-glompos-7w-e14.jpg"
+product_image_lowres: "/assets/low/master-light-lampthras-led-glompos-7w-e14.jpg"
 barcode: "5203381995568"
 varos: "7W"
 bar_img: "/media/svg/barcode.svg"

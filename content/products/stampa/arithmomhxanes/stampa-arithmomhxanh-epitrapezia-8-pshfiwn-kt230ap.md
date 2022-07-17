@@ -2,7 +2,7 @@
 title: "Stampa Αριθμομηχανή επιτραπέζια 8 ψηφίων KT230AP"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-arithmomhxanh-epitrapezia-8-pshfiwn-kt230ap.jpg"
-product_image_lowres: "/assets/images/low/stampa-arithmomhxanh-epitrapezia-8-pshfiwn-kt230ap.jpg"
+product_image_lowres: "/assets/low/stampa-arithmomhxanh-epitrapezia-8-pshfiwn-kt230ap.jpg"
 barcode: "4719135012302"
 varos: "8 ψηφίων"
 bar_img: "/media/svg/barcode.svg"

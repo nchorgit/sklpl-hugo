@@ -2,7 +2,7 @@
 title: "Sette Αφρόντους για άνδρες 1000ml"
 categories: ["Sette"]
 product_image: "/assets/images/sette-afrontous-gia-andres-1000ml.jpg"
-product_image_lowres: "/assets/images/low/sette-afrontous-gia-andres-1000ml.jpg"
+product_image_lowres: "/assets/low/sette-afrontous-gia-andres-1000ml.jpg"
 barcode: "5202576210097"
 varos: "1000ml"
 bar_img: "/media/svg/barcode.svg"

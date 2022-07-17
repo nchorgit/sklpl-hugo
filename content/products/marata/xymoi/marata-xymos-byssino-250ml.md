@@ -2,7 +2,7 @@
 title: "Μαράτα Χυμός βύσσινο 250ml"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-xymos-byssino-250ml.jpg"
-product_image_lowres: "/assets/images/low/marata-xymos-byssino-250ml.jpg"
+product_image_lowres: "/assets/low/marata-xymos-byssino-250ml.jpg"
 barcode: "5202576112957"
 varos: "250ml"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Meat House Κεφτεδάκια προψημένα 420g"
 categories: ["Meat House"]
 product_image: "/assets/images/meat-house-keftedakia-propshmena-420g.jpg"
-product_image_lowres: "/assets/images/low/meat-house-keftedakia-propshmena-420g.jpg"
+product_image_lowres: "/assets/low/meat-house-keftedakia-propshmena-420g.jpg"
 barcode: "5213002030226"
 varos: "420g"
 bar_img: "/media/svg/barcode.svg"

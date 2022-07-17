@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Σόδα διττανθρακικό νάτριο 
 date: 2022-05-18T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-soda-dittanthrakiko-natrio-50g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-soda-dittanthrakiko-natrio-50g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-soda-dittanthrakiko-natrio-50g.jpg"
 barcode: "5202576250963"
 varos: "50g"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Bonora Κάψουλες Espresso Ristretto 53g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-espresso-ristretto-53g.jpg"
-product_image_lowres: "/assets/images/low/bonora-espresso-ristretto-53g.jpg"
+product_image_lowres: "/assets/low/bonora-espresso-ristretto-53g.jpg"
 barcode: "5208046012246"
 varos: "53g"
 bar_img: "/media/svg/barcode.svg"

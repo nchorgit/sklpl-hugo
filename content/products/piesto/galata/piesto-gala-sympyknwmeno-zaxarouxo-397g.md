@@ -2,7 +2,7 @@
 title: "Πιέστο γάλα συμπυκνωμένο ζαχαρούχο 397g"
 categories: ["Πιέστο"]
 product_image: "/assets/images/piesto-gala-sympyknwmeno-zaxarouxo-397g.jpg"
-product_image_lowres: "/assets/images/low/piesto-gala-sympyknwmeno-zaxarouxo-397g.jpg"
+product_image_lowres: "/assets/low/piesto-gala-sympyknwmeno-zaxarouxo-397g.jpg"
 barcode: "5202576630505"
 varos: "397g"
 bar_img: "/media/svg/barcode.svg"

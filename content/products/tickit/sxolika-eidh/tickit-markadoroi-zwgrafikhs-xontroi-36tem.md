@@ -2,7 +2,7 @@
 title: "Tickit Μαρκαδόροι ζωγραφικής χοντροί 36τεμ"
 categories: ["Tickit"]
 product_image: "/assets/images/tickit-markadoroi-zwgrafikhs-xontroi-36tem.jpg"
-product_image_lowres: "/assets/images/low/tickit-markadoroi-zwgrafikhs-xontroi-36tem.jpg"
+product_image_lowres: "/assets/low/tickit-markadoroi-zwgrafikhs-xontroi-36tem.jpg"
 barcode: "5202576661233"
 varos: "36 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

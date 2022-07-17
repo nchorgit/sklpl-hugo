@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Ψάρι με λαχανικά 400g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-psari-me-laxanika-400g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-psari-me-laxanika-400g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-psari-me-laxanika-400g.jpg"
 barcode: "5202576029446"
 varos: "400g"
 bar_img: "/media/svg/barcode.svg"

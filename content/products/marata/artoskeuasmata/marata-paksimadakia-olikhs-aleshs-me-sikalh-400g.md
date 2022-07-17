@@ -3,7 +3,7 @@ title: "Μαράτα Παξιμαδάκια ολικής άλεσης με σί�
 weight: 3
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-paksimadakia-olikhs-aleshs-me-sikalh-400g.jpg"
-product_image_lowres: "/assets/images/low/marata-paksimadakia-olikhs-aleshs-me-sikalh-400g.jpg"
+product_image_lowres: "/assets/low/marata-paksimadakia-olikhs-aleshs-me-sikalh-400g.jpg"
 barcode: "5202576633902"
 varos: "400g"
 bar_img: "/media/svg/barcode.svg"

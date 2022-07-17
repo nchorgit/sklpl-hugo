@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Ξινό (Κιτρικό οξύ) 50g"
 date: 2022-05-18T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-ksino-kitriko-oksy-50g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-ksino-kitriko-oksy-50g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-ksino-kitriko-oksy-50g.jpg"
 barcode: "5202576250673"
 varos: "50g"
 bar_img: "/media/svg/barcode.svg"

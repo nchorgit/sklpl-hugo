@@ -2,7 +2,7 @@
 title: "Stampa Χάρακας εύκαμπτος"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-xarakas-eukamptos.jpg"
-product_image_lowres: "/assets/images/low/stampa-xarakas-eukamptos.jpg"
+product_image_lowres: "/assets/low/stampa-xarakas-eukamptos.jpg"
 barcode: "5202576637498"
 varos: "30 cm"
 bar_img: "/media/svg/barcode.svg"

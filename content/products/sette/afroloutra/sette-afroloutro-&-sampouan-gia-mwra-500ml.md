@@ -2,7 +2,7 @@
 title: "Sette Αφρόλουτρο & Σαμπουάν για μωρά 500ml"
 categories: ["Sette"]
 product_image: "/assets/images/sette-afroloutro-sampouan-gia-mwra-500ml.jpg"
-product_image_lowres: "/assets/images/low/sette-afroloutro-sampouan-gia-mwra-500ml.jpg"
+product_image_lowres: "/assets/low/sette-afroloutro-sampouan-gia-mwra-500ml.jpg"
 barcode: "5202576634022"
 varos: "500ml"
 bar_img: "/media/svg/barcode.svg"

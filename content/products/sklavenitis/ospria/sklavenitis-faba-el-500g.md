@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Φάβα ΕΛ 500g"
 date: 2022-05-20T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-faba-el-500g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-faba-el-500g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-faba-el-500g.jpg"
 barcode: "5202576461413"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

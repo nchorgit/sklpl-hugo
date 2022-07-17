@@ -3,7 +3,7 @@ title: "Μαράτα Γάλα ελαφρύ 1L"
 weight: 4
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-gala-elafry-1l.jpg"
-product_image_lowres: "/assets/images/low/marata-gala-elafry-1l.jpg"
+product_image_lowres: "/assets/low/marata-gala-elafry-1l.jpg"
 barcode: "5202576203577"
 varos: "1L"
 bar_img: "/media/svg/barcode.svg"

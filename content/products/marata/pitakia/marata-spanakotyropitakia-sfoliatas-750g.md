@@ -2,7 +2,7 @@
 title: "Μαράτα Σπανακοτυροπιτάκια σφολιάτας 750g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-spanakotyropitakia-sfoliatas-750g.jpg"
-product_image_lowres: "/assets/images/low/marata-spanakotyropitakia-sfoliatas-750g.jpg"
+product_image_lowres: "/assets/low/marata-spanakotyropitakia-sfoliatas-750g.jpg"
 barcode: "5202576633452"
 varos: "1kg"
 bar_img: "/media/svg/barcode.svg"

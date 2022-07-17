@@ -2,7 +2,7 @@
 title: "Stampa Αριθμομηχανή τσέπης 8 ψηφίων PC104"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-arithmomhxanh-tsephs-8-pshfiwn-pc104.jpg"
-product_image_lowres: "/assets/images/low/stampa-arithmomhxanh-tsephs-8-pshfiwn-pc104.jpg"
+product_image_lowres: "/assets/low/stampa-arithmomhxanh-tsephs-8-pshfiwn-pc104.jpg"
 barcode: "4719135021045"
 varos: "8 ψηφίων"
 bar_img: "/media/svg/barcode.svg"

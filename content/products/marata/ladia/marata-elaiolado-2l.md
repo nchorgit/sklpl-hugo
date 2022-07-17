@@ -2,7 +2,7 @@
 title: "Μαράτα Ελαιόλαδο 2L"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-elaiolado-2l.jpg"
-product_image_lowres: "/assets/images/low/marata-elaiolado-2l.jpg"
+product_image_lowres: "/assets/low/marata-elaiolado-2l.jpg"
 barcode: "5202576099883"
 varos: "2L"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Stampa Περφορατέρ μεταλλικό 10mm"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-perforater-metalliko-10mm.jpg"
-product_image_lowres: "/assets/images/low/stampa-perforater-metalliko-10mm.jpg"
+product_image_lowres: "/assets/low/stampa-perforater-metalliko-10mm.jpg"
 barcode: "5202576634831"
 varos: "450g"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Γλάρος 25 λευκές Χαρτοπετσέτες πολυτελείας 33Χ33cm"
 categories: ["Γλάρος"]
 product_image: "/assets/images/glaros-25-leukes-xartopetsetes-polyteleias-33x33cm.jpg"
-product_image_lowres: "/assets/images/low/glaros-25-leukes-xartopetsetes-polyteleias-33x33cm.jpg"
+product_image_lowres: "/assets/low/glaros-25-leukes-xartopetsetes-polyteleias-33x33cm.jpg"
 barcode: "5200107430112"
 varos: "33 Χ 33 cm"
 bar_img: "/media/svg/barcode.svg"

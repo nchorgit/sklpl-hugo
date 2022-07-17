@@ -2,7 +2,7 @@
 title: "Buenas Γαλοπούλα καπνιστή & Edam σε φέτες 360g"
 categories: ["Buenas"]
 product_image: "/assets/images/buenas-galopoula-kapnisth-edam-se-fetes.jpg"
-product_image_lowres: "/assets/images/low/buenas-galopoula-kapnisth-edam-se-fetes.jpg"
+product_image_lowres: "/assets/low/buenas-galopoula-kapnisth-edam-se-fetes.jpg"
 barcode: "5202576415113"
 varos: "360g"
 bar_img: "/media/svg/barcode.svg"

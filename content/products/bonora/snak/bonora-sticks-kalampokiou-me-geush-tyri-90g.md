@@ -2,7 +2,7 @@
 title: "Bonora Sticks καλαμποκιού με γεύση τυρί 90g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-sticks-kalampokiou-me-geush-tyri-90g.jpg"
-product_image_lowres: "/assets/images/low/bonora-sticks-kalampokiou-me-geush-tyri-90g.jpg"
+product_image_lowres: "/assets/low/bonora-sticks-kalampokiou-me-geush-tyri-90g.jpg"
 barcode: "5208046039946"
 varos: "90g"
 bar_img: "/media/svg/barcode.svg"

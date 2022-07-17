@@ -2,7 +2,7 @@
 title: "Bonora Μπισκότα σοκολάτας γεμιστά με γεύση κακάο 500g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-mpiskota-sokolatas-gemista-me-geush-kakao-500g.jpg"
-product_image_lowres: "/assets/images/low/bonora-mpiskota-sokolatas-gemista-me-geush-kakao-500g.jpg"
+product_image_lowres: "/assets/low/bonora-mpiskota-sokolatas-gemista-me-geush-kakao-500g.jpg"
 barcode: "5202576682450"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

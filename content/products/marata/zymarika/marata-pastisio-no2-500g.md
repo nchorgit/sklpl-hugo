@@ -2,7 +2,7 @@
 title: "Μαράτα Παστίσιο Νο2 500g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-pastisio-no2-500g.jpg"
-product_image_lowres: "/assets/images/low/marata-pastisio-no2-500g.jpg"
+product_image_lowres: "/assets/low/marata-pastisio-no2-500g.jpg"
 barcode: "5202576300934"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

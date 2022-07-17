@@ -2,7 +2,7 @@
 title: "Tickit Μαρκαδόροι ζωγραφικής λεπτοί 12τεμ"
 categories: ["Tickit"]
 product_image: "/assets/images/tickit-markadoroi-zwgrafikhs-leptoi-12tem.jpg"
-product_image_lowres: "/assets/images/low/tickit-markadoroi-zwgrafikhs-leptoi-12tem.jpg"
+product_image_lowres: "/assets/low/tickit-markadoroi-zwgrafikhs-leptoi-12tem.jpg"
 barcode: "5202576661219"
 varos: "12 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

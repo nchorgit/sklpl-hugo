@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Φιστίκια με γεύση μπέικον -
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-fistikia-me-geush-mpeikon-tyri-el-200g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-fistikia-me-geush-mpeikon-tyri-el-200g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-fistikia-me-geush-mpeikon-tyri-el-200g.jpg"
 barcode: "5202576712508"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"

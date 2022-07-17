@@ -2,7 +2,7 @@
 title: "Stampa Συνδετήρες χρωματιστοί 50mm"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-syndethres-xrwmatistoi-50mm.jpg"
-product_image_lowres: "/assets/images/low/stampa-syndethres-xrwmatistoi-50mm.jpg"
+product_image_lowres: "/assets/low/stampa-syndethres-xrwmatistoi-50mm.jpg"
 barcode: "5202576634923"
 varos: "50 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

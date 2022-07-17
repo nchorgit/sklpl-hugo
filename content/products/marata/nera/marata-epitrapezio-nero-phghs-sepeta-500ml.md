@@ -2,7 +2,7 @@
 title: "Μαράτα επιτραπέζιο νερό πηγής Σεπέτα 500ml"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-epitrapezio-nero-phghs-sepeta-500ml.jpg"
-product_image_lowres: "/assets/images/low/marata-epitrapezio-nero-phghs-sepeta-500ml.jpg"
+product_image_lowres: "/assets/low/marata-epitrapezio-nero-phghs-sepeta-500ml.jpg"
 barcode: "5202576100893"
 varos: "500ml"
 bar_img: "/media/svg/barcode.svg"

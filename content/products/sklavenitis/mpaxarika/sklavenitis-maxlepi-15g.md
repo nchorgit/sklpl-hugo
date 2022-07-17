@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Μαχλέπι 15g"
 date: 2022-05-21T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-maxlepi-15g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-maxlepi-15g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-maxlepi-15g.jpg"
 barcode: "5202576250680"
 varos: "15g"
 bar_img: "/media/svg/barcode.svg"

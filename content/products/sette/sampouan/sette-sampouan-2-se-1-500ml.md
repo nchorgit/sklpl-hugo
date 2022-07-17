@@ -2,7 +2,7 @@
 title: "Sette Σαμπουάν 2 σε 1 500ml"
 categories: ["Sette"]
 product_image: "/assets/images/sette-sampouan-2-se-1-500ml.jpg"
-product_image_lowres: "/assets/images/low/sette-sampouan-2-se-1-500ml.jpg"
+product_image_lowres: "/assets/low/sette-sampouan-2-se-1-500ml.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

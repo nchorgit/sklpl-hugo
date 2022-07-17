@@ -2,7 +2,7 @@
 title: "Stampa Ψαλίδι γραφείου 339B"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-psalidi-grafeiou-339b.jpg"
-product_image_lowres: "/assets/images/low/stampa-psalidi-grafeiou-339b.jpg"
+product_image_lowres: "/assets/low/stampa-psalidi-grafeiou-339b.jpg"
 barcode: "5202576866614"
 varos: "17 cm"
 bar_img: "/media/svg/barcode.svg"

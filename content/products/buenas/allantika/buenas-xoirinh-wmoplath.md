@@ -2,7 +2,7 @@
 title: "Buenas Χοιρινή ωμοπλάτη"
 categories: ["Buenas"]
 product_image: "/assets/images/buenas-xoirinh-wmoplath.jpg"
-product_image_lowres: "/assets/images/low/buenas-xoirinh-wmoplath.jpg"
+product_image_lowres: "/assets/low/buenas-xoirinh-wmoplath.jpg"
 barcode: "ΠΩΛΗΣΗ ΧΥΜΑ"
 varos: "240 μερίδες"
 bar_img: "/media/svg/barcode.svg"

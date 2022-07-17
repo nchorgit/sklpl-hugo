@@ -2,7 +2,7 @@
 title: "Γλάρος 12 λευκά Ρολά υγείας"
 categories: ["Γλάρος"]
 product_image: "/assets/images/glaros-12-leuka-rola-ygeias.jpg"
-product_image_lowres: "/assets/images/low/glaros-12-leuka-rola-ygeias.jpg"
+product_image_lowres: "/assets/low/glaros-12-leuka-rola-ygeias.jpg"
 barcode: "5200107430044"
 varos: "12 Χ 36 μέτρα"
 bar_img: "/media/svg/barcode.svg"

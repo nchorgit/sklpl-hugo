@@ -2,7 +2,7 @@
 title: "Stampa Αριθμομηχανή επιτραπέζια 12 ψηφίων DC980"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-arithmomhxanh-epitrapezia-12-pshfiwn-dc980.jpg"
-product_image_lowres: "/assets/images/low/stampa-arithmomhxanh-epitrapezia-12-pshfiwn-dc980.jpg"
+product_image_lowres: "/assets/low/stampa-arithmomhxanh-epitrapezia-12-pshfiwn-dc980.jpg"
 barcode: "ΜΗ ΔΙΑΘΕΣΙΜΟ"
 varos: "12 ψηφίων"
 bar_img: "/media/svg/barcode.svg"

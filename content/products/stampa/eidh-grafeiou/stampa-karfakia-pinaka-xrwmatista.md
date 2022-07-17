@@ -2,7 +2,7 @@
 title: "Stampa Καρφάκια πίνακα χρωματιστά"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-karfakia-pinaka-xrwmatista.jpg"
-product_image_lowres: "/assets/images/low/stampa-karfakia-pinaka-xrwmatista.jpg"
+product_image_lowres: "/assets/low/stampa-karfakia-pinaka-xrwmatista.jpg"
 barcode: "5202576634930"
 varos: "100 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

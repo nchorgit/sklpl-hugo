@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Παστίτσιο 400g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-pastitsio-400g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-pastitsio-400g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-pastitsio-400g.jpg"
 barcode: "5202576377271"
 varos: "400g"
 bar_img: "/media/svg/barcode.svg"

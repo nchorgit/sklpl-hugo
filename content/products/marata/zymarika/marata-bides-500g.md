@@ -2,7 +2,7 @@
 title: "Μαράτα Βίδες 500g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-bides-500g.jpg"
-product_image_lowres: "/assets/images/low/marata-bides-500g.jpg"
+product_image_lowres: "/assets/low/marata-bides-500g.jpg"
 barcode: "5202576182967"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

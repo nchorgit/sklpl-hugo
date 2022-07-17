@@ -2,7 +2,7 @@
 title: "Γλάρος 8 λευκά Ρολά υγείας"
 categories: ["Γλάρος"]
 product_image: "/assets/images/glaros-8-leuka-rola-ygeias.jpg"
-product_image_lowres: "/assets/images/low/glaros-8-leuka-rola-ygeias.jpg"
+product_image_lowres: "/assets/low/glaros-8-leuka-rola-ygeias.jpg"
 barcode: "5200107430037"
 varos: "8 Χ 36 μέτρα"
 bar_img: "/media/svg/barcode.svg"

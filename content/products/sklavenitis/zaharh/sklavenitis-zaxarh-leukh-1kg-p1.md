@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Ζάχαρη λευκή 1kg Π1"
 date: 2022-05-16T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-zaxarh-leukh-1kg-p1.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-zaxarh-leukh-1kg-p1.jpg"
+product_image_lowres: "/assets/low/sklavenitis-zaxarh-leukh-1kg-p1.jpg"
 barcode: "5202576101616"
 varos: "1kg"
 bar_img: "/media/svg/barcode.svg"

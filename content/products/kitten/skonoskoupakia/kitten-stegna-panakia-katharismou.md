@@ -2,7 +2,7 @@
 title: "Kitten Στεγνά πανάκια καθαρισμού"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-stegna-panakia-katharismou.jpg"
-product_image_lowres: "/assets/images/low/kitten-stegna-panakia-katharismou.jpg"
+product_image_lowres: "/assets/low/kitten-stegna-panakia-katharismou.jpg"
 barcode: "5202576688100"
 varos: "28 X 22 cm"
 bar_img: "/media/svg/barcode.svg"

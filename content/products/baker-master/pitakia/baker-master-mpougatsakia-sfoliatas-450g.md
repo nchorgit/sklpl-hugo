@@ -3,7 +3,7 @@ title: "Baker Master Μπουγατσάκια σφολιάτας 450g"
 weight: 3
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-mpougatsakia-sfoliatas-450g.jpg"
-product_image_lowres: "/assets/images/low/baker-master-mpougatsakia-sfoliatas-450g.jpg"
+product_image_lowres: "/assets/low/baker-master-mpougatsakia-sfoliatas-450g.jpg"
 barcode: "5213000480153"
 varos: "450g"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Sette Υγρά μαντηλάκια ντεμακιγιάζ με νερό Micellaire"
 categories: ["Sette"]
 product_image: "/assets/images/sette-ygra-manthlakia-ntemakigiaz-me-nero-micellaire.jpg"
-product_image_lowres: "/assets/images/low/sette-ygra-manthlakia-ntemakigiaz-me-nero-micellaire.jpg"
+product_image_lowres: "/assets/low/sette-ygra-manthlakia-ntemakigiaz-me-nero-micellaire.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

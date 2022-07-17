@@ -2,7 +2,7 @@
 title: "Μαράτα Φύλλο κρούστας 450g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-fyllo-kroustas-450g.jpg"
-product_image_lowres: "/assets/images/low/marata-fyllo-kroustas-450g.jpg"
+product_image_lowres: "/assets/low/marata-fyllo-kroustas-450g.jpg"
 barcode: "5208046013236"
 varos: "450g"
 bar_img: "/media/svg/barcode.svg"

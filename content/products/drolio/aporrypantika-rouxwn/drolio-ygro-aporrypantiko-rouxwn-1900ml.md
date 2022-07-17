@@ -3,7 +3,7 @@ title: "Drolio Υγρό απορρυπαντικό ρούχων 1900ml"
 categories: ["Drolio"]
 product_image: "/assets/images/drolio-ygro-aporrypantiko-rouxwn-1900ml.jpg"
 barcode: "5202576872189"
-product_image_lowres: "/assets/images/low/drolio-ygro-aporrypantiko-rouxwn-1900ml.jpg"
+product_image_lowres: "/assets/low/drolio-ygro-aporrypantiko-rouxwn-1900ml.jpg"
 varos: "1900ml"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"

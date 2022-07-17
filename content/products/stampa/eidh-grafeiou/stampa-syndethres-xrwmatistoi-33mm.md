@@ -2,7 +2,7 @@
 title: "Stampa Συνδετήρες χρωματιστοί 33mm"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-syndethres-xrwmatistoi-33mm.jpg"
-product_image_lowres: "/assets/images/low/stampa-syndethres-xrwmatistoi-33mm.jpg"
+product_image_lowres: "/assets/low/stampa-syndethres-xrwmatistoi-33mm.jpg"
 barcode: "5202576634916"
 varos: "80 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

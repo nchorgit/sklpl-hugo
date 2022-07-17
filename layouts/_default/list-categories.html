@@ -91,6 +91,22 @@
     });
   });
 });
+$(".smeta").each(function () {
+            var text = $(this).text();
+            $(this).text(
+                $(this)
+                .text()
+                .replace(/ά/g, "α")
+                .replace(/έ/g, "ε")
+                .replace(/ή/g, "η")
+                .replace(/ί/g, "ι")
+                .replace(/ό/g, "ο")
+                .replace(/ύ/g, "υ")
+                .replace(/ώ/g, "ω")
+                .replace(/-/g, " ")
+                /*.replace(/[^\w\s]/gi, " ")*/
+            );
+        });
 </script>
 
 

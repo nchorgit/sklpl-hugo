@@ -2,7 +2,7 @@
 title: "Bonora Γκοφρέτες με γεύση λεμονιού και βανίλιας 180g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-gkofretes-me-geush-lemoniou-kai-banilias-180g.jpg"
-product_image_lowres: "/assets/images/low/bonora-gkofretes-me-geush-lemoniou-kai-banilias-180g.jpg"
+product_image_lowres: "/assets/low/bonora-gkofretes-me-geush-lemoniou-kai-banilias-180g.jpg"
 barcode: "5202576630475"
 varos: "180g"
 bar_img: "/media/svg/barcode.svg"

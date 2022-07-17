@@ -2,7 +2,7 @@
 title: "Ανθέλα Ελαιόλαδο 2L"
 categories: ["Ανθέλα"]
 product_image: "/assets/images/anthela-elaiolado-2l.jpg"
-product_image_lowres: "/assets/images/low/anthela-elaiolado-2l.jpg"
+product_image_lowres: "/assets/low/anthela-elaiolado-2l.jpg"
 barcode: "5202576198630"
 varos: "2L"
 bar_img: "/media/svg/barcode.svg"

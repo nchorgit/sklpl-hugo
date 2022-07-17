@@ -2,7 +2,7 @@
 title: "Μαράτα Τοματοπολτός διπλής συμπύκνωσης 410g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-tomatopoltos-diplhs-sympyknwshs-410g.jpg"
-product_image_lowres: "/assets/images/low/marata-tomatopoltos-diplhs-sympyknwshs-410g.jpg"
+product_image_lowres: "/assets/low/marata-tomatopoltos-diplhs-sympyknwshs-410g.jpg"
 barcode: "5202576680890"
 varos: "410g"
 bar_img: "/media/svg/barcode.svg"

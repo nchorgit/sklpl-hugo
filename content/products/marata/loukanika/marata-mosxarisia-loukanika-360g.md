@@ -2,7 +2,7 @@
 title: "Μαράτα Μοσχαρίσια λουκάνικα 360g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-mosxarisia-loukanika-360g.jpg"
-product_image_lowres: "/assets/images/low/marata-mosxarisia-loukanika-360g.jpg"
+product_image_lowres: "/assets/low/marata-mosxarisia-loukanika-360g.jpg"
 barcode: "ΑΝΑΜΕΝΕΤΑΙ"
 varos: "360g"
 bar_img: "/media/svg/barcode.svg"

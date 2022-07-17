@@ -2,7 +2,7 @@
 title: "Stampa Αριθμομηχανή επιτραπέζια 12 ψηφίων DC352"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-arithmomhxanh-epitrapezia-12-pshfiwn-dc352.jpg"
-product_image_lowres: "/assets/images/low/stampa-arithmomhxanh-epitrapezia-12-pshfiwn-dc352.jpg"
+product_image_lowres: "/assets/low/stampa-arithmomhxanh-epitrapezia-12-pshfiwn-dc352.jpg"
 barcode: "4719135013521"
 varos: "12 ψηφίων"
 bar_img: "/media/svg/barcode.svg"

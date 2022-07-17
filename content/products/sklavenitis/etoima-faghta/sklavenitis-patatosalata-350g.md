@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Πατατοσαλάτα 350g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-patatosalata-350g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-patatosalata-350g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-patatosalata-350g.jpg"
 barcode: "5202576681446"
 varos: "350g"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Bonora Μαύρη Σοκολάτα 100g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-mayrh-sokolata-100g.jpg"
-product_image_lowres: "/assets/images/low/bonora-mayrh-sokolata-100g.jpg"
+product_image_lowres: "/assets/low/bonora-mayrh-sokolata-100g.jpg"
 barcode: "5202576633957"
 varos: "100g"
 bar_img: "/media/svg/barcode.svg"

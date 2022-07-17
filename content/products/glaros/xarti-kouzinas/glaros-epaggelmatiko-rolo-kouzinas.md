@@ -2,7 +2,7 @@
 title: "Γλάρος επαγγελματικο Ρολό κουζίνας"
 categories: ["Γλάρος"]
 product_image: "/assets/images/glaros-epaggelmatiko-rolo-kouzinas.jpg"
-product_image_lowres: "/assets/images/low/glaros-epaggelmatiko-rolo-kouzinas.jpg"
+product_image_lowres: "/assets/low/glaros-epaggelmatiko-rolo-kouzinas.jpg"
 barcode: "5200107431027"
 varos: "800γρ."
 bar_img: "/media/svg/barcode.svg"

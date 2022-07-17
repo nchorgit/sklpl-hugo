@@ -32,11 +32,11 @@
                         <div class="list-title"><p>{{ $key }}</p> </div>
                         <p>{{$cnt}}</p>
                     </div>
-                <ul>
-                    {{ range $taxonomy.Pages }}
-                    <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
-                    {{ end }}
-                </ul>
+                    <ul>
+                        {{ range $taxonomy.Pages }}
+                        <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"><div class="pimg3">{{ partial "image-low" . }}</div><span>{{ .LinkTitle }}</span></a></li>
+                        {{ end }}
+                    </ul>
             </div>
                 {{ end }}
           
@@ -91,6 +91,22 @@
     });
   });
 });
+$(".smeta").each(function () {
+            var text = $(this).text();
+            $(this).text(
+                $(this)
+                .text()
+                .replace(/ά/g, "α")
+                .replace(/έ/g, "ε")
+                .replace(/ή/g, "η")
+                .replace(/ί/g, "ι")
+                .replace(/ό/g, "ο")
+                .replace(/ύ/g, "υ")
+                .replace(/ώ/g, "ω")
+                .replace(/-/g, " ")
+                /*.replace(/[^\w\s]/gi, " ")*/
+            );
+        });
 </script>
 
 

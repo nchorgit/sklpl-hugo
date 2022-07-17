@@ -3,7 +3,7 @@ title: "Drolio Συλλέκτης υγρασίας Συσκευή 2X400g"
 categories: ["Drolio"]
 product_image: "/assets/images/drolio-syllekths-ygrasias-syskeuh-2x400g.jpg"
 barcode: "5202576471146"
-product_image_lowres: "/assets/images/low/drolio-syllekths-ygrasias-syskeuh-2x400g.jpg"
+product_image_lowres: "/assets/low/drolio-syllekths-ygrasias-syskeuh-2x400g.jpg"
 varos: "2 X 400g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"

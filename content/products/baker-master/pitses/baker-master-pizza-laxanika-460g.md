@@ -3,7 +3,7 @@ title: "Baker Master Pizza Λαχανικά 460g"
 draft: true
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-pizza-laxanika-460g.jpg"
-product_image_lowres: "/assets/images/low/baker-master-pizza-laxanika-460g.jpg"
+product_image_lowres: "/assets/low/baker-master-pizza-laxanika-460g.jpg"
 barcode: "5213000480269"
 varos: "460g"
 bar_img: "/media/svg/barcode.svg"

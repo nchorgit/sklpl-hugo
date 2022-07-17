@@ -3,7 +3,7 @@ title: "Μαράτα Πεπόνι ζαχαρωμένο 200g"
 weight: 2
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-peponi-zaxarwmeno-200g.jpg"
-product_image_lowres: "/assets/images/low/marata-peponi-zaxarwmeno-200g.jpg"
+product_image_lowres: "/assets/low/marata-peponi-zaxarwmeno-200g.jpg"
 barcode: "5202576101852"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"

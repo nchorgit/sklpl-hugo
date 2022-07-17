@@ -2,7 +2,7 @@
 title: "Γλάρος 25 κόκκινες Χαρτοπετσέτες πολυτελείας 40Χ40cm"
 categories: ["Γλάρος"]
 product_image: "/assets/images/glaros-25-kokkines-xartopetsetes-polyteleias-40x40cm.jpg"
-product_image_lowres: "/assets/images/low/glaros-25-kokkines-xartopetsetes-polyteleias-40x40cm.jpg"
+product_image_lowres: "/assets/low/glaros-25-kokkines-xartopetsetes-polyteleias-40x40cm.jpg"
 barcode: "5200107430136"
 varos: "40 Χ 40 cm"
 bar_img: "/media/svg/barcode.svg"

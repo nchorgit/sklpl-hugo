@@ -2,7 +2,7 @@
 title: "Bonora Σοκολάτα γάλακτος με ολόκληρα φουντούκια 100g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-sokolata-galaktos-me-oloklhra-fountoukia-100g.jpg"
-product_image_lowres: "/assets/images/low/bonora-sokolata-galaktos-me-oloklhra-fountoukia-100g.jpg"
+product_image_lowres: "/assets/low/bonora-sokolata-galaktos-me-oloklhra-fountoukia-100g.jpg"
 barcode: "5202576633988"
 varos: "100g"
 bar_img: "/media/svg/barcode.svg"

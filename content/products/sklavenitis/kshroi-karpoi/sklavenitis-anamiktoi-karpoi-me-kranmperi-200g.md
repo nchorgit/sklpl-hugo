@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Ανάμικτοι καρποί με κράνμπ
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-anamiktoi-karpoi-me-kranmperi-200g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-anamiktoi-karpoi-me-kranmperi-200g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-anamiktoi-karpoi-me-kranmperi-200g.jpg"
 barcode: "5202576310032"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"

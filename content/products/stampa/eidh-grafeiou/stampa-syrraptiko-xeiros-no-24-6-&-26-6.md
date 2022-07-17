@@ -2,7 +2,7 @@
 title: "Stampa Συρραπτικό xειρός Nο 24/6 & 26/6"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-syrraptiko-xeiros-no-24-6-26-6.jpg"
-product_image_lowres: "/assets/images/low/stampa-syrraptiko-xeiros-no-24-6-26-6.jpg"
+product_image_lowres: "/assets/low/stampa-syrraptiko-xeiros-no-24-6-26-6.jpg"
 barcode: "5202576634725"
 varos: "40 φύλλα"
 bar_img: "/media/svg/barcode.svg"

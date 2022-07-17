@@ -2,7 +2,7 @@
 title: "Kitten Πανάκια μικροϊνών γενικής χρήσης 3τεμ"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-panakia-mikroinwn-genikhs-xrhshs-3tem.jpg"
-product_image_lowres: "/assets/images/low/kitten-panakia-mikroinwn-genikhs-xrhshs-3tem.jpg"
+product_image_lowres: "/assets/low/kitten-panakia-mikroinwn-genikhs-xrhshs-3tem.jpg"
 barcode: "5202576680302"
 varos: "35 X 35 cm"
 bar_img: "/media/svg/barcode.svg"

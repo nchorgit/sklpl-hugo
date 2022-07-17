@@ -2,7 +2,7 @@
 title: "Μαράτα Ketchup 560g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-ketchup-560g.jpg"
-product_image_lowres: "/assets/images/low/marata-ketchup-560g.jpg"
+product_image_lowres: "/assets/low/marata-ketchup-560g.jpg"
 barcode: "5202576630482"
 varos: "560g"
 bar_img: "/media/svg/barcode.svg"

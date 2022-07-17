@@ -3,7 +3,7 @@ title: "Baker Master Μπουγάτσα Θεσσαλονίκης με κρέμα
 weight: 2
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-mpougatsa-thessalonikhs-me-krema-815g.jpg"
-product_image_lowres: "/assets/images/low/baker-master-mpougatsa-thessalonikhs-me-krema-815g.jpg"
+product_image_lowres: "/assets/low/baker-master-mpougatsa-thessalonikhs-me-krema-815g.jpg"
 barcode: "5213000480627"
 varos: "815g"
 bar_img: "/media/svg/barcode.svg"

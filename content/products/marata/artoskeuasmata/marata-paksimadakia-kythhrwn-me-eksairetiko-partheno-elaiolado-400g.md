@@ -3,7 +3,7 @@ title: "Μαράτα Παξιμαδάκια Kυθήρων με εξαιρετι�
 weight: 3
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-paksimadakia-kythhrwn-me-eksairetiko-partheno-elaiolado-400g.jpg"
-product_image_lowres: "/assets/images/low/marata-paksimadakia-kythhrwn-me-eksairetiko-partheno-elaiolado-400g.jpg"
+product_image_lowres: "/assets/low/marata-paksimadakia-kythhrwn-me-eksairetiko-partheno-elaiolado-400g.jpg"
 barcode: "5202576633896"
 varos: "400g"
 bar_img: "/media/svg/barcode.svg"

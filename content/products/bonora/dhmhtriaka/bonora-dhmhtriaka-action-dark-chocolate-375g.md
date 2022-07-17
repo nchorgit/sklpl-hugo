@@ -2,7 +2,7 @@
 title: "Bonora Δημητριακά Action Dark Chocolate 375g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-dhmhtriaka-action-dark-chocolate-375g.jpg"
-product_image_lowres: "/assets/images/low/bonora-dhmhtriaka-action-dark-chocolate-375g.jpg"
+product_image_lowres: "/assets/low/bonora-dhmhtriaka-action-dark-chocolate-375g.jpg"
 barcode: "5202576283237"
 varos: "375g"
 bar_img: "/media/svg/barcode.svg"

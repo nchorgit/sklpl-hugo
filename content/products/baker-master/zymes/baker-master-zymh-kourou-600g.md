@@ -3,7 +3,7 @@ title: "Baker Master Ζύμη κουρού 600g"
 weight: 5
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-zymh-kourou-600g.jpg"
-product_image_lowres: "/assets/images/low/baker-master-zymh-kourou-600g.jpg"
+product_image_lowres: "/assets/low/baker-master-zymh-kourou-600g.jpg"
 barcode: "5213000480085"
 varos: "600g"
 bar_img: "/media/svg/barcode.svg"

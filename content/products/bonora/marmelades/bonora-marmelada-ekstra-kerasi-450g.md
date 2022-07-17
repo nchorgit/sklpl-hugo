@@ -2,7 +2,7 @@
 title: "Bonora Μαρμελάδα Έξτρα Κεράσι 450g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-marmelada-ekstra-kerasi-450g.jpg"
-product_image_lowres: "/assets/images/low/bonora-marmelada-ekstra-kerasi-450g.jpg"
+product_image_lowres: "/assets/low/bonora-marmelada-ekstra-kerasi-450g.jpg"
 barcode: "5202576630086"
 varos: "450g"
 bar_img: "/media/svg/barcode.svg"

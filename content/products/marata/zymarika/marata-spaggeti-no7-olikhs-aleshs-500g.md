@@ -2,7 +2,7 @@
 title: "Μαράτα Σπαγγέτι Νο7 Όλικης Άλεσης 500g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-spaggeti-no7-olikhs-aleshs-500g.jpg"
-product_image_lowres: "/assets/images/low/marata-spaggeti-no7-olikhs-aleshs-500g.jpg"
+product_image_lowres: "/assets/low/marata-spaggeti-no7-olikhs-aleshs-500g.jpg"
 barcode: "5202576300941"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Sette Σαπούνι Jasmine & Citrus"
 categories: ["Sette"]
 product_image: "/assets/images/sette-sapouni-jasmine-citrus.jpg"
-product_image_lowres: "/assets/images/low/sette-sapouni-jasmine-citrus.jpg"
+product_image_lowres: "/assets/low/sette-sapouni-jasmine-citrus.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

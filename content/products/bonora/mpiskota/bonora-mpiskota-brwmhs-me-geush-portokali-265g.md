@@ -2,7 +2,7 @@
 title: "Bonora Μπισκότα βρώμης με γεύση πορτοκάλι 265g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-mpiskota-brwmhs-me-geush-portokali-265g.jpg"
-product_image_lowres: "/assets/images/low/bonora-mpiskota-brwmhs-me-geush-portokali-265g.jpg"
+product_image_lowres: "/assets/low/bonora-mpiskota-brwmhs-me-geush-portokali-265g.jpg"
 barcode: "5208046035818"
 varos: "265g"
 bar_img: "/media/svg/barcode.svg"

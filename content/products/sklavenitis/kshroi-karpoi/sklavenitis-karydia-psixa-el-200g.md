@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Καρύδια ψίχα ΕΛ 200g"
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-karydia-psixa-el-200g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-karydia-psixa-el-200g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-karydia-psixa-el-200g.jpg"
 barcode: "5202576633940"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"

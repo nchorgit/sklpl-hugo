@@ -2,7 +2,7 @@
 title: "Sette Μπατονέτες 200 τεμ."
 categories: ["Sette"]
 product_image: "/assets/images/sette-mpatonetes-200-tem.jpg"
-product_image_lowres: "/assets/images/low/sette-mpatonetes-200-tem.jpg"
+product_image_lowres: "/assets/low/sette-mpatonetes-200-tem.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

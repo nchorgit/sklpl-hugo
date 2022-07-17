@@ -2,7 +2,7 @@
 title: "Stampa Συνδετήρες χρωματιστοί 28mm"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-syndethres-xrwmatistoi-28mm.jpg"
-product_image_lowres: "/assets/images/low/stampa-syndethres-xrwmatistoi-28mm.jpg"
+product_image_lowres: "/assets/low/stampa-syndethres-xrwmatistoi-28mm.jpg"
 barcode: "5202576634909"
 varos: "100 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

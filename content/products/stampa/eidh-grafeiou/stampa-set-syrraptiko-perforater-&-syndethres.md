@@ -2,7 +2,7 @@
 title: "Stampa Σετ συρραπτικό, περφορατέρ & συνδετήρες"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-set-syrraptiko-perforater-syndethres.jpg"
-product_image_lowres: "/assets/images/low/stampa-set-syrraptiko-perforater-syndethres.jpg"
+product_image_lowres: "/assets/low/stampa-set-syrraptiko-perforater-syndethres.jpg"
 barcode: "5202576634800"
 varos: "15 φύλλα"
 bar_img: "/media/svg/barcode.svg"

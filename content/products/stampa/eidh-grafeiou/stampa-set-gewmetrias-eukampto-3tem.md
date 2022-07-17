@@ -2,7 +2,7 @@
 title: "Stampa Σετ γεωμετρίας εύκαμπτο 3τεμ"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-set-gewmetrias-eukampto-3tem.jpg"
-product_image_lowres: "/assets/images/low/stampa-set-gewmetrias-eukampto-3tem.jpg"
+product_image_lowres: "/assets/low/stampa-set-gewmetrias-eukampto-3tem.jpg"
 barcode: "5202576648012"
 varos: "3 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

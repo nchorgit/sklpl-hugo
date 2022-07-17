@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Αμμωνία διττανθρακικό αμμ�
 date: 2022-05-18T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-ammwnia-dittanthrakiko-ammwnio-25g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-ammwnia-dittanthrakiko-ammwnio-25g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-ammwnia-dittanthrakiko-ammwnio-25g.jpg"
 barcode: "5202576250666"
 varos: "25g"
 bar_img: "/media/svg/barcode.svg"

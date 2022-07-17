@@ -2,7 +2,7 @@
 title: "Master Light Λαμπτήρας Led Κερί 7W E14"
 categories: ["Master Light"]
 product_image: "/assets/images/master-light-lampthras-led-keri-7w-e14.jpg"
-product_image_lowres: "/assets/images/low/master-light-lampthras-led-keri-7w-e14.jpg"
+product_image_lowres: "/assets/low/master-light-lampthras-led-keri-7w-e14.jpg"
 barcode: "5203381995575"
 varos: "7W"
 bar_img: "/media/svg/barcode.svg"

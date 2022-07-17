@@ -3,7 +3,7 @@ title: "Μαράτα Ψωμί για τοστ με σίκαλη 340g"
 weight: 3
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-pswmi-gia-tost-me-sikalh-340g.jpg"
-product_image_lowres: "/assets/images/low/marata-pswmi-gia-tost-me-sikalh-340g.jpg"
+product_image_lowres: "/assets/low/marata-pswmi-gia-tost-me-sikalh-340g.jpg"
 barcode: "5202576303287"
 varos: "340g"
 bar_img: "/media/svg/barcode.svg"

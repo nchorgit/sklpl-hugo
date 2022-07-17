@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Αμύγδαλα ψίχα σε φέτες απο�
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-amygdala-psixa-se-fetes-apofloiwmena-150g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-amygdala-psixa-se-fetes-apofloiwmena-150g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-amygdala-psixa-se-fetes-apofloiwmena-150g.jpg"
 barcode: "5202576461482"
 varos: "150g"
 bar_img: "/media/svg/barcode.svg"

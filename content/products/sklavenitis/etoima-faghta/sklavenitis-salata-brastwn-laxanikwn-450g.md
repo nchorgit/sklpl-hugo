@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Σαλάτα βραστών λαχανικών 45
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-salata-brastwn-laxanikwn-450g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-salata-brastwn-laxanikwn-450g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-salata-brastwn-laxanikwn-450g.jpg"
 barcode: "5202576462052"
 varos: "450g"
 bar_img: "/media/svg/barcode.svg"

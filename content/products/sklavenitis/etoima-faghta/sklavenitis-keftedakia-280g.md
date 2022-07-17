@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Κεφτεδάκια 280g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-keftedakia-280g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-keftedakia-280g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-keftedakia-280g.jpg"
 barcode: "5202576491960"
 varos: "280g"
 bar_img: "/media/svg/barcode.svg"

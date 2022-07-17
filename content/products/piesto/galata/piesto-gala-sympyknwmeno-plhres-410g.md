@@ -2,7 +2,7 @@
 title: "Πιέστο γάλα συμπυκνωμένο πλήρες 410g"
 categories: ["Πιέστο"]
 product_image: "/assets/images/piesto-gala-sympyknwmeno-plhres-410g.jpg"
-product_image_lowres: "/assets/images/low/piesto-gala-sympyknwmeno-plhres-410g.jpg"
+product_image_lowres: "/assets/low/piesto-gala-sympyknwmeno-plhres-410g.jpg"
 barcode: "8715300303332"
 varos: "410g"
 bar_img: "/media/svg/barcode.svg"

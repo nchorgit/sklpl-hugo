@@ -2,7 +2,7 @@
 title: "Stampa Συρραπτικό Νο 10 & συνδετήρες"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-syrraptiko-no-10-syndethres.jpg"
-product_image_lowres: "/assets/images/low/stampa-syrraptiko-no-10-syndethres.jpg"
+product_image_lowres: "/assets/low/stampa-syrraptiko-no-10-syndethres.jpg"
 barcode: "5202576634756"
 varos: "15 φύλλα"
 bar_img: "/media/svg/barcode.svg"

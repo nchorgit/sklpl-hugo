@@ -2,7 +2,7 @@
 title: "Μαράτα Σογιέλαιο 2L"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-sogielaio-2l.jpg"
-product_image_lowres: "/assets/images/low/marata-sogielaio-2l.jpg"
+product_image_lowres: "/assets/low/marata-sogielaio-2l.jpg"
 barcode: "5202576303072"
 varos: "2L"
 bar_img: "/media/svg/barcode.svg"

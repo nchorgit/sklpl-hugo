@@ -3,7 +3,7 @@ title: "Μαράτα Ανανάς ζαχαρωμένος 250g"
 weight: 2
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-ananas-zaxarwmenos-250g.jpg"
-product_image_lowres: "/assets/images/low/marata-ananas-zaxarwmenos-250g.jpg"
+product_image_lowres: "/assets/low/marata-ananas-zaxarwmenos-250g.jpg"
 barcode: "5202576101869"
 varos: "250g"
 bar_img: "/media/svg/barcode.svg"

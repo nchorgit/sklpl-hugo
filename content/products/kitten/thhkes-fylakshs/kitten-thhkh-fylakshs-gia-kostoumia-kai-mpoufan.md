@@ -2,7 +2,7 @@
 title: "Kitten Θήκη φύλαξης για κοστούμια και μπουφάν"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-thhkh-fylakshs-gia-kostoumia-kai-mpoufan.jpg"
-product_image_lowres: "/assets/images/low/kitten-thhkh-fylakshs-gia-kostoumia-kai-mpoufan.jpg"
+product_image_lowres: "/assets/low/kitten-thhkh-fylakshs-gia-kostoumia-kai-mpoufan.jpg"
 barcode: "5202576680791"
 varos: "60 X 100 cm"
 bar_img: "/media/svg/barcode.svg"

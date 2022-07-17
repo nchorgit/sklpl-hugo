@@ -2,7 +2,7 @@
 title: "Μαράτα Συμπυκνωμένος χυμός ντομάτας 500g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-sympyknwmenos-xymos-ntomatas-500g.jpg"
-product_image_lowres: "/assets/images/low/marata-sympyknwmenos-xymos-ntomatas-500g.jpg"
+product_image_lowres: "/assets/low/marata-sympyknwmenos-xymos-ntomatas-500g.jpg"
 barcode: "5202576097759"
 varos: "250g"
 bar_img: "/media/svg/barcode.svg"

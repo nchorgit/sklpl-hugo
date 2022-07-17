@@ -3,7 +3,7 @@ title: "Drolio απορρυπαντικό ρούχων σε σκόνη 2475g"
 categories: ["Drolio"]
 product_image: "/assets/images/drolio-aporrypantiko-rouxwn-se-skonh-2475g.jpg"
 barcode: "5208046020074"
-product_image_lowres: "/assets/images/low/drolio-aporrypantiko-rouxwn-se-skonh-2475g.jpg"
+product_image_lowres: "/assets/low/drolio-aporrypantiko-rouxwn-se-skonh-2475g.jpg"
 varos: "2475g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"

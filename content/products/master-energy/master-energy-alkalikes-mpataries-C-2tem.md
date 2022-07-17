@@ -2,7 +2,7 @@
 title: "Master Energy Αλκαλικές Μπαταρίες C 2τεμ"
 categories: ["Master Energy"]
 product_image: "/assets/images/master-energy-alkalikes-mpataries-C-2tem.jpg"
-product_image_lowres: "/assets/images/low/master-energy-alkalikes-mpataries-C-2tem.jpg"
+product_image_lowres: "/assets/low/master-energy-alkalikes-mpataries-C-2tem.jpg"
 barcode: "5203381997296"
 varos: "1,5V"
 bar_img: "/media/svg/barcode.svg"

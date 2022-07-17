@@ -2,7 +2,7 @@
 title: "Buenas Πάριζα & Edam σε φέτες 360g"
 categories: ["Buenas"]
 product_image: "/assets/images/buenas-pariza-edam-se-fetes.jpg"
-product_image_lowres: "/assets/images/low/buenas-pariza-edam-se-fetes.jpg"
+product_image_lowres: "/assets/low/buenas-pariza-edam-se-fetes.jpg"
 barcode: "5202576475106"
 varos: "360g"
 bar_img: "/media/svg/barcode.svg"

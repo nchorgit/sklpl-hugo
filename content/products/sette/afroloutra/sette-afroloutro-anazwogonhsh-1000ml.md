@@ -2,7 +2,7 @@
 title: "Sette Αφρόλουτρο Αναζωογόνηση 1000ml"
 categories: ["Sette"]
 product_image: "/assets/images/sette-afroloutro-anazwogonhsh-1000ml.jpg"
-product_image_lowres: "/assets/images/low/sette-afroloutro-anazwogonhsh-1000ml.jpg"
+product_image_lowres: "/assets/low/sette-afroloutro-anazwogonhsh-1000ml.jpg"
 barcode: "5202576210110"
 varos: "1000ml"
 bar_img: "/media/svg/barcode.svg"

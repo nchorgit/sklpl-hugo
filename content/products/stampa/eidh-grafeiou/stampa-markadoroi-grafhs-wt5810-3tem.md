@@ -2,7 +2,7 @@
 title: "Stampa Μαρκαδόροι γραφής WT5810 3τεμ"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-markadoroi-grafhs-wt5810-3tem.jpg"
-product_image_lowres: "/assets/images/low/stampa-markadoroi-grafhs-wt5810-3tem.jpg"
+product_image_lowres: "/assets/low/stampa-markadoroi-grafhs-wt5810-3tem.jpg"
 barcode: "5202576657458"
 varos: "3 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

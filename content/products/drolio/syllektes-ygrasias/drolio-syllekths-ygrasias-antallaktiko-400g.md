@@ -3,7 +3,7 @@ title: "Drolio Συλλέκτης υγρασίας Ανταλλακτικό 400g
 categories: ["Drolio"]
 product_image: "/assets/images/drolio-syllekths-ygrasias-antallaktiko-400g.jpg"
 barcode: "5202576471160"
-product_image_lowres: "/assets/images/low/drolio-syllekths-ygrasias-antallaktiko-400g.jpg"
+product_image_lowres: "/assets/low/drolio-syllekths-ygrasias-antallaktiko-400g.jpg"
 varos: "400g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"

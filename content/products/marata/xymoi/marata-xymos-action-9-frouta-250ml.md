@@ -2,7 +2,7 @@
 title: "Μαράτα Χυμός Action 9 φρούτα 250ml"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-xymos-action-9-frouta-250ml.jpg"
-product_image_lowres: "/assets/images/low/marata-xymos-action-9-frouta-250ml.jpg"
+product_image_lowres: "/assets/low/marata-xymos-action-9-frouta-250ml.jpg"
 barcode: "5202576043978"
 varos: "250ml"
 bar_img: "/media/svg/barcode.svg"

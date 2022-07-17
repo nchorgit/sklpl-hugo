@@ -2,7 +2,7 @@
 title: "Bonora Ρόφημα καφέ Cappuccino 250ml"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-rofhma-kafe-cappuccino-250ml.jpg"
-product_image_lowres: "/assets/images/low/bonora-rofhma-kafe-cappuccino-250ml.jpg"
+product_image_lowres: "/assets/low/bonora-rofhma-kafe-cappuccino-250ml.jpg"
 barcode: "5202576633612"
 varos: "250ml"
 bar_img: "/media/svg/barcode.svg"

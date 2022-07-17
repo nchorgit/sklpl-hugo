@@ -2,7 +2,7 @@
 title: "Buenas Παριζάκι"
 categories: ["Buenas"]
 product_image: "/assets/images/buenas-parizaki.jpg"
-product_image_lowres: "/assets/images/low/buenas-parizaki.jpg"
+product_image_lowres: "/assets/low/buenas-parizaki.jpg"
 barcode: "5202576119048"
 varos: "310g"
 bar_img: "/media/svg/barcode.svg"

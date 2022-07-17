@@ -2,7 +2,7 @@
 title: "Sette Κρεμοσάπουνο Sweet Vanilla Ανταλλακτικό 1000ml"
 categories: ["Sette"]
 product_image: "/assets/images/sette-kremosapouno-sweet-vanilla-antallaktiko-1000ml.jpg"
-product_image_lowres: "/assets/images/low/sette-kremosapouno-sweet-vanilla-antallaktiko-1000ml.jpg"
+product_image_lowres: "/assets/low/sette-kremosapouno-sweet-vanilla-antallaktiko-1000ml.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

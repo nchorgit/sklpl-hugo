@@ -2,7 +2,7 @@
 title: "Toni Τόνος σε ηλιέλαιο τεμαχισμένος 95g"
 categories: ["Toni"]
 product_image: "/assets/images/toni-tonos-se-hlielaio-temaxismenos-95g.jpg"
-product_image_lowres: "/assets/images/low/toni-tonos-se-hlielaio-temaxismenos-95g.jpg"
+product_image_lowres: "/assets/low/toni-tonos-se-hlielaio-temaxismenos-95g.jpg"
 barcode: "5202576707771"
 varos: "95g"
 bar_img: "/media/svg/barcode.svg"

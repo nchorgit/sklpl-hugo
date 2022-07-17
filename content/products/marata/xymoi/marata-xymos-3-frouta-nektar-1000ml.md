@@ -2,7 +2,7 @@
 title: "Μαράτα Χυμός 3 φρούτα νέκταρ 1000ml"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-xymos-3-frouta-nektar-1000ml.jpg"
-product_image_lowres: "/assets/images/low/marata-xymos-3-frouta-nektar-1000ml.jpg"
+product_image_lowres: "/assets/low/marata-xymos-3-frouta-nektar-1000ml.jpg"
 barcode: "5202576043879"
 varos: "1L"
 bar_img: "/media/svg/barcode.svg"

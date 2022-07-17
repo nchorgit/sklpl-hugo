@@ -2,7 +2,7 @@
 title: "Μαράτα Ταχίνι 900g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-taxini-900g.jpg"
-product_image_lowres: "/assets/images/low/marata-taxini-900g.jpg"
+product_image_lowres: "/assets/low/marata-taxini-900g.jpg"
 barcode: "5202576308015"
 varos: "900g"
 bar_img: "/media/svg/barcode.svg"

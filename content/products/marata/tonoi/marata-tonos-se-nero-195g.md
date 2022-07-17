@@ -2,7 +2,7 @@
 title: "Μαράτα Τόνος σε νερό 195g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-tonos-se-nero-195g.jpg"
-product_image_lowres: "/assets/images/low/marata-tonos-se-nero-195g.jpg"
+product_image_lowres: "/assets/low/marata-tonos-se-nero-195g.jpg"
 barcode: "5202576099586"
 varos: "195g"
 bar_img: "/media/svg/barcode.svg"

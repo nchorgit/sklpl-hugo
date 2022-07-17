@@ -2,7 +2,7 @@
 title: "Buenas Σαλάμι αέρος"
 categories: ["Buenas"]
 product_image: "/assets/images/buenas-salami-aeros.jpg"
-product_image_lowres: "/assets/images/low/buenas-salami-aeros.jpg"
+product_image_lowres: "/assets/low/buenas-salami-aeros.jpg"
 barcode: "ΠΩΛΗΣΗ ΧΥΜΑ"
 varos: "158 μερίδες"
 bar_img: "/media/svg/barcode.svg"

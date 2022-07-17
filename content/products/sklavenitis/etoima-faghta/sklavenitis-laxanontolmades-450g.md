@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Λαχανοντολμάδες 450g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-laxanontolmades-450g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-laxanontolmades-450g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-laxanontolmades-450g.jpg"
 barcode: "5202576281301"
 varos: "450g"
 bar_img: "/media/svg/barcode.svg"

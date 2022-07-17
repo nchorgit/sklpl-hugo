@@ -2,7 +2,7 @@
 title: "Kitten Πανάκια μικροϊνών γενικής χρήσης 8τεμ"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-panakia-mikroinwn-genikhs-xrhshs-8tem.jpg"
-product_image_lowres: "/assets/images/low/kitten-panakia-mikroinwn-genikhs-xrhshs-8tem.jpg"
+product_image_lowres: "/assets/low/kitten-panakia-mikroinwn-genikhs-xrhshs-8tem.jpg"
 barcode: "5202576680319"
 varos: "30 X 30 cm"
 bar_img: "/media/svg/barcode.svg"

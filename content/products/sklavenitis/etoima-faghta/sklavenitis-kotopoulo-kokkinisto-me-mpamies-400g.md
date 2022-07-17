@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Κοτόπουλο κοκκινιστό με μπ
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-kotopoulo-kokkinisto-me-mpamies-400g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-kotopoulo-kokkinisto-me-mpamies-400g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-kotopoulo-kokkinisto-me-mpamies-400g.jpg"
 barcode: "5202576681439"
 varos: "400g"
 bar_img: "/media/svg/barcode.svg"

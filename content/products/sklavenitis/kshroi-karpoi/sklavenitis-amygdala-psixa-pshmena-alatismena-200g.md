@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Αμύγδαλα ψίχα ψημένα αλατι
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-amygdala-psixa-pshmena-alatismena-200g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-amygdala-psixa-pshmena-alatismena-200g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-amygdala-psixa-pshmena-alatismena-200g.jpg"
 barcode: "5208046088982"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"

@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Πιπέρι κόκκινο καυτερό 50g"
 date: 2022-05-21T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-piperi-kokkino-kautero-50g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-piperi-kokkino-kautero-50g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-piperi-kokkino-kautero-50g.jpg"
 barcode: "5202576250949"
 varos: "50g"
 bar_img: "/media/svg/barcode.svg"

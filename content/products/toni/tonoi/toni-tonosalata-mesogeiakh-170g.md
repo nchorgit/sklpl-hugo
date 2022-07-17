@@ -2,7 +2,7 @@
 title: "Toni Τονοσαλάτα µεσογειακή 170g"
 categories: ["Toni"]
 product_image: "/assets/images/toni-tonosalata-mesogeiakh-170g.jpg"
-product_image_lowres: "/assets/images/low/toni-tonosalata-mesogeiakh-170g.jpg"
+product_image_lowres: "/assets/low/toni-tonosalata-mesogeiakh-170g.jpg"
 barcode: "5202576872394"
 varos: "170g"
 bar_img: "/media/svg/barcode.svg"

@@ -3,7 +3,7 @@ title: "Μαράτα Γιαούρτι στραγγιστό 10% λιπαρά 1kg"
 weight: 5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-giaourti-straggisto-10-lipara-1kg.jpg"
-product_image_lowres: "/assets/images/low/marata-giaourti-straggisto-10-lipara-1kg.jpg"
+product_image_lowres: "/assets/low/marata-giaourti-straggisto-10-lipara-1kg.jpg"
 barcode: "5202576209206"
 varos: "1kg"
 bar_img: "/media/svg/barcode.svg"

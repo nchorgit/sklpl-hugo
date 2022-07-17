@@ -2,7 +2,7 @@
 title: "Tickit Ψαλίδι ασφαλείας πλαστικό GR-SS-69P"
 categories: ["Tickit"]
 product_image: "/assets/images/tickit-psalidi-asfaleias-plastiko-gr-ss-69p.jpg"
-product_image_lowres: "/assets/images/low/tickit-psalidi-asfaleias-plastiko-gr-ss-69p.jpg"
+product_image_lowres: "/assets/low/tickit-psalidi-asfaleias-plastiko-gr-ss-69p.jpg"
 barcode: "5202576866584"
 varos: "12,5 cm"
 bar_img: "/media/svg/barcode.svg"

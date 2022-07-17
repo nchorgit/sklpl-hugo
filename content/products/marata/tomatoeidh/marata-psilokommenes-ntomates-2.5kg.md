@@ -2,7 +2,7 @@
 title: "Μαράτα Ψιλοκομμένες ντομάτες 2,5kg"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-psilokommenes-ntomates-2.5kg.jpg"
-product_image_lowres: "/assets/images/low/marata-psilokommenes-ntomates-2.5kg.jpg"
+product_image_lowres: "/assets/low/marata-psilokommenes-ntomates-2.5kg.jpg"
 barcode: "5202576099104"
 varos: "2,5kg"
 bar_img: "/media/svg/barcode.svg"

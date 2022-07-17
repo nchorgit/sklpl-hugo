@@ -2,7 +2,7 @@
 title: "Buenas Γαλοπούλα βραστή μπαστούνι"
 categories: ["Buenas"]
 product_image: "/assets/images/buenas-galopoula-brasth-mpastouni.jpg"
-product_image_lowres: "/assets/images/low/buenas-galopoula-brasth-mpastouni.jpg"
+product_image_lowres: "/assets/low/buenas-galopoula-brasth-mpastouni.jpg"
 barcode: "ΠΩΛΗΣΗ ΧΥΜΑ"
 varos: "266 μερίδες"
 bar_img: "/media/svg/barcode.svg"

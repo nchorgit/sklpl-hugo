@@ -2,7 +2,7 @@
 title: "Μαράτα Κρέμα Γάλακτος 1kg"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-krema-galaktos-1kg.jpg"
-product_image_lowres: "/assets/images/low/marata-krema-galaktos-1kg.jpg"
+product_image_lowres: "/assets/low/marata-krema-galaktos-1kg.jpg"
 barcode: "5202576071711"
 varos: "1kg"
 bar_img: "/media/svg/barcode.svg"

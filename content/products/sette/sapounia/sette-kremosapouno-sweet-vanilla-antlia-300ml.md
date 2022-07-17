@@ -2,7 +2,7 @@
 title: "Sette Κρεμοσάπουνο Sweet Vanilla Αντλία 300ml"
 categories: ["Sette"]
 product_image: "/assets/images/sette-kremosapouno-sweet-vanilla-antlia-300ml.jpg"
-product_image_lowres: "/assets/images/low/sette-kremosapouno-sweet-vanilla-antlia-300ml.jpg"
+product_image_lowres: "/assets/low/sette-kremosapouno-sweet-vanilla-antlia-300ml.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

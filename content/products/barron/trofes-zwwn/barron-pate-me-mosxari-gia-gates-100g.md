@@ -2,7 +2,7 @@
 title: "Barron Πατέ με Μοσχάρι για γάτες 100g"
 categories: ["Barron"]
 product_image: "/assets/images/barron-pate-me-mosxari-gia-gates-100g.jpg"
-product_image_lowres: "/assets/images/low/barron-pate-me-mosxari-gia-gates-100g.jpg"
+product_image_lowres: "/assets/low/barron-pate-me-mosxari-gia-gates-100g.jpg"
 barcode: "5208046011140"
 varos: "100g"
 bar_img: "/media/svg/barcode.svg"

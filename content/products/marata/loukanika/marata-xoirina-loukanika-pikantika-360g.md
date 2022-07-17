@@ -2,7 +2,7 @@
 title: "Μαράτα Xοιρινά λουκάνικα πικάντικα 360g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-xoirina-loukanika-pikantika-360g.jpg"
-product_image_lowres: "/assets/images/low/marata-xoirina-loukanika-pikantika-360g.jpg"
+product_image_lowres: "/assets/low/marata-xoirina-loukanika-pikantika-360g.jpg"
 barcode: "0000000000000"
 varos: "360g"
 bar_img: "/media/svg/barcode.svg"

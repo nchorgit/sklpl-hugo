@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Μακαρόνια με σάλτσα ντομάτ
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-makaronia-me-saltsa-ntomatas-480g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-makaronia-me-saltsa-ntomatas-480g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-makaronia-me-saltsa-ntomatas-480g.jpg"
 barcode: "5202576100657"
 varos: "480g"
 bar_img: "/media/svg/barcode.svg"

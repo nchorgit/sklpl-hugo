@@ -2,7 +2,7 @@
 title: "Stampa Στυλό διαρκείας WT9906"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-stylo-diarkeias-wt9906.jpg"
-product_image_lowres: "/assets/images/low/stampa-stylo-diarkeias-wt9906.jpg"
+product_image_lowres: "/assets/low/stampa-stylo-diarkeias-wt9906.jpg"
 barcode: "5202576660069"
 varos: "10 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

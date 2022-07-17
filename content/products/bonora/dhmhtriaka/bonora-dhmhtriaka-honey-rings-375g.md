@@ -2,7 +2,7 @@
 title: "Bonora Δημητριακά Honey Rings 375g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-dhmhtriaka-honey-rings-375g.jpg"
-product_image_lowres: "/assets/images/low/bonora-dhmhtriaka-honey-rings-375g.jpg"
+product_image_lowres: "/assets/low/bonora-dhmhtriaka-honey-rings-375g.jpg"
 barcode: "5202576309357"
 varos: "375g"
 bar_img: "/media/svg/barcode.svg"

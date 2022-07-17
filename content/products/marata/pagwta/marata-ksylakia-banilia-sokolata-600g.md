@@ -2,7 +2,7 @@
 title: "Μαράτα Ξυλάκια βανίλια & σοκολάτα 600g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-ksylakia-banilia-sokolata-600g.jpg"
-product_image_lowres: "/assets/images/low/marata-ksylakia-banilia-sokolata-600g.jpg"
+product_image_lowres: "/assets/low/marata-ksylakia-banilia-sokolata-600g.jpg"
 barcode: "5202576066090"
 varos: "600g"
 bar_img: "/media/svg/barcode.svg"

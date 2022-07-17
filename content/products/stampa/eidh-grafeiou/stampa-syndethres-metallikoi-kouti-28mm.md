@@ -2,7 +2,7 @@
 title: "Stampa Συνδετήρες μεταλλικοί κουτί 28mm"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-syndethres-metallikoi-kouti-28mm.jpg"
-product_image_lowres: "/assets/images/low/stampa-syndethres-metallikoi-kouti-28mm.jpg"
+product_image_lowres: "/assets/low/stampa-syndethres-metallikoi-kouti-28mm.jpg"
 barcode: "5202576634961"
 varos: "400 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

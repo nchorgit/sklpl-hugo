@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Μπιφτέκι λαχανικών 350g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-mpifteki-laxanikwn-350g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-mpifteki-laxanikwn-350g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-mpifteki-laxanikwn-350g.jpg"
 barcode: "5202576682405"
 varos: "350g"
 bar_img: "/media/svg/barcode.svg"

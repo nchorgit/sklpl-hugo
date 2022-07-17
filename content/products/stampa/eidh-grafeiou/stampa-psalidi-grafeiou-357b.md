@@ -2,7 +2,7 @@
 title: "Stampa Ψαλίδι γραφείου 357B"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-psalidi-grafeiou-357b.jpg"
-product_image_lowres: "/assets/images/low/stampa-psalidi-grafeiou-357b.jpg"
+product_image_lowres: "/assets/low/stampa-psalidi-grafeiou-357b.jpg"
 barcode: "5202576866607"
 varos: "21 cm"
 bar_img: "/media/svg/barcode.svg"

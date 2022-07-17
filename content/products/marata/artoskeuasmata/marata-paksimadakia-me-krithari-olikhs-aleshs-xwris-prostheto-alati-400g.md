@@ -3,7 +3,7 @@ title: "Μαράτα Παξιμαδάκια με κριθάρι ολικής ά�
 weight: 3
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-paksimadakia-me-krithari-olikhs-aleshs-xwris-prostheto-alati-400g.jpg"
-product_image_lowres: "/assets/images/low/marata-paksimadakia-me-krithari-olikhs-aleshs-xwris-prostheto-alati-400g.jpg"
+product_image_lowres: "/assets/low/marata-paksimadakia-me-krithari-olikhs-aleshs-xwris-prostheto-alati-400g.jpg"
 barcode: "5202576633933"
 varos: "400g"
 bar_img: "/media/svg/barcode.svg"

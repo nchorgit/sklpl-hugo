@@ -2,7 +2,7 @@
 title: "Stampa Ζελατίνες διαφανείς 0.03mm 10τεμ"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-zelatines-diafaneis-0.03mm-10tem.jpg"
-product_image_lowres: "/assets/images/low/stampa-zelatines-diafaneis-0.03mm-10tem.jpg"
+product_image_lowres: "/assets/low/stampa-zelatines-diafaneis-0.03mm-10tem.jpg"
 barcode: "5202576734739"
 varos: "10 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

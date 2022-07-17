@@ -3,7 +3,7 @@ title: "Baker Master Κρουασανάκια με γέμιση σοκολάτα
 weight: 1
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-krouasanakia-me-gemish-sokolatas-180g.jpg"
-product_image_lowres: "/assets/images/low/baker-master-krouasanakia-me-gemish-sokolatas-180g.jpg"
+product_image_lowres: "/assets/low/baker-master-krouasanakia-me-gemish-sokolatas-180g.jpg"
 barcode: "5213000480320"
 varos: "180g"
 bar_img: "/media/svg/barcode.svg"

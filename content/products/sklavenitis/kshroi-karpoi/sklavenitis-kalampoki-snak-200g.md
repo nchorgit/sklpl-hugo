@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Καλαμπόκι σνακ 200g"
 date: 2022-05-22T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-kalampoki-snak-200g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-kalampoki-snak-200g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-kalampoki-snak-200g.jpg"
 barcode: "5202576464230"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"

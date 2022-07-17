@@ -2,7 +2,7 @@
 title: "Μαράτα Λαζάνια 500g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-lazania-500g.jpg"
-product_image_lowres: "/assets/images/low/marata-lazania-500g.jpg"
+product_image_lowres: "/assets/low/marata-lazania-500g.jpg"
 barcode: "5202576282117"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

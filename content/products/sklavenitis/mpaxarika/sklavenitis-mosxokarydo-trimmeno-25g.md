@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Μοσχοκάρυδο τριμμένο 25g"
 date: 2022-05-21T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-mosxokarydo-trimmeno-25g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-mosxokarydo-trimmeno-25g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-mosxokarydo-trimmeno-25g.jpg"
 barcode: "5202576250697"
 varos: "25g"
 bar_img: "/media/svg/barcode.svg"

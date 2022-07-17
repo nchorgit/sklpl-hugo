@@ -3,7 +3,7 @@ title: "Drolio Χλωροκαθαριστικό με άρωμα λεμόνι 125
 categories: ["Drolio"]
 product_image: "/assets/images/drolio-xlwrokatharistiko-me-arwma-lemoni-1250ml.jpg"
 barcode: "5202576210394"
-product_image_lowres: "/assets/images/low/drolio-xlwrokatharistiko-me-arwma-lemoni-1250ml.jpg"
+product_image_lowres: "/assets/low/drolio-xlwrokatharistiko-me-arwma-lemoni-1250ml.jpg"
 varos: "1250ml"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"

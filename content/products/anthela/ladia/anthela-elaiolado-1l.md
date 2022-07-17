@@ -2,7 +2,7 @@
 title: "Ανθέλα Ελαιόλαδο 1L"
 categories: ["Ανθέλα"]
 product_image: "/assets/images/anthela-elaiolado-1l.jpg"
-product_image_lowres: "/assets/images/low/anthela-elaiolado-1l.jpg"
+product_image_lowres: "/assets/low/anthela-elaiolado-1l.jpg"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]

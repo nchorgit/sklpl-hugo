@@ -2,7 +2,7 @@
 title: "Bonora Γκοφρέτα με σοκολάτα γάλακτος 33g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-gkofreta-me-sokolata-galaktos-33g.jpg"
-product_image_lowres: "/assets/images/low/bonora-gkofreta-me-sokolata-galaktos-33g.jpg"
+product_image_lowres: "/assets/low/bonora-gkofreta-me-sokolata-galaktos-33g.jpg"
 barcode: "5202576630444"
 varos: "33g"
 bar_img: "/media/svg/barcode.svg"

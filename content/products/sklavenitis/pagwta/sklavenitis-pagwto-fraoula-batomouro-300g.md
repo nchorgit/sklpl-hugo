@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Παγωτό Φράουλα Βατόμουρο 30
 date: 2022-05-19T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-pagwto-fraoula-batomouro-300g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-pagwto-fraoula-batomouro-300g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-pagwto-fraoula-batomouro-300g.jpg"
 barcode: "5202576464353"
 varos: "300g / 500ml"
 bar_img: "/media/svg/barcode.svg"

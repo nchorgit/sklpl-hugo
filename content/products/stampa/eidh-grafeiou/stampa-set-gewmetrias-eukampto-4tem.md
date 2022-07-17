@@ -2,7 +2,7 @@
 title: "Stampa Σετ γεωμετρίας εύκαμπτο 4τεμ"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-set-gewmetrias-eukampto-4tem.jpg"
-product_image_lowres: "/assets/images/low/stampa-set-gewmetrias-eukampto-4tem.jpg"
+product_image_lowres: "/assets/low/stampa-set-gewmetrias-eukampto-4tem.jpg"
 barcode: "5202576638044"
 varos: "4 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

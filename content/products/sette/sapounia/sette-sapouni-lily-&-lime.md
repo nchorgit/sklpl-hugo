@@ -2,7 +2,7 @@
 title: "Sette Σαπούνι Lily & Lime"
 categories: ["Sette"]
 product_image: "/assets/images/sette-sapouni-lily-lime.jpg"
-product_image_lowres: "/assets/images/low/sette-sapouni-lily-lime.jpg"
+product_image_lowres: "/assets/low/sette-sapouni-lily-lime.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

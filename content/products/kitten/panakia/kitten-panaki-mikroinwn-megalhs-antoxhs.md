@@ -2,7 +2,7 @@
 title: "Kitten Πανάκι μικροϊνών μεγάλης αντοχής"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-panaki-mikroinwn-megalhs-antoxhs.jpg"
-product_image_lowres: "/assets/images/low/kitten-panaki-mikroinwn-megalhs-antoxhs.jpg"
+product_image_lowres: "/assets/low/kitten-panaki-mikroinwn-megalhs-antoxhs.jpg"
 barcode: "5202576680296"
 varos: "40 Χ 40 cm"
 bar_img: "/media/svg/barcode.svg"

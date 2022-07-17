@@ -3,7 +3,7 @@ title: "Drolio Υγρό απορρυπαντικό ρούχων Μασσαλία
 categories: ["Drolio"]
 product_image: "/assets/images/drolio-ygro-aporrypantiko-rouxwn-massalias-1.5l.jpg"
 barcode: "5208046040881"
-product_image_lowres: "/assets/images/low/drolio-ygro-aporrypantiko-rouxwn-massalias-1.5l.jpg"
+product_image_lowres: "/assets/low/drolio-ygro-aporrypantiko-rouxwn-massalias-1.5l.jpg"
 varos: "1,5L"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"

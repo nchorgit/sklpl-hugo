@@ -3,7 +3,7 @@ title: "Drolio Σακούλες Απορριμάτων με κορδόνι Γί�
 categories: ["Drolio"]
 product_image: "/assets/images/drolio-sakoules-aporrimatwn-me-kordoni-gigas-10-tem.jpg"
 barcode: "5202576789500"
-product_image_lowres: "/assets/images/low/drolio-sakoules-aporrimatwn-me-kordoni-gigas-10-tem.jpg"
+product_image_lowres: "/assets/low/drolio-sakoules-aporrimatwn-me-kordoni-gigas-10-tem.jpg"
 varos: "70 X 95 cm"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/dcm.svg"

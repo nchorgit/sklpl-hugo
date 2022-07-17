@@ -3,7 +3,7 @@ title: "Μαράτα Γάλα χωρίς λακτόζη 1L"
 weight: 4
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-gala-xwris-laktozh-1l.jpg"
-product_image_lowres: "/assets/images/low/marata-gala-xwris-laktozh-1l.jpg"
+product_image_lowres: "/assets/low/marata-gala-xwris-laktozh-1l.jpg"
 barcode: "5202576681330"
 varos: "1L"
 bar_img: "/media/svg/barcode.svg"

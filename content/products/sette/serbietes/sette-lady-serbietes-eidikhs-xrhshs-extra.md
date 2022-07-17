@@ -2,7 +2,7 @@
 title: "Sette Lady Σερβιέτες ειδικής χρήσης Extra"
 categories: ["Sette"]
 product_image: "/assets/images/sette-lady-serbietes-eidikhs-xrhshs-extra.jpg"
-product_image_lowres: "/assets/images/low/sette-lady-serbietes-eidikhs-xrhshs-extra.jpg"
+product_image_lowres: "/assets/low/sette-lady-serbietes-eidikhs-xrhshs-extra.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Master Light Λαμπτήρας Led A-60 11W B22"
 categories: ["Master Light"]
 product_image: "/assets/images/master-light-lampthras-led-a-60-11w-b22.jpg"
-product_image_lowres: "/assets/images/low/master-light-lampthras-led-a-60-11w-b22.jpg"
+product_image_lowres: "/assets/low/master-light-lampthras-led-a-60-11w-b22.jpg"
 barcode: "5203381995582"
 varos: "11W"
 bar_img: "/media/svg/barcode.svg"

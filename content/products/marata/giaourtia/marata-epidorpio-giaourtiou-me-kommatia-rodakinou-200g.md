@@ -3,7 +3,7 @@ title: "Μαράτα Επιδόρπιο γιαουρτιού με κομμάτι
 weight: 5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-epidorpio-giaourtiou-me-kommatia-rodakinou-200g.jpg"
-product_image_lowres: "/assets/images/low/marata-epidorpio-giaourtiou-me-kommatia-rodakinou-200g.jpg"
+product_image_lowres: "/assets/low/marata-epidorpio-giaourtiou-me-kommatia-rodakinou-200g.jpg"
 barcode: "5202576043633"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"

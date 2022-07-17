@@ -3,7 +3,7 @@ title: "Drolio Ταψιά μεγάλα βαθιά D20"
 categories: ["Drolio"]
 product_image: "/assets/images/drolio-tapsia-megala-bathia-d20.jpg"
 barcode: "5202576132559"
-product_image_lowres: "/assets/images/low/drolio-tapsia-megala-bathia-d20.jpg"
+product_image_lowres: "/assets/low/drolio-tapsia-megala-bathia-d20.jpg"
 varos: "3 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"

@@ -2,7 +2,7 @@
 title: "Μαράτα Μουστάρδα απαλή 500g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-moustarda-apalh-500g.jpg"
-product_image_lowres: "/assets/images/low/marata-moustarda-apalh-500g.jpg"
+product_image_lowres: "/assets/low/marata-moustarda-apalh-500g.jpg"
 barcode: "5202576630383"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

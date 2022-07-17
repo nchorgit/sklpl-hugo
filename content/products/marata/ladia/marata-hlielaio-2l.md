@@ -2,7 +2,7 @@
 title: "Μαράτα Ηλιέλαιο 2L"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-hlielaio-2l.jpg"
-product_image_lowres: "/assets/images/low/marata-hlielaio-2l.jpg"
+product_image_lowres: "/assets/low/marata-hlielaio-2l.jpg"
 barcode: "5202576303102"
 varos: "2L"
 bar_img: "/media/svg/barcode.svg"

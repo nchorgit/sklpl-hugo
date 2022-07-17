@@ -2,7 +2,7 @@
 title: "Buenas Ζαμπόν"
 categories: ["Buenas"]
 product_image: "/assets/images/buenas-zampon.jpg"
-product_image_lowres: "/assets/images/low/buenas-zampon.jpg"
+product_image_lowres: "/assets/low/buenas-zampon.jpg"
 barcode: "ΠΩΛΗΣΗ ΧΥΜΑ"
 varos: "350 μερίδες"
 bar_img: "/media/svg/barcode.svg"

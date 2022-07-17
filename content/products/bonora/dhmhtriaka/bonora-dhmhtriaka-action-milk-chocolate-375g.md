@@ -2,7 +2,7 @@
 title: "Bonora Δημητριακά Action Milk Chocolate 375g"
 categories: ["Bonora"]
 product_image: "/assets/images/bonora-dhmhtriaka-action-milk-chocolate-375g.jpg"
-product_image_lowres: "/assets/images/low/bonora-dhmhtriaka-action-milk-chocolate-375g.jpg"
+product_image_lowres: "/assets/low/bonora-dhmhtriaka-action-milk-chocolate-375g.jpg"
 barcode: "5202576283237"
 varos: "375g"
 bar_img: "/media/svg/barcode.svg"

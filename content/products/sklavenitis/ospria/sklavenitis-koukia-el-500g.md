@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Κουκιά ΕΛ 500g"
 date: 2022-05-20T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-koukia-el-500g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-koukia-el-500g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-koukia-el-500g.jpg"
 barcode: "5202576250185"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

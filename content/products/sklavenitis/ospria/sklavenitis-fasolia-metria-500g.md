@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Φασόλια μέτρια 500g"
 date: 2022-05-20T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-fasolia-metria-500g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-fasolia-metria-500g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-fasolia-metria-500g.jpg"
 barcode: "5202576250079"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

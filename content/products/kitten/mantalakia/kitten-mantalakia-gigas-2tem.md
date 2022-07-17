@@ -2,7 +2,7 @@
 title: "Kitten Μανταλάκια γίγας 2τεμ"
 categories: ["Kitten"]
 product_image: "/assets/images/kitten-mantalakia-gigas-2tem.jpg"
-product_image_lowres: "/assets/images/low/kitten-mantalakia-gigas-2tem.jpg"
+product_image_lowres: "/assets/low/kitten-mantalakia-gigas-2tem.jpg"
 barcode: "5202576709003"
 varos: "2 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

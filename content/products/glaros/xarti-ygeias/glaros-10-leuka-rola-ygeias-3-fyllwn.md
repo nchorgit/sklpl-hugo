@@ -2,7 +2,7 @@
 title: "Γλάρος 10 λευκά Ρολά υγείας 3 φύλλων"
 categories: ["Γλάρος"]
 product_image: "/assets/images/glaros-10-leuka-rola-ygeias-3-fyllwn.jpg"
-product_image_lowres: "/assets/images/low/glaros-10-leuka-rola-ygeias-3-fyllwn.jpg"
+product_image_lowres: "/assets/low/glaros-10-leuka-rola-ygeias-3-fyllwn.jpg"
 barcode: "5200107430167"
 varos: "10 Χ 27,7 μέτρα"
 bar_img: "/media/svg/barcode.svg"

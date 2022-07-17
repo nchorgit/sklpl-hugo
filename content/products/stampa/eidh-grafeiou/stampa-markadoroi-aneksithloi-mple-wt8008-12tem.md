@@ -2,7 +2,7 @@
 title: "Stampa Μαρκαδόροι ανεξίτηλοι μπλε WT8008 12τεμ"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-markadoroi-aneksithloi-mple-wt8008-12tem.jpg"
-product_image_lowres: "/assets/images/low/stampa-markadoroi-aneksithloi-mple-wt8008-12tem.jpg"
+product_image_lowres: "/assets/low/stampa-markadoroi-aneksithloi-mple-wt8008-12tem.jpg"
 barcode: "5202576648869"
 varos: "12 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

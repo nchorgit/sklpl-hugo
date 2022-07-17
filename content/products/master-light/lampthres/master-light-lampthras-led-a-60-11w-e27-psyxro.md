@@ -2,7 +2,7 @@
 title: "Master Light Λαμπτήρας Led A-60 11W E27 Ψυχρό"
 categories: ["Master Light"]
 product_image: "/assets/images/master-light-lampthras-led-a-60-11w-e27-psyxro.jpg"
-product_image_lowres: "/assets/images/low/master-light-lampthras-led-a-60-11w-e27-psyxro.jpg"
+product_image_lowres: "/assets/low/master-light-lampthras-led-a-60-11w-e27-psyxro.jpg"
 barcode: "5203381995599"
 varos: "11W"
 bar_img: "/media/svg/barcode.svg"

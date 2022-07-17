@@ -2,7 +2,7 @@
 title: "Sette Κρεμοσάπουνο Milk & Honey Αντλία 300ml"
 categories: ["Sette"]
 product_image: "/assets/images/sette-kremosapouno-milk-honey-antlia-300ml.jpg"
-product_image_lowres: "/assets/images/low/sette-kremosapouno-milk-honey-antlia-300ml.jpg"
+product_image_lowres: "/assets/low/sette-kremosapouno-milk-honey-antlia-300ml.jpg"
 barcode: ""
 varos: ""
 bar_img: "/media/svg/barcode.svg"

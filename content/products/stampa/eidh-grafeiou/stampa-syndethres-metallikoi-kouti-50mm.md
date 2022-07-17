@@ -2,7 +2,7 @@
 title: "Stampa Συνδετήρες μεταλλικοί κουτί 50mm"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-syndethres-metallikoi-kouti-50mm.jpg"
-product_image_lowres: "/assets/images/low/stampa-syndethres-metallikoi-kouti-50mm.jpg"
+product_image_lowres: "/assets/low/stampa-syndethres-metallikoi-kouti-50mm.jpg"
 barcode: "5202576634978"
 varos: "100 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

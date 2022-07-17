@@ -2,7 +2,7 @@
 title: "Μαράτα Κριθαράκι χονδρό 500g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-kritharaki-xondro-500g.jpg"
-product_image_lowres: "/assets/images/low/marata-kritharaki-xondro-500g.jpg"
+product_image_lowres: "/assets/low/marata-kritharaki-xondro-500g.jpg"
 barcode: "5202576282131"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

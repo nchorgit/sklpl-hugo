@@ -2,7 +2,7 @@
 title: "Stampa Στυλό διαρκείας μαύρο WT9906"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-stylo-diarkeias-mayro-wt9906.jpg"
-product_image_lowres: "/assets/images/low/stampa-stylo-diarkeias-mayro-wt9906.jpg"
+product_image_lowres: "/assets/low/stampa-stylo-diarkeias-mayro-wt9906.jpg"
 barcode: "5202576657540"
 varos: "50 τεμάχια"
 bar_img: "/media/svg/barcode.svg"

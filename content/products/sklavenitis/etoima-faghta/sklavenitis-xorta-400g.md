@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Χόρτα 400g"
 date: 2022-05-23T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-xorta-400g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-xorta-400g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-xorta-400g.jpg"
 barcode: "5202576377257"
 varos: "400g"
 bar_img: "/media/svg/barcode.svg"

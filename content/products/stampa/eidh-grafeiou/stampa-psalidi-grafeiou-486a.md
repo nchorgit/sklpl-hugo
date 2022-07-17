@@ -2,7 +2,7 @@
 title: "Stampa Ψαλίδι γραφείου 486A"
 categories: ["Stampa"]
 product_image: "/assets/images/stampa-psalidi-grafeiou-486a.jpg"
-product_image_lowres: "/assets/images/low/stampa-psalidi-grafeiou-486a.jpg"
+product_image_lowres: "/assets/low/stampa-psalidi-grafeiou-486a.jpg"
 barcode: "5202576866591"
 varos: "17,2 cm"
 bar_img: "/media/svg/barcode.svg"

@@ -2,7 +2,7 @@
 title: "Μαράτα επιτραπέζιο νερό πηγής Σεπέτα 1,5L"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-epitrapezio-nero-phghs-sepeta-1.5l.jpg"
-product_image_lowres: "/assets/images/low/marata-epitrapezio-nero-phghs-sepeta-1.5l.jpg"
+product_image_lowres: "/assets/low/marata-epitrapezio-nero-phghs-sepeta-1.5l.jpg"
 barcode: "5202576100879"
 varos: "1,5L"
 bar_img: "/media/svg/barcode.svg"

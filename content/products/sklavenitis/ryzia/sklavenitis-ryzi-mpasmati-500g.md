@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Ρύζι Μπασμάτι 500g"
 date: 2022-05-17T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-ryzi-mpasmati-500g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-ryzi-mpasmati-500g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-ryzi-mpasmati-500g.jpg"
 barcode: "5202576100626"
 varos: "500g"
 bar_img: "/media/svg/barcode.svg"

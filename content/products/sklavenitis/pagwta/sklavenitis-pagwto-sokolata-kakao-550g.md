@@ -3,7 +3,7 @@ title: "Σκλαβενίτης Παγωτό Σοκολάτα Κακάο 550g"
 date: 2022-05-19T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-pagwto-sokolata-kakao-550g.jpg"
-product_image_lowres: "/assets/images/low/sklavenitis-pagwto-sokolata-kakao-550g.jpg"
+product_image_lowres: "/assets/low/sklavenitis-pagwto-sokolata-kakao-550g.jpg"
 barcode: "5202576457133"
 varos: "550g / 1L"
 bar_img: "/media/svg/barcode.svg"
