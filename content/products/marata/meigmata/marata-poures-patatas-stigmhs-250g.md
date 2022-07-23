@@ -8,7 +8,7 @@ varos: "250g (2 X 125g)"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
-tags: ["Σνακ"]
+tags: ["Μείγματα"]
 ---
 {{< rawhtml >}}
 
