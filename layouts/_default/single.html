@@ -4,12 +4,13 @@
     {{ partial "head" . }}
     <style>
         .pimg:first-child {
-        display: none;
-    }
-    
-    .pimg2 .pimg:nth-child(2) {
-        display: none;
-    }
+            display: none;
+        }
+
+        .pimg2 .pimg:nth-child(2) {
+            display: none;
+        }
+
         .fimg img {
             width: 90%;
             border: 0;
@@ -20,7 +21,7 @@
             cursor: pointer;
             border-radius: 2px;
         }
-    
+
         .relhead {
             border-radius: 12px 6px 0 0;
             font-weight: bold;
@@ -31,7 +32,7 @@
             border-bottom: 0px solid #333;
             height: 63px;
         }
-    
+
         .relhead i {
             background: #f47920;
             border-top-left-radius: 6px;
@@ -41,31 +42,31 @@
             text-align: center;
             line-height: 63px;
         }
-    
+
         .wlist .plabels {
             margin: 0;
             font-size: 15px;
             background: transparent;
             border: 0px solid #eee;
             display: flex;
-            gap: 2px;
+            gap: 15px;
             border-top: 0;
             position: relative;
             padding: 0;
-            flex-direction: column-reverse;
+            flex-direction: row;
             text-align: left;
         }
-    
+
         .wlist .plabels div {
             padding: 2px 0px;
             background: transparent;
             text-decoration: none;
             align-items: flex-start;
             border-radius: 0px;
-          
+
             color: #555;
         }
-    
+
         .wlist .post {
             padding: 15px;
             border-radius: 0px;
@@ -74,14 +75,14 @@
             grid-template-columns: 1fr 4fr;
             grid-gap: 15px;
         }
-    
+
         .wmain {
             margin: 0;
             border-top: 0;
             background: #eeeeee;
             transition: all .3s;
         }
-    
+
         .wlist h1 {
             font-size: 17px;
             margin: 0;
@@ -90,12 +91,14 @@
             padding: 0 10px 10px 0;
             line-height: initial;
         }
-    .wmain:hover {
-        filter: brightness(1);
-        transition: all .3s;
-        background: orange !important;
-        color: #eee !important;
-    }
+
+        .wmain:hover {
+            filter: brightness(1);
+            transition: all .3s;
+            background: orange !important;
+            color: #eee !important;
+        }
+
         .wlist {
             padding: 0;
             margin: 0;
@@ -106,7 +109,7 @@
             border: 0px solid #eee;
             border-top: 0;
         }
-    
+
         .wmain .fimg {
             margin: auto;
             border: 2px solid #eee;
@@ -114,43 +117,41 @@
             background: #fff;
             border-radius: 6px;
         }
-    
+
         .wmain:nth-child(odd) {
             background: #fafafa;
         }
-    
+
         .wmain:last-child {
             border-radius: 0 0 6px 6px;
         }
-    
+
         a.scat {
             border-top: 2px solid #ddd;
         }
-    
+
         .pimage {
-           
+
             padding: 0;
             grid-row-start: 1;
-    grid-row-end: 3;
-    margin-bottom: -18px;
+            grid-row-end: 3;
+            margin-bottom: -18px;
         }
-    
+
         .top-title {
-    grid-row-start: 1;
-    grid-row-end: 2;
-}
-    
-.product {
-    margin-top: -10px;
-    grid-row-start: 2;
-    grid-row-end: 5;
-    height: auto;
-}
-    
-        .sidebar {
-            
+            grid-row-start: 1;
+            grid-row-end: 2;
         }
-    
+
+        .product {
+            margin-top: -10px;
+            grid-row-start: 2;
+            grid-row-end: 5;
+            height: auto;
+        }
+
+        .sidebar {}
+
         .fclose {
             position: absolute;
             top: 90px;
@@ -162,7 +163,7 @@
             align-items: center;
             transform: rotateZ(45deg);
         }
-    
+
         .product th,
         .product td,
         .product p,
@@ -170,13 +171,13 @@
         .product ul {
             border-radius: 4px;
         }
-    
+
         .bline {
             border-bottom: 2px solid #eee;
             margin: 0 auto;
             max-width: 1400px;
         }
-    
+
         p.yah {
             padding: 0px 10px 0px 0;
             margin: 0;
@@ -185,7 +186,7 @@
             border-radius: 3px;
             margin-right: 5px;
         }
-    
+
         .pyah {
             display: flex;
             margin: 75px auto 0;
@@ -200,21 +201,21 @@
             align-items: center;
             flex-wrap: wrap;
             gap: 15px 0;
-            
+
         }
-    
+
         .pyah i {
             font-size: 16px;
             color: orange;
             margin-right: 5px;
         }
-    
+
         a.home i {
             font-size: 19px;
             color: #ddd;
             margin: 0;
         }
-    
+
         a.home {
             text-decoration: none;
             margin-left: 0px;
@@ -227,7 +228,7 @@
             border-radius: 3px;
             margin-right: 5px;
         }
-    
+
         /*a.cat {
         text-decoration: none;
         color: white;
@@ -245,16 +246,16 @@
             border-radius: 0;
             border-right: 2px solid #555;
         }
-    
+
         a:hover.home,
         a:hover.cat {
             background: #444;
         }
-    
+
         .ptitle {
             padding: 0px 10px;
         }
-    
+
         .main {
             display: grid;
             gap: 24px;
@@ -262,20 +263,20 @@
             justify-content: space-evenly;
             margin-top: 30px;
         }
-    
+
         .post {
             border: 0px solid #eee;
             padding: 0px;
             border-radius: 6px;
         }
-    
+
         .pimg img,
         .pimg3 img {
             width: 50%;
             height: auto;
             /*mix-blend-mode: multiply;*/
         }
-    
+
         #sistatika,
         #loipa {
             background: #eee;
@@ -287,7 +288,7 @@
             margin: 0px;
             border-radius: 4px;
         }
-    
+
         .alltext {
             padding-top: 15px;
             padding-bottom: 15px;
@@ -296,38 +297,38 @@
             color: #444;
             font-size: 19px;
         }
-    
+
         .alltext,
         .post p,
         .post div {
             line-height: 25px;
         }
-    
+
         h1 {
             font-size: 30px;
             margin: 10px 0 25px 0;
             color: #444;
             letter-spacing: -.5;
         }
-    
+
         #flag {
             display: flex;
             margin: -15px 0 15px 0;
             gap: 5px;
         }
-    
+
         #flagimage img {
             width: 32px;
         }
-    
+
         #pics2 {
             display: block;
         }
-    
+
         #flagimage2 {
             display: none;
         }
-    
+
         #barcode {
             background: #ddd;
             display: table;
@@ -338,7 +339,7 @@
             border-radius: 6px 0 0 6px;
             margin-bottom: 15px;
         }
-    
+
         #barimage {
             background: #eee;
             border-radius: 4px 0 0 4px;
@@ -346,7 +347,7 @@
             height: 40px;
             width: 40px;
         }
-    
+
         #barimage img {
             display: block;
             height: 22px;
@@ -357,7 +358,7 @@
             width: 19px;
             border-style: none !important;
         }
-    
+
         #bartext {
             color: #444;
             float: left;
@@ -366,7 +367,7 @@
             margin-left: 10px;
             font-weight: 700;
         }
-    
+
         #varos {
             background: #bbb;
             display: table;
@@ -376,7 +377,7 @@
             width: 50%;
             border-radius: 4px;
         }
-    
+
         #varosimage {
             background: #eee;
             border-radius: 0%;
@@ -384,7 +385,7 @@
             height: 40px;
             width: 40px;
         }
-    
+
         #barimage1 {
             background: #eee;
             border-radius: 0%;
@@ -397,7 +398,7 @@
             background-position: center;
             border-radius: 4px 0 0 4px;
         }
-    
+
         #varosimage1 {
             background: #eee;
             border-radius: 0%;
@@ -409,7 +410,7 @@
             background-repeat: no-repeat;
             background-position: center;
         }
-    
+
         #powerimage {
             background: #eee;
             border-radius: 0%;
@@ -421,7 +422,7 @@
             background-repeat: no-repeat;
             background-position: center;
         }
-    
+
         #dimimg {
             background: #eee;
             border-radius: 0%;
@@ -433,7 +434,7 @@
             background-repeat: no-repeat;
             background-position: center;
         }
-    
+
         #temimg {
             background: #eee;
             border-radius: 0%;
@@ -445,7 +446,7 @@
             background-repeat: no-repeat;
             background-position: center;
         }
-    
+
         #varosimage img {
             display: block;
             height: 22px;
@@ -456,7 +457,7 @@
             width: 19px;
             border-style: none !important;
         }
-    
+
         #varostext {
             color: #444;
             float: left;
@@ -465,7 +466,7 @@
             margin-left: 10px;
             font-weight: 700;
         }
-    
+
         #kivotio {
             background: #555;
             padding: 0px;
@@ -476,18 +477,18 @@
             visibility: hidden;
             height: 0;
         }
-    
+
         .keno {
             width: auto;
             height: 18px;
         }
-    
+
         .pgray {
             padding: 20px;
             background: #eee;
             margin: 0;
         }
-    
+
         .pdanger {
             padding: 10px;
             background-color: red;
@@ -496,7 +497,7 @@
             margin: 0;
             text-align: center;
         }
-    
+
         .pgend {
             padding: 10px;
             color: #fff;
@@ -504,18 +505,18 @@
             margin: 0;
             text-align: center;
         }
-    
+
         .pgenw {
             padding: 10px;
             color: #000;
             font-weight: bold;
             margin: 0;
         }
-    
+
         th br {
             display: block !important;
         }
-    
+
         #diatable {
             width: 100%;
             border: 0px solid black;
@@ -523,11 +524,11 @@
             border-spacing: 2px;
             font-size: 19px;
         }
-    
+
         #diatable p {
             margin: 0;
         }
-    
+
         #diatable th {
             background: darkorange;
             padding: 15px 15px;
@@ -536,60 +537,60 @@
             color: white;
             text-shadow: 0px 0px 0px black;
         }
-    
+
         #diatable td {
             background: #eee;
             padding: 10px 15px;
             border: 1px solid white;
         }
-    
+
         #diatable tr:last-child td {
             border-bottom: 0;
             border-right: 0;
         }
-    
+
         #diatable tr th {
             border-right: 0;
             border-top: 0;
         }
-    
+
         #diatable tr td:first-child,
         #diatable tr th:first-child {
             border-left: 0;
         }
-    
+
         #diatable tr td {
             border-right: 0;
         }
-    
+
         #diatable tr td {
             border-top: 0;
         }
-    
+
         .texr {
             text-align: right;
         }
-    
+
         .gray {
             background: #666 !important;
             color: #eee;
             font-weight: bold;
         }
-    
+
         .gray2 {
             background: #666 !important;
             color: #eee;
             text-align: right;
         }
-    
+
         .texr2 {
             font-weight: bold;
         }
-    
+
         td br {
             display: block !important;
         }
-    
+
         .plabels {
             padding: 20px 10px;
             margin: 0;
@@ -598,13 +599,13 @@
             border: 0px solid #eee;
             background: #eee;
             grid-column-start: 2;
-            
+
         }
-    
+
         .plabels i {
             margin-right: 10px;
         }
-    
+
         .plabels a {
             padding: 10px 15px;
             background: #ff5500;
@@ -613,16 +614,16 @@
             border-radius: 4px;
             align-items: center;
         }
-    
+
         .plabels a:hover {
             background: #444;
         }
-    
+
         .product .product {
             padding: 0;
             border: 0;
         }
-    
+
         .pimg,
         .pimg3 {
             cursor: pointer !important;
@@ -632,35 +633,35 @@
             margin-bottom: 26px;
             /*background: #f2f2f2;*/
         }
-    
+
         .post br:last-child {
             display: block;
         }
-    
+
         @keyframes example {
             from {
                 top: -100%;
             }
-    
+
             to {
                 top: 0px;
             }
         }
-    
+
         @keyframes example2 {
             0% {
                 opacity: 0;
             }
-    
+
             55% {
                 opacity: 0;
             }
-    
+
             100% {
                 opacity: 1;
             }
         }
-    
+
         .pimg2 {
             position: fixed;
             top: -100%;
@@ -676,7 +677,7 @@
             justify-content: center;
             flex-direction: column-reverse;
         }
-    
+
         .pimg2 .pimg,
         .pimg2 .pimg3 {
             cursor: pointer !important;
@@ -686,7 +687,7 @@
             margin-bottom: 0px;
             background: unset;
         }
-    
+
         .pimg2bg {
             position: fixed;
             top: 0;
@@ -701,7 +702,7 @@
             display: none;
             z-index: 2;
         }
-    
+
         .pimg3 img,
         .pimg img {
             width: 100%;
@@ -713,7 +714,7 @@
             cursor: pointer;
             padding: 0 !important;
         }
-    
+
         .pimg2 .pimg img,
         .pimg2 .pimg3 img {
             width: 100%;
@@ -727,7 +728,7 @@
             max-width: 700px;
             height: auto;
         }
-    
+
         .imgcaption {
             display: none;
             bottom: 30px;
@@ -738,86 +739,90 @@
             color: #eee;
             right: 0;
         }
-    
+
         .tabout {
             overflow: auto;
             margin: 0 -2px;
         }
-    
+
         .pimg3 {
             display: none;
         }
-    /* TABLE 2*/
-    
-    .dia2 tr:nth-child(3) td, .dia2 tr:nth-child(5) td {
-        background: #666 !important;
-        color: #eee;
-    }
-    
-    .dia2 td:first-child {
-        font-weight: bold;
-    }
+
+        /* TABLE 2*/
+
+        .dia2 tr:nth-child(3) td,
+        .dia2 tr:nth-child(5) td {
+            background: #666 !important;
+            color: #eee;
+        }
+
+        .dia2 td:first-child {
+            font-weight: bold;
+        }
+
         @media only screen and (max-width: 1103px) {
-    
+
             #sistatika,
             #loipa {
                 margin: 0 -15px;
                 border-radius: 0;
             }
-    
+
             .top-title {
                 grid-row-start: 1;
                 grid-row-end: 2;
                 text-align: center;
-    margin-top: 5px;
+                margin-top: 5px;
             }
-    
+
             .product {
                 grid-row-start: 2;
                 grid-row-end: 3;
             }
-    
+
             .pimage {
-    margin-bottom: -18px;
-    padding: 0;
-    grid-row-start: 3;
-    grid-row-end: 4;
-    
-}
-    
+                margin-bottom: -18px;
+                padding: 0;
+                grid-row-start: 3;
+                grid-row-end: 4;
+
+            }
+
             .pimg {
                 border-radius: 0;
                 background: none;
+                border: 0;
             }
-    
+
             .sidebar {
                 grid-row-start: 5;
                 grid-row-end: 6;
                 margin: -18px -15px 0;
             }
-    
+
             p.relhead {
                 border-radius: 0;
             }
-    
+
             .relhead i {
                 border-radius: 0;
             }
-    
+
             .main {
                 grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
                 padding: 15px;
                 margin-top: 0;
             }
-    
+
             ul.wlist {
                 grid-template-columns: auto;
             }
-    
+
             .wmain {
                 zoom: 130%;
             }
-    
+
             .plabels {
                 padding: 20px 15px;
                 border-radius: 0px !important;
@@ -826,27 +831,28 @@
                 grid-row-start: 4;
                 grid-row-end: 5;
                 grid-column-start: auto;
-}
             }
-      
-    
+        }
+
+
         @media only screen and (max-width: 770px) {
             .ptitle {
                 display: none;
             }
-    
+
             a.tag {
                 border-right: 0;
             }
-    
+
             a.home {
                 padding: 5px;
             }
+
             p.yah {
                 display: none;
             }
         }
-    
+
         @media only screen and (max-width: 570px) {
             #barcode {
                 background: #ddd;
@@ -858,17 +864,17 @@
                 border-radius: 4px 4px 0 0;
                 margin-bottom: 15px;
             }
-    
+
             .wmain {
                 zoom: 105%;
             }
-    
+
             #diatable {
                 font-size: 16px;
             }
-    
-            
-    
+
+
+
             #varos {
                 background: #bbb;
                 display: block;
@@ -880,15 +886,15 @@
                 margin-top: -15px;
                 margin-bottom: 15px;
             }
-    
+
             #varos div {
                 border-radius: 0 0 0 4px;
             }
-    
+
             #barcode div {
                 border-radius: 4px 0 0 0;
             }
-    
+
             .plabels {
                 grid-gap: 5px;
                 border: 0;
@@ -896,20 +902,32 @@
                 text-align: center;
                 display: none;
             }
+
             .plabels a {
-            padding: 10px;}
-            .top-title {text-align: left;}
+                padding: 10px;
+            }
+
+            .top-title {
+                text-align: left;
+            }
+
             h1 {
-    font-size: 26px;}
+                font-size: 26px;
+            }
+
+            .wlist .plabels {
+                flex-direction: column;
+                gap: 2px;
+            }
         }
-    
+
         @media only screen and (max-width: 460px) {
-            
+
             .pyah {
-    zoom: 79%;
-    padding: 15px;
-    margin-top: 95px;
-}
+                zoom: 79%;
+                padding: 15px;
+                margin-top: 95px;
+            }
 
         }
     </style>
@@ -917,64 +935,64 @@
 
 <body>
     {{ partial "header" . }}
-    
-        <div style="border-bottom: 0px solid #eee; background: #3a3939; margin: -5px auto;">
-            <div class="pyah">
-                <p class="yah"><span style="
+
+    <div style="border-bottom: 0px solid #eee; background: #3a3939; margin: -5px auto;">
+        <div class="pyah">
+            <p class="yah"><span style="
             margin-right: 0px;
         ">Βρίσκεστε εδώ: </span>
-                    <!--span style="
+                <!--span style="
             font-size: 33px;
             position: absolute;
             top: -5px;
         ">›</span-->
-                </p><a href="/" class="home"><i class="fas fa-home"></i></a>{{ if .Params.categories }}<strong></strong>
-                {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="cat"><i
-                        class="fas fa-tag" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
-                {{ if .Params.tags }}<strong></strong> {{range .Params.tags}}<a
-                    href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tag"><i class="far fa-clone"
-                        aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
-                <div class="ptitle">{{.Title}}</div>
-            </div>
-            <div class="top-title">
-            </div>
+            </p><a href="/" class="home"><i class="fas fa-home"></i></a>{{ if .Params.categories }}<strong></strong>
+            {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="cat"><i
+                    class="fas fa-tag" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
+            {{ if .Params.tags }}<strong></strong> {{range .Params.tags}}<a
+                href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tag"><i class="far fa-clone"
+                    aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
+            <div class="ptitle">{{.Title}}</div>
         </div>
-        <div class="main">
-            <div class="pimage"></div>
-            <div class="top-title">
-                <h1>{{.Title}}</h1>
-            </div>
-            <div class="sidebar">{{ partial "sidebar" . }}</div>
-            <div class="product">
-                <!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
+        <div class="top-title">
+        </div>
+    </div>
+    <div class="main">
+        <div class="pimage"></div>
+        <div class="top-title">
+            <h1>{{.Title}}</h1>
+        </div>
+        <div class="sidebar">{{ partial "sidebar" . }}</div>
+        <div class="product">
+            <!--div class="date">{{ dateFormat "Monday, 2 January 2006" .Date }}</div>
         <div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
         <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
-                <div class="post">
-        
-                    {{.Content}}
-                    <div class="pimg">{{if isset .Params "product_image" }}<img alt="{{.Title}}" title="{{.Title}}"
-                        src="{{ index .Params "product_image" }}"></div>
-                    {{ end }}
-                    
-                </div>
-                <div class="plabels">
-                    {{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a
-                        href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
-                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
-                    {{ if .Params.tags }}<strong></strong> {{range .Params.tags}}<a
-                        href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
-                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
-            </div>
+            <div class="post">
 
-            <div class="pimg2bg">
-                <div class="fclose">
-                    <div style="
+                {{.Content}}
+                <div class="pimg">{{if isset .Params "product_image" }}<img alt="{{.Title}}" title="{{.Title}}"
+                        src="{{ index .Params "product_image" }}"></div>
+                {{ end }}
+
+            </div>
+            <div class="plabels">
+                {{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a
+                    href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
+                        aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+                {{ if .Params.tags }}<strong></strong> {{range .Params.tags}}<a
+                    href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
+                        aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
+        </div>
+
+        <div class="pimg2bg">
+            <div class="fclose">
+                <div style="
         width: 40px;
         height: 4px;
         background: white;
         position: absolute;
         "></div>
-                    <div style="
+                <div style="
         width: 4px;
         height: 40px;
         background: white;
@@ -983,14 +1001,14 @@
         right: 0;
         margin: auto;
         "></div>
-                </div>
-                <div class="pimg2">
-                    <p class="imgcaption">{{.Title}}</p>
-                </div>
+            </div>
+            <div class="pimg2">
+                <p class="imgcaption">{{.Title}}</p>
             </div>
         </div>
-        {{ partial "footer" . }}
-    
+    </div>
+    {{ partial "footer" . }}
+
 </body>
 
 <script>
