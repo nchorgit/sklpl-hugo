@@ -385,6 +385,9 @@
  .sp015 {
      padding: 0 15px;
  }
+ .sp150 {
+    padding: 15px 0;
+}
 
  .sgp {
      display: grid;
