@@ -1,5 +1,6 @@
 ---
 title: "Sette Σαπούνι Jasmine & Citrus"
+date: 2022-05-24
 categories: ["Sette"]
 product_image: "/assets/images/sette-sapouni-jasmine-citrus.jpg"
 product_image_lowres: "/assets/low/sette-sapouni-jasmine-citrus.jpg"

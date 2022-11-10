@@ -1,5 +1,6 @@
 ---
 title: "Sette Υδρόφυλο βαμβάκι 200g"
+date: 2022-05-29
 categories: ["Sette"]
 product_image: "/assets/images/sette-ydrofylo-bambaki-200g.jpg"
 product_image_lowres: "/assets/low/sette-ydrofylo-bambaki-200g.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Μαράτα Μπανάνα Chips ζαχαρωμένη 120g"
 weight: 2
+date: 2022-05-29
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-mpanana-chips-zaxarwmenh-120g.jpg"
 product_image_lowres: "/assets/low/marata-mpanana-chips-zaxarwmenh-120g.jpg"

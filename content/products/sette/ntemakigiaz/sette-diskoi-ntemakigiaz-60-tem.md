@@ -1,5 +1,6 @@
 ---
 title: "Sette Δίσκοι Ντεμακιγιάζ 60 τεμ."
+date: 2022-05-27
 categories: ["Sette"]
 product_image: "/assets/images/sette-diskoi-ntemakigiaz-60-tem.jpg"
 product_image_lowres: "/assets/low/sette-diskoi-ntemakigiaz-60-tem.jpg"

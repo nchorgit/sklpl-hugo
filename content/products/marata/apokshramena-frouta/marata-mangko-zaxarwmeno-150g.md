@@ -1,6 +1,7 @@
 ---
 title: "Μαράτα Μάνγκο ζαχαρωμένο 150g"
 weight: 2
+date: 2022-05-29
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-mangko-zaxarwmeno-150g.jpg"
 product_image_lowres: "/assets/low/marata-mangko-zaxarwmeno-150g.jpg"

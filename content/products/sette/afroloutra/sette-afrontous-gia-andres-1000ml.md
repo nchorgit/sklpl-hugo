@@ -1,5 +1,6 @@
 ---
 title: "Sette Αφρόντους για άνδρες 1000ml"
+date: 2022-05-30
 categories: ["Sette"]
 product_image: "/assets/images/sette-afrontous-gia-andres-1000ml.jpg"
 product_image_lowres: "/assets/low/sette-afrontous-gia-andres-1000ml.jpg"

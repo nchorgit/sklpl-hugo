@@ -1,6 +1,5 @@
 ---
 title: "Baker Master Κρουασανάκια βουτύρου 288g"
-weight: 1
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-krouasanakia-boutyrou-288g.jpg"
 product_image_lowres: "/assets/low/baker-master-krouasanakia-boutyrou-288g.jpg"

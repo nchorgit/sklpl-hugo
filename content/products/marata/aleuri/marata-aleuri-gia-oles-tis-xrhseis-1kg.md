@@ -9,6 +9,7 @@ bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Αλεύρι"]
+date: 2022-06-01
 weight: 1
 ---
 {{< rawhtml >}}

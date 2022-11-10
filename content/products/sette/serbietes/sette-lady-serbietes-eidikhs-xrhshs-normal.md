@@ -1,5 +1,6 @@
 ---
 title: "Sette Lady Σερβιέτες ειδικής χρήσης Normal"
+date: 2022-05-23
 categories: ["Sette"]
 product_image: "/assets/images/sette-lady-serbietes-eidikhs-xrhshs-normal.jpg"
 product_image_lowres: "/assets/low/sette-lady-serbietes-eidikhs-xrhshs-normal.jpg"

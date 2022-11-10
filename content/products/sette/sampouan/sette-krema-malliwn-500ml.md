@@ -1,5 +1,6 @@
 ---
 title: "Sette Κρέμα μαλλιών 300ml"
+date: 2022-05-25
 categories: ["Sette"]
 product_image: "/assets/images/sette-krema-malliwn-500ml.jpg"
 product_image_lowres: "/assets/low/sette-krema-malliwn-500ml.jpg"

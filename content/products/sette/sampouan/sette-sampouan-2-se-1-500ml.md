@@ -1,5 +1,6 @@
 ---
 title: Sette Σαμπουάν 2 σε 1 500ml
+date: 2022-05-25
 categories:
   - Sette
 product_image: /assets/images/sette-sampouan-2-se-1-500ml.jpg

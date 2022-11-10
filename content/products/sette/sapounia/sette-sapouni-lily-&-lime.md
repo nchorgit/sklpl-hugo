@@ -1,5 +1,6 @@
 ---
 title: "Sette Σαπούνι Lily & Lime"
+date: 2022-05-24
 categories: ["Sette"]
 product_image: "/assets/images/sette-sapouni-lily-lime.jpg"
 product_image_lowres: "/assets/low/sette-sapouni-lily-lime.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Sette Υγρά μαντηλάκια ντεμακιγιάζ με νερό Micellaire"
+date: 2022-05-27
 categories: ["Sette"]
 product_image: "/assets/images/sette-ygra-manthlakia-ntemakigiaz-me-nero-micellaire.jpg"
 product_image_lowres: "/assets/low/sette-ygra-manthlakia-ntemakigiaz-me-nero-micellaire.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Μαράτα Ανανάς ζαχαρωμένος 250g"
 weight: 2
+date: 2022-05-29
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-ananas-zaxarwmenos-250g.jpg"
 product_image_lowres: "/assets/low/marata-ananas-zaxarwmenos-250g.jpg"

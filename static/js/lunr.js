@@ -508,7 +508,8 @@
      * string as well as all known metadata. A pipeline function can mutate the token string
      * or mutate (or add) metadata for a given token.
      *
-     * A pipeline function can indicate that the passed token should be discarded by returning
+     * A pipeline function can indiweight: 1
+cate that the passed token should be discarded by returning
      * null, undefined or an empty string. This token will not be passed to any downstream pipeline
      * functions and will not be added to the index.
      *
@@ -760,9 +761,11 @@
     /**
      * Calculates the position within the vector to insert a given index.
      *
-     * This is used internally by insert and upsert. If there are duplicate indexes then
+     * This is used internally by insert and upsert. If there are dupliweight: 1
+cate indexes then
      * the position is returned as if the value for that index were to be updated, but it
-     * is the callers responsibility to check whether there is a duplicate at that index
+     * is the callers responsibility to check whether there is a dupliweight: 1
+cate at that index
      *
      * @param {Number} insertIdx - The index at which the element should be inserted.
      * @returns {Number}
@@ -813,7 +816,8 @@
     /**
      * Inserts an element at an index within the vector.
      *
-     * Does not allow duplicates, will throw an error if there is already an entry
+     * Does not allow dupliweight: 1
+cates, will throw an error if there is already an entry
      * for this index.
      *
      * @param {Number} insertIdx - The index at which the element should be inserted.
@@ -821,7 +825,8 @@
      */
     lunr.Vector.prototype.insert = function (insertIdx, val) {
       this.upsert(insertIdx, val, function () {
-        throw "duplicate index"
+        throw "dupliweight: 1
+cate index"
       })
     }
     
@@ -970,7 +975,8 @@
         },
     
         step3list = {
-          "icate" : "ic",
+          "iweight: 1
+cate" : "ic",
           "ative" : "",
           "alize" : "al",
           "iciti" : "ic",
@@ -1006,7 +1012,8 @@
       var re_1c = /^(.+?[^aeiou])y$/;
       var re_2 = /^(.+?)(ational|tional|enci|anci|izer|bli|alli|entli|eli|ousli|ization|ation|ator|alism|iveness|fulness|ousness|aliti|iviti|biliti|logi)$/;
     
-      var re_3 = /^(.+?)(icate|ative|alize|iciti|ical|ful|ness)$/;
+      var re_3 = /^(.+?)(iweight: 1
+cate|ative|alize|iciti|ical|ful|ness)$/;
     
       var re_4 = /^(.+?)(al|ance|ence|er|ic|able|ible|ant|ement|ment|ent|ou|ism|ate|iti|ous|ive|ize)$/;
       var re2_4 = /^(.+?)(s|t)(ion)$/;
@@ -2458,7 +2465,8 @@
      * it should have all fields defined for indexing, though null or undefined values will not
      * cause errors.
      *
-     * Entire documents can be boosted at build time. Applying a boost to a document indicates that
+     * Entire documents can be boosted at build time. Applying a boost to a document indiweight: 1
+cates that
      * this document should rank higher in search results than other documents.
      *
      * @param {object} doc - The document to add to the index.
@@ -2804,7 +2812,8 @@
      * Constants for indicating what kind of automatic wildcard insertion will be used when constructing a query clause.
      *
      * This allows wildcards to be added to the beginning and end of a term without having to manually do any string
-     * concatenation.
+     * conweight: 1
+catenation.
      *
      * The wildcard constants can be bitwise combined to select both leading and trailing wildcards.
      *
@@ -3167,7 +3176,8 @@
           return lunr.QueryLexer.lexBoost
         }
     
-        // "+" indicates term presence is required
+        // "+" indiweight: 1
+cates term presence is required
         // checking for length to ensure that only
         // leading "+" are considered
         if (char == "+" && lexer.width() === 1) {
@@ -3175,7 +3185,8 @@
           return lunr.QueryLexer.lexText
         }
     
-        // "-" indicates term presence is prohibited
+        // "-" indiweight: 1
+cates term presence is prohibited
         // checking for length to ensure that only
         // leading "-" are considered
         if (char == "-" && lexer.width() === 1) {

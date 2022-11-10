@@ -1,5 +1,6 @@
 ---
 title: "Sette Αφρόλουτρο Γιασεμί 500ml"
+date: 2022-05-30
 categories: ["Sette"]
 product_image: "/assets/images/sette-afroloutro-giasemi-500ml.jpg"
 product_image_lowres: "/assets/low/sette-afroloutro-giasemi-500ml.jpg"

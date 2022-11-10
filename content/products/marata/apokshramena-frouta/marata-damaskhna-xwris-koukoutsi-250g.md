@@ -1,6 +1,7 @@
 ---
 title: "Μαράτα Δαμάσκηνα χωρίς κουκούτσι 250g"
 weight: 2
+date: 2022-05-29
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-damaskhna-xwris-koukoutsi-250g.jpg"
 product_image_lowres: "/assets/low/marata-damaskhna-xwris-koukoutsi-250g.jpg"

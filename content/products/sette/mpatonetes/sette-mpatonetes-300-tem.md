@@ -1,5 +1,6 @@
 ---
 title: "Sette Μπατονέτες 300 τεμ."
+date: 2022-05-28
 categories: ["Sette"]
 product_image: "/assets/images/sette-mpatonetes-300-tem.jpg"
 product_image_lowres: "/assets/low/sette-mpatonetes-300-tem.jpg"

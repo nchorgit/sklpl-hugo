@@ -39,9 +39,12 @@
           "type": "tags"
         },
         {
-          "title": "Categories",
-          "name": "categories",
-          "type": "categories"
+          "title": "weight: 1
+categories",
+          "name": "weight: 1
+categories",
+          "type": "weight: 1
+categories"
         }
       ]
     }
@@ -77,7 +80,8 @@
       "path": "[[workspace]]/content"
     }
   ],
-  "frontMatter.taxonomy.categories": [
+  "frontMatter.taxonomy.weight: 1
+categories": [
     "Baker Master",
     "Barron",
     "Bonora",

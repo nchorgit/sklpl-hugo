@@ -1,6 +1,5 @@
 ---
 title: "Baker Master Κρουασανάκια με γέμιση σοκολάτας 180g"
-weight: 1
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-krouasanakia-me-gemish-sokolatas-180g.jpg"
 product_image_lowres: "/assets/low/baker-master-krouasanakia-me-gemish-sokolatas-180g.jpg"

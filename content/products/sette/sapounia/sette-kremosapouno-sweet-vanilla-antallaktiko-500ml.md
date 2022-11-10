@@ -1,5 +1,7 @@
 ---
 title: "Sette Κρεμοσάπουνο Sweet Vanilla Ανταλλακτικό 500ml"
+
+date: 2022-05-24
 categories: ["Sette"]
 product_image: "/assets/images/sette-kremosapouno-sweet-vanilla-antallaktiko-500ml.jpg"
 product_image_lowres: "/assets/low/sette-kremosapouno-sweet-vanilla-antallaktiko-500ml.jpg"

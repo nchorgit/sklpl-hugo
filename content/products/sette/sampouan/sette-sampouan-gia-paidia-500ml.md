@@ -1,5 +1,6 @@
 ---
 title: "Sette Σαμπουάν για παιδιά 500ml"
+date: 2022-05-25
 categories: ["Sette"]
 product_image: "/assets/images/sette-sampouan-gia-paidia-500ml.jpg"
 product_image_lowres: "/assets/low/sette-sampouan-gia-paidia-500ml.jpg"

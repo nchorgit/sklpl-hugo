@@ -1,5 +1,6 @@
 ---
 title: Sette Αφρόλουτρο & Σαμπουάν για μωρά 1000ml
+date: 2022-05-30
 categories:
   - Sette
 product_image: /assets/images/sette-afroloutro-sampouan-gia-mwra-1000ml.jpg

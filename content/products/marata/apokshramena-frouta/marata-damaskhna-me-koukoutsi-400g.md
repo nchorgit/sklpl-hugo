@@ -1,6 +1,7 @@
 ---
 title: "Μαράτα Δαμάσκηνα με κουκούτσι 400g"
 weight: 2
+date: 2022-05-29
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-damaskhna-me-koukoutsi-400g.jpg"
 product_image_lowres: "/assets/low/marata-damaskhna-me-koukoutsi-400g.jpg"

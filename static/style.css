@@ -682,7 +682,8 @@ a.mpl {
     color: #fff;
 }
 
-#categ,
+#weight: 1
+categ,
 #listp {
     padding: 5px 0;
     font-size: 13pt;
@@ -696,7 +697,8 @@ a.mpl {
     top: 10px;
 }
 
-#categ a {
+#weight: 1
+categ a {
     font-size: 14pt;
     font-weight: 300;
     color: #555;
@@ -708,7 +710,8 @@ a.mpl {
     border-right: 62px solid #a5a5a5;
 }
 
-#categ a:hover {
+#weight: 1
+categ a:hover {
     font-size: 14pt;
     font-weight: 300;
     color: #ddd;
@@ -782,7 +785,8 @@ a.mpl {
 
 @media only screen and (max-width: 1294px) {
 
-    #categ a,
+    #weight: 1
+categ a,
     #listp a {
         margin-right: 20px;
     }
@@ -821,7 +825,8 @@ a.mpl {
         float: right;
     }
 
-    #categ a {
+    #weight: 1
+categ a {
         margin: 5px 20px;
     }
 
