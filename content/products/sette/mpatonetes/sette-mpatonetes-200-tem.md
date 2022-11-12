@@ -4,10 +4,10 @@ date: 2022-05-28
 categories: ["Sette"]
 product_image: "/assets/images/sette-mpatonetes-200-tem.jpg"
 product_image_lowres: "/assets/low/sette-mpatonetes-200-tem.jpg"
-barcode: ""
-varos: ""
+barcode: "5208046088883"
+varos: "200 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/varos.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Μπατονέτες"]
 ---
@@ -18,9 +18,9 @@ tags: ["Μπατονέτες"]
  
 
    <p>
-        Ωτοκαθαριστές 100% βιοδιασπώμενοι.
+        Ωτοκαθαριστές 100% βιοδιασπώμενες με 100% Χάρτινο μπαστουνάκι.
     
-    Δερματολογικά &amp; Μικροβιολογικά Ελεγμένοι.
+    Δερματολογικά &amp; Μικροβιολογικά Ελεγμένες.
     Με άκρες από 100% καθαρό, υδρόφιλο βαμβάκι.
    </p>
 
@@ -41,10 +41,10 @@ tags: ["Μπατονέτες"]
 </div>
 <p></p>
     <div id="barcode">
-        <div id="barimage1"></div><span id="bartext">5202576872448</span>
+        <div id="barimage1"></div><span id="bartext">5208046088883</span>
     </div>
     <div id="varos">
-        <div id="varosimage1"></div><span id="varostext">1000ml</span>
+        <div id="varosimage" style="margin:0"><img src="/media/svg/tem.svg"></div><span id="varostext">200 τεμάχια</span>
     </div>
     <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div>
     <div class="pimg"></div>
