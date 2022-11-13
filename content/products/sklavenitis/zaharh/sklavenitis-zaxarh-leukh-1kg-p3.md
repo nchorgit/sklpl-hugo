@@ -1,5 +1,6 @@
 ---
 title: "Σκλαβενίτης Ζάχαρη λευκή 1kg Π3"
+draft: true
 date: 2022-05-16T11:25:57+03:00
 categories: ["Σκλαβενίτης"]
 product_image: "/assets/images/sklavenitis-zaxarh-leukh-1kg-p3.jpg"
