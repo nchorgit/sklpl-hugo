@@ -50,7 +50,7 @@
 
  .pgray {
      background: #eeeeee;
-     color: #000;
+    
      padding: 15px
  }
 
@@ -121,7 +121,129 @@
  .sfs130 {
      font-size: 130%
  }
+ .sf10 {
+     font-size: 10px;
+ }
 
+ .sf11 {
+     font-size: 11px;
+ }
+
+ .sf12 {
+     font-size: 12px;
+ }
+
+ .sf13 {
+     font-size: 13px;
+ }
+
+ .sf14 {
+     font-size: 14px;
+ }
+
+ .sf15 {
+     font-size: 15px;
+ }
+
+ .sf16 {
+     font-size: 16px;
+ }
+
+ .sf17 {
+     font-size: 17px;
+ }
+
+ .sf18 {
+     font-size: 18px;
+ }
+
+ .sf19 {
+     font-size: 19px;
+ }
+
+ .sf20 {
+     font-size: 20px;
+ }
+
+ .sf21 {
+     font-size: 21px;
+ }
+
+ .sf22 {
+     font-size: 22px;
+ }
+
+ .sf23 {
+     font-size: 23px;
+ }
+
+ .sf24 {
+     font-size: 24px;
+ }
+
+ .sf25 {
+     font-size: 25px;
+ }
+
+ .sf26 {
+     font-size: 26px;
+ }
+
+ .sf27 {
+     font-size: 27px;
+ }
+
+ .sf28 {
+     font-size: 28px;
+ }
+
+ .sf29 {
+     font-size: 29px;
+ }
+
+ .sf30 {
+     font-size: 30px;
+ }
+
+ .sf31 {
+     font-size: 31px;
+ }
+
+ .sf32 {
+     font-size: 32px;
+ }
+
+ .sf33 {
+     font-size: 33px;
+ }
+
+ .sf34 {
+     font-size: 34px;
+ }
+
+ .sf35 {
+     font-size: 35px;
+ }
+
+ .sf36 {
+     font-size: 36px;
+ }
+
+ .sf37 {
+     font-size: 37px;
+ }
+
+ .sf38 {
+     font-size: 38px;
+ }
+
+ .sf39 {
+     font-size: 39px;
+ }
+
+ .sf40 {
+     font-size: 40px;
+ }
  .stable {
      border-collapse: collapse;
      vertical-align: middle
@@ -265,6 +387,9 @@
  .sball4 {
      border: 4px solid
  }
+ .sball0 {
+    border: 0px solid
+}
 
  /* BORDER-RADIUS*/
 
