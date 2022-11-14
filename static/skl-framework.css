@@ -787,7 +787,9 @@
      background-color: royalblue;
      color: #fff
  }
-
+.slblue {
+    background-color: #357ae8;
+}
  .sygreen {
      background-color: yellowgreen
  }
