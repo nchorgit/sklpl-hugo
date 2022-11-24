@@ -1,5 +1,5 @@
 ---
-title: "Drolio Χλωροκαθαριστικό με άρωμα λεμόνι 1250ml"
+title: "Drolio Χλωροκαθαριστικό Ultra με άρωμα λεμόνι 1250ml"
 categories: ["Drolio"]
 product_image: "/assets/images/drolio-xlwrokatharistiko-me-arwma-lemoni-1250ml.jpg"
 barcode: "5202576210394"

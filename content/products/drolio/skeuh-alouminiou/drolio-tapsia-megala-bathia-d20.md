@@ -77,7 +77,7 @@ weight: 5
    
 
 
-    <br>
+   
     <div class="pimg"><img alt="Drolio Ταψιά μεγάλα βαθιά D20" title="Drolio Ταψιά μεγάλα βαθιά D20"
             src="/assets/images/drolio-tapsia-megala-bathia-d20.jpg"></div>
 </div>

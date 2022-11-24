@@ -72,7 +72,7 @@ weight: 5
     <div id="varosimage1" style="background-image:url(/media/svg/tem.svg)">
     </div><span id="varostext">3 τεμάχια</span>
 </div>
-<div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br>
+<div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div>
 <div class="pimg"><img alt="Drolio Ταψιά με καπάκι D19" title="Drolio Ταψιά με καπάκι D19"
         src="/assets/images/drolio-tapsia-me-kapaki-d19.jpg"></div>
 </div>
