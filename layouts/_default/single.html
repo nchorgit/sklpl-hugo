@@ -3,6 +3,46 @@
 <head>
     {{ partial "head" . }}
     <style>
+        .simages {
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(313px, 1fr) );
+    gap: 15px;
+}
+.simagesin {
+    border-radius: 6px;
+    border: 4px solid #eee;
+    margin: 0 auto;
+    display: grid;
+
+}
+
+.simagesin img {
+   width: 100%;
+   height: auto;
+   margin: auto;
+   max-width: 50%;
+
+}
+.simagesin p {
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.mpdf iframe {
+    border: 0;
+    border-radius: 0 0 4px 4px;
+}
+.mpdf p {
+    border-radius: 4px 4px 0 0 !important;
+    margin-bottom: 0;
+    padding: 10px;
+    text-align: center;
+    background: #eee;
+    font-weight: bold;
+}
+
+
         .pimg:first-child {
             display: none;
         }
@@ -841,6 +881,11 @@
 
 
         @media only screen and (max-width: 770px) {
+            .simagesin img {
+  
+   max-width: 100%;
+
+}
             .ptitle {
                 display: none;
             }
@@ -1058,6 +1103,7 @@
     });
     $(".pimg").clone().appendTo(".pimg2");
     $(".pimg3").clone().appendTo(".pimg2");
+
 </script>
 
 </html>
