@@ -26,5 +26,5 @@ tags: ["Μπαταρίες"]
 <td style="background-color: #333333; text-align: center;" colspan="2"><span style="color: #ffffff;"><strong>Δεν περιέχουν υδράργυρο και κάδμιο</strong></span></td>
 </tr>
 </tbody>
-</table></div><div id="barcode"><div id="barimage1"></div><span id="bartext">5203381997319</span></div><div id="varos"><div id="powerimage"></div><span id="varostext">1,5V</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br><div class="pimg"><img alt="Master Energy Αλκαλικές Μπαταρίες AAA 4τεμ" title="Master Energy Αλκαλικές Μπαταρίες AAA 4τεμ" src="/assets/images/master-energy-alkalikes-mpataries-AAA-4tem.jpg"></div></div>
+</table></div><div id="barcode"><div id="barimage1"></div><span id="bartext">5203381997319</span></div><div id="varos"><div id="powerimage"></div><span id="varostext">1,5V</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><div class="pimg"><img alt="Master Energy Αλκαλικές Μπαταρίες AAA 4τεμ" title="Master Energy Αλκαλικές Μπαταρίες AAA 4τεμ" src="/assets/images/master-energy-alkalikes-mpataries-AAA-4tem.jpg"></div></div>
 {{< /rawhtml >}}

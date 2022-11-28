@@ -27,5 +27,5 @@ tags: ["Μπαταρίες"]
 </tr>
 </tbody>
 </table></div><div id="barcode"><div id="barimage1"></div><span id="bartext">5203381997302</span></div><div id="varos"><div id="powerimage">
-  </div><span id="varostext">1,5V</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br><div class="pimg"><img alt="Master Energy Αλκαλικές Μπαταρίες AA 4τεμ" title="Master Energy Αλκαλικές Μπαταρίες AA 4τεμ" src="/assets/images/master-energy-alkalikes-mpataries-AA-4tem.jpg"></div></div>
+  </div><span id="varostext">1,5V</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><div class="pimg"><img alt="Master Energy Αλκαλικές Μπαταρίες AA 4τεμ" title="Master Energy Αλκαλικές Μπαταρίες AA 4τεμ" src="/assets/images/master-energy-alkalikes-mpataries-AA-4tem.jpg"></div></div>
 {{< /rawhtml >}}

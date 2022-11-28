@@ -26,5 +26,5 @@ tags: ["Μπαταρίες"]
 <td style="background-color: #333333; text-align: center;" colspan="2"><span style="color: #ffffff;"><strong>Δεν περιέχουν υδράργυρο και κάδμιο</strong></span></td>
 </tr>
 </tbody>
-</table></div><div id="barcode"><div id="barimage1"></div><span id="bartext">5203381997272</span></div><div id="varos"><div id="powerimage"></div><span id="varostext">9V</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br><div class="pimg"><img alt="Master Energy Αλκαλική μπαταρία πλακέ 9Volt" title="Master Energy Αλκαλική μπαταρία πλακέ 9Volt" src="/assets/images/master-energy-alkalikh-mpataria-plake-9volt.jpg"></div></div>
+</table></div><div id="barcode"><div id="barimage1"></div><span id="bartext">5203381997272</span></div><div id="varos"><div id="powerimage"></div><span id="varostext">9V</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><div class="pimg"><img alt="Master Energy Αλκαλική μπαταρία πλακέ 9Volt" title="Master Energy Αλκαλική μπαταρία πλακέ 9Volt" src="/assets/images/master-energy-alkalikh-mpataria-plake-9volt.jpg"></div></div>
 {{< /rawhtml >}}
