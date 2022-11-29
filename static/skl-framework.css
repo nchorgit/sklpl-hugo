@@ -760,7 +760,9 @@
      background-color: red;
      color: #fff
  }
-
+.smarg {
+    background-color: #00a2e0;
+}
  .sbrown {
      background-color: brown
  }
