@@ -1,8 +1,8 @@
 ---
 title: "Buenas Λουκάνικα Πουλερικών 140g"
 categories: ["Buenas"]
-product_image: "https://s1.sklavenitis.gr/images/1600x1600/40/files/ProductMedia/Products/1296018/1.jpg"
-product_image_lowres: "https://s1.sklavenitis.gr/images//ProductDetail/40/files/ProductMedia/Products/1296018/1.jpg"
+product_image: "/assets/images/buenas-loukanika-poulerikwn.jpg"
+product_image_lowres: "/assets/low/buenas-loukanika-poulerikwn.jpg"
 barcode: "5202576712942"
 varos: "140g"
 bar_img: "/media/svg/barcode.svg"

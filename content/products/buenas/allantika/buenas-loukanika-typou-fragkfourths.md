@@ -1,8 +1,8 @@
 ---
 title: "Buenas Λουκάνικα τύπου Φραγκφούρτης 280g"
 categories: ["Buenas"]
-product_image: "https://s1.sklavenitis.gr/images/1600x1600/41/files/ProductMedia/Products/1221769/1.jpg"
-product_image_lowres: "https://s1.sklavenitis.gr/images/ProductDetail/40/files/ProductMedia/Products/1221769/1.jpg"
+product_image: "/assets/images/buenas-loukanika-poulerikwn.jpg"
+product_image_lowres: "/assets/low/buenas-loukanika-poulerikwn.jpg"
 barcode: "5202575119055"
 varos: "280g"
 bar_img: "/media/svg/barcode.svg"
