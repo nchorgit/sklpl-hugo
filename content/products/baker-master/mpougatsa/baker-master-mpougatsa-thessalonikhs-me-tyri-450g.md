@@ -3,7 +3,7 @@ title: "Baker Master Μπουγάτσα Θεσσαλονίκης με τυρί 4
 weight: 2
 categories: ["Baker Master"]
 product_image: "/assets/images/baker-master-mpougatsa-thessalonikhs-me-tyri-450g.jpg"
-product_image_lowres: ""
+product_image_lowres: "/assets/low/baker-master-mpougatsa-thessalonikhs-me-tyri-450g.jpg"
 barcode: "5213000480634"
 varos: "450g"
 bar_img: "/media/svg/barcode.svg"
