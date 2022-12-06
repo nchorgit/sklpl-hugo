@@ -1,3 +1,6 @@
+ .sfsin {
+     font-size: inherit !important;
+ }
  .spr {
      position: relative;
  }
@@ -19,7 +22,22 @@
      color: white;
      background: #357ae8
  }
-
+.sflexc {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.sflex1 {
+    flex: 1;
+}
+.sflexg {
+    flex-grow: 1;
+    display: flex;
+    flex-flow: column;
+    flex: 1;
+}
  .ppurple {
      padding: 15px;
      color: white;
@@ -526,7 +544,34 @@
      width: auto;
      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr))
  }
+.sdg250 {
+    display: grid;
+    
+     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr))
+}
+.sdg300 {
+    display: grid;
+    
+     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))
+}
 
+.sdg350 {
+    display: grid;
+    
+     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr))
+}
+
+.sdg400 {
+    display: grid;
+    
+     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr))
+}
+
+.sdg450 {
+    display: grid;
+    
+     grid-template-columns: repeat(auto-fit, minmax(450px, 1fr))
+}
  .sgg1 {
      grid-gap: 1px
  }

@@ -20,7 +20,108 @@ body {
     color: #444;
 
 }
+/*baker master*/
+.sbaker {
+    background: #f3f1e6;
+}
+.fournos {
+    position: relative;
+  }
+  .fkoump {
+    background: #f2f2f2;
+    width: 90px;
+    color: #777;
+    text-align: center;
+    font-size: 55px;
+    line-height: 30px;
+    height: 30px;
+    border-radius: 4px 4px 0 0 !important;
+  }
+  .fvathm {
+    margin-top: 2px;
+    width: 90px;
+    background: #f2f2f2;
+    height: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 0 4px 4px !important;
+  }
+  .fvathm span {
+    text-align: center;
+    background: #777;
+    padding: 4px;
+    border-radius: 4px;
+    font-size: 24px;
+  }
+  .clock {
+    position: relative;
+    width: 90px;
+    height: 90px;
+    background: #f2f2f2;
+    border-radius: 50% !important;
+  }
+  .dclock {
+    background: #bbb;
+    width: 90px;
+    height: 45px;
 
+    border-radius: 0 0 50px 50px !important;
+  }
+  .dclock1 {
+    position: absolute;
+    top: 50%;
+  }
+  .dclock2 {
+    position: absolute;
+    top: 22px;
+    transform: rotate(90deg);
+    left: -23px;
+  }
+  .deik1 {
+    position: absolute;
+    border-left: 15px solid #555;
+    border-right: 15px solid #555;
+    width: 61px;
+    height: 2px;
+    top: 44.5px;
+    left: -1px;
+  }
+  .deik2 {
+    position: absolute;
+    border-left: 15px solid #555;
+    border-right: 15px solid #555;
+    width: 61px;
+    height: 2px;
+    top: 44px;
+    left: -1px;
+    transform: rotate(90deg);
+  }
+  .clock span {
+    position: absolute;
+    font-size: 35px;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #444;
+  }
+  .dper {
+    width: 90px;
+    height: 90px;
+    background: #f2f2f2;
+    border-radius: 50% !important;
+    position: relative;
+    color: #444;
+    text-align: center;
+  }
+  .perp {
+    position: absolute;
+    font-weight: bold;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+  }
+  /*baker master*/
 .container {
     flex: 1;
 }
@@ -682,8 +783,8 @@ a.mpl {
     color: #fff;
 }
 
-#weight: 1
-categ,
+
+.categ,
 #listp {
     padding: 5px 0;
     font-size: 13pt;
@@ -697,8 +798,8 @@ categ,
     top: 10px;
 }
 
-#weight: 1
-categ a {
+
+.categ a {
     font-size: 14pt;
     font-weight: 300;
     color: #555;
@@ -710,8 +811,8 @@ categ a {
     border-right: 62px solid #a5a5a5;
 }
 
-#weight: 1
-categ a:hover {
+
+.categ a:hover {
     font-size: 14pt;
     font-weight: 300;
     color: #ddd;
@@ -785,7 +886,7 @@ categ a:hover {
 
 @media only screen and (max-width: 1294px) {
 
-    #weight: 1
+    
 categ a,
     #listp a {
         margin-right: 20px;
@@ -825,8 +926,8 @@ categ a,
         float: right;
     }
 
-    #weight: 1
-categ a {
+    
+.categ a {
         margin: 5px 20px;
     }
 
