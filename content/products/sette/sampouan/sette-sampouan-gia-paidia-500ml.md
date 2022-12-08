@@ -14,7 +14,7 @@ tags: ["Σαμπουάν"]
 {{< rawhtml >}}
 <div class="product">
     <div id="sistatika">Σύνθεση:</div>
-<div class="alltext"><b>Ingredients:</b> Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, C12-15 Pareth-7, Sodium Chloride, Polyquaternium-7, Parfum, Sodium benzoate, Potassium sorbate, Phenoxyethanol, Butylene Glycol, Chamomilla Recutita (Matricaria) Extract, Tetrasodium EDTA, Citric acid, Benzoic Acid, Coumarin, Limonene, Citronellol, Geraniol, CI 19140, CI 15985.<br><br><b style="border-radius:4px;background: orange;padding:5px 10px;color: #fff;margin:0 10px 5px 0px;display:-webkit-inline-box">ΜΕ ΦΥΣΙΚΑ ΕΚΧΥΛΙΣΜΑΤΑ ΧΑΜΟΜΗΛΙΟΥ</b><b style="border-radius:4px; background:#eee;padding:5px 10px;color:#000;display:-webkit-inline-box">ΔΕΡΜΑΤΟΛΟΓΙΚΑ
+<div class="alltext"><b>Ingredients:</b> Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, C12-15 Pareth-7, Sodium Chloride, Polyquaternium-7, Parfum, Glycerin, Sodium Benzoate, Potassium Sorbate, Phenoxyethanol, Propylene Glycol, Chamomilla Recutita (Matricaria) Flower Extract, Tetrasodium EDTA, Sodium Hydroxide, Citric acid, Coumarin, Limonene, Citronellol, Linalool, CI 19140, CI 15985.<br><br><b style="border-radius:4px;background: orange;padding:5px 10px;color: #fff;margin:0 10px 5px 0px;display:-webkit-inline-box">ΜΕ ΦΥΣΙΚΑ ΕΚΧΥΛΙΣΜΑΤΑ ΧΑΜΟΜΗΛΙΟΥ</b><b style="border-radius:4px; background:#eee;padding:5px 10px;color:#000;display:-webkit-inline-box">ΔΕΡΜΑΤΟΛΟΓΙΚΑ
             ΕΛΕΓΜΕΝΟ</b></div>
 <div class="alltext" style="margin-top:-25px">
         
