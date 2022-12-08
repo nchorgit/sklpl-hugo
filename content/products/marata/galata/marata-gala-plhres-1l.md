@@ -1,5 +1,5 @@
 ---
-title: "Μαράτα Γάλα πλήρες 1L"
+title: "Μαράτα Γάλα Υψηλής Παστερίωσης πλήρες 1L"
 weight: 4
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-gala-plhres-1l.jpg"

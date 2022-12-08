@@ -1,5 +1,5 @@
 ---
-title: "Μαράτα Γάλα ελαφρύ 1L"
+title: "Μαράτα Γάλα Υψηλής Παστερίωσης ελαφρύ 1L"
 weight: 4
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-gala-elafry-1l.jpg"

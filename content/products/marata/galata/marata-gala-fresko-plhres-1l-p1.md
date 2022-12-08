@@ -1,9 +1,9 @@
 ---
-title: "Μαράτα Γάλα Φρέσκο πλήρες 1L - Π1"
+title: "Μαράτα Γάλα Φρέσκο πλήρες 1L"
 weight: 4
 categories: ["Μαράτα"]
-product_image: "/assets/images/marata-gala-fresko-plhres-1l-p1.jpg"
-product_image_lowres: "/assets/low/marata-gala-fresko-plhres-1l-p1.jpg"
+product_image: "/assets/images/marata-gala-fresko-plhres-1l.jpg"
+product_image_lowres: "/assets/low/marata-gala-fresko-plhres-1l.jpg"
 barcode: "5202576302525"
 varos: "1L"
 bar_img: "/media/svg/barcode.svg"

@@ -1,5 +1,5 @@
 ---
-title: "Μαράτα Γιαούρτι στραγγιστό 10% 3Χ200g Π1"
+title: "Μαράτα Γιαούρτι στραγγιστό 10% 3Χ200g"
 weight: 5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-giaourti-straggisto-10-3x200g-p1.jpg"
