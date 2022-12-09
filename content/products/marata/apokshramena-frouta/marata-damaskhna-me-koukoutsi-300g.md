@@ -1,12 +1,12 @@
 ---
-title: "Μαράτα Ανανάς ζαχαρωμένος 250g"
+title: "Μαράτα Δαμάσκηνα με κουκούτσι 300g"
 weight: 2
 date: 2022-05-29
 categories: ["Μαράτα"]
-product_image: "/assets/images/marata-ananas-zaxarwmenos-250g.jpg"
-product_image_lowres: "/assets/low/marata-ananas-zaxarwmenos-250g.jpg"
-barcode: "5202576101869"
-varos: "250g"
+product_image: "/assets/images/marata-damaskhna-me-koukoutsi-300g.jpg"
+product_image_lowres: "/assets/low/marata-damaskhna-me-koukoutsi-300g.jpg"
+barcode: "5208046072493"
+varos: "400g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
@@ -14,19 +14,20 @@ tags: ["Αποξηραμένα φρούτα"]
 ---
 {{< rawhtml >}}
 
-<div class="sload239">
-    <div class="product">
+
+<div class="product">
         <div id="sistatika">Συστατικά:</div>
-<div class="alltext">Ανανάς αποξηραμένος 53%, ρυθμιστής οξύτητας: κιτρικό οξύ, ζάχαρη 46%, συντηρητικό: <b>διοξείδιο του θείου</b>. Ενδέχεται να περιέχει ίχνη από <b>φιστίκια αράπικα (αραχίδες), σησάμι</b> και
-            <b>ξηρούς καρπούς με κέλυφος</b>.<br></div>
+        <div class="alltext">Δαμάσκηνα με κουκούτσι αποξηραμένα, συντηρητικό: Σορβικό κάλιο. Χωρίς πρόσθετα σάκχαρα.
+            Περιέχει φυσικά σάκχαρα. Ενδέχεται
+        να περιέχει ίχνη από <b>γλουτένη, φιστίκια αράπικα (αραχίδες), σησάμι</b> και<b> ξηρούς καρπούς με κέλυφος.</b></div>
         <div id="loipa">Διατήρηση και λοιπά στοιχεία προϊόντος</div>
-        <div class="alltext">Συσκευάσμένο σε προστατευτική ατμόσφαιρα. Διατηρείται σε ξηρό και δροσερό μέρος. Μετά το άνοιγμα, κλείνουμε καλά τη συσκευασία, τη
-            διατηρούμε στο ψυγείο και καταναλώνουμε εντός 2 εβδομάδων.<br>Προέλευση: Ταϋλάνδη.</div>
+        <div class="alltext">Διατηρείται σε ξηρό και δροσερό μέρος. Μετά το άνοιγμα, κλείνουμε καλά τη συσκευασία, τη
+            διατηρούμε στο ψυγείο και καταναλώνουμε εντός 2 εβδομάδων.<br>Προέλευση: Γαλλία.</div>
         <div id="barcode">
-            <div id="barimage1"></div><span id="bartext">5202576101869</span>
+            <div id="barimage1"></div><span id="bartext">5208046072493</span>
         </div>
         <div id="varos">
-            <div id="varosimage1"></div><span id="varostext">250g</span>
+            <div id="varosimage1"></div><span id="varostext">300g</span>
         </div>
         <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div>
         <div class="tabout">
@@ -39,8 +40,8 @@ tags: ["Αποξηραμένα φρούτα"]
                     </tr>
                     <tr>
                         <td class="texr2">Ενέργεια</td>
-                        <td class="texr">1465kJ<br>350kcal</td>
-                        <td class="texr" style="text-align:center">18%</td>
+                        <td class="texr">1182kJ<br>279kcal</td>
+                        <td class="texr" style="text-align:center">14%</td>
                     </tr>
                     <tr>
                         <td class="texr2">Λιπαρά</td>
@@ -54,35 +55,34 @@ tags: ["Αποξηραμένα φρούτα"]
                     </tr>
                     <tr>
                         <td class="texr2">Yδατάνθρακες</td>
-                        <td class="texr">88g</td>
-                        <td class="texr" style="text-align:center">34%</td>
+                        <td class="texr">64g</td>
+                        <td class="texr" style="text-align:center">25%</td>
                     </tr>
                     <tr>
                         <td class="gray">εκ των οποίων Σάκχαρα</td>
-                        <td class="gray2">77g</td>
-                        <td class="gray2" style="text-align:center">86%</td>
+                        <td class="gray2">38g</td>
+                        <td class="gray2" style="text-align:center">42%</td>
                     </tr>
                     <tr>
                         <td class="texr2">Eδώδιμες ίνες</td>
-                        <td class="texr">2g</td>
+                        <td class="texr">7,1g</td>
                         <td class="texr" style="text-align:center"></td>
                     </tr>
                     <tr>
                         <td class="texr2">Πρωτεΐνες</td>
-                        <td class="texr">0g</td>
-                        <td class="texr" style="text-align:center">0%</td>
+                        <td class="texr">2,2g</td>
+                        <td class="texr" style="text-align:center">4%</td>
                     </tr>
                     <tr>
                         <td class="texr2">Αλάτι</td>
-                        <td class="texr">0,38g</td>
-                        <td class="texr" style="text-align:center">6%</td>
+                        <td class="texr">0g</td>
+                        <td class="texr" style="text-align:center">0%</td>
                     </tr>
                 </tbody>
             </table>
         </div>
         <div class="alltext">* Προσλαμβανόμενη Ποσότητα Αναφοράς ενός μέσου ενήλικα (8400kJ / 2000kcal).</div>
-        <div class="pimg"><img alt="Μαράτα Ανανάς ζαχαρωμένος 250g" title="Μαράτα Ανανάς ζαχαρωμένος 250g"
-                src="/assets/images/marata-ananas-zaxarwmenos-250g.jpg"></div>
+        <div class="pimg"></div>
     </div>
-</div>
+
 {{< /rawhtml >}}
