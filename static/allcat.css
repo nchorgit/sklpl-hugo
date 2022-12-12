@@ -166,7 +166,7 @@ sup {
     color: #444;
     margin: 0;
     background: #efe2de;
-    
+    text-transform: capitalize;
     border-radius: 4px;
 }
 
