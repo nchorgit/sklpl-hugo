@@ -2,7 +2,7 @@
 title: "Μαράτα Τόνος Φιλέτο σε Ελαιόλαδο 2X175g"
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-tonos-se-elaiolado-2x175g.jpg"
-product_image_lowres: "/assets/low/marata-tonos-se-hlielaio-2x175g.jpg"
+product_image_lowres: "/assets/low/marata-tonos-se-elaiolado-2x175g.jpg"
 barcode: "5202576099593"
 varos: "2X175g"
 bar_img: "/media/svg/barcode.svg"

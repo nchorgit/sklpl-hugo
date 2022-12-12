@@ -2,6 +2,7 @@
 title: "Fisherman's Boat Φιλέτο τόνου σε ηλιέλαιο 200g"
 categories: ["Fisherman's Boat"]
 product_image: "/assets/images/fishermans-boat-fileto-tonou-se-hlielaio-200g.jpg"
+product_image_lowres: "/assets/images/fishermans-boat-fileto-tonou-se-hlielaio-200g.jpg"
 barcode: "5202576872363"
 varos: "200g"
 bar_img: "/media/svg/barcode.svg"
