@@ -1,7 +1,5 @@
 ---
 title: "Μαράτα Μάνγκο ζαχαρωμένο 150g"
-weight: 2
-date: 2022-05-29
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-mangko-zaxarwmeno-150g.jpg"
 product_image_lowres: "/assets/low/marata-mangko-zaxarwmeno-150g.jpg"
@@ -13,7 +11,6 @@ gencat: ["Τρόφιμα"]
 tags: ["Αποξηραμένα φρούτα"]
 ---
 {{< rawhtml >}}
-
 <div class="product">
     <div id="sistatika">Συστατικά:</div>
     <div class="alltext">Μάνγκο 72%, ρυθμιστής οξύτητας: κιτρικό οξύ, ζάχαρη 27%, συντηρητικό:&nbsp;<b>διοξείδιο του

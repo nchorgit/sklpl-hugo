@@ -69,7 +69,7 @@ tags: ["Νερά"]
 </div>
 <div class="keno"></div>
 
-<div class="pimg"><img alt="Μαράτα επιτραπέζιο νερό πηγής Χήτος 6 Χ 1,5L" title="Μαράτα επιτραπέζιο νερό πηγής Χήτος 6 Χ 1,5L" src="/assets/images/marata-epitrapezio-nero-phghs-xhtos-6x1.5l.jpg"></div></div></div>
+<div class="pimg"></div></div></div>
 {{< /rawhtml >}}
 
 

@@ -1,7 +1,6 @@
 ---
 title: "Μαράτα Παπάγια ζαχαρωμένη 250g"
-weight: 2
-date: 2022-05-29
+
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-papagia-zaxarwmenh-250g.jpg"
 product_image_lowres: "/assets/low/marata-papagia-zaxarwmenh-250g.jpg"
