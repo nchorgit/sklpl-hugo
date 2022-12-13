@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Τοματοπολτός (γυάλινο βάζο) 200g"
+weight: 20
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-tomatopoltos-gyalino-bazo-200g.jpg"
 product_image_lowres: "/assets/low/marata-tomatopoltos-gyalino-bazo-200g.jpg"

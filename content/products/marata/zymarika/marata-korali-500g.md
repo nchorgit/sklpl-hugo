@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Κοράλλι 500g"
+weight: 5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-korali-500g.jpg"
 product_image_lowres: "/assets/low/marata-korali-500g.jpg"

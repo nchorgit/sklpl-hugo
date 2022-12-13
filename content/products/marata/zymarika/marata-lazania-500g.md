@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Λαζάνια 500g"
+weight: 5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-lazania-500g.jpg"
 product_image_lowres: "/assets/low/marata-lazania-500g.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Σόδα 400g"
+weight: 15
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-soda-400g.jpg"
 product_image_lowres: "/assets/low/marata-soda-400g.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Xοιρινά Λουκάνικα Κλασικά 360g"
+weight: 10
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-xoirina-loukanika-klasika-360g.jpg"
 product_image_lowres: "/assets/low/marata-xoirina-loukanika-klasika-360g.jpg"

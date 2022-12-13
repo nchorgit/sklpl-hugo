@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Μαγιονέζα light 480g"
+weight: 16
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-magioneza-light-480g.jpg"
 product_image_lowres: "/assets/low/marata-magioneza-light-480g.jpg"

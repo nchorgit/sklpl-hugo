@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Ψιλοκομμένες ντομάτες 2,5kg"
+weight: 20
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-psilokommenes-ntomates-2.jpg"
 product_image_lowres: "/assets/low/marata-psilokommenes-ntomates-2.jpg"

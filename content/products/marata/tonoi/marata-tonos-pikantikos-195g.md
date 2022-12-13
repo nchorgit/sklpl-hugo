@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Τόνος πικάντικος 195g"
+weight: 21
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-tonos-pikantikos-195g.jpg"
 product_image_lowres: "/assets/low/marata-tonos-pikantikos-195g.jpg"

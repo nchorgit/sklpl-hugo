@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Παστίσιο Νο2 500g"
+weight: 5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-pastisio-no2-500g.jpg"
 product_image_lowres: "/assets/low/marata-pastisio-no2-500g.jpg"

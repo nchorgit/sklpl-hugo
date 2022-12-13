@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Τόνος Φιλέτο σε Ελαιόλαδο 2X175g"
+weight: 21
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-tonos-se-elaiolado-2x175g.jpg"
 product_image_lowres: "/assets/low/marata-tonos-se-elaiolado-2x175g.jpg"

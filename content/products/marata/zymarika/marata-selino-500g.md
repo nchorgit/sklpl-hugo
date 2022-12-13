@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Σέλινο 500g"
+weight: 5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-selino-500g.jpg"
 product_image_lowres: "/assets/low/marata-selino-500g.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Πυρηνέλαιο 1L"
+weight: 8
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-pyrhnelaio-1l.jpg"
 product_image_lowres: "/assets/low/marata-pyrhnelaio-1l.jpg"

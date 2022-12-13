@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Τυροπιτάκια σφολιάτας 1kg"
+weight: 14
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-tyropitakia-sfoliatas-1kg.jpg"
 product_image_lowres: "/assets/low/marata-tyropitakia-sfoliatas-1kg.jpg"

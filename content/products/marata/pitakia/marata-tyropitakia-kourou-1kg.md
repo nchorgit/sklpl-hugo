@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Τυροπιτάκια κουρού 1kg"
+weight: 14
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-tyropitakia-kourou-1kg.jpg"
 product_image_lowres: "/assets/low/marata-tyropitakia-kourou-1kg.jpg"

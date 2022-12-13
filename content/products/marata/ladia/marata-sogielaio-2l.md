@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Σογιέλαιο 2L"
+weight: 8
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-sogielaio-2l.jpg"
 product_image_lowres: "/assets/low/marata-sogielaio-2l.jpg"

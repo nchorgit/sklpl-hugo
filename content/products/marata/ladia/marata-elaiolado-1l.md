@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Ελαιόλαδο 1L"
+weight: 8
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-elaiolado-1l.jpg"
 product_image_lowres: "/assets/low/marata-elaiolado-1l.jpg"

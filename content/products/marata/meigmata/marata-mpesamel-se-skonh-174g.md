@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Μπεσαμέλ σε σκόνη 174g"
+weight: 11
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-mpesamel-se-skonh-174g.jpg"
 product_image_lowres: "/assets/low/marata-mpesamel-se-skonh-174g.jpg"

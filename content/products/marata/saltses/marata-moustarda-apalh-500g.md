@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Μουστάρδα απαλή 500g"
+weight: 16
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-moustarda-apalh-500g.jpg"
 product_image_lowres: "/assets/low/marata-moustarda-apalh-500g.jpg"

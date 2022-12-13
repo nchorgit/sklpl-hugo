@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Πουρές πατάτας στιγμής 250g"
+weight: 11
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-poures-patatas-stigmhs-250g.jpg"
 product_image_lowres: "/assets/low/marata-poures-patatas-stigmhs-250g.jpg"

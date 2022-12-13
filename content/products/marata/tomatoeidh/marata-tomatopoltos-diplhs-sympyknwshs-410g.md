@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Τοματοπολτός διπλής συμπύκνωσης 410g"
+weight: 20
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-tomatopoltos-diplhs-sympyknwshs-410g.jpg"
 product_image_lowres: "/assets/low/marata-tomatopoltos-diplhs-sympyknwshs-410g.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Μαγιονέζα classic 480g"
+weight: 16
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-magioneza-classic-480g.jpg"
 product_image_lowres: "/assets/low/marata-magioneza-classic-480g.jpg"

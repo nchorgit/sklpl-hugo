@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Μακαρόνια Νο5 500g"
+weight: 5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-makaronia-no5-500g.jpg"
 product_image_lowres: "/assets/low/marata-makaronia-no5-500g.jpg"

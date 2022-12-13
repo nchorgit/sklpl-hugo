@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Πένες Ολικής Άλεσης 500g"
+weight: 5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-penes-olikhs-aleshs-500g.jpg"
 product_image_lowres: "/assets/low/marata-penes-olikhs-aleshs-500g.jpg"

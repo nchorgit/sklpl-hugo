@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Μοσχαρίσια Λουκάνικα 360g"
+weight: 10
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-mosxarisia-loukanika-360g.jpg"
 product_image_lowres: "/assets/low/marata-mosxarisia-loukanika-360g.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Λουκανικοπιτάκια κουρού 1kg"
+weight: 14
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-loukanikopitakia-kourou-1kg.jpg"
 product_image_lowres: "/assets/low/marata-loukanikopitakia-kourou-1kg.jpg"

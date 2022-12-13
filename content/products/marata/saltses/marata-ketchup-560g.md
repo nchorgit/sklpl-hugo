@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Ketchup 560g"
+weight: 16
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-ketchup-560g.jpg"
 product_image_lowres: "/assets/low/marata-ketchup-560g.jpg"

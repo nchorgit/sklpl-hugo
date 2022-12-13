@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα επιτραπέζιο νερό πηγής Χήτος 1,5L"
+weight: 12
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-epitrapezio-nero-phghs-xhtos-1.5l.jpg"
 product_image_lowres: "/assets/low/marata-epitrapezio-nero-phghs-xhtos-1.5l.jpg"

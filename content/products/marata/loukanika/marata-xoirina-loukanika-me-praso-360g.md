@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Xοιρινά Λουκάνικα Με Πράσο 360g"
+weight: 10
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-xoirina-loukanika-me-praso-360g.jpg"
 product_image_lowres: "/assets/low/marata-xoirina-loukanika-me-praso-360g.jpg"

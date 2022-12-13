@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Χυμός πορτοκάλι νέκταρ 1000ml"
+weight: 23
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-xymos-portokali-nektar-1000ml.jpg"
 product_image_lowres: "/assets/low/marata-xymos-portokali-nektar-1000ml.jpg"

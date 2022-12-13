@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Χυμός Action 9 φρούτα 250ml"
+weight: 23
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-xymos-action-9-frouta-250ml.jpg"
 product_image_lowres: "/assets/low/marata-xymos-action-9-frouta-250ml.jpg"

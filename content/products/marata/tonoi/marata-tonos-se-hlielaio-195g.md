@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Τόνος σε ηλιέλαιο 195g"
+weight: 21
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-tonos-se-hlielaio-195g.jpg"
 product_image_lowres: "/assets/low/marata-tonos-se-hlielaio-195g.jpg"

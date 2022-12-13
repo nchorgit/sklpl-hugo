@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Σιμιγδάλι ψιλό 500g"
+weight: 18
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-simigdali-psilo-500g.jpg"
 product_image_lowres: "/assets/low/marata-simigdali-psilo-500g.jpg"

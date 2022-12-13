@@ -1,6 +1,7 @@
 ---
 title: "Μαράτα Δαμάσκηνα χωρίς κουκούτσι 300g"
 
+weight: 2
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-damaskhna-xwris-koukoutsi-300g.jpg"
 product_image_lowres: "/assets/low/marata-damaskhna-xwris-koukoutsi-300g.jpg"

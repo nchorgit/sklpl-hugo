@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Ηλιέλαιο 1L"
+weight: 8
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-hlielaio-1l.jpg"
 product_image_lowres: "/assets/low/marata-hlielaio-1l.jpg"

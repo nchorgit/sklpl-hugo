@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Ψιλοκομμένες ντομάτες 370g"
+weight: 20
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-psilokommenes-ntomates-370g.jpg"
 product_image_lowres: "/assets/low/marata-psilokommenes-ntomates-370g.jpg"

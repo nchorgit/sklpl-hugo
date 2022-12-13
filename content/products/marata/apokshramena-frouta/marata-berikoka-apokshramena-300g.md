@@ -1,7 +1,6 @@
 ---
 title: "Μαράτα Βερίκοκα αποξηραμένα 300g"
 weight: 2
-
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-berikoka-apokshramena-300g.jpg"
 product_image_lowres: "/assets/low/marata-berikoka-apokshramena-300g.jpg"

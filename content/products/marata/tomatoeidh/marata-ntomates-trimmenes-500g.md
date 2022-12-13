@@ -1,5 +1,6 @@
 ---
 title: "Μαράτα Ντομάτες τριμμένες 500g"
+weight: 20
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-ntomates-trimmenes-500g.jpg"
 product_image_lowres: "/assets/low/marata-ntomates-trimmenes-500g.jpg"
