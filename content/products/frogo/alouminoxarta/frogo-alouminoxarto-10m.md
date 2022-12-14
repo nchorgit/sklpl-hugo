@@ -5,7 +5,7 @@ product_image: "/assets/images/frogo-alouminoxarto-10m.jpg"
 product_image_lowres: "/assets/low/frogo-alouminoxarto-10m.jpg"
 barcode: "5202576946880"
 varos: "10 μέτρα"
-bar_img: "/media/svg/barcode.png"
+bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Αλουμινόχαρτα"]
