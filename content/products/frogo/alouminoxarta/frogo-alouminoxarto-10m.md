@@ -26,10 +26,7 @@ tags: ["Αλουμινόχαρτα"]
 
 <p class="pdanger
 "><b>Οδηγίες Προφύλαξης</b></p>
-<p class="pgray
-" style="
-    background: #ffe5e5;
-">
+<p class="pgray">
     Προσοχή! να μην έρθει το αλουμινόχαρτο σε επαφή με ηλεκτρικό ρεύμα.
     Το προϊόν δεν πρέπει να έρχεται σε επαφή με αλάτι, λεμόνι ή ξύδι (αλμυρά και όξινα τρόφιμα) γιατί πιθανόν να καταστεί ακατάλληλο για χρήση.
     Μη σκεπάζετε τα τοιχώματα του φούρνου με αλουμινόχαρτο γιατί μπορεί να προκαλέσει ζημιά στο φούρνο λόγω υπερθέρμανσης.
@@ -37,6 +34,9 @@ tags: ["Αλουμινόχαρτα"]
     Δεν είναι κατάλληλο για χρήση σε φούρνο μικροκυμάτων.
     Για την αποφυγή ανάπτυξης μικροοργανισμών, μη χρησιμοποιείτε ξανά το ίδιο κομμάτι αλουμινόχαρτο.
     Αποθηκεύστε το προϊόν σε περιβάλλον χωρίς υγρασία.
-</p><br><div id="barcode"><div id="barimage1"></div><span id="bartext">5202576946880</span></div><div id="varos"><div id="dimimg">
-  </div><span id="varostext">10 μέτρα</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br><div class="pimg"><img alt="Frogo Αλουμινόχαρτο 10m" title="Frogo Αλουμινόχαρτο 10m" src="/assets/images/frogo-alouminoxarto-10m.jpg"></div></div>
+</p>
+<div class="keno"></div>
+
+<div id="barcode"><div id="barimage1"></div><span id="bartext">5202576946880</span></div><div id="varos"><div id="dimimg">
+  </div><span id="varostext">10 μέτρα</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><div class="pimg"></div></div>
 {{< /rawhtml >}}

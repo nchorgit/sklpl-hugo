@@ -120,11 +120,11 @@
      border-radius: 0 6px 6px 0
  }
 
- .sfll {
+ .sfl {
      float: left
  }
 
- .sflr {
+ .sfr {
      float: right
  }
 
@@ -379,7 +379,12 @@
      justify-content: center;
      gap: 18px;
  }
-
+.sdfn {
+    display: flex;
+}
+.sdfw {
+    flex-wrap: wrap;
+}
  .sdt {
      display: table;
      vertical-align: middle
@@ -389,7 +394,9 @@
      display: table-cell;
      vertical-align: middle
  }
-
+.slhn {
+    line-height: normal !important;
+}
  .sball1 {
      border: 1px solid
  }
