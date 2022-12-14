@@ -1,8 +1,8 @@
 ---
-title: "Frogo Σακούλες τροφίµων μεγάλες"
+title: "Frogo Σακούλες τροφίµων με κλιπ 120τεμ"
 categories: ["Frogo"]
-product_image: "/assets/images/frogo-sakoules-trofimwn-megales.jpg"
-product_image_lowres: "/assets/images/frogo-sakoules-trofimwn-megales.jpg"
+product_image: "/assets/images/frogo-sakoules-trofimwn-me-klip-2l.jpg"
+product_image_lowres: "/assets/images/frogo-sakoules-trofimwn-me-klip-2l.jpg"
 barcode: "5202576680470"
 varos: "30 X 36 cm"
 bar_img: "/media/svg/barcode.svg"
