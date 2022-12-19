@@ -16,7 +16,7 @@ tags: ["Είδη γραφείου"]
     display: grid;
     grid-template-columns: auto auto auto auto;
     text-align: center;
-    gap: 5px;
+    gap: 2px;
 }
 .stpin {
     
@@ -37,7 +37,7 @@ tags: ["Είδη γραφείου"]
 </style>
 
 <div class="product">
-        <div id="sistatika">Συστατικά:</div>
+        <div id="sistatika">Περιγραφή:</div>
         <div class="alltext">Stampa Ζελατίνες διαφανείς 0.03mm<br></div>
         <div id="loipa">Λοιπά στοιχεία προϊόντος</div>
         <div class="keno"></div>
@@ -45,7 +45,7 @@ tags: ["Είδη γραφείου"]
             <div class="stpin sred">11 τρύπες</div>
             <div class="stpin s444 ">Άνοιγμα από πάνω</div>
             <div class="stpin sred">Υλικο: Polypropylene</div>
-            <div class="stpin s444">Χωρητικότητα 15 φυλλα Α4</div>
+            <div class="stpin s444">Χωρητικότητα: 15 φύλλα Α4</div>
         </div>
         <div class="keno"></div>
         <style>
