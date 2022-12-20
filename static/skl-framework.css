@@ -366,10 +366,10 @@
      display: inline-block
  }
 
- .sdf {
+ .sdfaic {
      display: flex;
      align-items: center;
-     gap: 20px;
+     
  }
 
  .sdfcenter {
@@ -528,6 +528,12 @@
 
  .sp10 {
      padding: 10px
+ }
+ .sp010 {
+     padding: 0 10px;
+ }
+ .sp100 {
+     padding: 10px 0;
  }
  .sp1015 {
     padding: 10px 15px;
