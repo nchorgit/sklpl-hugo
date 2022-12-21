@@ -12,7 +12,41 @@ tags: ["Απλώστρες"]
 ---
 {{< rawhtml >}}
 
-<div class="sload208"><div class="product"><div id="sistatika">Περιγραφή:</div><div class="alltext">Απλώστρα ρούχων µε πτερύγια.</div><div id="loipa">Λοιπά στοιχεία προϊόντος</div><div class="alltext" style="margin:0"><b>Κατάλληλη για χρήση σε εξωτερικούς και εσωτερικούς χώρους.</b><br><br>Διαστάσεις κλειστής απλώστρας: <img src="/media/svg/dcm.svg" style="height:23px;margin-left:10px;margin-bottom:-3px;padding-bottom:0">131 x 55 cm.<br>Αναδιπλούμενη για εύκολη αποθήκευση.<br>Επιφάνεια απλώματος από αλουμίνιο,πόδια μεταλλικά με εποξική βαφή.<br>Πλαστικά αντιολισθητικά στηρίγματα.<br>Σύνδεσμος στήριξης ασφαλείας safety lock.<br></div><div id="barcode"><div id="barimage1"></div><span id="bartext">5202576680449</span></div><div id="varos"><div id="varosimage" style="margin:0"><img src="/media/svg/dcm.svg"></div><span id="varostext">20 μέτρα</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br><div class="pimg"><img alt="Kitten Απλώστρα ρούχων με πτερύγια πράσινη" title="Kitten Απλώστρα ρούχων με πτερύγια πράσινη" src="/assets/images/kitten-aplwstra-rouxwn-me-pterygia-prasinh.jpg"></div></div></div>
+<div class="product">
+    <div id="sistatika">Περιγραφή:</div>
+    <div class="alltext">Απλώστρα ρούχων µε πτερύγια.</div>
+    <div id="loipa">Λοιπά στοιχεία προϊόντος</div>
+    <div class="alltext"><b>Κατάλληλη για χρήση σε εξωτερικούς και εσωτερικούς χώρους.
+</b></div> 
+<div class="stfff sfwb sdg250 sais sgg2">
+        <span class="sorange st000 sp10 sbrd4">Διαστάσεις κλειστής απλώστρας:</span>
+        <span class="sdfn s444 sp10 sbrd4">
+            <img src="/media/svg/dcm.svg"
+                    style="height:23px;margin-right: 5px;padding-bottom:0;filter: invert(1) brightness(1);">
+                131 x 55 cm
+        </span></div>
+       <div class="tabout">
+<table style="border-spacing:3px" class="sw100 sfsin stlf">
+<tr>
+                <td class="seee sp10">Αναδιπλούμενη για εύκολη αποθήκευση.</td>
+        <td class="seee sp10">Μεταλλική, με εποξική βαφή.</td>
+            </tr>
+    <tr>
+        <td class="seee sp10">Πλαστικά αντιολισθητικά στηρίγματα.</td>
+        <td class="seee sp10">Σύνδεσμος στήριξης ασφαλείας safety lock.</td>
+    </tr>
+</table>
+</div>
+<p></p>
+    <div id="barcode">
+        <div id="barimage1"></div><span id="bartext">5202576680449</span>
+    </div>
+    <div id="varos">
+        <div id="varosimage" style="margin:0"><img src="/media/svg/dcm.svg"></div><span id="varostext">20 μέτρα</span>
+    </div>
+    <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div>
+    <div class="pimg"></div>
+    </div>
 {{< /rawhtml >}}
 
 

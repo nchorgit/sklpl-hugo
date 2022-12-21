@@ -271,7 +271,9 @@
      padding: 10px;
      height: 70px
  }
-
+.stlf {
+    table-layout: fixed;
+}
  .sjc {
      justify-content: center
  }
@@ -375,7 +377,12 @@
      align-items: center;
      
  }
-
+ .sais {
+     align-items: stretch;
+ }
+.saic {
+    align-items: center;
+}
  .sdfcenter {
      display: flex;
      align-items: center;
