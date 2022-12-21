@@ -365,7 +365,11 @@
  .sdib {
      display: inline-block
  }
-
+.sdf {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
  .sdfaic {
      display: flex;
      align-items: center;
