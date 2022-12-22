@@ -16,6 +16,7 @@ tags: ["Απλώστρες"]
     <div id="sistatika">Περιγραφή:</div>
     <div class="alltext">Απλώστρα ρούχων κρεµαστή.</div>
     <div id="loipa">Λοιπά στοιχεία προϊόντος</div>
+     <div class="alltext"><b>Για µπαλκόνια, καλοριφέρ και πόρτες.</b></div> 
     <div class="stfff sfwb sdg250 sais sgg2"><span class="sorange st000 sp10 sbrd4">Διαστάσεις κλειστής απλώστρας:</span>
        <span class="sdfn s444 sp10 sbrd4">
             <img src="/media/svg/dcm.svg"

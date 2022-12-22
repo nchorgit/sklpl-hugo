@@ -14,7 +14,7 @@ tags: ["Μανταλάκια"]
 
   <div class="product">
         <div id="sistatika">Περιγραφή:</div>
-        <div class="alltext">Μανταλάκια extra.</div>
+        <div class="alltext">Μανταλάκια πλαστικά χρωματιστά.</div>
         <div id="barcode">
             <div id="barimage1"></div><span id="bartext">5202576680258</span>
         </div>
