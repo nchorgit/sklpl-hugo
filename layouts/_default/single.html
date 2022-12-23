@@ -293,11 +293,12 @@
             border-right: 2px solid #555;
         }
 
-        a:hover.home,
-        a:hover.cat {
+        a:hover.home{
             background: #444;
         }
-
+        a:hover.cat, a:hover.tag {
+            text-decoration: underline;
+        }  
         .ptitle {
             padding: 0px 10px;
             text-transform: capitalize;
@@ -760,6 +761,7 @@
             display: flex;
             cursor: pointer;
             padding: 0 !important;
+            
         }
 
         .pimg2 .pimg img,
@@ -775,7 +777,10 @@
             max-width: 700px;
             height: auto;
         }
-
+.pimg img title {
+    text-transform: capitalize;
+    color: red;
+}
         .imgcaption {
             display: none;
             bottom: 30px;
@@ -785,8 +790,11 @@
             animation-duration: 2s;
             color: #eee;
             right: 0;
+            text-transform: capitalize;
         }
-
+alt {
+    text-transform: capitalize; 
+}
         .tabout {
             overflow: auto;
             margin: 0 -2px;

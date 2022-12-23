@@ -8,7 +8,8 @@ varos: "60 X 45 X 20 cm"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
-tags: ["Θήκες φύλαξης"]
+tags: ["Θήκες Φύλαξης"]
+draft: true
 ---
 {{< rawhtml >}}
 
