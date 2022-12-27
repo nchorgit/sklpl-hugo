@@ -9,7 +9,7 @@ bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σκεύη αλουμινίου"]
-weight: 5
+draft: true
 ---
 {{< rawhtml >}}
 
