@@ -1,6 +1,7 @@
 ---
 title: "Kitten Απλώστρα ρούχων με πτερύγια πράσινη"
 categories: ["Kitten"]
+weight: 1
 product_image: "/assets/images/kitten-aplwstra-rouxwn-me-pterygia-prasinh.jpg"
 product_image_lowres: "/assets/low/kitten-aplwstra-rouxwn-me-pterygia-prasinh.jpg"
 barcode: "5202576680449"

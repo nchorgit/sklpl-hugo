@@ -1,6 +1,7 @@
 ---
 title: "Kitten Πανάκι μικροϊνών μεγάλης αντοχής"
 categories: ["Kitten"]
+weight: 4
 product_image: "/assets/images/kitten-panaki-mikroinwn-megalhs-antoxhs.jpg"
 product_image_lowres: "/assets/low/kitten-panaki-mikroinwn-megalhs-antoxhs.jpg"
 barcode: "5202576680296"

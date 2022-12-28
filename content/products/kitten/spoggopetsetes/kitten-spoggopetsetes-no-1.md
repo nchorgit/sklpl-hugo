@@ -1,6 +1,7 @@
 ---
 title: "Kitten Σπογγοπετσέτες Νο 1"
 categories: ["Kitten"]
+weight: 7
 product_image: "/assets/images/kitten-spoggopetsetes-no-1.jpg"
 product_image_lowres: "/assets/low/kitten-spoggopetsetes-no-1.jpg"
 barcode: "5202576680708"

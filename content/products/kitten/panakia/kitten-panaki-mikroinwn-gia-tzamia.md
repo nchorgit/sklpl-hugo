@@ -1,6 +1,7 @@
 ---
 title: "Kitten Πανάκι μικροϊνών για τζάμια"
 categories: ["Kitten"]
+weight: 4
 product_image: "/assets/images/kitten-panaki-mikroinwn-gia-tzamia.jpg"
 product_image_lowres: "/assets/low/kitten-panaki-mikroinwn-gia-tzamia.jpg"
 barcode: "5202576680326"

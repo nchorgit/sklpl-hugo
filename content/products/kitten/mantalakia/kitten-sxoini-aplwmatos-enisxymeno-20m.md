@@ -1,6 +1,7 @@
 ---
 title: "Kitten Σχοινί απλώματος ενισχυμένο 20m"
 categories: ["Kitten"]
+weight: 3
 product_image: "/assets/images/kitten-sxoini-aplwmatos-enisxymeno-20m.jpg"
 product_image_lowres: "/assets/low/kitten-sxoini-aplwmatos-enisxymeno-20m.jpg"
 barcode: "5202576680272"

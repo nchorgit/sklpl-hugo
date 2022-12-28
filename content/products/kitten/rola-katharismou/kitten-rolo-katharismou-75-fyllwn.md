@@ -1,6 +1,7 @@
 ---
 title: "Kitten Ρολό καθαρισμού 75 φύλλων"
 categories: ["Kitten"]
+weight: 6
 product_image: "/assets/images/kitten-rolo-katharismou-75-fyllwn.jpg"
 product_image_lowres: "/assets/low/kitten-rolo-katharismou-75-fyllwn.jpg"
 barcode: "5202576681255"

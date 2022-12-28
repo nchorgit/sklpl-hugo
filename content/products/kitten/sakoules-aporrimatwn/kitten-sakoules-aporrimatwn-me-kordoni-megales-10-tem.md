@@ -1,6 +1,7 @@
 ---
 title: "Kitten Σακούλες Απορριμάτων με κορδόνι Μεγάλες 10 τεμ"
 categories: ["Kitten"]
+weight: 11
 product_image: "/assets/images/kitten-sakoules-aporrimatwn-me-kordoni-megales-10-tem.jpg"
 barcode: "5202576464223"
 product_image_lowres: "/assets/low/kitten-sakoules-aporrimatwn-me-kordoni-megales-10-tem.jpg"
@@ -9,7 +10,7 @@ bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σακούλες Απορριμάτων"]
-weight: 4
+
 ---
 {{< rawhtml >}}
 

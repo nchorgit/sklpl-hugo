@@ -1,6 +1,7 @@
 ---
 title: "Kitten Πανάκια μικροϊνών γενικής χρήσης 8τεμ"
 categories: ["Kitten"]
+weight: 4
 product_image: "/assets/images/kitten-panakia-mikroinwn-genikhs-xrhshs-8tem.jpg"
 product_image_lowres: "/assets/low/kitten-panakia-mikroinwn-genikhs-xrhshs-8tem.jpg"
 barcode: "5202576680319"
@@ -12,7 +13,25 @@ tags: ["Πανάκια"]
 ---
 {{< rawhtml >}}
 
-<div class="sload222"><div class="product"><div id="sistatika">Σύνθεση:</div><div class="alltext"><b>Πανάκια μικροϊνών γενικής χρήσης.</b><br>82% Πολυεστέρας, 18% Πολυαμίδιο.<br></div><div id="loipa">Διατήρηση και λοιπά στοιχεία προϊόντος</div><div class="alltext"><b style="margin:0">Καθαρίζει μόνο με νερό<img src="/media/svg/dcm.svg"></div><span id="varostext">30 X 30 cm</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br><div class="pimg"><img alt="Kitten Πανάκια μικροϊνών γενικής χρήσης 8τεμ" title="Kitten Πανάκια μικροϊνών γενικής χρήσης 8τεμ" src="/assets/images/kitten-panakia-mikroinwn-genikhs-xrhshs-8tem.jpg"></div></div></div>
+<div class="product">
+    <div class="sis">Σύνθεση:</div>  
+    <div class="alltext">
+        Πανάκια μικροϊνών γενικής χρήσης.
+        82% Πολυεστέρας, 18% Πολυαμίδιο.
+    </div>
+    <div class="lip">Λοιπά στοιχεία προϊόντος</div>
+    <div class="alltext"><b>Καθαρίζει μόνο με νερό.</b><br>
+    Μπορούν να χρησιμοποιηθούν στεγνά ή βρεγμένα. Πλένονται σε θερμοκρασία έως 60°C, χωρίς τη χρήση απορρυπαντικού ή μαλακτικού.
+    </div>
+    <div id="barcode">
+        <div id="barimage1"></div><span id="bartext">5202576680319</span>
+    </div>
+    <div id="varos">
+        <div id="varosimage"><img src="/media/svg/dcm.svg" alt=""></div><span id="varostext">30 X 30 cm</span>
+    </div>
+    <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div>
+    <div class="pimg"></div>
+</div>
 {{< /rawhtml >}}
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Kitten Σκονοσκουπάκι"
 categories: ["Kitten"]
+weight: 5
 product_image: "/assets/images/kitten-skonoskoupaki.jpg"
 product_image_lowres: "/assets/low/kitten-skonoskoupaki.jpg"
 barcode: "5202576688117"

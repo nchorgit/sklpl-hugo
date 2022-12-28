@@ -1,6 +1,7 @@
 ---
 title: "Kitten Σφουγγάρι – γόμα καθαρισμού επιφανειών"
 categories: ["Kitten"]
+weight: 12
 product_image: "/assets/images/kitten-sfouggari-goma-katharismou-epifaneiwn.jpg"
 product_image_lowres: "/assets/low/kitten-sfouggari-goma-katharismou-epifaneiwn.jpg"
 barcode: "5202576712928"

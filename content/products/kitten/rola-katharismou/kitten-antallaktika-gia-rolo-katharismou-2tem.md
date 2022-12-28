@@ -1,6 +1,7 @@
 ---
 title: "Kitten Ανταλλακτικά για ρολό καθαρισμού 2τεμ"
 categories: ["Kitten"]
+weight: 6
 product_image: "/assets/images/kitten-antallaktika-gia-rolo-katharismou-2tem.jpg"
 product_image_lowres: "/assets/low/kitten-antallaktika-gia-rolo-katharismou-2tem.jpg"
 barcode: "5202576681286"

@@ -1,6 +1,7 @@
 ---
 title: "Kitten Γάντια ελαστικά με επένδυση Νο 9"
 categories: ["Kitten"]
+weight: 2
 product_image: "/assets/images/kitten-gantia-elastika-me-ependysh-no-9.jpg"
 product_image_lowres: "/assets/low/kitten-gantia-elastika-me-ependysh-no-9.jpg"
 barcode: "5202576469594"
