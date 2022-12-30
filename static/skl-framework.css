@@ -621,6 +621,12 @@
      gap: 15px
  }
 
+ .sgg20 {
+    gap: 20px
+}
+.sgg25 {
+    gap: 25px
+}
  .sfwb {
      font-weight: bold
  }
