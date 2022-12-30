@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Κριθαράκι μέτριο 500g"
-weight: 5
+weight: 4.5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-kritharaki-metrio-500g.jpg"
 product_image_lowres: "/assets/low/marata-kritharaki-metrio-500g.jpg"

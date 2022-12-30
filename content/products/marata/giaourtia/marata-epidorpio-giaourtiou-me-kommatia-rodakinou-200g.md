@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Επιδόρπιο γιαουρτιού με κομμάτια ροδάκινου 200g"
-weight: 5
+weight: 6
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-epidorpio-giaourtiou-me-kommatia-rodakinou-200g.jpg"
 product_image_lowres: "/assets/low/marata-epidorpio-giaourtiou-me-kommatia-rodakinou-200g.jpg"

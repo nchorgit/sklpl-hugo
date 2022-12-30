@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Σπαγγέτι Νο6 500g"
-weight: 5
+weight: 4.5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-spaggeti-no6-500g.jpg"
 product_image_lowres: "/assets/low/marata-spaggeti-no6-500g.jpg"

@@ -17,8 +17,54 @@ kacoyles εσπρεσσο εσπρέσο εσπρεσο εσπρέσσο ρισ�
 "]
 ---
 {{< rawhtml >}}
-
-<div class="sload69"><div class="product"><div id="sistatika">Περιγραφή:</div><div class="alltext"><strong>Espresso Ristretto<br></strong>Aλεσµένος καβουρδισµένος καφές σε κάψουλες. Το ιδανικό χαρµάνι του από 100% ποικιλίες Arabica προσφέρει δυνατή γεύση µε επίγευση σοκολάτας, έντονη οξύτητα και µέτριο σώµα.<br>Συσκευασµένο σε προστατευτική ατµόσφαιρα.</div><table style="border-collapse:collapse;width:100%" border="0" cellpadding="15px"><tbody><tr><td style="width:32.95%;background-color:#7e8c8d;text-align:center"><span style="color:#fff">Ristretto 25ml</span></td><td style="width:32.95%;text-align:center;background-color:#7e8c8d"><span style="color:#fff">Espresso 40ml</span></td><td style="width:32.95%;text-align:center;background-color:#7e8c8d"><span style="color:#fff">Lungo 110ml</span></td></tr></tbody></table><table style="border-collapse:collapse;width:100%" border="0" cellpadding="15px;"><tbody><tr><td style="width:49.55%;background-color:#555;vertical-align:middle"><strong><span style="color:#fff"><img style="margin-right:5px;vertical-align:middle" src="/media/icons/kaps.svg" width="30px" alt="">10 X 5,3g</span></strong></td><td style="width:49.65%;background-color:#333"><strong><span style="color:#ecf0f1">Intesity 10/12<br>▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ <span style="color:#7e8c8d">▂ ▂</span></span></strong></td></tr><tr><td style="width:49.55%;background-color:#444" colspan="2"><span style="color:#ecf0f1">Κάψουλες συµβατές µε µηχανές καφέ <strong>Nespresso</strong> ®.*</span><br><span style="color:#ecf0f1">*<strong>Nespresso:</strong> Εµπορικό σήµα ιδιοκτησίας τρίτου που δεv συνδέεται µε τον Όµιλο ΣΚΛΑΒΕΝΙΤΗΣ.</span></td></tr></tbody></table><div>&nbsp;</div><div id="loipa">Διατήρηση και λοιπά στοιχεία προϊόντος</div><div class="alltext">Διατηρείται σε µέρος δροσερό και ξηρό.</div><div id="barcode"><div id="barimage1"></div><span id="bartext">5208046012246</span></div><div id="varos"><div id="varosimage1"></div><span id="varostext">53g</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ: Αναμένεται</div><div class="pimg"><img alt="Bonora Κάψουλες Espresso Ristretto 53g" title="Bonora Κάψουλες Espresso Ristretto 53g" src="/assets/images/bonora-espresso-ristretto-53g.jpg"></div></div></div>
+<style>
+    td {border-radius: 0 !important;}
+</style>
+<div class="sload69">
+    <div class="product">
+        <div id="sistatika">Περιγραφή:</div>
+        <div class="alltext"><strong>Espresso Ristretto<br></strong>Aλεσµένος καβουρδισµένος καφές σε κάψουλες. Το
+            ιδανικό χαρµάνι του από 100% ποικιλίες Arabica προσφέρει δυνατή γεύση µε επίγευση σοκολάτας, έντονη οξύτητα
+            και µέτριο σώµα.<br>Συσκευασµένο σε προστατευτική ατµόσφαιρα.</div>
+        <table style="border-collapse:collapse;width:100%" border="0" cellpadding="15px">
+            <tbody>
+                <tr>
+                    <td style="width:32.95%;background-color:#7e8c8d;text-align:center;border-top-left-radius: 4px !important;"><span
+                            style="color:#fff">Ristretto 25ml</span></td>
+                    <td style="width:32.95%;text-align:center;background-color:#7e8c8d"><span
+                            style="color:#fff">Espresso 40ml</span></td>
+                    <td style="width:32.95%;text-align:center;background-color:#7e8c8d;border-top-right-radius: 4px !important;"><span style="color:#fff">Lungo
+                            110ml</span></td>
+                </tr>
+            </tbody>
+        </table>
+<table style="border-collapse:collapse;width:100%" border="0" cellpadding="15px;">
+            <tbody>
+                <tr>
+                    <td style="width:49.55%;background-color:#555;vertical-align:middle"><strong><span style="color:#fff"><img style="margin-right:5px;vertical-align:middle" src="/media/icons/kaps.svg" width="30px" alt="">10 X 5,2g</span></strong></td>
+                    <td style="width:49.65%;background-color:#333"><strong><span style="color:#ecf0f1">Intesity
+                                11/12<br>▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂&nbsp;</span></strong><strong><span style="color: rgb(236, 240, 241);">▂</span></strong><strong><span style="color:#ecf0f1"><span style="color:#7e8c8d">&nbsp;▂</span></span></strong></td>
+                </tr>
+                <tr>
+                    <td style="width:49.55%;background-color:#444;border-radius: 0 0 4px 4px !important;" colspan="2"><span style="color:#ecf0f1">Κάψουλες
+                            αλουμινίου συµβατές µε µηχανές καφέ <strong>Nespresso</strong> ®.*</span><br><span style="color:#ecf0f1">*<strong>Nespresso:</strong> Εµπορικό σήµα ιδιοκτησίας τρίτου που δεv
+                            συνδέεται µε τον Όµιλο ΣΚΛΑΒΕΝΙΤΗΣ.</span></td>
+                </tr>
+            </tbody>
+        </table>
+        <div>&nbsp;</div>
+        <div id="loipa">Διατήρηση και λοιπά στοιχεία προϊόντος</div>
+        <div class="alltext">Διατηρείται σε µέρος δροσερό και ξηρό.</div>
+        <div id="barcode">
+            <div id="barimage1"></div><span id="bartext">5208046012246</span>
+        </div>
+        <div id="varos">
+            <div id="varosimage1"></div><span id="varostext">53g</span>
+        </div>
+        <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ: Αναμένεται</div>
+        <div class="pimg"><img alt="Bonora Κάψουλες Espresso Ristretto 53g"
+                title="Bonora Κάψουλες Espresso Ristretto 53g" src="/assets/images/bonora-espresso-ristretto-53g.jpg">
+        </div>
+    </div>
+</div>
 {{< /rawhtml >}}
-
-

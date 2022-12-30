@@ -18,11 +18,57 @@ kacoyles εσπρεσσο εσπρέσο εσπρεσο εσπρέσσο μπο�
 ---
 {{< rawhtml >}}
 
-<div class="product"><div id="sistatika">Περιγραφή:</div><div class="alltext"><div class="alltext">Καβουρδισμένος και αλεσμένος καφές. Επιλεγμένες ποικιλίες Arabica και Robusta, με έντονα αρώματα. Συσκευασμένο σε προστατευτική ατμόσφαιρα.<br>Διατηρείται σε ξηρό και δροσερό μέρος.<br>Προτείνεται για παρασκευή ροφημάτων <b>espresso freddo &amp; cappuccino</b></div></div><table class="st333" style="border-collapse:collapse;width:100%" border="0" cellpadding="15px"><tbody><tr><td style="width:32.95%;background-color:#ffc636;text-align:center;border-radius: 4px 0 0 0;"><span style="color:#333">Ristretto 25ml</span></td><td style="width:32.95%;text-align:center;background-color:#ffc636;border-radius: 0;"><span style="color:#333">Espresso 40ml</span></td><td style="width:32.95%;text-align:center;background-color:#ffc636;border-radius: 0 4px 0 0;"><span style="color:#333">Lungo 110ml</span></td></tr></tbody></table><table style="border-collapse:collapse;width:100%" border="0" cellpadding="15px;"><tbody><tr><td style="width:49.55%;background-color:#555;vertical-align:middle;border-radius: 0;"><strong><span style="color:#fff"><img style="margin-right:5px;vertical-align:middle" src="/media/icons/kaps.svg" width="30px" alt="">10 X 5,2g</span></strong></td><td style="width:49.65%;background-color:#333;border-radius: 0;"><strong><span style="color:#ecf0f1">Intesity 10/12<br>▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂&nbsp;</span></strong><strong><span style="color: rgb(236, 240, 241);"><span style="color: rgb(126, 140, 141);">▂</span></span></strong><strong><span style="color:#ecf0f1">&nbsp;<span style="color:#7e8c8d">▂</span></span></strong></td></tr><tr><td style="width:49.55%;background-color:#444;border-radius: 0 0 4px 4px;" colspan="2"><span style="color:#ecf0f1">Κάψουλες συµβατές µε µηχανές καφέ <strong>Nespresso</strong> ®.*</span><br><span style="color:#ecf0f1">*<strong>Nespresso:</strong> Εµπορικό σήµα ιδιοκτησίας τρίτου που δεv συνδέεται µε τον Όµιλο ΣΚΛΑΒΕΝΙΤΗΣ.</span></td></tr></tbody></table><div>&nbsp;</div><div id="loipa">Διατήρηση και λοιπά στοιχεία προϊόντος</div><div class="alltext">Διατηρείται σε µέρος δροσερό και ξηρό.</div><div id="barcode"><div id="barimage1"></div><span id="bartext">5208046012253</span></div><div id="varos"><div id="varosimage1"></div><span id="varostext">52g</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ: Αναμένεται</div>
-<div class="pimg"></div>
+<div class="product">
+    <div id="sistatika">Περιγραφή:</div>
+  
+<div class="alltext">Καβουρδισμένος και αλεσμένος καφές. Επιλεγμένες ποικιλίες Arabica και Robusta, με έντονα
+            αρώματα. Συσκευασμένο σε προστατευτική ατμόσφαιρα.<br>Διατηρείται σε ξηρό και δροσερό μέρος.<br>Προτείνεται
+            για παρασκευή ροφημάτων <b>espresso freddo &amp; cappuccino</b></div>
+    </div>
+    <table class="st333" style="border-collapse:collapse;width:100%" border="0" cellpadding="15px">
+        <tbody>
+            <tr>
+                <td style="width:32.95%;background-color:#ffc636;text-align:center;border-radius: 4px 0 0 0;"><span
+                        style="color:#333">Ristretto 25ml</span></td>
+                <td style="width:32.95%;text-align:center;background-color:#ffc636;border-radius: 0;"><span
+                        style="color:#333">Espresso 40ml</span></td>
+                <td style="width:32.95%;text-align:center;background-color:#ffc636;border-radius: 0 4px 0 0;"><span
+                        style="color:#333">Lungo 110ml</span></td>
+            </tr>
+        </tbody>
+    </table>
+    <table style="border-collapse:collapse;width:100%" border="0" cellpadding="15px;">
+        <tbody>
+            <tr>
+                <td style="width:49.55%;background-color:#555;vertical-align:middle;border-radius: 0;"><strong><span
+                            style="color:#fff"><img style="margin-right:5px;vertical-align:middle"
+                                src="/media/icons/kaps.svg" width="30px" alt="">10 X 5,2g</span></strong></td>
+                <td style="width:49.65%;background-color:#333;border-radius: 0;"><strong><span
+                            style="color:#ecf0f1">Intesity 10/12<br>▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂ ▂
+                            ▂&nbsp;</span></strong><strong><span style="color: rgb(236, 240, 241);"><span
+                                style="color: rgb(126, 140, 141);">▂</span></span></strong><strong><span
+                            style="color:#ecf0f1">&nbsp;<span style="color:#7e8c8d">▂</span></span></strong></td>
+            </tr>
+            <tr>
+                <td style="width:49.55%;background-color:#444;border-radius: 0 0 4px 4px;" colspan="2"><span
+                        style="color:#ecf0f1">Κάψουλες αλουμινίου συµβατές µε µηχανές καφέ <strong>Nespresso</strong>
+                        ®.*</span><br><span style="color:#ecf0f1">*<strong>Nespresso:</strong> Εµπορικό σήµα ιδιοκτησίας
+                        τρίτου που δεv συνδέεται µε τον Όµιλο ΣΚΛΑΒΕΝΙΤΗΣ.</span></td>
+            </tr>
+        </tbody>
+    </table>
+    <div>&nbsp;</div>
+  <div id="loipa">Διατήρηση και λοιπά στοιχεία προϊόντος</div>
+    <div class="alltext">Διατηρείται σε µέρος δροσερό και ξηρό.</div>
+    <div id="barcode">
+        <div id="barimage1"></div><span id="bartext">5208046012253</span>
+    </div>
+    <div id="varos">
+        <div id="varosimage1"></div><span id="varostext">52g</span>
+    </div>
+    <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ: Αναμένεται</div>
+    <div class="pimg"></div>
 </div>
 
 
 {{< /rawhtml >}}
-
-

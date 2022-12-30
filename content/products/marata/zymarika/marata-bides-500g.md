@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Βίδες 500g"
-weight: 5
+weight: 4.5
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-bides-500g.jpg"
 product_image_lowres: "/assets/low/marata-bides-500g.jpg"

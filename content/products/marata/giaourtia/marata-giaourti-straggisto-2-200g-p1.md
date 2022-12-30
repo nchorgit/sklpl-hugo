@@ -1,6 +1,6 @@
 ---
 title: "Μαράτα Γιαούρτι στραγγιστό 2% 200g"
-weight: 5
+weight: 6
 categories: ["Μαράτα"]
 product_image: "/assets/images/marata-giaourti-straggisto-2-200g.jpg"
 product_image_lowres: "/assets/low/marata-giaourti-straggisto-2-200g.jpg"
