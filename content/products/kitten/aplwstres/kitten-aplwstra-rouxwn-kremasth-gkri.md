@@ -1,6 +1,7 @@
 ---
 title: "Kitten Απλώστρα ρούχων κρεμαστή γκρί"
 categories: ["Kitten"]
+smeta: ["κιττεν"]
 weight: 1
 product_image: "/assets/images/kitten-aplwstra-rouxwn-kremasth-gkri.jpg"
 product_image_lowres: "/assets/low/kitten-aplwstra-rouxwn-kremasth-gkri.jpg"

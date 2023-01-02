@@ -1,6 +1,7 @@
 ---
 title: "Kitten Σπογγοπετσέτα Νο 3"
 categories: ["Kitten"]
+smeta: ["κιττεν"]
 weight: 7
 product_image: "/assets/images/kitten-spoggopetseta-no-3.jpg"
 product_image_lowres: "/assets/low/kitten-spoggopetseta-no-3.jpg"

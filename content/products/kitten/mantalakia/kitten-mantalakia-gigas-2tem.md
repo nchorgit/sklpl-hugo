@@ -1,6 +1,7 @@
 ---
 title: "Kitten Μανταλάκια γίγας 2τεμ"
 categories: ["Kitten"]
+smeta: ["κιττεν"]
 weight: 3
 product_image: "/assets/images/kitten-mantalakia-gigas-2tem.jpg"
 product_image_lowres: "/assets/low/kitten-mantalakia-gigas-2tem.jpg"

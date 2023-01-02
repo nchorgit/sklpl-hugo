@@ -1,6 +1,7 @@
 ---
 title: "Kitten Καλάθι για μανταλάκια"
 categories: ["Kitten"]
+smeta: ["κιττεν"]
 weight: 3
 product_image: "/assets/images/kitten-kalathi-gia-mantalakia.jpg"
 product_image_lowres: "/assets/low/kitten-kalathi-gia-mantalakia.jpg"

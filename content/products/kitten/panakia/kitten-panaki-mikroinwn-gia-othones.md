@@ -1,6 +1,7 @@
 ---
 title: "Kitten Πανάκι μικροϊνών για οθόνες"
 categories: ["Kitten"]
+smeta: ["κιττεν"]
 weight: 4
 product_image: "/assets/images/kitten-panaki-mikroinwn-gia-othones.jpg"
 product_image_lowres: "/assets/low/kitten-panaki-mikroinwn-gia-othones.jpg"

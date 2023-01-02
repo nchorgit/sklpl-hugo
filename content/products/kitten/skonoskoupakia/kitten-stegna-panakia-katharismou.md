@@ -1,6 +1,7 @@
 ---
 title: "Kitten Στεγνά πανάκια καθαρισμού"
 categories: ["Kitten"]
+smeta: ["κιττεν"]
 weight: 5
 product_image: "/assets/images/kitten-stegna-panakia-katharismou.jpg"
 product_image_lowres: "/assets/low/kitten-stegna-panakia-katharismou.jpg"

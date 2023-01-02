@@ -1,6 +1,7 @@
 ---
 title: "Kitten Σκονοσκουπάκι με επεκτεινόμενη λαβή"
 categories: ["Kitten"]
+smeta: ["κιττεν"]
 weight: 5
 product_image: "/assets/images/kitten-skonoskoupaki-me-epekteinomenh-labh.jpg"
 product_image_lowres: "/assets/low/kitten-skonoskoupaki-me-epekteinomenh-labh.jpg"

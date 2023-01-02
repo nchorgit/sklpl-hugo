@@ -1,6 +1,7 @@
 ---
 title: "Kitten Ανταλλακτικά πανάκια για σκονοσκουπάκι"
 categories: ["Kitten"]
+smeta: ["κιττεν"]
 weight: 5
 product_image: "/assets/images/kitten-antallaktika-panakia-gia-skonoskoupaki.jpg"
 product_image_lowres: "/assets/low/kitten-antallaktika-panakia-gia-skonoskoupaki.jpg"

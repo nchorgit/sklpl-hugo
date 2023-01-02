@@ -1,6 +1,7 @@
 ---
 title: "Kitten Μανταλάκια πλαστικά χρωματιστά 18τεμ"
 categories: ["Kitten"]
+smeta: ["κιττεν"]
 weight: 3
 product_image: "/assets/images/kitten-mantalakia-plastika-xrwmatista-18tem.jpg"
 product_image_lowres: "/assets/low/kitten-mantalakia-plastika-xrwmatista-18tem.jpg"

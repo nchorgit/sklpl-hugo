@@ -1,6 +1,7 @@
 ---
 title: "Kitten Πανάκια μικροϊνών γενικής χρήσης 8τεμ"
 categories: ["Kitten"]
+smeta: ["κιττεν"]
 weight: 4
 product_image: "/assets/images/kitten-panakia-mikroinwn-genikhs-xrhshs-8tem.jpg"
 product_image_lowres: "/assets/low/kitten-panakia-mikroinwn-genikhs-xrhshs-8tem.jpg"

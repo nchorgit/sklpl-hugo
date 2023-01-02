@@ -1,6 +1,7 @@
 ---
 title: "Kitten Γάντια ελαστικά με επένδυση Νο 8"
 categories: ["Kitten"]
+smeta: ["κιττεν"]
 weight: 2
 product_image: "/assets/images/kitten-gantia-elastika-me-ependysh-no-8.jpg"
 product_image_lowres: "/assets/low/kitten-gantia-elastika-me-ependysh-no-8.jpg"

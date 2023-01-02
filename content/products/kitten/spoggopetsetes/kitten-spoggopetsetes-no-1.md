@@ -1,6 +1,7 @@
 ---
 title: "Kitten Σπογγοπετσέτες Νο 1"
 categories: ["Kitten"]
+smeta: ["κιττεν"]
 weight: 7
 product_image: "/assets/images/kitten-spoggopetsetes-no-1.jpg"
 product_image_lowres: "/assets/low/kitten-spoggopetsetes-no-1.jpg"
