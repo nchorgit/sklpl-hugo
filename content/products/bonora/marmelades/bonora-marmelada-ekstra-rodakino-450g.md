@@ -1,6 +1,7 @@
 ---
 title: "Bonora Μαρμελάδα Έξτρα Ροδάκινο 450g"
 categories: ["Bonora"]
+weight: 4
 product_image: "/assets/images/bonora-marmelada-ekstra-rodakino-450g.jpg"
 product_image_lowres: "/assets/low/bonora-marmelada-ekstra-rodakino-450g.jpg"
 barcode: "5202576630109"

@@ -1,6 +1,7 @@
 ---
 title: "Bonora Γκοφρέτα με σοκολάτα υγείας 33g"
 categories: ["Bonora"]
+weight: 1
 product_image: "/assets/images/bonora-gkofreta-me-sokolata-ygeias-33g.jpg"
 product_image_lowres: "/assets/low/bonora-gkofreta-me-sokolata-ygeias-33g.jpg"
 barcode: "5202576630420"

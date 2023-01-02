@@ -1,6 +1,7 @@
 ---
 title: "Bonora Σοκολάτα γάλακτος 100g"
 categories: ["Bonora"]
+weight: 11
 product_image: "/assets/images/bonora-sokolata-galaktos-100g.jpg"
 product_image_lowres: "/assets/low/bonora-sokolata-galaktos-100g.jpg"
 barcode: "5202576633971"

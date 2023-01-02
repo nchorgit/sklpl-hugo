@@ -1,6 +1,7 @@
 ---
 title: "Bonora Στιγµιαίος καφές 200g"
 categories: ["Bonora"]
+weight: 3
 product_image: "/assets/images/bonora-stigµiaios-kafes-200g.jpg"
 product_image_lowres: "/assets/low/bonora-stigµiaios-kafes-200g.jpg"
 barcode: "5202576707986"

@@ -1,6 +1,7 @@
 ---
 title: "Bonora Action Bars με κόκκινα φρούτα και λευκή σοκολάτα"
 categories: ["Bonora"]
+weight: 5
 product_image: "/assets/images/bonora-action-bars-me-kokkina-frouta-kai-leukh-sokolata.jpg"
 product_image_lowres: "/assets/low/bonora-action-bars-me-kokkina-frouta-kai-leukh-sokolata.jpg"
 barcode: "5202576634077"

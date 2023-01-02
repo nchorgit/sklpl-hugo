@@ -1,6 +1,7 @@
 ---
 title: "Bonora Παγωτό Στρατσιατέλα 580g"
 categories: ["Bonora"]
+weight: 7
 product_image: "/assets/images/bonora-pagwto-stratsiatela-580g.jpg"
 product_image_lowres: "/assets/low/bonora-pagwto-stratsiatela-580g.jpg"
 barcode: "5202576429659"

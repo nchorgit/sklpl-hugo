@@ -1,6 +1,7 @@
 ---
 title: "Bonora Κακάο 125g"
 categories: ["Bonora"]
+weight: 9
 product_image: "/assets/images/bonora-kakao-125g.jpg"
 product_image_lowres: "/assets/low/bonora-kakao-125g.jpg"
 barcode: "5202646000955"

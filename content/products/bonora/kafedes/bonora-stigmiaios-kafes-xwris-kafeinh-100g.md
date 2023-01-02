@@ -1,6 +1,7 @@
 ---
 title: "Bonora Στιγµιαίος καφές χωρίς καφεΐνη 100g"
 categories: ["Bonora"]
+weight: 3
 product_image: "/assets/images/bonora-stigµiaios-kafes-xwris-kafeinh-100g.jpg"
 product_image_lowres: "/assets/low/bonora-stigµiaios-kafes-xwris-kafeinh-100g.jpg"
 barcode: "5202576707979"

@@ -1,6 +1,7 @@
 ---
 title: "Bonora Κάψουλες Espresso Lungo 52g"
 categories: ["Bonora"]
+weight: 3
 product_image: "/assets/images/bonora-espresso-lungo-53g.jpg"
 product_image_lowres: "/assets/low/bonora-espresso-lungo-53g.jpg"
 barcode: "5208046012260"

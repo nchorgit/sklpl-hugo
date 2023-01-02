@@ -1,6 +1,7 @@
 ---
 title: "Bonora Πραλίνα φουντουκιού με κακάο 750g"
 categories: ["Bonora"]
+weight: 8
 product_image: "/assets/images/bonora-pralina-fountoukiou-me-kakao-750g.jpg"
 product_image_lowres: "/assets/low/bonora-pralina-fountoukiou-me-kakao-750g.jpg"
 barcode: "5202576872110"

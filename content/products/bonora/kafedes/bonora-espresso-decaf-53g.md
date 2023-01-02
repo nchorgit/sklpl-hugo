@@ -1,6 +1,7 @@
 ---
 title: "Bonora Κάψουλες Espresso χωρίς καφεΐνη 52g"
 categories: ["Bonora"]
+weight: 3
 product_image: "/assets/images/bonora-espresso-decaf-53g.jpg"
 product_image_lowres: "/assets/low/bonora-espresso-decaf-53g.jpg"
 barcode: "5208046012277"

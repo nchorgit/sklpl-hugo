@@ -1,6 +1,7 @@
 ---
 title: "Bonora Ελληνικός καφές 96g"
 categories: ["Bonora"]
+weight: 3
 product_image: "/assets/images/bonora-ellhnikos-kafes-96g.jpg"
 product_image_lowres: "/assets/low/bonora-ellhnikos-kafes-96g.jpg"
 barcode: "5202576707733"

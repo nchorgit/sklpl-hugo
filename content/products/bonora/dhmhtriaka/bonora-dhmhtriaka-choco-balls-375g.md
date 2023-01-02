@@ -1,6 +1,7 @@
 ---
 title: "Bonora Δημητριακά Choco Balls 375g"
 categories: ["Bonora"]
+weight: 2
 product_image: "/assets/images/bonora-dhmhtriaka-choco-balls-375g.jpg"
 product_image_lowres: "/assets/low/bonora-dhmhtriaka-choco-balls-375g.jpg"
 barcode: "5202576309340"

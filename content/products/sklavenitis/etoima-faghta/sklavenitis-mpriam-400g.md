@@ -18,7 +18,7 @@ tags: ["Έτοιμα Φαγητά"]
 <table id="diatable"><tbody><tr><th>Διατροφική δήλωση</th><th>Ανά 100g</th><th>Ανά 400g</th></tr><tr><td class="texr2">Ενέργεια</td><td class="texr">482kJ<br>116kcal</td><td class="texr">1928kJ<br>464kcal</td></tr><tr><td class="texr2">Λιπαρά</td><td class="texr">8,4g</td><td class="texr">34g</td></tr><tr><td class="gray">εκ των οποίων Κορεσµένα</td><td class="gray2">1,3g</td><td class="gray2">5,2g</td></tr><tr><td class="texr2">Yδατάνθρακες</td><td class="texr">7,8g</td><td class="texr">31g</td></tr><tr><td class="gray">εκ των οποίων Σάκχαρα</td><td class="gray2">2,0g</td><td class="gray2">8,0g</td></tr><tr><td class="texr2">Eδώδιμες ίνες</td><td class="texr">1,9g</td><td class="texr">7,6g</td></tr><tr><td class="texr2">Πρωτεΐνες</td><td class="texr">1,4g</td><td class="texr">5,6g</td></tr><tr><td class="texr2">Αλάτι</td><td class="texr">0,54g</td><td class="texr">2,2g</td></tr></tbody></table>
 
 
-</div><br><br><div class="pimg"><img alt="Σκλαβενίτης Μπριάμ 400g" title="Σκλαβενίτης Μπριάμ 400g" src="/assets/images/sklavenitis-mpriam-400g.jpg"></div></div></div>
+</div><p></p><div class="pimg"><img alt="Σκλαβενίτης Μπριάμ 400g" title="Σκλαβενίτης Μπριάμ 400g" src="/assets/images/sklavenitis-mpriam-400g.jpg"></div></div></div>
 {{< /rawhtml >}}
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Bonora Δημητριακά Action Original 375g"
 categories: ["Bonora"]
+weight: 2
 product_image: "/assets/images/bonora-dhmhtriaka-action-original-375g.jpg"
 product_image_lowres: "/assets/low/bonora-dhmhtriaka-action-original-375g.jpg"
 barcode: "5202576282599"

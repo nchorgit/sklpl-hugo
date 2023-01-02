@@ -1,6 +1,7 @@
 ---
 title: "Bonora Μπαλίτσες καλαμποκιού με φιστίκι 90g"
 categories: ["Bonora"]
+weight: 10
 product_image: "/assets/images/bonora-mpalitses-kalampokiou-me-fistiki-90g.jpg"
 product_image_lowres: "/assets/low/bonora-mpalitses-kalampokiou-me-fistiki-90g.jpg"
 barcode: "5208046039953"

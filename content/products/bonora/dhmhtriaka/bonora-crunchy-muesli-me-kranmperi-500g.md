@@ -1,6 +1,7 @@
 ---
 title: "Bonora Crunchy Muesli με βρώμη και κράνμπερι 500g"
 categories: ["Bonora"]
+weight: 2
 product_image: "/assets/images/bonora-crunchy-muesli-me-kranmperi-500g.jpg"
 product_image_lowres: "/assets/low/bonora-crunchy-muesli-me-kranmperi-500g.jpg"
 barcode: "5202576682658"

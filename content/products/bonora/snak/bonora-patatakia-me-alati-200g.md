@@ -1,6 +1,7 @@
 ---
 title: "Bonora Πατατάκια με αλάτι 200g"
 categories: ["Bonora"]
+weight: 10
 product_image: "/assets/images/bonora-patatakia-me-alati-200g.jpg"
 product_image_lowres: "/assets/low/bonora-patatakia-me-alati-200g.jpg"
 barcode: "5202576629998"

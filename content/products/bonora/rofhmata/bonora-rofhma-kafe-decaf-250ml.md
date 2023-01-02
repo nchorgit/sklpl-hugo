@@ -1,6 +1,7 @@
 ---
 title: "Bonora Ρόφημα καφέ Decaf 250ml"
 categories: ["Bonora"]
+weight: 9
 product_image: "/assets/images/bonora-rofhma-kafe-decaf-250ml.jpg"
 product_image_lowres: "/assets/low/bonora-rofhma-kafe-decaf-250ml.jpg"
 barcode: "5202576633636"
