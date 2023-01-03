@@ -253,7 +253,7 @@
         .pyah i {
             font-size: 16px;
             color: orange;
-            margin-right: 5px;
+            margin-right: 7px;
         }
 
         a.home i {
@@ -1027,10 +1027,10 @@ alt {
         ">›</span-->
             </p><a href="/" class="home"><i class="fas fa-home"></i></a>{{ if .Params.categories }}<strong></strong>
             {{range .Params.categories}}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="cat"><i
-                    class="fas fa-tag" aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
+                    class="fas fa-tag" aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
             {{ if .Params.tags }}<strong></strong> {{range .Params.tags}}<a
                 href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tag"><i class="far fa-clone"
-                    aria-hidden="true"></i> {{ . }}</a> {{end}}{{end}}
+                    aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
             <div class="ptitle">{{.Title}}</div>
         </div>
         <div class="top-title">
