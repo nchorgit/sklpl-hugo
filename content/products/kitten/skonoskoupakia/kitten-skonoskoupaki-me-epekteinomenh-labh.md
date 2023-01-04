@@ -20,14 +20,13 @@ tags: ["Σκονοσκουπάκια"]
     <div class="lip">Λοιπά στοιχεία προϊόντος</div>
 <div class="keno"></div>
     <div class="tabout">
-    <table id="diatable">
+    <table id="diatable" class="stlf stcenter">
             <tr>
-                <td>1 Λαβή</td>
-                <td>5 ανταλλακτικά</td>
+                <td><b>1 Λαβή • 5 ανταλλακτικά</b></td>
+                <td><b>Περιστρεφόμενο</b></td>
             </tr>
             <tr>
-                <td>Περιστρεφόμενο</td>
-                <td>Παγιδεύει και απομακρύνει σκόνη, χνούδια και τρίχες.</td>
+                <td colspan="2">Παγιδεύει και απομακρύνει σκόνη, χνούδια και τρίχες</td>
             </tr>
     </table>
     </div>

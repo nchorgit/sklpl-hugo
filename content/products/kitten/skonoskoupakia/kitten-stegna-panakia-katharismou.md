@@ -6,15 +6,36 @@ weight: 5
 product_image: "/assets/images/kitten-stegna-panakia-katharismou.jpg"
 product_image_lowres: "/assets/low/kitten-stegna-panakia-katharismou.jpg"
 barcode: "5202576688100"
-varos: "28 X 22 cm"
+varos: "20 τεμάχια"
 bar_img: "/media/svg/barcode.svg"
-var_img: "/media/svg/dcm.svg"
+var_img: "/media/svg/tem.svg"
 gencat: ["Μη Τρόφιμα"]
 tags: ["Σκονοσκουπάκια"]
 ---
 {{< rawhtml >}}
+<div class="product">
+    <div class="sis">Περιγραφή:</div>
+    <div class="alltext">Τα ηλεκτροστατικά στεγνά πανάκια καθαρισμού Kitten παγιδεύουν τη σκόνη και τα χνούδια.</div>
+    <div class="lip">Λοιπά στοιχεία προϊόντος</div>
+<div class="alltext"><b>Κατάλληλα και για σκούπες στεγνού καθαρισμού</b></div>
+<div class="seee sp10 smb2">
+    Κατάλληλα για ξύλινα πατώματα, πλακάκια, μάρμαρα, τοίχους και έπιπλα.</div>
+    <div class="seee sp10">Χρησιμοποιούνται ως ξεσκονόπανα, αλλά προσαρμόζονται και σε οποιαδήποτε σκούπα στεγνού καθαρισμού.</div>
 
-<div class="sload232"><div class="product"><div id="sistatika">Περιγραφή:</div><div class="alltext">Τα ηλεκτροστατικά στεγνά πανάκια καθαρισμού Kitten παγιδεύουν τη σκόνη και τα χνούδια.<br><br><b>Κατάλληλα και για σκούπες στεγνού καθαρισμού</b></div><div id="loipa">Λοιπά στοιχεία προϊόντος</div><div class="alltext"><ul style="padding:0 20px;margin:-5px 0 -10px 0"><li>Κατάλληλα για ξύλινα πατώματα, πλακάκια, μάρμαρα, τοίχους και έπιπλα.</li><li>Χρησιμοποιούνται ως ξεσκονόπανα, αλλά προσαρμόζονται και σε οποιαδήποτε σκούπα στεγνού καθαρισμού.</li><li>Η συσκευασία περιέχει 20 τεμάχια.</li></ul></div><div class="alltext" style="margin:-5px"><div style="padding:10px;background:red;color:#fff"><b>ΠΡΟΣΟΧΗ</b></div><div style="padding:10px;background:#eee">Κρατήστε το προϊόν μακριά από παιδιά και κατοικίδια. Αποφύγετε τη χρήση με νερό ή απορρυπαντικό. Μην το χρησιμοποιείτε σε οθόνη Η/Υ ή τηλεόρασης και σε βρεγμένες επιφάνειες. Μετά τη χρήση, πετάξτε το πανάκι. Μην το πετάτε στη λεκάνη της τουαλέτας.<br></div></div><div id="barcode"><div id="barimage1"></div><span id="bartext">5202576688100</span></div><div id="varos"><div id="varosimage" style="margin:0"><img src="https://sites.google.com/site/sklplfiles/files/dim3.png"></div><span id="varostext">28 X 22 cm</span></div><div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div><br><div class="pimg"><img alt="Kitten Στεγνά πανάκια καθαρισμού" title="Kitten Στεγνά πανάκια καθαρισμού" src="/assets/images/kitten-stegna-panakia-katharismou.jpg"></div></div></div>
+ <div class="sball2 sbceee smt2 sfwb sdf saic sp10"><img src="/media/svg/dcm.svg" alt="">28 X 22 cm</div>
+ <div class="keno"></div>
+    <div class="sred sp1015 sfwb stcenter">ΠΡΟΣΟΧΗ</div>
+    <div class="seee sp15">Κρατήστε το προϊόν μακριά από παιδιά και κατοικίδια. Μην το χρησιμοποιείτε σε ζεστές επιφάνειες. Αποφύγετε τη χρήση με οποιοδήποτε υγρό ή σε βρεγμένη επιφάνεια. Μετά τη χρήση, πετάξτε το ανταλλακτικό πανάκι. Μην το πετάτε στη λεκάνη της τουαλέτας.</div>
+  <div class="keno"></div>
+    <div id="barcode">
+        <div id="barimage1"></div><span id="bartext">5202576688100</span>
+    </div>
+    <div id="varos">
+        <div id="varosimage"><img src="/media/svg/tem.svg"></div><span id="varostext">20 τεμάχια</span>
+    </div>
+    <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div>
+    <div class="pimg"></div>
+</div>
 {{< /rawhtml >}}
 
 
