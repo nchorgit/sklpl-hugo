@@ -25,20 +25,21 @@ tags: ["Σπογγοπετσέτες"]
         <div class="alltext">Για τον καθαρισμό επιφανειών, βρέχουμε τη σπογγοπετσέτα πριν τη χρήση. Εάν
             χρησιμοποιηθεί στεγνή, μπορεί να απορροφήσει οποιοδήποτε υγρό. Δεν χαράζει και δεν αφήνει χνούδι. Πλένεται
             στο χέρι και στο πλυντήριο (έως 60°C). Στεγνώνει εύκολα.</div>
-             <div class="sdfn sdfw sgg2 sf17">
-    <div style="flex-basis: 250px; flex-grow: 1;justify-content: space-between;" class=" sp20 seee sdfn saic">
-        <div>Ταιριάζουμε τις στρογγυλεμένες όψεις και πιέζουμε για να ενωθούν.</div><img width="100px" src="/media/kitten/kouzina.png" alt="">
+            <div class="sgold sp10 smb2 stcenter sfwb">Ρολό Περφορέ. Δεν χρειάζεται κόψιμο</div>
+             <div class="sdfn sdfw sgg2 sfwb">
+    <div style="flex-basis: 250px; flex-grow: 1;justify-content: space-between;" class=" sp15 seee sdfn saic">
+        <div>Για την κουζίνα</div><img width="100px" src="/media/kitten/kouzina.png" alt="">
     </div>
-    <div style="flex-basis: 250px; flex-grow: 1;justify-content: space-between;" class=" sp20 seee sdfn saic">
-        <div>Περνάμε τη λαβή στην υποδοχή του ανταλλακτικού.</div><img width="100px" src="/media/kitten/mpanio.png" alt="">
+    <div style="flex-basis: 250px; flex-grow: 1;justify-content: space-between;" class=" sp15 seee sdfn saic">
+        <div>Για το μπάνιο</div><img width="100px" src="/media/kitten/mpanio.png" alt="">
     </div>
-        <div style="flex-basis: 250px; flex-grow: 1;justify-content: space-between;" class=" sp20 seee sdfn saic">
-        <div>Περνάμε τη λαβή στην υποδοχή του ανταλλακτικού.</div><img width="100px" src="/media/kitten/sko2.png" alt="">
+        <div style="flex-basis: 250px; flex-grow: 1;justify-content: space-between;" class=" sp15 seee sdfn saic">
+        <div>Για όλες τις επιφάνειες</div><img width="100px" src="/media/kitten/epifan.png" alt="">
     </div>
     
 </div>
 <div class="keno"></div>
-            <div class="sball2 sbceee smt2 sfwb sdf saic sp10"><img src="/media/svg/tem.svg" alt="">1 τεμάχιο</div>
+<div class="sball2 sbceee smt2 sfwb sdf saic sp10"><img src="/media/svg/tem.svg" alt="">1 τεμάχιο</div>
             <div class="keno"></div>
         <div id="barcode">
             <div id="barimage1"></div><span id="bartext">5202576680708</span>
