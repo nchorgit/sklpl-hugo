@@ -60,14 +60,19 @@ tags: ["Αλλαντικά"]
 }
 
 </style>
-<div class="sload125">
-    <div class="product">
+<div class="product">
         <div id="sistatika">Συστατικά:</div>
-        <div class="alltext">Γαλοπούλα καπνιστή &amp; Edam μειωμένων λιπαρών.<br>Περιέχει 10 μερίδες. Μια μερίδα=[1
-            φέτα αλλαντικού (~18g) + 1 φέτα τυριού (~18g)].<br><br><b
-                style="background:orange;margin:0px;padding:10px 15px;border-radius:4px;color:#fff">Χωρίς γλουτένη</b>
-            <b style="background: #eee;padding: 10px 15px;border-radius: 4px;">Περιέχει 10+10 φέτες</b><br><br></div>
-        <div id="loipa">Διατήρηση και λοιπά στοιχεία προϊόντος</div>
+        <div class="alltext">Γαλοπούλα καπνιστή &amp; Edam μειωμένων λιπαρών.Περιέχει 10 μερίδες. Μια μερίδα=[1
+            φέτα αλλαντικού (~18g) + 1 φέτα τυριού (~18g)].</div><div class="tabout">
+    <table class="sfwb sw100 stlf sfsin">
+        <tbody><tr>
+            <td class="sorange sp10 stfff">Χωρίς γλουτένη</td>
+            <td class="sp10 seee">Περιέχει 10+10 φέτες</td>
+        </tr>
+    </tbody></table>
+</div>
+<div class="keno"></div>
+ <div id="loipa">Διατήρηση και λοιπά στοιχεία προϊόντος</div>
         <div class="alltext">Μετά το άνοιγμα της συσκευασίας, το προϊόν διατηρείται στο ψυγείο στους 0°C - 4°C και
             μπορεί να καταναλωθεί εντός 5 ημερών. Διατηρείται στους 0°C - 4°C.</div>
         <div id="barcode">
@@ -165,14 +170,10 @@ tags: ["Αλλαντικά"]
                     <div>15%*</div>
                 </div>
             </div>
-
-           <div class="alltext">*Π.Π.Α.: Προσλαμβανόμενn Ποσότητα Αναφοράς ενός μέσου ενήλικα (8400kJ / 2000kcal).</div>
+<div class="alltext">*Π.Π.Α.: Προσλαμβανόμενn Ποσότητα Αναφοράς ενός μέσου ενήλικα (8400kJ / 2000kcal).</div>
         </div>
-        <div class="pimg"><img alt="Buenas Γαλοπούλα καπνιστή &amp; Edam σε φέτες"
-                title="Buenas Γαλοπούλα καπνιστή &amp; Edam σε φέτες"
-                src="/assets/images/buenas-galopoula-kapnisth-edam-se-fetes.jpg"></div>
-    </div>
-</div>
+        <div class="pimg"></div>
+ </div>
 {{< /rawhtml >}}
 
 
