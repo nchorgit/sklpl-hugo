@@ -2,6 +2,7 @@
 title: "Ρόμβος Τσίπουρο 500ml"
 categories: ["Ρόμβος"]
 product_image: "/assets/images/romvos-tsipouro-500ml.jpg"
+product_image_lowres: "/assets/low/romvos-tsipouro-500ml.jpg"
 barcode: "5201320002582"
 varos: "500ml"
 bar_img: "/media/svg/barcode.svg"
