@@ -63,7 +63,8 @@ tags: ["Αλλαντικά"]
 <div class="product">
         <div id="sistatika">Συστατικά:</div>
         <div class="alltext">Γαλοπούλα καπνιστή &amp; Edam μειωμένων λιπαρών.Περιέχει 10 μερίδες. Μια μερίδα=[1
-            φέτα αλλαντικού (~18g) + 1 φέτα τυριού (~18g)].</div><div class="tabout">
+            φέτα αλλαντικού (~18g) + 1 φέτα τυριού (~18g)].</div>
+            <div class="tabout">
     <table class="sfwb sw100 stlf sfsin">
         <tbody><tr>
             <td class="sorange sp10 stfff">Χωρίς γλουτένη</td>
