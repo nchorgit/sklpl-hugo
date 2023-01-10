@@ -1,5 +1,5 @@
 ---
-title: "Bonora Παγωτό Βανίλια - Σοκολάτα 1kg"
+title: "Bonora Παγωτό Βανίλια & Σοκολάτα 2L"
 categories: ["Bonora"]
 weight: 7
 product_image: "/assets/images/bonora-pagwto-banilia-sokolata-1kg.jpg"

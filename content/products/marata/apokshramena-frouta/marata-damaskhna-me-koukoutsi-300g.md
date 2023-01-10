@@ -6,11 +6,12 @@ categories: ["Μαράτα"]
 product_image: "/assets/images/marata-damaskhna-me-koukoutsi-300g.jpg"
 product_image_lowres: "/assets/low/marata-damaskhna-me-koukoutsi-300g.jpg"
 barcode: "5208046072493"
-varos: "400g"
+varos: "300g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Αποξηραμένα φρούτα"]
+draft: true
 ---
 {{< rawhtml >}}
 
