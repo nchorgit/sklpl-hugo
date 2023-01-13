@@ -1,6 +1,7 @@
 ---
 title: "Γλάρος 12 λευκά Ρολά υγείας"
 categories: ["Γλάρος"]
+weight: 2
 product_image: "/assets/images/glaros-12-leuka-rola-ygeias.jpg"
 product_image_lowres: "/assets/low/glaros-12-leuka-rola-ygeias.jpg"
 barcode: "5200107430044"

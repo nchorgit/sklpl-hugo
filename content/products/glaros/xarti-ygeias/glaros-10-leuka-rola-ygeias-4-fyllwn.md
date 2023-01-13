@@ -1,6 +1,7 @@
 ---
 title: "Γλάρος 10 λευκά Ρολά υγείας 4 φύλλων"
 categories: ["Γλάρος"]
+weight: 2
 product_image: "/assets/images/glaros-10-leuka-rola-ygeias-4-fyllwn.jpg"
 product_image_lowres: "/assets/low/glaros-10-leuka-rola-ygeias-4-fyllwn.jpg"
 barcode: "5200107430174"

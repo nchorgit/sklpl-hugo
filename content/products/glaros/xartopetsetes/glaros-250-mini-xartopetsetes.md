@@ -1,6 +1,7 @@
 ---
 title: "Γλάρος 250 μίνι Χαρτοπετσέτες"
 categories: ["Γλάρος"]
+weight: 4
 product_image: "/assets/images/glaros-250-mini-xartopetsetes.jpg"
 product_image_lowres: "/assets/low/glaros-250-mini-xartopetsetes.jpg"
 barcode: "5200107430099"

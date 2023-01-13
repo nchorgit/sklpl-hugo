@@ -1,6 +1,7 @@
 ---
 title: "Γλάρος 2 λευκά Ρολά κουζίνας Γίγας"
 categories: ["Γλάρος"]
+weight: 1
 product_image: "/assets/images/glaros-2-leuka-rola-kouzinas-gigas.jpg"
 product_image_lowres: "/assets/low/glaros-2-leuka-rola-kouzinas-gigas.jpg"
 barcode: "5200107430068"

@@ -1,6 +1,7 @@
 ---
 title: "Γλάρος 110 λευκές Χαρτοπετσέτες"
 categories: ["Γλάρος"]
+weight: 4
 product_image: "/assets/images/glaros-110-leukes-xartopetsetes.jpg"
 product_image_lowres: "/assets/low/glaros-110-leukes-xartopetsetes.jpg"
 barcode: "5200107430198"

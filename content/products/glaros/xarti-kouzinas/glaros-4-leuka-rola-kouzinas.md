@@ -1,6 +1,7 @@
 ---
 title: "Γλάρος 4 λευκά Ρολά κουζίνας"
 categories: ["Γλάρος"]
+weight: 1
 product_image: "/assets/images/glaros-4-leuka-rola-kouzinas.jpg"
 product_image_lowres: "/assets/low/glaros-4-leuka-rola-kouzinas.jpg"
 barcode: "5200107430013"

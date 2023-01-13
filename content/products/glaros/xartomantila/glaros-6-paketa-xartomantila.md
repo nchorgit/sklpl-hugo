@@ -1,6 +1,7 @@
 ---
 title: "Γλάρος 6 πακέτα Χαρτομάντιλα"
 categories: ["Γλάρος"]
+weight: 3
 product_image: "/assets/images/glaros-6-paketa-xartomantila.jpg"
 product_image_lowres: "/assets/low/glaros-6-paketa-xartomantila.jpg"
 barcode: "5200107431089"

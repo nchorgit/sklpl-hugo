@@ -1,6 +1,7 @@
 ---
 title: "Γλάρος 100 λευκά δίφυλλα Χαρτομάντιλα"
 categories: ["Γλάρος"]
+weight: 3
 product_image: "/assets/images/glaros-100-leuka-difylla-xartomantila.jpg"
 product_image_lowres: "/assets/low/glaros-100-leuka-difylla-xartomantila.jpg"
 barcode: "5200107430143"

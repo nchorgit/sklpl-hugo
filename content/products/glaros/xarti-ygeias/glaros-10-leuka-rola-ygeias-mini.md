@@ -1,6 +1,7 @@
 ---
 title: "Γλάρος 10 λευκά Ρολά υγείας Μίνι"
 categories: ["Γλάρος"]
+weight: 2
 product_image: "/assets/images/glaros-10-leuka-rola-ygeias-mini.jpg"
 product_image_lowres: "/assets/low/glaros-10-leuka-rola-ygeias-mini.jpg"
 barcode: "5200107430198"
