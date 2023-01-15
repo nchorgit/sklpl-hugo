@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Ψιλοκομμένες ντομάτες 400g"
-weight: 20
 categories: ["Μαράτα"]
+weight: 115
 product_image: "/assets/images/marata-psilokommenes-ntomates-400g.jpg"
 product_image_lowres: "/assets/low/marata-psilokommenes-ntomates-400g.jpg"
 barcode: "5202576099104"

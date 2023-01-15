@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Κριτσίνια σίτου με ηλιόσπορο 400g"
-weight: 3
 categories: ["Μαράτα"]
+weight: 10
 product_image: "/assets/images/marata-kritsinia-sitou-me-hliosporo-400g.jpg"
 product_image_lowres: "/assets/low/marata-kritsinia-sitou-me-hliosporo-400g.jpg"
 barcode: "5208046041154"

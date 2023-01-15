@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Πένες ριγέ 500g"
-weight: 4.5
 categories: ["Μαράτα"]
+weight: 30
 product_image: "/assets/images/marata-penes-rige-500g.jpg"
 product_image_lowres: "/assets/low/marata-penes-rige-500g.jpg"
 barcode: "5202576182943"

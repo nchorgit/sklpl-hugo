@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Γάλα Υψηλής Παστερίωσης ελαφρύ 1L"
-weight: 4
 categories: ["Μαράτα"]
+weight: 15
 product_image: "/assets/images/marata-gala-elafry-1l.jpg"
 product_image_lowres: "/assets/low/marata-gala-elafry-1l.jpg"
 barcode: "5202576203577"

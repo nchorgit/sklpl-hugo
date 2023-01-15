@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Λαζάνια 500g"
-weight: 4.5
 categories: ["Μαράτα"]
+weight: 30
 product_image: "/assets/images/marata-lazania-500g.jpg"
 product_image_lowres: "/assets/low/marata-lazania-500g.jpg"
 barcode: "5202576282117"

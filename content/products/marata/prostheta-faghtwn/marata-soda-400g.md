@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Σόδα 400g"
-weight: 15
 categories: ["Μαράτα"]
+weight: 90
 product_image: "/assets/images/marata-soda-400g.jpg"
 product_image_lowres: "/assets/low/marata-soda-400g.jpg"
 barcode: "5202576282704"

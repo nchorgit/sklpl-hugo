@@ -1,6 +1,7 @@
 ---
 title: "Μαράτα Αλεύρι για όλες τις χρήσεις 1kg"
 categories: ["Μαράτα"]
+weight: 1
 product_image: "/assets/images/marata-aleuri-gia-oles-tis-xrhseis-1kg.jpg"
 product_image_lowres: "/assets/low/marata-aleuri-gia-oles-tis-xrhseis-1kg.jpg"
 barcode: "5202576300989"
@@ -10,7 +11,6 @@ var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Αλεύρι"]
 date: 2022-06-01
-weight: 1
 ---
 {{< rawhtml >}}
 

@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Μουστάρδα πικάντικη 500g"
-weight: 16
 categories: ["Μαράτα"]
+weight: 95
 product_image: "/assets/images/marata-moustarda-pikantikh-500g.jpg"
 product_image_lowres: "/assets/low/marata-moustarda-pikantikh-500g.jpg"
 barcode: "5202576630390"

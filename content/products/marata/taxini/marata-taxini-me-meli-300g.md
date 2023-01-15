@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Ταχίνι με μέλι 300g"
-weight: 19
 categories: ["Μαράτα"]
+weight: 110
 product_image: "/assets/images/marata-taxini-me-meli-300g.jpg"
 product_image_lowres: "/assets/low/marata-taxini-me-meli-300g.jpg"
 barcode: "5202576308022"

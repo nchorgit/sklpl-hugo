@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα γάλα με κακάο Chocomoo 485ml"
-weight: 4
 categories: ["Μαράτα"]
+weight: 15
 product_image: "/assets/images/marata-gala-me-kakao-chocomoo-485ml.jpg"
 product_image_lowres: "/assets/low/marata-gala-me-kakao-chocomoo-485ml.jpg"
 barcode: "5202576464254"

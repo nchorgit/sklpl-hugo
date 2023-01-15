@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Πυρηνέλαιο 2L"
-weight: 8
 categories: ["Μαράτα"]
+weight: 50
 product_image: "/assets/images/marata-pyrhnelaio-2l.jpg"
 product_image_lowres: "/assets/low/marata-pyrhnelaio-2l.jpg"
 barcode: "5202576097667"

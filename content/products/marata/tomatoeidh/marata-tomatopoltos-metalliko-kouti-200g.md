@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Τοματοπολτός (μεταλλικό κουτί) 200g"
-weight: 20
 categories: ["Μαράτα"]
+weight: 115
 product_image: "/assets/images/marata-tomatopoltos-metalliko-kouti-200g.jpg"
 product_image_lowres: "/assets/low/marata-tomatopoltos-metalliko-kouti-200g.jpg"
 barcode: "5202576680883"

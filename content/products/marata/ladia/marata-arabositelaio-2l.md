@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Αραβοσιτέλαιο 2L"
-weight: 8
 categories: ["Μαράτα"]
+weight: 50
 product_image: "/assets/images/marata-arabositelaio-2l.jpg"
 product_image_lowres: "/assets/low/marata-arabositelaio-2l.jpg"
 barcode: "5202576303133"

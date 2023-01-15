@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Μαγιονέζα light 480g"
-weight: 16
 categories: ["Μαράτα"]
+weight: 95
 product_image: "/assets/images/marata-magioneza-light-480g.jpg"
 product_image_lowres: "/assets/low/marata-magioneza-light-480g.jpg"
 barcode: "5202576630406"

@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Παξιμαδάκια Kυθήρων με εξαιρετικό παρθένο ελαιόλαδο 400g"
-weight: 3
 categories: ["Μαράτα"]
+weight: 10
 product_image: "/assets/images/marata-paksimadakia-kythhrwn-me-eksairetiko-partheno-elaiolado-400g.jpg"
 product_image_lowres: "/assets/low/marata-paksimadakia-kythhrwn-me-eksairetiko-partheno-elaiolado-400g.jpg"
 barcode: "5202576633896"

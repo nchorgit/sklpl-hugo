@@ -1,6 +1,7 @@
 ---
 title: "Μαράτα Φαρίνα 500g"
 categories: ["Μαράτα"]
+weight: 1
 product_image: "/assets/images/marata-farina-500g.jpg"
 product_image_lowres: "/assets/low/marata-farina-500g.jpg"
 barcode: "5202576300996"
@@ -9,7 +10,6 @@ bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Αλεύρι"]
-weight: 1
 ---
 {{< rawhtml >}}
 

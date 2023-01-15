@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Παξιμάδι Κρητικό  Π.Γ.Ε. Κριθαρένιο 600g"
-weight: 3
 categories: ["Μαράτα"]
+weight: 10
 product_image: "/assets/images/marata-krhtiko-paksimadi-p.g.e.-kritharenio-600g.jpg"
 product_image_lowres: "/assets/low/marata-krhtiko-paksimadi-p.g.e.-kritharenio-600g.jpg"
 barcode: "5202576633919"

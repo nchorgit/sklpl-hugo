@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Ταχίνι με κακάο 350g"
-weight: 19
 categories: ["Μαράτα"]
+weight: 110
 product_image: "/assets/images/marata-taxini-me-kakao-350g.jpg"
 product_image_lowres: "/assets/low/marata-taxini-me-kakao-350g.jpg"
 barcode: "5202576602380"

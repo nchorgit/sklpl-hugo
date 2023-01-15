@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Παξιμαδάκια με κριθάρι ολικής άλεσης χωρίς πρόσθετο αλάτι 400g"
-weight: 3
 categories: ["Μαράτα"]
+weight: 10
 product_image: "/assets/images/marata-paksimadakia-me-krithari-olikhs-aleshs-xwris-prostheto-alati-400g.jpg"
 product_image_lowres: "/assets/low/marata-paksimadakia-me-krithari-olikhs-aleshs-xwris-prostheto-alati-400g.jpg"
 barcode: "5202576633933"

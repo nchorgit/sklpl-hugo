@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Γιαούρτι αγελάδος 3,9% 200g"
-weight: 6
 categories: ["Μαράτα"]
+weight: 20
 product_image: "/assets/images/marata-giaourti-agelados-3.9-200g.jpg"
 product_image_lowres: "/assets/low/marata-giaourti-agelados-3.9-200g.jpg"
 barcode: "5202576043602"

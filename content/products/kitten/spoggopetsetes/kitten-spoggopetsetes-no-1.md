@@ -6,7 +6,7 @@ weight: 7
 product_image: "/assets/images/kitten-spoggopetsetes-no-1.jpg"
 product_image_lowres: "/assets/low/kitten-spoggopetsetes-no-1.jpg"
 barcode: "5202576680708"
-varos: "17.1 X 20 cm"
+varos: "17.5 X 20 cm"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/dcm.svg"
 gencat: ["Μη Τρόφιμα"]
@@ -44,7 +44,7 @@ tags: ["Σπογγοπετσέτες"]
             <div id="barimage1"></div><span id="bartext">5202576680708</span>
         </div>
         <div id="varos">
-            <div id="varosimage" style="margin:0"><img src="/media/svg/dcm.svg"></div><span id="varostext">17.1 X 20
+            <div id="varosimage" style="margin:0"><img src="/media/svg/dcm.svg"></div><span id="varostext">17.5 X 20
                 cm</span>
         </div>
         <div id="kivotio">ΠΕΡΙΕΧΟΜΕΝΟ ΚΙΒΩΤΙΟΥ:<br>Αναμένεται</div>

@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Σπαγγετίνη Νο10 500g"
-weight: 4.5
 categories: ["Μαράτα"]
+weight: 30
 product_image: "/assets/images/marata-spaggetinh-no10-500g.jpg"
 product_image_lowres: "/assets/low/marata-spaggetinh-no10-500g.jpg"
 barcode: "5202576282117"

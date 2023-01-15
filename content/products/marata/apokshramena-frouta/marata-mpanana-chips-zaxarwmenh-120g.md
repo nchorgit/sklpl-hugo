@@ -1,8 +1,8 @@
 ---
 title: "Μαράτα Μπανάνα Chips ζαχαρωμένη 120g"
 
-weight: 2
 categories: ["Μαράτα"]
+weight: 5
 product_image: "/assets/images/marata-mpanana-chips-zaxarwmenh-120g.jpg"
 product_image_lowres: "/assets/low/marata-mpanana-chips-zaxarwmenh-120g.jpg"
 barcode: "5202576101876"

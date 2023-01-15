@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Regato σκληρό τυρί 270g"
-weight: 22
 categories: ["Μαράτα"]
+weight: 125
 product_image: "/assets/images/marata-regato-sklhro-tyri-270g.jpg"
 product_image_lowres: "/assets/low/marata-regato-sklhro-tyri-270g.jpg"
 barcode: "ΜΗ ΔΙΑΘΕΣΙΜΟ"

@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Πυραυλάκι βανίλια & σοκολάτα 400g"
-weight: 13
 categories: ["Μαράτα"]
+weight: 80
 product_image: "/assets/images/marata-pyraulaki-banilia-sokolata-400g.jpg"
 product_image_lowres: "/assets/low/marata-pyraulaki-banilia-sokolata-400g.jpg"
 barcode: "5202576066052"

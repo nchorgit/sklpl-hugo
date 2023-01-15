@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Χυμός λεμόνι 1000ml"
-weight: 23
 categories: ["Μαράτα"]
+weight: 130
 product_image: "/assets/images/marata-xymos-lemoni-1000ml.jpg"
 product_image_lowres: "/assets/low/marata-xymos-lemoni-1000ml.jpg"
 barcode: "5202576112988"

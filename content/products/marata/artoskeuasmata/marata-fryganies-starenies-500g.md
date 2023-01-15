@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Φρυγανιές σταρένιες 500g"
-weight: 3
 categories: ["Μαράτα"]
+weight: 10
 product_image: "/assets/images/marata-fryganies-starenies-500g.jpg"
 product_image_lowres: "/assets/low/marata-fryganies-starenies-500g.jpg"
 barcode: "5202576203594"

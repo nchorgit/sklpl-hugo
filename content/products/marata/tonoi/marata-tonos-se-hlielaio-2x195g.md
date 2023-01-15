@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Τόνος σε ηλιέλαιο 2X195g"
-weight: 21
 categories: ["Μαράτα"]
+weight: 120
 product_image: "/assets/images/marata-tonos-se-hlielaio-2x195g.jpg"
 product_image_lowres: "/assets/low/marata-tonos-se-hlielaio-2x195g.jpg"
 barcode: "5202576481152"

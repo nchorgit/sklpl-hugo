@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Κριθαράκι Μέτριο Ολικής Άλεσης 500g"
-weight: 4.5
 categories: ["Μαράτα"]
+weight: 30
 product_image: "/assets/images/marata-kritharaki-metrio-olikhs-aleshs-500g.jpg"
 product_image_lowres: "/assets/low/marata-kritharaki-metrio-olikhs-aleshs-500g.jpg"
 barcode: "5208046088289"

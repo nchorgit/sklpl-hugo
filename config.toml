@@ -1,7 +1,7 @@
 baseURL ="https://sklavenitis-pl.onrender.com"
 languageCode = "el"
 title = "Τα Προϊόντα Ιδιωτικής Ετικέτας"
-paginate = "12"
+paginate = "16"
 paginatePath = ""
 removePathAccents = false
 assetDir = "static"

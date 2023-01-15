@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Ψωμάκια σταρένια για σάντουιτς 400g"
-weight: 3
 categories: ["Μαράτα"]
+weight: 10
 product_image: "/assets/images/marata-pswmakia-starenia-gia-santouits-400g.jpg"
 product_image_lowres: "/assets/low/marata-pswmakia-starenia-gia-santouits-400g.jpg"
 barcode: "5202576100619"

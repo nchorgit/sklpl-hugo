@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Ketchup 560g"
-weight: 16
 categories: ["Μαράτα"]
+weight: 95
 product_image: "/assets/images/marata-ketchup-560g.jpg"
 product_image_lowres: "/assets/low/marata-ketchup-560g.jpg"
 barcode: "5202576630482"

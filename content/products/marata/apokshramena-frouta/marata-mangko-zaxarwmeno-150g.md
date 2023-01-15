@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Μάνγκο ζαχαρωμένο 150g"
-weight: 2
 categories: ["Μαράτα"]
+weight: 5
 product_image: "/assets/images/marata-mangko-zaxarwmeno-150g.jpg"
 product_image_lowres: "/assets/low/marata-mangko-zaxarwmeno-150g.jpg"
 barcode: "5202576101920"

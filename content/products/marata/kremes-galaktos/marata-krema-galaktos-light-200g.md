@@ -1,7 +1,8 @@
 ---
 title: "Μαράτα Κρέμα Γάλακτος light 200g"
-weight: 6
 categories: ["Μαράτα"]
+weight: 40
+
 product_image: "/assets/images/marata-krema-galaktos-light-200g.jpg"
 product_image_lowres: "/assets/low/marata-krema-galaktos-light-200g.jpg"
 barcode: "5202576079601"

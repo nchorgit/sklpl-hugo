@@ -1,7 +1,7 @@
 ---
 title: "Μαράτα Χυμός ροδάκινο 1000ml"
-weight: 23
 categories: ["Μαράτα"]
+weight: 130
 product_image: "/assets/images/marata-xymos-rodakino-1000ml.jpg"
 product_image_lowres: "/assets/low/marata-xymos-rodakino-1000ml.jpg"
 barcode: "5202576043817"
