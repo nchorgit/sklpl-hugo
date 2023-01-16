@@ -26,7 +26,9 @@ body {
     zoom: 130%;
 }
 }
-
+.clear {
+    clear: both;
+}
 /*baker master*/
 .sbaker {
     background: #f3f1e6;
