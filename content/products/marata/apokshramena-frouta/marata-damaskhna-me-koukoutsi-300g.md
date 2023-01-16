@@ -11,7 +11,7 @@ bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Αποξηραμένα φρούτα"]
-draft: true
+draft: 
 ---
 {{< rawhtml >}}
 
