@@ -26,7 +26,7 @@ assetDir = "static"
   resampleFilter = 'Box'
 
 [related]
-  includeNewer = true
+  includeNewer = false
   threshold = 85
   toLower = false
 
@@ -36,12 +36,4 @@ assetDir = "static"
 
    [[related.indices]]
   name = "tags"
-  weight = 40
-
-  [[related.indices]]
-  name = "keywords"
-  weight = 40
-
-  [[related.indices]]
-  name = "date"
-  weight = 10
+  weight = 50
