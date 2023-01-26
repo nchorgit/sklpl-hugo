@@ -10,6 +10,7 @@ bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Καφέδες"]
+promo: ["Κάψουλες Espresso"]
 smeta: ["
 Bonora Καψουλες χωρις καφεινη 53g
 Bonora kapsoules xwris kafeinh 53g

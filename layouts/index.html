@@ -6,6 +6,7 @@
 <body>{{partial "header" .}}
   <!--div class="hero-img"> <p>Νέα Προϊόντα</p><img src="/media/svg/bakermaster.svg" alt=""> </div-->
   <p class="ftitle">Τα Προϊόντα <span style="color: #ff5722;"><strong>Ιδιωτικής Ετικέτας</strong></span></p>
+  <div class="prom">{{partial "promo" .}}</div>
   <div class="wrapper">
     <div class="ilabels">
       <div class="ilab"><a href="/categories/σκλαβενίτης"><img src="/media/icons/sklavenitis.png" alt="">
@@ -83,7 +84,16 @@
     body {
       background: #eee;
     }
-
+    .prom {
+    margin: 110px auto -10px auto;
+    max-width: 1400px;
+    padding: 0 15px;
+    border-radius: 8px;
+}
+.prom img {
+  width: 100%;
+  border-radius: 6px;
+}
     p.ftitle {
       margin: 70px auto;
       text-align: center;
@@ -91,6 +101,7 @@
       font-size: 40px;
       letter-spacing: -.7px;
       padding: 30px 15px;
+      display: none;
     }
 
     .ilabels {
@@ -99,7 +110,7 @@
       transition: all .3s;
       display: flex;
       flex-wrap: wrap;
-      justify-content: space-around;
+      justify-content: space-between;
     }
 
     .ilab:hover {
@@ -157,7 +168,12 @@
         margin: 0px;
       }
     }
+    @media only screen and (max-width: 925px) {
+.wrapper {
+    margin: 30px auto;
+}
 
+    }
     @media only screen and (max-width:643px) {
       .ilab {
         width: 48%;

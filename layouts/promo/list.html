@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="el">
+
+<head>
+    {{ partial "head" . }}
+    <style>
+        .cattitle i {
+            color: #ffa500;
+            margin-right: 5px;
+            font-size: 20px;
+        }
+        .cattitle strong {text-transform: capitalize;}
+        p.pnum {
+            height: 44px;
+            padding: 0 18px;
+            margin: 0;
+            text-align: center;
+            line-height: 44px;
+            background: #eee;
+            border-radius: 4px;
+            font-size: 17px;
+        }
+       
+        .product-list {
+            display: grid;
+            width: auto;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-gap: 24px 18px;
+            margin: -85px auto -25px auto;
+            max-width: 1400px;
+            padding: 15px;
+        }
+
+        .barvar {
+            display: grid;
+        }
+
+        .bar,
+        .var {
+            font-size: 20px;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            border-bottom: 2px solid #eee;
+        }
+
+        .bar-img {
+            height: 22px;
+            width: 19px;
+        }
+
+        .var-img {
+            height: 22px;
+            width: 19px;
+        }
+
+        .bar p,
+        .var p {
+            margin: 0;
+        }
+
+
+        .post {
+            border: 2px solid #eee;
+            border-radius: 6px 6px 0 0;
+        }
+
+        .post a {
+            text-decoration: none;
+            color: inherit;
+            transition: all .3s;
+        }
+
+        .post a:hover {
+           opacity: 0.7;
+            transition: all .3s;
+        }
+
+        .product {
+            border: 0;
+            
+        }
+
+        
+
+        
+
+        .fimg img {
+            width: 100%;
+            border: 0;
+            outline: 0;
+            
+            margin: auto;
+            display: flex;
+            cursor: pointer;
+            padding: 20px 0 0;
+        }
+
+        .plabels {
+            background: #ff5500;
+            padding: 15px 0;
+            display: flex;
+            text-align: center;
+            justify-content: center;
+            border-radius: 0 0 4px 4px;
+            margin: -2px 0px -7px 0px;
+        }
+
+        .plabels a {
+            padding: 7px 8px;
+            background: #e64d00;
+            text-decoration: none;
+            color: #fff;
+            font-size: 15px;
+            font-weight: 500;
+            border-radius: 2px;
+            margin: 0px;
+            
+            text-transform: capitalize;
+        }
+        .plabels a:hover {
+            background: #da3909;
+        }
+        .plabels a:nth-child(1) {
+            margin-right: 5px;
+        }
+        a.stag:nth-of-type(3) {
+    display: none;
+}
+        .plabels i {
+            margin-right: 5px;
+        }
+
+        a.scat {
+            margin-right: 5px;
+        }
+
+        .main:hover {
+            opacity: .8;
+            transition: all .3s;
+        }
+
+        .main {
+            transition: all .3s;
+            display: block;
+        }
+
+        footer br {
+            display: block;
+        }
+        .ltitle {
+            display: flex;
+            padding: 20px;
+            text-decoration: none;
+            color: #444;
+            font-weight: bold;
+            font-size: 20px;
+            height: 55px;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+            letter-spacing: -.3px;
+            margin: -2px -2px 0 -2px;
+            background: #eee;
+            border-radius: 4px 4px 0 0;
+            text-transform: capitalize;
+        }
+        @media only screen and (max-width:665px) {
+            .ltitle {
+                font-size: 21px;
+                height: auto;
+            }
+
+            .spages1 {
+                display: none;
+            }
+
+            .product-list {
+                margin-top: 75px;
+            }
+
+            .spages2 {
+                margin: 10px auto;
+                display: grid;
+                height: auto;
+                align-items: center;
+                justify-content: center;
+                padding: 0;
+                gap: 0;
+                margin-bottom: 50px;
+            }
+
+            .page-link {
+                position: relative;
+                display: block;
+                padding: 0;
+                margin-left: -1px;
+                line-height: 1.25;
+                color: #333;
+                background-color: #fff;
+                border: 1px solid #dee2e6;
+                width: auto;
+                height: auto;
+                text-align: center;
+                line-height: initial;
+                text-decoration: none;
+                margin-right: 5px;
+                border: 2px solid #eee;
+                border-radius: 4px;
+                font-weight: normal;
+                padding: 5px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    {{ partial "header" . }}
+    <div class="cattitle"><b>{{ len (where .Pages "Section" "!=" "") }}</b> Προϊόντα στην κατηγορία:<br>
+        <strong><i class="far fa-clone" aria-hidden="true"></i> {{ .Title }}</strong></div>
+    {{.Content}}
+    {{ partial "pagination2" . }}
+    <div class="product-list">
+        {{ range .Paginator.Pages.ByWeight }}
+        <div class="product">
+            <div class="post"><a href="{{.Permalink}}">
+                    <div class="ltitle">{{.Title}}</div>
+                    <div class="barvar">
+                        <div class="bar">
+                            <div class="bar-img">
+                                {{if isset .Params "bar_img" }}<img src="{{ index .Params "bar_img" }}">
+                            </div>{{ end }}
+                            <p>{{ .Params.barcode }}</p>
+                        </div>
+                        <div class="var">
+                            <div class="var-img">
+                                {{if isset .Params "bar_img" }}<img src="{{ index .Params "var_img" }}">
+                            </div>{{ end }}
+                            <p>{{ .Params.varos }}</p>
+                        </div>
+                    </div>
+                    <div class="fimg">{{if isset .Params "product_image" }}<img
+                            src="{{ index .Params "product_image" }}"></div>
+                    {{ end }}
+                </a></div>
+           
+            <div class="plabels">
+                {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
+                    href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
+                        aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+                {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
+                    href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
+                        aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
+        </div>
+        {{ end }}
+    </div>
+    {{ partial "pagination" . }}
+    <script>
+        $(".alltext").remove();
+        /*   $( document ).ready(function() {
+        $(".alltext").remove();
+});*/
+    </script>
+
+    {{ partial "footer" . }}
+</body>
+
+</html>
