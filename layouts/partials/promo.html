@@ -1,7 +1,7 @@
-
+<!--
 <a href="/tags/σκεύη-αλουμινίου/">
 <picture>
-    <source media="(min-width: 641px)" width="100%" height="auto" style="border-radius: 6px;" srcset="/media/promo/frogo.jpg">
+    <source media="(min-width: 641px)" width="100%" height="auto" style="border-radius: 6px;" srcset="/media/promo/frogo-01.jpg">
     <source media="(min-width: 640px)" width="100%" height="auto"  srcset="/media/promo/frogo-m.jpg">
     <img src="/media/promo/frogo-m.jpg" alt="promo">
   </picture>
@@ -13,5 +13,84 @@
     picture:hover {
         opacity: .8;
         transition: all .3s;
+    }
+</style>
+-->
+<div class="promo-big">
+    <div class="pbg"><img src="/media/promo/frogo.jpg" alt="promo"></div>
+    <div class="plogo"> <img src="/media/promo/logo/frogo.svg" alt="promo"></div>
+    <p>Σκεύη αλουμινίου<br>
+        σε 5 μεγέθη</p>
+    <a href="/tags/σκεύη-αλουμινίου/">
+        <div class="pbutton">
+            <span>Περισσότερα</span>
+            <div class="pbutpress"><i class="fas fa-chevron-right" style="margin-left:1px" aria-hidden="true"></i></div>
+        </div>
+    </a>
+</div>
+
+<style>
+    .promo-big {
+        position: relative;
+    }
+
+    .pbg img {
+        border-radius: 6px;
+        width: 100%;
+    }
+
+    .plogo img {
+        position: absolute;
+        width: 220px;
+        top: 20px;
+        left: 60px;
+    }
+
+    .promo-big p {
+        position: absolute;
+        left: 60px;
+        top: 80px;
+        font-size: 30px;
+        font-weight: 600;
+        color: #555;
+        letter-spacing: -.8px;
+    }
+
+    .pbutton {
+        position: absolute;
+        display: flex;
+        top: auto;
+        bottom: 27px;
+        left: 60px;
+        background: #f26522;
+        padding: 10px 20px;
+        border-radius: 6px;
+        color: #fff;
+        gap: 10px;
+        transition: all .3s;
+    }
+
+    .pbutton:hover {
+        background: green;
+        transition: all .3s;
+    }
+
+    .pbutton:hover>.pbutpress i {
+        color: green;
+    }
+
+    .pbutpress {
+        background: #fff;
+        padding: 5px 8px;
+        border-radius: 50%;
+        color: #f26522;
+        text-align: center;
+        display: flex;
+        align-items: center;
+    }
+
+    .pbutton span {
+        position: relative;
+        top: 2px;
     }
 </style>
