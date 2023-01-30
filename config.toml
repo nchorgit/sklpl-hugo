@@ -9,6 +9,7 @@ assetDir = "static"
 [taxonomies]
   tag = "tags"
   category = "categories"
+  orofos = "orofos"
   promo = "promo"
   gencat= "gencat"
   publication_type = "publication_types"
