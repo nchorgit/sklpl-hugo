@@ -254,6 +254,11 @@
             }
         </style>
         <style>
+            .cattitle i {
+    color: #ffa500;
+    margin-right: 5px;
+    font-size: 20px;
+}
             .simages {
         display: grid;
         grid-template-columns: repeat( auto-fit, minmax(313px, 1fr) );
@@ -1277,13 +1282,17 @@
                     {{ end }}
     
                 </div>
-                <div class="plabels" style="display: ;">
+                <!--div class="plabels" style="display: ;">
                     {{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a
                         href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
                             aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
                     {{ if .Params.orofos }}<strong></strong> {{range .Params.orofos}}<a
                         href="/products/victoria/victoria-paplomatothikes/"><i class="far fa-clone"
-                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
+                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div-->
+
+                            <div class="plabels">
+                             <a href="/{{ .Section }}"><i class="fas fa-tag" aria-hidden="true"></i>{{ .Section }}</a> 
+                               <a href="{{.Permalink}}"><i class="far fa-clone" aria-hidden="true"></i>{{ .Params.mytag }}</a> </div>
             </div>
     
             <div class="pimg2bg">

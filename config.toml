@@ -38,3 +38,5 @@ assetDir = "static"
    [[related.indices]]
   name = "tags"
   weight = 50
+
+  

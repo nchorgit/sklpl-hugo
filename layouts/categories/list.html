@@ -245,7 +245,7 @@
            
             <div class="plabels">
                 {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
-                    href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
+                    href="{{ "/categories/" | absURL }}{{ . | urlize }}"><i class="fas fa-tag"
                         aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
                 {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
                     href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
