@@ -22,7 +22,7 @@
         <div class="nores">
             <!--p style="margin-right: 10px;">Βρέθηκαν </p-->
             <div class="res1">
-                <p class="numpres"> </p> <span>Προϊόντα στην αναζήτηση:</span>
+                <p class="numpres"> </p> <span>Αποτελέσματα στην αναζήτηση:</span>
             </div>
             <div class="res2">
                 <div class="skeyout"><span><i class="fas fa-search"></i></span> <span class="skey"></span></div>
@@ -67,9 +67,21 @@
                         {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
                             href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
                                 aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+                                {{ if .Params.orofos }}<strong></strong> {{ range sort .Params.orofos }}<a class="scat"
+                            href="{{ "/orofos/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
+                                aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
                         {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
                             href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
-                                aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
+                                aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+                                {{ if .Params.mycat }}
+                                <a class="scat" href="{{.Permalink}}"><i class="fas fa-tag"
+                                    aria-hidden="true"></i>{{ .Params.mycat }}</a>{{end}}
+                                    {{ if .Params.mytag }}
+                          <a class="stag"
+                                href="{{.Permalink}}"><i class="far fa-clone"
+                                    aria-hidden="true"></i>{{ .Params.mytag }}</a>{{end}}
+                            </div>
+                                
                 </li>
                 {{ end }}
         </div>

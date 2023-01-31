@@ -125,7 +125,7 @@
         .plabels a:nth-child(1) {
             margin-right: 5px;
         }
-        .plabels a:nth-child(3) {display: none;}
+        
         .plabels i {
             margin-right: 5px;
         }
@@ -215,7 +215,7 @@
 
 <body>
     {{ partial "header" . }}
-    <div class="cattitle"><b>{{ len (where .Pages "Section" "!=" "") }}</b> Προϊόντα στην ετικέτα: <strong><i
+    <div class="cattitle"><b>{{ len (where .Pages "Section" "!=" "") }}</b> Κατηγορίες στην ετικέτα: <strong><i
                 class="fas fa-tag" aria-hidden="true"></i> {{ .Title }}</strong></div>
     {{.Content}}
     {{ partial "pagination2" . }}
@@ -247,9 +247,20 @@
                     {{ if .Params.categories }}<strong></strong> {{ range sort .Params.categories }}<a class="scat"
                         href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
                             aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+                            {{ if .Params.orofos }}<strong></strong> {{ range sort .Params.orofos }}<a class="scat"
+                        href="{{ "/orofos/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
+                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
                     {{ if .Params.tags }}<strong></strong> {{ range sort .Params.tags }}<a class="stag"
                         href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"><i class="far fa-clone"
-                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div>
+                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+                            {{ if .Params.mycat }}
+                            <a class="scat" href="{{.Permalink}}"><i class="fas fa-tag"
+                                aria-hidden="true"></i>{{ .Params.mycat }}</a>{{end}}
+                                {{ if .Params.mytag }}
+                      <a class="stag"
+                            href="{{.Permalink}}"><i class="far fa-clone"
+                                aria-hidden="true"></i>{{ .Params.mytag }}</a>{{end}}
+                        </div>
         </div>
         {{ end }}
     </div>

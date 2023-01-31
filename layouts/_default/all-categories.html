@@ -21,8 +21,19 @@
                 {{range $name, $taxonomy := .Site.Taxonomies.categories}} {{ $cnt := .Count }}
                 {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
                 <div class="tagbutton"><i class="fas fa-tag" aria-hidden="true"></i>
-                    <a href={{ .RelPermalink }} title="Όλα τα Προϊόντα στην Ετικέτα <i>{{$name}}</i>">{{$name}}</a>
+                    <a href={{ .RelPermalink }} title="Όλα τα Προϊόντα στην Ετικέτα {{$name}}">{{$name}}</a>
                     <sup>{{$cnt}}</sup>
+                </div>
+                {{end}}
+                {{end}}
+            </div>
+            <p>Ετικέτες Ορόφου με συνοπτική παρουσίαση</p>
+            <div class="tags">
+                {{range $name, $taxonomy := .Site.Taxonomies.orofos}} {{ $cnt := .Count }}
+                {{ with $.Site.GetPage (printf "/orofos/%s" $name) }}
+                <div class="tagbutton"><i class="fas fa-tag" aria-hidden="true"></i>
+                    <a href={{ .RelPermalink }} title="Όλα οι Κατηγορίες στην Ετικέτα {{$name}}">{{$name}}</a>
+                    <sup style="width: 130px; background: green;">{{$cnt}} Κατηγορίες</sup>
                 </div>
                 {{end}}
                 {{end}}

@@ -207,7 +207,7 @@
             .zedemlist {
                 display: grid;
                 width: 100%;
-                grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+                grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
                 grid-gap: 20px;
     
             }
@@ -1282,16 +1282,13 @@
                     {{ end }}
     
                 </div>
-                <!--div class="plabels" style="display: ;">
-                    {{ if .Params.categories }}<strong></strong> {{range .Params.categories}}<a
-                        href="{{ "/categories/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
-                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
-                    {{ if .Params.orofos }}<strong></strong> {{range .Params.orofos}}<a
-                        href="/products/victoria/victoria-paplomatothikes/"><i class="far fa-clone"
-                            aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}</div-->
+               <div class="keno"></div>
 
                             <div class="plabels">
-                             <a href="/{{ .Section }}"><i class="fas fa-tag" aria-hidden="true"></i>{{ .Section }}</a> 
+                                {{ if .Params.orofos }}<strong></strong> {{ range sort .Params.orofos }}<a 
+                                href="{{ "/orofos/" | relLangURL }}{{ . | urlize }}"><i class="fas fa-tag"
+                                    aria-hidden="true"></i>{{ . }}</a> {{end}}{{end}}
+                             <!--<a href="/{{ .Section }}"><i class="fas fa-tag" aria-hidden="true"></i>{{ .Section }}</a>--> 
                                <a href="{{.Permalink}}"><i class="far fa-clone" aria-hidden="true"></i>{{ .Params.mytag }}</a> </div>
             </div>
     
