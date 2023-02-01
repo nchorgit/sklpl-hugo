@@ -1176,6 +1176,55 @@
                 }
     
             }
+            .filter-search {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    width: -webkit-fill-available;
+    border-radius: 4px;
+    position: relative;
+    
+    padding:5px;
+    background: #eee;
+    margin-bottom: 15px;
+}
+.filter {
+    padding: 0px 15px;
+    
+    height: 45px;
+    line-height: 40px;
+    border-radius: 4px 0 0 4px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+}
+.fak i {
+    color: #757575;
+    border-right: 2px solid #ddd;
+    padding: 0 8px;
+}
+.fak {
+    position: absolute;
+    left: 126px;
+}
+
+.filter i {
+    margin-right: 5px;
+}
+input#filter {
+    border: 2px solid #eee;
+    padding: 9px 15px 9px 53px;
+    border-radius: 4px;
+    font-family: inherit;
+    outline: none;
+    font-size: inherit;
+    width: 100%;
+    background: #fff;
+}
+.ormeta, .grmeta {
+    display: none;
+}
+
         </style>
     </head>
     
@@ -1278,7 +1327,13 @@
             <div>{{ partial "date.html" (dict "date" . "language" $.Page.Language "mines" $.Site.Data.mines) }}</div>
             <div style="color:grey; font-size:16px;">{{if .Params.author}}Author: {{.Params.Author}}{{end}}</div-->
                 <div class="post">
-                    <input id="filter" type="text">
+                    <div class="filter-search">
+                        <div class="filter"><i class="fas fa-filter" aria-hidden="true"></i> <span>Φίλτρο</span></div>
+                        <div class="fak" aria-hidden="true"><i class="fas fa-search" aria-hidden="true"></i></div>
+                        <input id="filter" type="text" name="keyword" onfocus="this.value=''" value="Αναζήτηση">
+                        <div class="res" style="display:none;">0</div>
+                    </div>
+                    
                     {{.Content}}
             
                     <div class="pimg">{{if isset .Params "product_image" }}<img alt="{{.Title}}" title="{{.Title}}"
@@ -1331,6 +1386,7 @@
     
     
         });*/
+        $(".viper").clone().append(".grmeta");
         $(".pimg2").click(function () {
             $(".pimg2bg").fadeOut();
             $('.pimg2').animate({
@@ -1357,28 +1413,46 @@
         $(".pimg3").clone().appendTo(".pimg2");
         $('.cattitle b').html($('.zin').length);
         $("#filter").keyup(function() {
-
-// Retrieve the input field text and reset the count to zero
 var filter = $(this).val(),
   count = 0;
-
-// Loop through the comment list
+ 
 $('.zedemlist .zin').each(function() {
 
-
-  // If the list item does not contain the text phrase fade it out
   if ($(this).text().search(new RegExp(filter, "i")) < 0) {
-    $(this).hide();  // MY CHANGE
-
-    // Show the list item if the phrase matches and increase the count by 1
+    $(this).hide();
+    
   } else {
     $(this).show(); // MY CHANGE
     count++;
+   
   }
 
 });
 
 });
+
+$(".grmeta").each(function () {
+            var text = $(this).text();
+            $(this).text(
+                $(this)
+                .text()
+                .replace(/ά/g, "α")
+                .replace(/έ/g, "ε")
+                .replace(/ή/g, "η")
+                .replace(/ί/g, "ι")
+                .replace(/ό/g, "ο")
+                .replace(/ύ/g, "υ")
+                .replace(/ώ/g, "ω")
+                .replace(/-/g, " ")
+                /*.replace(/[^\w\s]/gi, " ")*/
+            );
+        });
+
+        $('input:text').click(
+            function () {
+                $(this).val('');
+                $(".zin").show();
+            });    
     </script>
     
     </html>
