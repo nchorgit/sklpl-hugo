@@ -10,6 +10,7 @@ bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
 tags: ["Μπισκότα"]
+draft: true
 smeta: ["
 bonora Μπισκοτα Digestive
 bonora mpiskota Digestive
