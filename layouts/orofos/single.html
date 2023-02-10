@@ -263,6 +263,9 @@
         }
     </style>
     <style>
+        div.zedemlist {
+    margin-top: -20px;
+}
         .list-info {
             line-height: 40px !important;
             padding: 0 30px;
@@ -283,7 +286,7 @@
             align-items: center;
             justify-content: space-between;
             grid-auto-flow: column;
-            margin-bottom: 0px;
+            margin: -35px 0 -15px 0 ;
         }
 .disabled {
     display: none;
@@ -1422,11 +1425,11 @@ li.page-item.active {
                 <ul class="zedemlist" data-role="list" data-pagination-wrapper="PAGES" data-sort-class="div"
                     data-sort-dir="desc" data-show-pagination="true" data-pagination-prev-title="<span>‹</span>"
                     data-pagination-next-title="›" data-items="24" data-items-steps="12, 24, 48"
-                    data-show-items-steps="false" data-show-list-info="false"
+                    data-show-items-steps="false" data-show-list-info="true"
                     data-list-info-title="Προβολή <b>$2</b> από <b>$3</b> Προϊόντα">
                     {{.Content}}
                 </ul>
-                <div class="pages">ΣΕΛΙΔΑ <b class="bo1">1</b> ΑΠΟ <b class="b2">5</b></div>
+               
                 <div class="pimg">{{if isset .Params "product_image" }}<img alt="{{.Title}}" title="{{.Title}}"
                         src="{{ index .Params "product_image" }}"></div>
                 {{ end }}
@@ -1552,15 +1555,11 @@ $( ".list-info" ).insertAfter($( ".list-pagination" ));
         });
         $(document).ready(function(){
   $(".list-pagination").on( "click", function() {
-   
-    $('html, body').animate({
-          scrollTop: 0
-        }, 0);
+$('html, body').animate({scrollTop: 0}, 0);
 });
 }); 
 
-/*$(".active .page-link").clone().html(".bo1");*/
-$('.zin').html($('b.bo1').html);
+
 </script>
 
 </html>
