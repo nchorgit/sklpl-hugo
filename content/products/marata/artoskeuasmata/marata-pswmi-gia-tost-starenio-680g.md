@@ -5,7 +5,7 @@ weight: 10
 product_image: "/assets/images/marata-pswmi-gia-tost-starenio-680g.jpg"
 product_image_lowres: "/assets/low/marata-pswmi-gia-tost-starenio-680g.jpg"
 barcode: "5202576303157"
-varos: "250g"
+varos: "680g"
 bar_img: "/media/svg/barcode.svg"
 var_img: "/media/svg/varos.svg"
 gencat: ["Τρόφιμα"]
