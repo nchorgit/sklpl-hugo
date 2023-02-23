@@ -1,0 +1,50 @@
+<html lang="el">
+    <head>{{partial "head" .}}</head>
+
+    <body><div class="container">
+      {{partial "header" .}}
+    <div>
+                <p style="
+                margin: 120px auto 0 auto;
+                text-align: center;
+                font-size: 120px;
+                font-weight: bold;
+                letter-spacing: -5px;
+            ">404 error</p>
+            <p style="
+            margin: 20px auto 100px auto;
+            text-align: center;
+            padding: 15px;
+            /* color: red; */
+            display: table;
+            border-radius: 8px;
+            font-size: 30px;
+            border: 4px solid red;
+        ">Η Σελίδα δεν βρέθηκε</p>
+    </div>
+  </div>
+        {{partial "footer" .}}
+        <style>
+            footer {
+            flex-shrink: 0;
+            width: 100%;
+        }
+
+        html {
+            height: 100%;
+        }
+
+        body {
+            min-height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .container {
+            flex: 1;
+        }
+        </style>
+    </body>
+    
+    </html>
+
