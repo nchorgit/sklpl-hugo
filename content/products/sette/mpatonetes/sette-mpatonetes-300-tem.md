@@ -13,7 +13,7 @@ tags: ["Μπατονέτες"]
 ---
 {{< rawhtml >}}
 
-{{< rawhtml >}}
+
 
 <div class="product">
     <div id="sistatika">Περιγραφή</div>
