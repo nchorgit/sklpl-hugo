@@ -3,45 +3,59 @@
 <head>
     {{ partial "head" . }}
     <style>
+        .top-out {
+            border-bottom: 0px solid #eee;
+            background: #3a3939;
+            margin: 70px auto 0px auto;
+            display: flex;
+            border-top: 2px solid #555;
+        }
+
         .simages {
-    display: grid;
-    grid-template-columns: repeat( auto-fit, minmax(313px, 1fr) );
-    gap: 15px;
-}
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(313px, 1fr));
+            gap: 15px;
+        }
 
-.simagesin, figure {
-    border-radius: 6px;
-    border: 4px solid #eee;
-    margin: 0 auto;
-    display: grid;
+        .simagesin,
+        figure {
+            border-radius: 6px;
+            border: 4px solid #eee;
+            margin: 0 auto;
+            display: grid;
 
-}
+        }
 
-.simagesin img, figure img {
-   width: 100%;
-   height: auto;
-   margin: auto;
-   max-width: 50%;
+        .simagesin img,
+        figure img {
+            width: 100%;
+            height: auto;
+            margin: auto;
+            max-width: 50%;
 
-}
-.simagesin p, figcaption {
-    padding: 10px;
-    text-align: center;
-    font-size: 15px;
-    font-weight: bold;
-}
-.mpdf iframe {
-    border: 0;
-    border-radius: 0 0 4px 4px;
-}
-.mpdf p {
-    border-radius: 4px 4px 0 0 !important;
-    margin-bottom: 0;
-    padding: 10px;
-    text-align: center;
-    background: #eee;
-    font-weight: bold;
-}
+        }
+
+        .simagesin p,
+        figcaption {
+            padding: 10px;
+            text-align: center;
+            font-size: 15px;
+            font-weight: bold;
+        }
+
+        .mpdf iframe {
+            border: 0;
+            border-radius: 0 0 4px 4px;
+        }
+
+        .mpdf p {
+            border-radius: 4px 4px 0 0 !important;
+            margin-bottom: 0;
+            padding: 10px;
+            text-align: center;
+            background: #eee;
+            font-weight: bold;
+        }
 
 
         .pimg:first-child {
@@ -83,7 +97,11 @@
             text-align: center;
             line-height: 63px;
         }
-        .wlist .plabels i {margin-right: 5px;}
+
+        .wlist .plabels i {
+            margin-right: 5px;
+        }
+
         .wlist .plabels {
             margin: 0;
             font-size: 15px;
@@ -100,14 +118,14 @@
         }
 
         .wlist .plabels div {
-    padding: 2px 8px;
-    background: transparent;
-    text-decoration: none;
-    align-items: flex-start;
-    border-radius: 0px;
-    color: #555;
-    border-left: 2px solid #ccc;
-}
+            padding: 2px 8px;
+            background: transparent;
+            text-decoration: none;
+            align-items: flex-start;
+            border-radius: 0px;
+            color: #555;
+            border-left: 2px solid #ccc;
+        }
 
         .wlist .post {
             padding: 10px;
@@ -155,7 +173,7 @@
             border: 0px solid #eee;
             border-top: 0;
         }
-        
+
         .wmain .fimg {
             margin: auto;
             border: 2px solid #eee;
@@ -236,7 +254,7 @@
 
         .pyah {
             display: flex;
-            margin: 75px auto 0;
+            margin: 0px auto 0;
             padding: 15px;
             border-bottom: 0px solid #eee;
             font-size: 17.5px;
@@ -295,12 +313,15 @@
             text-transform: capitalize;
         }
 
-        a:hover.home{
+        a:hover.home {
             background: #444;
         }
-        a:hover.cat, a:hover.tag {
+
+        a:hover.cat,
+        a:hover.tag {
             text-decoration: underline;
-        }  
+        }
+
         .ptitle {
             padding: 0px 10px;
             text-transform: capitalize;
@@ -327,7 +348,9 @@
             /*mix-blend-mode: multiply;*/
         }
 
-        #sistatika, .sis, .lip,
+        #sistatika,
+        .sis,
+        .lip,
         #loipa {
             background: #eee;
             border-bottom: solid 0px #ccc;
@@ -665,7 +688,7 @@
             border-radius: 4px;
             align-items: center;
         }
-        
+
         .plabels a:hover {
             background: #444;
         }
@@ -764,7 +787,7 @@
             display: flex;
             cursor: pointer;
             padding: 0 !important;
-            
+
         }
 
         .pimg2 .pimg img,
@@ -780,10 +803,12 @@
             max-width: 700px;
             height: auto;
         }
-.pimg img title {
-    text-transform: capitalize;
-    color: red;
-}
+
+        .pimg img title {
+            text-transform: capitalize;
+            color: red;
+        }
+
         .imgcaption {
             display: none;
             bottom: 30px;
@@ -795,9 +820,11 @@
             right: 0;
             text-transform: capitalize;
         }
-alt {
-    text-transform: capitalize; 
-}
+
+        alt {
+            text-transform: capitalize;
+        }
+
         .tabout {
             overflow: auto;
             margin: 0 -2px;
@@ -818,9 +845,15 @@ alt {
         .dia2 td:first-child {
             font-weight: bold;
         }
-        
-        .dia2 td:nth-child(n+2) {text-align: right;}
-        .dia2 td:nth-child(n+4) {text-align: center;}
+
+        .dia2 td:nth-child(n+2) {
+            text-align: right;
+        }
+
+        .dia2 td:nth-child(n+4) {
+            text-align: center;
+        }
+
         @media only screen and (max-width: 1103px) {
 
             /*#sistatika, .sis
@@ -897,10 +930,11 @@ alt {
 
         @media only screen and (max-width: 770px) {
             .simagesin img {
-  
-   max-width: 100%;
 
-}
+                max-width: 100%;
+
+            }
+
             .ptitle {
                 display: none;
             }
@@ -916,30 +950,36 @@ alt {
             p.yah {
                 display: none;
             }
+
             .wlist .plabels {
-                
+
                 border: 0;
                 font-size: 15px;
                 text-align: left;
                 flex-direction: column;
                 gap: 2px;
-               
+
             }
 
             .plabels a {
                 padding: 10px;
             }
+
             .wlist .plabels div {
-    
-    border-left: 0px solid #ccc;
-}
-.scat {
-    border-bottom: 1px solid #ccc;
-}         
+
+                border-left: 0px solid #ccc;
+            }
+
+            .scat {
+                border-bottom: 1px solid #ccc;
+            }
         }
-        
+
         @media only screen and (max-width: 570px) {
-            .wlist .plabels {display: none;}
+            .wlist .plabels {
+                display: none;
+            }
+
             #barcode {
                 background: #ddd;
                 display: block;
@@ -1001,7 +1041,7 @@ alt {
                 font-size: 26px;
             }*/
 
-            
+
         }
 
         @media only screen and (max-width: 460px) {
@@ -1019,7 +1059,7 @@ alt {
 <body>
     {{ partial "header" . }}
 
-    <div style="border-bottom: 0px solid #eee; background: #3a3939; margin: -5px auto;">
+    <div class="top-out">
         <div class="pyah">
             <p class="yah"><span style="
             margin-right: 0px;
@@ -1119,7 +1159,6 @@ alt {
     });
     $(".pimg").clone().appendTo(".pimg2");
     $(".pimg3").clone().appendTo(".pimg2");
-
 </script>
 
 </html>
